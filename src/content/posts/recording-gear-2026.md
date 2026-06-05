@@ -1,6 +1,6 @@
 ---
 author: "Shingo Kuromoto"
-pubDatetime: 2026-06-05T10:30:00Z
+pubDatetime: 2025-06-05T10:30:00Z
 title: "レコーディングが終わったので機材の記録をしておく"
 slug: "recording-gear-2026"
 featured: false
