@@ -8,7 +8,7 @@ export default defineAstroPaperConfig({
     author: "Shingo Kuromoto",
     profile: "",
     ogImage: "gochilog-og.jpg",
-    lang: "ja",
+    lang: "en",
     timezone: "Asia/Tokyo",
     dir: "ltr",
   },
