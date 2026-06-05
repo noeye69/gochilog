@@ -14,5 +14,14 @@ const locale = Astro.currentLocale ?? config.site.lang;
     >
       {site.title}
     </a>
+
+    <nav>
+      <a
+        href={getRelativeLocaleUrl(locale, "about")}
+        class="text-sm hover:text-accent"
+      >
+        About
+      </a>
+    </nav>
   </div>
 </header>
