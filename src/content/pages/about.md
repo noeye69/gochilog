@@ -1,37 +1,27 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# ごちログについて
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+ごちログは Shingo Kuromoto が運営する個人ブログです。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+音楽、機材、レコーディング、ブログ運営、Web制作など、その時々で興味を持ったことを書いています。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+もともとは WordPress（THOR）でブログを続けていましたが、2026年から Astro を使った新しいごちログを作り始めました。
 
-## Features
+## 音楽
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+大阪を拠点に活動するパンクロックバンド「エクトラ」でギターを弾いています。
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+ライブ活動やレコーディングで試した機材、制作の記録なども残していく予定です。
 
-and so much more.
+## このブログについて
 
-## Show your support
+自分用の備忘録として書いています。
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+機材レビューもブログ運営の記事も、基本的には実際に使ったものだけを書く方針です。
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+## お問い合わせ
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+X（旧Twitter）や各種SNSからお気軽にどうぞ。
