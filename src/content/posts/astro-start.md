@@ -1,6 +1,6 @@
 ---
 author: "Shingo Kuromoto"
-pubDatetime: 2026-06-05T08:00:00Z
+pubDatetime: 2026-06-05T08:00:00+09:00
 title: "Astroでごちログを作り始めた"
 slug: "astro-start"
 featured: false

@@ -1,6 +1,6 @@
 ---
 author: "Shingo Kuromoto"
-pubDatetime: 2026-06-05T10:00:00Z
+pubDatetime: 2026-06-05T10:00:00+09:00
 title: "VS Codeでブログを書くのは意外と悪くない"
 slug: "astro-writing-is-not-bad"
 featured: false
