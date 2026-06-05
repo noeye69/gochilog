@@ -1,6 +1,6 @@
 ---
 author: "Shingo Kuromoto"
-pubDatetime: 2025-06-05T09:45:00Z
+pubDatetime: 2026-06-05T09:45:00Z
 title: "THORからAstroへ移行しようと思った理由"
 slug: "thor-to-astro"
 featured: false
