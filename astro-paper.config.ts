@@ -7,7 +7,7 @@ export default defineAstroPaperConfig({
     description: "",
     author: "Shingo Kuromoto",
     profile: "",
-    ogImage: "default-og.jpg",
+    ogImage: "gochilog-og.jpg",
     lang: "en",
     timezone: "Asia/Tokyo",
     dir: "ltr",
@@ -19,18 +19,18 @@ export default defineAstroPaperConfig({
     scheduledPostMargin: 15 * 60 * 1000,
   },
 
-  features: {
-    lightAndDarkMode: true,
-    dynamicOgImage: true,
-    showArchives: true,
-    showBackButton: true,
-
+   features: {
+     lightAndDarkMode: true,
+     dynamicOgImage: false,
+     showArchives: true,
+     showBackButton: true,
+    
     editPost: {
-      enabled: false,
-    },
-
-    search: "pagefind",
+    enabled: false,
   },
+
+  search: "pagefind",
+},
 
   socials: [],
 
