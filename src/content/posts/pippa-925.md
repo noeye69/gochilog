@@ -1,0 +1,160 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-06-24T12:00:00+09:00
+title: "京都でレンタサイクルPiPPA(ピッパ)使ってみた"
+slug: "pippa-925"
+featured: false
+draft: false
+tags:
+  - "アプリ"
+  - "生活改善"
+description: "先日京都の西院ネガポジでライブした際 に、ライブ中の汗で使用不能になったTシャツを外に干してたらそのまま忘れて帰ってしまいました。 で、宿泊先であるゆうき3ちから絶妙な距離で、タクシー使うのもったいないし電車乗るのも馬鹿らしいなということで"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/pippa-925.html -->
+
+[先日京都の西院ネガポジでライブした際](https://noeye69.com/2019/06/26/the-light-at-split-second-vol-19/)に、ライブ中の汗で使用不能になったTシャツを外に干してたらそのまま忘れて帰ってしまいました。
+
+で、宿泊先であるゆうき3ちから絶妙な距離で、タクシー使うのもったいないし電車乗るのも馬鹿らしいなということで、
+
+ゆうき3「近くにあるレンタサイクルPiPPA使ってみたら？」
+
+と提案してもらい、レンタサイクルを使ったことのある人生を選んでみてもいいなと思ったので、やってみました。
+
+突発的な出来事だったので写真は全部iPhoneです。
+
+### アプリをダウンロード
+
+まずアプリをダウンロードします。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png)](https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png)
+
+[![Google Play で手に入れよう](https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.obsiot.pippa&hl=ja)
+
+[![AppStoreで入手](https://linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg)](https://apps.apple.com/jp/app/pippa-%E3%83%94%E3%83%83%E3%83%91-%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/id1334610545)
+
+### 情報を登録
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/20190624085342879.png)](https://noeye69.com/wp-content/uploads/2019/06/20190624085342879.png)
+
+で、このように情報を登録します。京都以外にも、東京、宮崎、滋賀で使えるみたいです。宮崎！
+
+### 料金について
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG-9258.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG-9258.png)
+
+短期の借り方としては
+
+- チャージ…108円/30分で借りる短時間コース
+- デイパス…京都だと5時間500円～、長く借りれば長く借りるだけお得コース
+
+があります。
+
+ちなみに1ヶ月以上の長期の借り方だと以下です。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG-9261.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG-9261.png)
+
+年会費1万払えば30分以内だと乗り放題なのすごい。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG-9259.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG-9259.png)
+
+今回は忘れ物を回収するためだけだったので、短時間利用のチャージ方式を選択しました。チャージの最少額が324円なので、1時間半利用できます。
+
+このタイミングでクレカやモバイルSuica等で支払いします。現金じゃないの最高。
+
+### チャリが置いてあるポートに向かおう
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9220.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9220.png)
+
+こんな感じで白線で囲ってあるポートが京都内に100箇所くらい？あるらしいです。
+
+宣伝効果を狙って目立つようにしてるのはわかるけど、サドルなんでオレンジなんだ。しかもなんか色味若干違うし。劣化？
+
+### 開錠しよう
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9244.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9244.png)
+
+リアタイヤのQRコードをアプリで読み取ると、
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/20190624085341a29.png)](https://noeye69.com/wp-content/uploads/2019/06/20190624085341a29.png)
+
+鍵が開きます。チャリから音声ガイダンスが流れます。スピーカ付いてるんだな。
+
+### PiPPAは省メンテンス構造
+
+乗っていて気付きましたが、PiPPAはレンタサイクルのボトルネックであるメンテナンスを極力省く構造になっていることに気付きました。5点ほど列挙します。
+
+①ベルが内蔵式
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9223.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9223.png)
+
+しばらく乗ってるとたまにカウベルを叩いたような「カンカン」という音が鳴ることに気付きました。同行者のゆうき3曰く、「それ、**ハンドル内蔵式**のベルだわ」とのこと。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9224.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9224.png)
+
+このようにハンドルの内側を握ってひねると、自転車のベルにしては音の低いカンカン音が鳴ります。内側を握りすぎてて鳴ってたんですね。
+
+②3段変速も内蔵式
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9229.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9229.png)
+
+反射して見にくいですが、3段変速です。京都、町中でも若干坂になってるとこあるからこれは便利。平らなところは3でちょうどいいです。
+
+そして写真撮り忘れましたが変速機も**内蔵式**です。
+
+③前輪ブレーキも内蔵式
+
+僕の自転車はブレーキを握るとタイヤをパッドが挟んで、その摩擦でブレーキをかける構造になっていますが、PiPPAの自転車はどうやらホイールの軸にブレーキをかけるタイプのようです。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9226.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9226.png)
+
+これ前輪なんですが、ブレーキの黒いワイヤーが軸に繋がってて**内蔵式**です。
+
+**ゆうき3「多分ポートで接触したり、車に積んで運ぶときに接触したりするから、メンテナンスの手間を減らすためにこういう造りのものを選んでるんだと思う。変速機が内蔵式なのも、チェーンが外れたり雨で錆びたりしないための工夫だと思う」**
+
+なるほど！！！感動しました。**解像度が**どんどん上がって行く感じ、いいですね。
+
+④タイヤはノーパンクタイヤ
+
+内側にウレタン？が入っててパンクに強い造りらしい。確かに地面との感触が分厚い感じする。
+
+⑤カゴ浅め&ゴツめ
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/2019062408534580f.png)](https://noeye69.com/wp-content/uploads/2019/06/2019062408534580f.png)
+
+カゴはママチャリの半分くらいの高さ、フレームが結構ゴツめです。これもメンテナンスの手間を省くためでしょうか。
+
+### 汚ねぇTシャツを無事回収
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9222.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9222.png)
+
+まあまあ乾いてました。
+
+### 返却
+
+---
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9240.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9240.png)
+
+帰ってきたら台数増えてました。台数の管理とかどうしてるんだろう。1台1台固有のナンバーが付いてるし、アプリで管理してるのかな。
+
+てかやっぱサドルの色が違う。なんでなんだ気になる。
+
+ちなみに同じポートじゃなくても、ポートが有るところにはどこでも乗り捨てできるようです。飲み会にこれで行ってタクシーで帰る、みたいなことができそうですね。
+
+### まとめ
+
+324円でなかなか面白い体験ができました。ゆうき3の考察には感動しました。
+
+岡山にも「ももちゃり」というレンタサイクルがあるけど、アプリダウンロードしてちょっと使ってみた感じ、すぐwebページに移動させられるし使いにくそう。
+
+また時間があるときにももちゃりも乗ってみます。
+
+以上です。
+
+**PiPPA**
+
+[![Google Play で手に入れよう](https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.obsiot.pippa&hl=ja)
+
+[![AppStoreで入手](https://linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg)](https://apps.apple.com/jp/app/pippa-%E3%83%94%E3%83%83%E3%83%91-%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/id1334610545)

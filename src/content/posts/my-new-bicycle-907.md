@@ -1,0 +1,56 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-05-08T12:00:00+09:00
+title: "新しいチャリをゲットしたので、ブラックで統一した"
+slug: "my-new-bicycle-907"
+featured: false
+draft: false
+tags:
+  - "ファッション"
+  - "生活改善"
+description: "先日チャリをゲットしました。彼女からタダで。 チャリゲット！！！ pic.twitter.com/eFTKrDt7Oh ? 黒本晋吾 (@noeye69) 2019年4月13日 10年以上乗っていたGIANTのマウンテンバイクのサスペンショ"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/my-new-bicycle-907.html -->
+
+先日チャリをゲットしました。彼女からタダで。
+> チャリゲット！！！ [pic.twitter.com/eFTKrDt7Oh](https://t.co/eFTKrDt7Oh)
+>
+> ? 黒本晋吾 (@noeye69) [2019年4月13日](https://twitter.com/noeye69/status/1116894206234992640?ref_src=twsrc%5Etfw)
+
+10年以上乗っていたGIANTのマウンテンバイクのサスペンションが錆びて動かなくなってしまって、「またイチからチャリ選ぶのめんどいな～」と思ってたところ、彼女が「買ったけど飽きて乗ってないし、いらない」と言われたので、「いる！」と挙手しました。
+
+6万くらいで買ったって言ってたので、お返しに旅行に行くことにしました。価値の等価交換。
+
+ちなみにRITEWAYという日本のメーカーのシェファードというチャリのようです。
+
+HPカッコイイ。
+
+**俺はブラックブックなので、パーツをブラックに統一した**
+
+---
+
+色がめっちゃいい感じのマットブラックなんですが、鍵がホワイト、ベルがゴールドだったんで、ブラックに統一しました。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg)](https://noeye69.com/wp-content/uploads/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg)
+
+多分同じ型の別メーカーが作ったやつ。赤ポチ、邪魔だなとは思うけどオールブラックないんですよね。
+
+GIANTの時は鍵がダイヤル式じゃなくて物理キーがあるタイプだったんですが、鍵が邪魔なのでダイヤル式にしました。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/6076C7E9-4320-4046-8399-11F469E25A69.jpg)](https://noeye69.com/wp-content/uploads/2019/05/6076C7E9-4320-4046-8399-11F469E25A69.jpg)
+
+ベル。ライトもキャットアイってメーカーのだから、ハンドル周りはキャットアイに任せろ！って感じです。値段も安いし。
+
+**まとめ**
+
+---
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/B3452919-5744-4DD9-B949-C823FD2BEFE1.jpg)](https://noeye69.com/wp-content/uploads/2019/05/B3452919-5744-4DD9-B949-C823FD2BEFE1.jpg)
+
+イカすな。これで大都会岡山を疾走するぜ。
+
+ちなみにこの記事で紹介されてるシマノのペダルがとても気になる。
+
+以上です。

@@ -1,0 +1,142 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-05-30T12:00:00+09:00
+title: "名刺入れと小銭入れを兼ねた製品を探すのを諦めた"
+slug: "meishiire-kozeniire-916"
+featured: false
+draft: false
+tags:
+  - "ファッション"
+  - "仕事"
+  - "生活改善"
+description: "タイトルのとおりです。諦めて、名刺入れと小銭入れを新調しました。かねてから財布を使っていた土屋鞄製造所のものです。 土屋鞄製造所がいい感じ 土屋鞄製造所というブランドの革製品が好きです。 最初は「長財布邪魔だな、小さい財布がほしいな、でもア"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/05/IMG-8193.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/meishiire-kozeniire-916.html -->
+
+タイトルのとおりです。諦めて、名刺入れと小銭入れを新調しました。かねてから財布を使っていた土屋鞄製造所のものです。
+
+### **土屋鞄製造所がいい感じ**
+
+土屋鞄製造所というブランドの革製品が好きです。
+
+最初は「長財布邪魔だな、小さい財布がほしいな、でもアブラサスとかはいかにもって感じがしていやだな」というところから始まり、ネットサーフィンしてると「なんだこのデザインのいいHP、製品もカッコいいぞ」ということで、土屋鞄製造所のウルバーノジャケットパースという財布を買いました。
+
+### **土屋鞄製造所のキーケース、免許証入れられて便利**
+
+で、またある日
+
+- 家を出て
+- 車に乗って
+- 目的地では電子マネーで支払いして
+- 帰ってくる
+
+ときが結構あるなと気付いて、同じく土屋鞄製造所で免許証が入れられるキーケースを買いました。
+
+### **名刺が入る小銭入れがほしかった**
+
+この**「2つの機能を1つの製品で」**みたいな方向性が気に入って、**名刺入れと小銭入れの機能を持った名刺入れっぽいルックスの製品**を探していました。
+
+「うわ、コイツ小銭入れから名刺出しよったぞ」と思われない程度のルックスの。
+
+しかしこれが意外とないんですよね。土屋鞄製造所以外でも。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8193.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8193.jpg)
+
+これは名刺の上に保険証を置いてるんですが、見ての通り名刺がカードより縦も横も若干大きい作りなので、カードは入っても**名刺が入らない。**
+
+最初アブラサスの「小さい財布」が見た目的にもいいなと思ったんですが、製作者のインタビュー記事を見ると…
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8195.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8195.jpg)
+
+**やめないでよ！**
+
+[土屋鞄製造所で買ったこの製品](https://www.tsuchiya-kaban.jp/products/detail.php?product_id=3430&tp_category_id=466)も、めっちゃ名刺入れっぽいルックスでいいなと思って買ったんですが、名刺が入らなくて泣く泣く返品しました。
+
+てかそもそもなんで名刺はちょっとカードより大きい規格なんだよと疑問を感じざるを得ません。無駄ァ～。
+
+### **結局機能を分けて所持することにした**
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8179.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8179.jpg)
+
+ということで、名刺入れと小銭入れを兼ねた製品を探すことは諦めて、そのかわりに革の種類を揃えるという自己満に着地しました。ウルバーノ3兄弟です。
+
+### **ウルバーノジャケットパース**
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8181.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8181.jpg)
+
+1年くらい使ってるのでいい感じに艶が出てきてますね。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8187.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8187.jpg)
+
+開いたらこんな感じ。カードも
+
+- 保険証
+- ATMのカード
+- クレジットカード
+
+の3枚しか入れてません。ポイントカードの類いは別途安いカードケースに入れて車に積んでます。
+
+ほとんど電子マネーかクレジットカードで支払いをするので、現金は必要最小限で、小銭は財布の形が崩れるのが嫌で基本入れてません。
+
+### **ウルバーノベルトカードケース**
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8180.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8180.jpg)
+
+新入りです。強そうな見た目。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8188.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8188.jpg)
+
+フラップを開くとこんな感じで名刺めっちゃ入れれます。今数えたら46枚入ってました。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8183.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8183.jpg)
+
+手前にも収納スペースがあり、もらった名刺を入れたりできます。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8185.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8185.jpg)
+
+これだけ名刺が入る設計だと、名刺が減ったときにこんな感じで凹むので、持った感じで名刺の入り具合がわかります。てか重さでわかるか。薄いと直感的に入ってる量がわからないですよね。
+
+なので補充し忘れで「名刺が…ない！」みたいなことがなくなっていいなと思います。
+
+### **ウルバーノコインポケット**
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8186.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8186.jpg)
+
+こいつも新入りです。
+
+どうしても小銭が出る時があって、
+
+- 唐揚げ弁当を買う
+- バンドスタジオ代の精算
+- コインパーキング
+- 美容院とか、個人でやられているお店の会計
+
+などのときに発生した小銭を入れます。
+
+「財布に入れればいいやん」と思われるかもしれませんが、財布の形を崩したくないので今までは
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8192.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8192.jpg)
+
+この小銭入れを使っていました。高校の頃になぜか友人がくれたピーターラビットの小銭入れ(使い古し)です。いい加減ボロボロだし、革を揃えたくなったのでこのタイミングで卒業です。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8190.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8190.jpg)
+
+手に持つとこんな感じ。小さい。これは裏側ですが使用用途不明のポケットが付いてます。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8189.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8189.jpg)
+
+表。開けます。ボタン式です。
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8184.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8184.jpg)
+
+小銭で1,000円分くらいは入ります。会社の金庫で都度両替できるから、溢れることはなさそうです。
+
+### **まとめ**
+
+[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-8179.jpg)](https://noeye69.com/wp-content/uploads/2019/05/IMG-8179.jpg)
+
+一番いいのは名刺も小銭も入る製品だったのですが、なかったのでこの形に落ち着きました。大きさもサイズがそれぞれ違って3兄弟感あって気に入ってます。
+
+以上です。

@@ -1,0 +1,47 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-02-16T14:48:00+09:00
+title: "ポストマンシューズ新調した"
+slug: "new-postman-shoes-851"
+featured: false
+draft: false
+tags:
+  - "ファッション"
+  - "生活改善"
+description: "靴の話です。 バンドの時はVANS、それ以外の時はちょっとだけ背が高くなれる、という理由でポストマンシューズを愛用しています。 [sitecard subtitle=関連記事 url=https://noeye69.com/2018/12/"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/02/91D1538C-D976-4B77-8CAC-9CCB75228E53.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/new-postman-shoes-851.html -->
+
+靴の話です。
+
+バンドの時はVANS、それ以外の時はちょっとだけ背が高くなれる、という理由でポストマンシューズを愛用しています。
+
+ポストマンシューズとは、一見ビジネスシューズにも見えるカジュアルシューズで、なんというか僕くらいのおっさんには使い勝手がいいんです。「VANSだとまずいかも…？」みたいなシチュエーションで履けるので。
+
+[![](https://noeye69.com/wp-content/uploads/2019/02/91D1538C-D976-4B77-8CAC-9CCB75228E53.jpg)](https://noeye69.com/wp-content/uploads/2019/02/91D1538C-D976-4B77-8CAC-9CCB75228E53.jpg)
+
+で、去年買ったのがこちらの2足。ダナーとロスコです。クサそうですね。
+
+ダナーを履くときは本気の時。ロスコは値段も6,000円くらいなので、ラフに履けます。
+
+[![](https://noeye69.com/wp-content/uploads/2019/02/752A7777-8EF7-48D9-8958-95704E57B769.jpg)](https://noeye69.com/wp-content/uploads/2019/02/752A7777-8EF7-48D9-8958-95704E57B769.jpg)
+
+ダナーよりロスコの方が履く頻度が高いので、必然的に消耗速度も速いです。最近ロスコの合皮が割れてきたなーということで、新調しました。
+
+[![](https://noeye69.com/wp-content/uploads/2019/02/85A32F0C-940E-484F-8295-2467F917971B.jpg)](https://noeye69.com/wp-content/uploads/2019/02/85A32F0C-940E-484F-8295-2467F917971B.jpg)
+
+値段が安いんでもっかいロスコでもいいかなーと思ったんですが、いろんなの履いてみたいんで今回はAAA+(サンエープラス)のポストマンシューズです。箱がなんか潰れてるけど、安いので仕方がないです。
+
+[![](https://noeye69.com/wp-content/uploads/2019/02/73D17E01-203E-4F5A-990A-E5B22A45E12C.jpg)](https://noeye69.com/wp-content/uploads/2019/02/73D17E01-203E-4F5A-990A-E5B22A45E12C.jpg)
+
+ロスコよりさらに安く、5,000円くらい。このくらいの価格帯なら、ラフに履けるのでとてもいいです。
+
+[![](https://noeye69.com/wp-content/uploads/2019/02/5353F81C-B4B6-4F85-8625-B95C83BA9261.jpg)](https://noeye69.com/wp-content/uploads/2019/02/5353F81C-B4B6-4F85-8625-B95C83BA9261.jpg)
+
+このように、3cmくらい盛れます。
+
+なんとなくロスコよりシュッとしてて、スタイリッシュな印象です。VANSのold skoolが27cmで、これは26cmがちょうどいいです。
+
+ということで、いい買い物ができました。ありがとうございました。

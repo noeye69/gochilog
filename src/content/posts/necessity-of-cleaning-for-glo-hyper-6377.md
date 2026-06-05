@@ -1,0 +1,64 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2020-06-14T23:21:51+09:00
+title: "glo hyper、これまで以上に掃除が大事かも"
+slug: "necessity-of-cleaning-for-glo-hyper-6377"
+featured: false
+draft: false
+tags:
+  - "ガジェット"
+description: "4月にgloの新製品「glo hyper」を買いまして、「スティックが太くなって、味もガツンと来るし最高！」と思って吸っていました。 しかし、使ってるうちに「スティックを挿すときに抵抗を感じるようになったな」と思って掃除してみたら、これまで"
+ogImage: "https://noeye69.com/wp-content/uploads/2020/06/DSCF6106-1024x578.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/necessity-of-cleaning-for-glo-hyper-6377.html -->
+
+4月にgloの新製品「glo hyper」を買いまして、「スティックが太くなって、味もガツンと来るし最高！」と思って吸っていました。
+ 
+しかし、使ってるうちに「スティックを挿すときに抵抗を感じるようになったな」と思って掃除してみたら、これまでのgloやglo proと大きな違いがあったので記録しておきます。
+
+## glo hyper、これまで以上に掃除が大事かも
+
+結論から言うと、おそらくスティックが太くなったことによる水分の増加で、固形化した汚れがこれまでより増加しています。
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6106-1024x578.jpg)
+実際にこれはこれまで使ってたglo proの裏蓋を開けた状態。glo proの場合は光が見えますが、
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6107-1024x578.jpg)
+glo hyperは光が見えません。
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6108-1024x578.jpg)
+掃除のブラシを突っ込もうとしても、先っちょのポッチが穴入ってすぐ詰まって、先に進めません。
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6109-1024x578.jpg)
+無理やり差し込むとブラシがシワクチャになります。※あんまり無理やり抜こうとすると裏蓋ごと外れて壊れるかもしれないので要注意。経験済み
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6117-1024x578.jpg)
+そこでたこ焼きをひっくり返すやつ、通称アイスピックを準備。
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6112-1024x578.jpg)
+穴をつつくと、、、
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6110-1024x578.jpg)
+このように**固形化したカスがゴッソリ**と。こんなこと、今までのgroでは起こりませんでした。
+
+### 雑すぎる考察
+
+これはおそらく、glo hyperになってスティックが太くなったことによる水分が悪さをしているような気がしています。
+ 
+![](https://noeye69.com/wp-content/uploads/2020/06/o0640070514733204418.jpg)
+glo hyperのスティックは約4mm増加し、葉の量も約1.3倍になっているので、同様に排出される汚れも水分も1.3倍になっていると考えられます。
+ 
+なので、今まで粉末状だった汚れが水分によって凝縮し、固形化しているのではないかと。
+
+## まとめ
+
+glo hyper、吸い心地はいいんですが汚れが固形化しやすいので、こまめな掃除と別の掃除道具を使った方がいいかもというお話でした。
+ 
+掃除はめんどくさくなるけど、デカくしたことによる弊害、スケールデメリット。こういう現象、好きです。
+ 
+ちなみに、gloはAmazon等で買うより、公式サイト経由で買った方が面倒な製品登録をしなくていいので楽です。
+ 
+[glo hyper](https://www.discoverglo.jp/advanced-heat-technology/glohyper)
+ 
+以上です。

@@ -1,0 +1,107 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-06-05T19:00:00+09:00
+title: "X-T30を買ったのでアクセサリー類を揃えた"
+slug: "x-t30-accessory-918"
+featured: false
+draft: false
+tags:
+  - "カメラ"
+  - "ガジェット"
+description: "昨日の月報で一眼レフカメラX-T30を買ったことを告白しました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/06/01/geppou-201905/] カメラって本体以外にも必"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/x-t30-accessory-918.html -->
+
+昨日の月報で一眼レフカメラX-T30を買ったことを告白しました。
+
+カメラって本体以外にも必要なものが多い。一眼レフに至ってはレンズも必要だし。
+
+### **レンズ**
+
+レンズは[観音クリエイションさんも使っている単焦点レンズ](https://kannnonn.com/archives/23529)、XF35mmF1.4 Rにしました。GR3も単焦点レンズだし、変えても良かったんだけどなんとなく。
+
+本当は
+
+- VoightLander 単焦点広角レンズ NOKTON classic 35mm F1.4 SC シングルコーティング
+
+というレンズを使ってみたいけど、まあ最初は純正品で。20,000円キャッシュバックキャンペーンもやってたし。
+
+1個前の記事でも書きましたが、一眼レフカメラはギター的な要素がありますね。カメラ本体がギターなら、レンズはエフェクターやアンプみたいな。
+
+世の中にはレンズ沼という沼が存在するらしいので、気をつけたいところ。エフェクター沼やアンプ沼にはハマった経験があるし。笑
+
+### **ストラップ**
+
+X-T30を買うまでは早かったけど、ストラップを悩んだ時間は長かったです。ストラップって地味にカメラの使用頻度に効いてくるから。
+
+GR3にはリングストラップを使っていますが、このくらいの大きさのカメラにはリングストラップがいいなと感じています。
+
+しかしX-T30はちょっとデカいし、機動力を考えるとネックストラップがいいなーと思ってネットの海を泳いで、最終的に
+
+- オシャレ部門
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg)](https://noeye69.com/wp-content/uploads/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg)Barton1972のBraided Style-Pitch Black
+
+- 機能部門
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/3_000000001399.jpg)](https://noeye69.com/wp-content/uploads/2019/06/3_000000001399.jpg)
+
+ARTISAN&ARTISTのイージースライダー
+
+の2つに絞りました。
+
+イージースライダーに関しては、同じような機能を持ったNINJA STRAP(ニンジャストラップ)というのがあるのですが、こっちのほうが評判良さそうだったのでこれを候補に。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/R0004719.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004719.jpg)
+
+で、Barton1972のBraided Style-Pitch Blackの在庫がどこにもないという消極的な理由でARTISAN&ARTISTのイージースライダーにしました。Barton1972、めちゃくちゃかっこいいんですがしょうがない。
+
+にしても金属の輪っかが硬すぎて、カメラに取り付けるのにめちゃくちゃ苦労しました。親指の爪痛い。
+
+### **バッテリーと充電器**
+
+FUJIFILMのカメラも、GR3と同様にバッテリーの持ちが悪いみたいです。なので予備バッテリーを買いました。
+
+純正品は高い(1個6,300円！！！)ので、サードパーティー製のロワジャパンのNP-126/NP-126S互換のものです。GR3でもロワジャパンのを使ってて、特に問題ないので大丈夫だろうという判断です。
+
+充電器は2個同時に充電できたほうがいいだろということでNewmowaのNP-126対応のこれ。
+
+### **液晶保護フィルム**
+
+液晶守りたいですよねということでHAKUBAのDGF2-FXT30という保護フィルム。気泡も入らず、ズレずにうまく貼れました。
+
+### **サムレスト**
+
+親指休めです。僕は手がでかい方ではなく、X-T30はGR3より大きいので、なんか安定して持てないんですよね。重いのもあるかもしれない。
+
+ということで、INPONのサムレスト。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/R0004728.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004728.jpg)
+
+X-T10、X-T20用ですが、問題なく付きました。こういう金属製のパーツ、そそられる。笑
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/R0004727.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004727.jpg)
+
+めっちゃ持ちやすくなりました。
+
+### **シャッターボタン**
+
+GR3にはなかったんですが、シャッターボタン付ける前提で穴が開いてるんですよね。これが変な押し心地なので、シャッターボタン付けてみました。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/R0004723.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004723.jpg)
+
+Geesoのシャッターボタンです。ボタン表面が凸/平/凹の3タイプと、緑のゴムのスペーサー？が6個入ってます。スペーサーが予備として3つ入ってるのがありがたいですね。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/R0004720.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004720.jpg)
+
+僕はとりあえず凹タイプを付けてみました。いい感じ。
+
+### **まとめ**
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/R0004726.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004726.jpg)
+
+さあこれで撮りまくるぞ。
+
+以上です。

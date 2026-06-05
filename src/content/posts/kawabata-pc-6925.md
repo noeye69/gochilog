@@ -1,0 +1,285 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2021-01-06T22:18:08+09:00
+title: "友だちのPCを作ることになった"
+slug: "kawabata-pc-6925"
+featured: false
+draft: false
+tags:
+  - "PC周辺機器"
+  - "ガジェット"
+  - "生活改善"
+description: "あけましておめでとうございます。 正月に高校時代の友人がうちに遊びに来まして、「PC作ってや。ディスプレイとかもないからデスク環境丸ごと任せるわ」という 神 な依頼を受けたので、一緒に構成を考えました。 タダでPC作れるとかほんと神。 今パ"
+ogImage: "https://noeye69.com/wp-content/uploads/2021/01/CGAGFVL1137_TP_V-1024x682.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/kawabata-pc-6925.html -->
+
+あけましておめでとうございます。
+ 
+正月に高校時代の友人がうちに遊びに来まして、「PC作ってや。ディスプレイとかもないからデスク環境丸ごと任せるわ」という**神**な依頼を受けたので、一緒に構成を考えました。
+ 
+タダでPC作れるとかほんと神。
+ 
+今パーツが続々と全国から届いてる最中なんですが、ここでひとまず記事にしてみました。
+
+## 構成の思想
+
+### スペック
+
+![](https://noeye69.com/wp-content/uploads/2021/01/CGAGFVL1137_TP_V-1024x682.jpg)
+友人は現状、「ゲームするとか動画編集するとかの予定はなく、普通にネットサーフィンするくらい」とのこと。
+ 
+でも子ども(男の子)もいるし、「パパ、FORTNITEやりたい！」ってなったときに最低限できれば「パパのPC、スゲー！」って思ってもらえるかなと。
+ 
+なので最低限ゲームができるくらいで、後々強化しやすい構成にしとこうと。
+ 
+ちなみに友人は**お医者さん**なので、多少高くついても問題ないハズ。笑
+ 
+![](https://noeye69.com/wp-content/uploads/2020/12/zoom-1-1024x651.png)
+あとはzoomするにしてもある程度の性能が必要なことは体験済みなので、そこ含め**ミドルスペックPC**で行こうと思います。
+
+### 外観
+
+![](https://noeye69.com/wp-content/uploads/2020/03/DSCF5547-1024x578.jpg)
+昨年PCを2台作ったのですが、見た目って重要だなと思いました。自分の好みや家の家具とかとのマッチング度合い、ホンマ大事。
+ 
+![](https://noeye69.com/wp-content/uploads/2021/01/8f84c3eddab9cf0efae81fee724be6df.jpg)
+話し合った結果、友人の家はナチュラル系とのことなので、僕の家にある「**黒系ビカビカPC**」じゃない方がよさそうです。
+
+## 買ったもの：PC編
+
+|  |  |  |
+| --- | --- | --- |
+| パーツ | 製品名 | 価格 |
+| ケース | [Fractal Design ERA ITX](https://www.amazon.co.jp/dp/B087F1SVLK?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 19,282 |
+| CPU | [Ryzen5 3600](https://www.amazon.co.jp/dp/B07STGGQ18?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 26,280 |
+| GPU | [ASUS Radeon RX570](https://www.amazon.co.jp/dp/B06Y5WGXX3?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 17,358 |
+| メモリ | [Kingston 8G×2](https://www.amazon.co.jp/dp/B07WJJHWYD?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 7,108 |
+| システム用ストレージ | [crucial m.2 SSD 500GB](https://www.amazon.co.jp/dp/B07JWK33MV?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 9,281 |
+| ストレージ | [crucial SSD 1TB](https://www.amazon.co.jp/dp/B077PSMJZS?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 11,082 |
+| マザボ | [Asrock B450 mini ITX](https://www.amazon.co.jp/dp/B07FVVNDFX?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 11,455 |
+| 電源 | [Fractal Design SFX電源 650w](https://www.amazon.co.jp/dp/B07Z8YDWBT?tag=noeye69-22&linkCode=osi&th=1&psc=1) | 16,182 |
+
+OS抜きで総額116,392円になりました。ケースにこだわるとどうしても少し高くなってしまいますね。
+ 
+ひとつひとつ選んだ理由などを述べていきます。
+
+### ケース：Fractal Design ERA ITX
+
+![](https://noeye69.com/wp-content/uploads/2021/01/Era_ITX_Production_Creative-Room_Creative_Room_v6.0005-1024x724.jpg)
+
+公式HPより引用
+
+最初に決めたのがケースです。見た目が一番大事なので。
+ 
+Fractal Designはスウェーデンのメーカーで、僕が気に入って使っているNZXT同様、スタイリッシュで結構気になってるメーカーだったので選んでみました。
+ 
+今回選んだERA ITXは
+
+- mini ITXなので小型
+- **天板が木**
+
+というところに惹かれました。ナチュラル系の家に合うんではないでしょうか？
+
+### CPU：Ryzen5 3600
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7433-1024x577.jpg)
+
+- CPU、選択肢としてintelとAMDの2社がある
+- せっかく自作PC作るならintelのCPU内蔵グラフィックス使わずに別でGPUを使った方がいい
+- GPU使うならAMDで組んだ方がコスパいい
+- 僕はintelとAMD両方作ったけど、とりあえず自宅用ならAMDでもいいんじゃね？
+
+みたいな話をしたところ、「じゃあAMDで！」となりました。
+ 
+Ryzen3か5で悩んだんですけど、将来的にゲームしたいってなっても最低限使えた方がいいなと思ったので、Ryzen5 3600にしました。
+ 
+CPUクーラーはとりあえず付属の純正クーラーでいいかなと。
+
+### GPU：ASUS Radeon RX570
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7434-1024x577.jpg)
+CPUにグラフィックス機能が内蔵されていないAMDのCPUを使うので、GPUが必要です。
+ 
+とりあえず直近はネットができればいいとのことですが、念のためASUSのRadeon RX570にしました。Amazonに在庫がなかったので岡山のPC工房で調達。
+ 
+通販で買うより意外と店舗で買った方が在庫があったり、安い時があったりしますね。
+ 
+必要になったらGTX1660とか、RTXシリーズに変えてもらえればなと。GPUの交換なら比較的楽だし。
+
+### メモリ：Kingston HYPER X DDR4 2666MHz 8GB×2
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7435-1024x577.jpg)
+とりあえず16GBあれば困らないだろうと思って、Kingston HYPER XのDDR4 2666MHzの8GB×2にしました。
+ 
+Kingstonはデザインがシュッとしてて好きですね。見えませんが。
+ 
+AMDのCPUとの相性も自分のPCで実証済み。
+
+### システム用ストレージ：crucial m.2 SSD 500GB
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7437-1024x577.jpg)
+cドライブのシステム用のストレージは
+
+- 起動とか早い方がいい
+- ゲームするってなったときに結構容量食う
+
+ので、crucialの500GBのm.2 SSDにしました。
+
+### ストレージ：crucial SSD 1TB
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7443-1024x577.jpg)
+こちらもcrucialで揃えました。容量はとりあえず1TBで。
+
+### マザーボード：Asrock B450 Fatal1ty Gaming-ITX
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7439-1024x577.jpg)
+AsrockのB450 Fatal1ty Gaming-ITXにしました。
+ 
+今回のケースは中が見えないし、特に光るタイプが欲しいわけではなかったのでシンプルなモノでよかったのと、あとは価格ですね。mini-ITXにしては1.1万円と比較的安価です。
+ 
+![](https://noeye69.com/wp-content/uploads/2021/01/61QUk2Or2JL._AC_SL1200_-1024x270.jpg)
+
+Amazonより引用
+
+I/Oパネル部もこんだけついてたらいいんじゃないでしょうか。
+ 
+mini-ITXはbluetoothとwi-fiがデフォルトで付属してるのがいいですね。
+
+### 電源：Fractal Design 650w 80PLUS GOLD SFX電源
+
+![](https://noeye69.com/wp-content/uploads/2021/01/81mXWPp0-dL._AC_SL1500_-1024x722.jpg)
+
+Amazonより引用
+
+余ってるATX電源があったのでそれを流用しようと思っていましたが、[調べてみると](https://sanpobiyori.info/build_gaming-pc_era-itx/)ATX電源は入るけどキツキツっぽいですね。
+ 
+ということで、ケースと同じメーカーFractal Designの650w SFX電源にしました。
+
+## 買ったもの：デスク環境編
+
+え？僕がデスク環境まで構築していいの？って感じなんですが、めっちゃうれしい。テンション上がる。笑
+
+### 4k 27インチモニター：Dell U2721QS
+
+![](https://noeye69.com/wp-content/uploads/2021/01/913C2oS3EwL._AC_SL1500_-1024x859.jpg)
+
+Amazonより引用
+
+モニターは買ってよかったもの2020年にノミネートした、僕が使ってるDell U2720QMの廉価版のU2721QSをチョイス。
+ 
+大人気のため現在Amazon在庫切れですが、在庫追加され次第注文するつもりです。
+ 
+安い4kモニターいろいろ探しましたが、
+
+- VESA対応
+- IPS液晶
+- 無輝点保証
+
+がすべて揃ってるのはこのモニターくらいじゃないでしょうか？
+ 
+そのうえ価格が3万円台という破格っぷり…。そりゃ売れるわという感じです。
+
+### モニターアーム：エルゴトロン LXデスクマウント
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7444-1024x577.jpg)
+モニターアーム、一度使うともうやめれません。モニター下があいてるの最高。
+ 
+いろいろ選択肢はあると思うのですが、やっぱり僕が使ったことある範囲で行くとちょっと高いけどエルゴトロンがいいかなと。
+ 
+![](https://noeye69.com/wp-content/uploads/2021/01/71nDy8Z1f5L._AC_SL1500_-999x1024.jpg)
+
+Amazonより引用
+
+僕が使ってるのはOEMのAmazonベーシックのものなんですが、純正にしか白がなかったのでエルゴトロン LXをチョイス。
+ 
+…写真見てると、自宅も白で揃えるのもアリな気がしてきました。笑
+
+### スピーカー：creative pebble V2
+
+上述したDellのU2721QS、安いのにスピーカーまで内蔵してるんですが、あまり期待していません。
+ 
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7440-1024x577.jpg)
+せっかくならスピーカーから音を出したい！さらに、昨年スピーカーを自作した僕の経験からスピーカーは左右分離型の方が音がいい、ということでcreative pebble V2を選びました。
+ 
+なんといっても値段が安い。1,980円！
+ 
+![](https://noeye69.com/wp-content/uploads/2021/01/51PeNECAJaL._AC_SL1000_.jpg)
+
+Amazonより引用
+
+このpebble V2は会社でアラームを鳴らしてくれるPCの音量を大きくするために購入したこともあり、信頼しています。
+ 
+新型のpebble V3はbluetooth接続なんですが、色が黒しかないので断念。でもデスクトップPCのスピーカーは有線がいいと思います。安定性重視。
+
+### キーボード：logicool K835(赤軸)
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7442-1024x577.jpg)
+僕みたいなデスク環境オタクはHHKBを買って「ウェイ！」したいんですが、あいにく友人はそういう部類の人間ではないので、とりあえず普通よりちょっといいモノでいいかなと。
+ 
+そこで昨年末に発売されたlogicoolのK835です。
+ 
+特徴としては、
+
+- 有線
+- テンキーレス
+- JIS配列
+- メカニカル(赤軸、カチカチ音のする青軸もある)
+- メカニカルにしては6,500円と安い
+
+点です。
+ 
+色も白黒2色展開で、今回はナチュラル系な家に合いそうな白をチョイス。
+ 
+あとは最初はカチカチ音のする青軸よりは、普通の赤軸の方がいいかなと。
+ 
+有線キーボード、万が一PCがトラブったときも使えるのがいいですよね。bluetoothキーボードだとBIOSに入れなかったりするんで。
+ 
+![](https://noeye69.com/wp-content/uploads/2021/01/71i2pHO7kwL._AC_SL1500_-1024x754.jpg)
+
+Amazonより引用
+
+唯一残念な点は、かなが印字されてるところですかね。いらん。ない方がコストもかからないはずなのになぜ…。
+
+### マウス：logicool MX ANYWHERE 3
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7445-1024x577.jpg)
+マウスもlogicool。これも昨年末発売された新型マウスですね。
+ 
+logicoolのマウスは3つほど使ったことがあり、僕の中で信頼性抜群です。
+ 
+MX ANYWHERE 3は、
+
+- 小型
+- USB-C充電(旧型のANYWHERE 2はmicroUSB)
+- 無線(bluetoothと独自の無線規格)
+
+のマウスで、いいところだらけやんと。友達の手もデカい方ではないので小型なマウスが合うはず。
+ 
+話が逸れますがこのMXシリーズ、僕はMASTER 3を自宅、VERTICALを会社で使っていて、それぞれ思想が違っててとてもいいシリーズだと思います。
+ 
+トラックボール搭載のERGOの新型が出たら欲しいなと思ってます。次は絶対USB-C対応するはずだし。
+
+### AC電源ケーブル：AINEX ACP-15S-BK
+
+![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7446-1024x577.jpg)
+これかなり細かいんですが、PCやモニターに付属のAC電源ケーブルってめっちゃ太くて硬くて取り回し悪くないですか？
+
+![](https://noeye69.com/wp-content/uploads/2021/01/81UCCBgbkCL._AC_SL1500_-1024x902.jpg)
+
+Amazonより引用
+
+そこでこのAINEXのAC電源ケーブルACP-15S-BKです。これは普通の電化製品についてるコンセントくらいの太さ・柔らかさで、非常に取り回しがいい。
+ 
+値段も1本500円くらいなので、とてもオススメです。
+
+## まとめ：デスク環境考えるの最高に楽しい
+
+たとえ他人のものでもデスク環境考えるの最高に楽しいですね。
+ 
+自分用だったら選ばないものばかりですが、普段の情報収集が役に立ちました。
+ 
+パッと眺めた感じ白系で統一されたかっこいいデスクが出来上がりそうで、マジで楽しみだ。
+ 
+今週末に組む予定。

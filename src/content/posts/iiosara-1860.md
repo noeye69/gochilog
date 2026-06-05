@@ -1,0 +1,87 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-09-17T12:00:53+09:00
+title: "【ゆる募】いいお皿情報"
+slug: "iiosara-1860"
+featured: false
+draft: false
+tags:
+  - "ゆるく語る"
+description: "WORDPRESSに引っ越して最初の記事はお皿についてです。引っ越しってネット上でも大変ですね…。 料理記事書いてたらお皿欲しくなった 去年から料理記事不定期に書いてるんですが、一人暮らしを始めた当初にニトリで買ったお皿にずっと盛り付けてま"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/09/5722FA22-18B7-40A9-8B8D-729E47BB27D1.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/iiosara-1860.html -->
+
+WORDPRESSに引っ越して最初の記事はお皿についてです。引っ越しってネット上でも大変ですね…。
+
+### 料理記事書いてたらお皿欲しくなった
+
+去年から料理記事不定期に書いてるんですが、一人暮らしを始めた当初にニトリで買ったお皿にずっと盛り付けてました。
+[![](https://noeye69.com/wp-content/uploads/2019/09/5722FA22-18B7-40A9-8B8D-729E47BB27D1.jpg)](https://noeye69.com/wp-content/uploads/2019/09/5722FA22-18B7-40A9-8B8D-729E47BB27D1.jpg)
+[![](https://noeye69.com/wp-content/uploads/2019/09/596E9C5B-986B-4C09-8161-054CEE00E1B4.jpg)](https://noeye69.com/wp-content/uploads/2019/09/596E9C5B-986B-4C09-8161-054CEE00E1B4.jpg)
+するとどうしても飽きてくるんですよね、ビジュアル的に。
+確かにニトリのお皿、安いしそれなりにオシャレだしそれなりに満足なんですけど、もうちょいなんとかしたいなという気持ちになってきました。
+
+### お皿探しの旅 in 福山
+
+お皿って探すの意外と難しいんですよね。値段が高ければ気に入るというわけでもないし。
+ということで先日広島県は福山にDENOMIを見に行った際に福山で探してみました。駅前の天満屋です。
+[![](https://noeye69.com/wp-content/uploads/2019/09/DSCF2513.jpg)](https://noeye69.com/wp-content/uploads/2019/09/DSCF2513.jpg)
+ねぇ…。なんか違うんだよね、言語化しづらいけど。結局この日は気に入ったお皿は見つけれず。
+
+### お皿探しの旅 in 岡山
+
+場所を変えて普通に岡山で探してみたら、結構いいのありました。
+
+#### FRANK 暮らしの道具
+
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006705.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006705.jpg)
+郊外にある雑貨屋さん。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006701.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006701.jpg)
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006700.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006700.jpg)
+あ～この感じよ。求めてたのは。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006697.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006697.jpg)
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006696.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006696.jpg)
+びっくりするぐらい高いわけでもなく。大体1枚1,000～3,000円くらい。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006695.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006695.jpg)
+なんかよくわからんがエモい。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006703.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006703.jpg)
+琉球グラスみたいなのもありました。
+結局グッと来た1枚を購入。
+結構店内広いんですが、店員さんも「今日は珍しいですw」とおしゃってたぐらいこの日はお客さん多かったみたい。
+駐車場：5台位
+ここは今回巡った中で一番楽しいお店でした。たまにフラッと来て、気に入ったのがあれば買うみたいな買い方が楽しそう。
+
+#### ACTUS 岡山店
+
+岡山にもACTUSぐらいありますよ！
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006716.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006716.jpg)
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006718.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006718.jpg)
+Amazonで買ったものも結構置いてありました。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006722.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006722.jpg)
+色んな所にこのシリーズ置いてますね。当然グッと来てしまったので1枚購入。
+
+#### その他巡ったところ
+
+- FLEX GALLERY
+
+﻿
+
+- インテリアショップマージナル
+
+などに行きました。
+
+### 戦利品
+
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006757.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006757.jpg)
+ゲットした皿です。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006758.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006758.jpg)
+前がこれ。見た目揃っててもいいんだけど、今後はあえていろんな皿を買っていくのも楽しいかも。
+
+### まとめ
+
+お皿楽しい。1,000円台とかで好みのやつあると嬉しい。
+そして、岡山といえば備前焼なのに全く備前焼に詳しくない。ので、10月19(土)、20(日)に岡山県備前市で開かれる「備前焼まつり」に行ってみようかな。
+他にもお皿情報あったら教えてほしいです。
+以上です。

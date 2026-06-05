@@ -1,0 +1,133 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2020-01-28T22:38:15+09:00
+title: "PFU HHKB professional HYBRID Type-Sの打ち心地が最高。professional BTと全然違う"
+slug: "pfu-hhkb-professional-hybrid-type-s-5218"
+featured: false
+draft: false
+tags:
+  - "PC周辺機器"
+  - "ガジェット"
+  - "生活改善"
+description: "2019年の夏頃にPFU HHKB professional BTを購入したのですが、発売が2016年だったのには気付いていました。 そろそろ新作出るんじゃねーの？ と。そしたらその4ヶ月後の2019年12月に出ました。 発売されたモデルは"
+ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4947-1024x578.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/pfu-hhkb-professional-hybrid-type-s-5218.html -->
+
+2019年の夏頃にPFU HHKB professional BTを購入したのですが、発売が2016年だったのには気付いていました。**そろそろ新作出るんじゃねーの？**と。そしたらその4ヶ月後の2019年12月に出ました。
+
+発売されたモデルは大きく分けて
+
+- 通常版のprofessional **HYBRID**
+- 打鍵音が静かなprofessional **HYBRID Type-S**
+
+の2つです。
+
+共通する「HYBRID」な理由は、**有線(キーボード側はUSB type-C)とbluetoothどちらでも繋がるよ**、という意味です。
+
+細かい分類は
+
+- **日本語配列版**
+- **日本語配列 無刻印版**
+- **英語配列版**
+
+の3種類があって、色も**墨/グレー**の2色展開なので、全部で2×3×2で12種類発売されました。
+
+英語配列版の無刻印版は出てませんが、無刻印て印字されてないので僕の場合は絶対不便だろと思うのでまあ無くてもいいです。
+
+僕の場合は
+
+- 英語配列希望
+- **静音モデルのType-Sを試したい**
+- **pixelbook goが黒なので黒で統一したい**
+
+ということで、professional HYBRID Type-Sの英語配列の墨色モデルを選択しました。
+
+引き続き英語配列を選択したのは日本語配列だと姿勢が悪くなるらしいからという理由なだけで、メインの理由は下2つ。
+
+違いは歴然でした。
+
+## PFU HHKB professional HYBRID Type-Sの打ち心地が最高。professional BTと全然違う
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4947-1024x578.jpg)
+
+静音モデルのHYBRID Type-Sです。
+
+### Controlキー変更した
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4951-1024x578.jpg)
+
+画像でめっちゃ目立つんで先に述べますが、Controlキーを赤いキートップに変更しました。
+
+Controlキー、めっちゃ使うので。専用のものが売られているのですが、僕はミスってAmazon海外配送の6,000円のクソ高い上に配送も遅いものを買ってしまいました。今見たら普通に国内発送の2,000円のものがありました。
+
+Escキーも同梱されているんですが、僕はプログラミングとかしないのでEscキー使わないので、Controlキーだけ変えました。黒に赤が映えますね。
+
+## 肝心の打ち心地
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4949-1024x578.jpg)
+
+どうせ同じメーカーのキーボード買うなら、Type-Sという打鍵音が静かなモデルを試したくてType-Sにしたのですが、**これ先代のprofessional BTとは全然違いますね。。。**単に打鍵音が静かになるだけでなく、打ち心地も全然違います。**クソ気持ちいい**。
+
+両方試してわかったのは、先代のprofessional BTはデスクトップPC買ったときとかに付いてくる「**デフォルトのキーボードの上位互換**」って感じなのですが、professional HYBRID Type-Sは「**フカフカ、サクサクのお菓子**」を押しているみたいな感じで、いわゆる「**キーボード」**を叩いている感じが全然しないです。なんなんだこの感じは。
+
+静音モデルのprofessional HYBRID Type-Sが税込み35,000円、通常版のprofessional HYBRIDが30,000円で、5,000円の差をどう見るかですね。
+
+いや〜でも同じメーカーなのに通常版とType-Sで全然ベクトルが違います。メーカーさえ違うんじゃないかというくらいに、方向性が違う気がします。
+
+例えるならPerfumeときゃりーぱみゅぱみゅくらい違う。
+
+## PCと色が揃って統一感出て気持ちがいい
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4954-1024x578.jpg)
+
+これは完全に自己満ですが、色が統一できました。pixelbook goで尊師スタイルです。
+
+professional BTを買ったときはmacbookだったので別にグレーでも気にならなかったのですが、pixelbook goにしてからは逆にキーボードが浮いていたので、どうせ買うなら黒に統一しようと思った次第です。
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4957-1024x578.jpg)
+
+墨色、という表現も的を得ていて、漆黒のブラックというよりは少〜しだけ白味がかったブラックです。
+
+色の違いなんとなくわかりますかね？墨色がちょっとしたアクセントになっていてそれもまたかっこいいという。
+
+## バッテリーは単3電池式
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4943-1024x578.jpg)
+
+バッテリーは単3電池2本です。
+
+Appleのキーボードは充電式のリチウムイオン電池ですが、充電式だとバッテリーがが劣化したらキーボードごとダメになっちゃうんですよね。しかし単3電池だとバッテリーがなくなったら替えればいいだけなので、そこがいい。
+
+当然リチウムイオン電池はエネルギー密度が高いので軽いのですが、キーボードはある程度重くて安定してた方がいい。打ってるときにズレたら嫌だし。
+
+## USB type-Cでも接続できる
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4942-1024x578.jpg)
+
+「HYBRID」たる所以は、bluetoothだけでなく有線でも接続できるという点ですね。USB type-CでPCと接続できます。僕の場合はbluetoothしか使いませんが。
+
+bluetooth接続も安定しています。
+
+## これまで使ってたソフトケースにも入る
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4959-1024x578.jpg)
+
+これまで使っていたバード電子のソフトケース PZ-KBSC-HHKにももちろん入ります。
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4960-1024x578.jpg)
+
+ほらね、ピッタリ。
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4963-1024x578.jpg)
+
+さすが、MADE IN ハポン。
+
+## まとめ：完全にハート掴まれた
+
+![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4966-1024x578.jpg)
+
+正当進化しています。完全にハート掴まれました。
+
+以上です。

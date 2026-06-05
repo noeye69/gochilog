@@ -1,0 +1,83 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-06-17T12:00:00+09:00
+title: "会社のホームページ用の写真を撮影してもらった"
+slug: "shooting-for-homepage-923"
+featured: false
+draft: false
+tags:
+  - "仕事"
+description: "恥ずかしながら、会社のホームページがありません。なので、以前紹介した渡くんと製作中です。 土台はできてて、あとは写真が必要だったので、大学のサークルの後輩の尾崎さんが新聞記者ということでお願いして撮ってもらいました。 僕が撮っても良かったん"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/06/E9i5uYEVPoNRQCH1560732018.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/shooting-for-homepage-923.html -->
+
+恥ずかしながら、会社のホームページがありません。なので、以前紹介した渡くんと製作中です。
+
+土台はできてて、あとは写真が必要だったので、大学のサークルの後輩の尾崎さんが新聞記者ということでお願いして撮ってもらいました。
+
+僕が撮っても良かったんだけど、やっぱ仕事として写真を撮ってる方にお願いしたいなと。聞けば、構図とかめっちゃ習うらしい。
+
+### **撮ってもらったやつ**
+
+どれを載せるかは選定中なのですが、いくつか載せます。圧縮してますが。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/E9i5uYEVPoNRQCH1560732018.jpg)](https://noeye69.com/wp-content/uploads/2019/06/E9i5uYEVPoNRQCH1560732018.jpg)
+
+父親です。カメラに写ってないところで僕がレフ板を持っています。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/xfsOAzBd5dMBedU1560731372.jpg)](https://noeye69.com/wp-content/uploads/2019/06/xfsOAzBd5dMBedU1560731372.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/sCbwM94enDEiALc1560731353.jpg)](https://noeye69.com/wp-content/uploads/2019/06/sCbwM94enDEiALc1560731353.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/NRlNg3DKcAHuW0o1560731281.jpg)](https://noeye69.com/wp-content/uploads/2019/06/NRlNg3DKcAHuW0o1560731281.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/JrIePpol7QoBdif1560731515.jpg)](https://noeye69.com/wp-content/uploads/2019/06/JrIePpol7QoBdif1560731515.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/eYQ4hhrl9P0BnGI1560731363.jpg)](https://noeye69.com/wp-content/uploads/2019/06/eYQ4hhrl9P0BnGI1560731363.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/8eDm0qCxPKB5sjU1560731325.jpg)](https://noeye69.com/wp-content/uploads/2019/06/8eDm0qCxPKB5sjU1560731325.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/6FMzrsyadVAf98Z1560731382.jpg)](https://noeye69.com/wp-content/uploads/2019/06/6FMzrsyadVAf98Z1560731382.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/ag28ACiuLC3nItg1560731391.jpg)](https://noeye69.com/wp-content/uploads/2019/06/ag28ACiuLC3nItg1560731391.jpg)
+
+インタビュー記事でよくある「ろくろを回しているように見える」ポーズ。笑
+
+ニコンのD7200というカメラで撮ってもらいました。変に味付けすることなく、キッチリ写る感じですね。
+
+思ったこととしては、
+
+- 現場を下見してもらってた方がベター
+- 雨だったのが悔やまれる
+
+です。
+
+まあ遠方から来てもらう関係でしょうがないっちゃしょうがないんですが、工場内が写真撮影するには暗すぎたり、どこで撮影するか、何を撮るかをその場の流れで決めていく感じになったので、レコーディングで言うプリプロみたいな、事前下見みたいなことができればもっと良かったです。
+
+けど従業員のみんなも協力的でありがたかったです。
+
+あと雨な！しばらく天気良かったのになんでこの日に降るんや！
+
+### **新聞記者面白そう**
+
+隣の芝は青く見えるだけの話ですが、尾崎さんと話してて新聞記者って面白そうだなと思いました。
+
+- 興味のあることに関して
+- 現地に行って
+- 人と話して
+- 写真撮って
+- 記事にする
+
+って、めちゃくちゃ楽しそう。
+
+興味のあることだけを取材するわけではないみたいですが、ある程度自由にやっていい部分もあるらしい。
+
+ライバルは？とか、尾崎さんの興味のあることは？とか、尾崎さんの先輩社員の武勇伝とかも聞けて面白かった。そして尾崎さんはきっと新聞記者が向いてるんだろうなとも思いました。
+
+### **まとめ**
+
+7月の公開を目指してがんばります。
+
+以上です。

@@ -1,0 +1,133 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-09-19T12:00:29+09:00
+title: "チキン南蛮とかいう神を作ってしまった"
+slug: "chikinnamban-kami-2152"
+featured: false
+draft: false
+tags:
+  - "料理"
+description: "ウチは子供3人いて、3週間くらい妻が海外に行ってたけど、俺の1日の家事時間、掃除、洗濯、食事・子供のお弁当の用意（3分で済む）など全部で1時間ぐらいだったけどｗ。12歳未満の子供の要る女性の家事が平日1日8時間って何やってるの？素朴に疑問。"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/09/R0006759.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/chikinnamban-kami-2152.html -->
+
+> ウチは子供3人いて、3週間くらい妻が海外に行ってたけど、俺の1日の家事時間、掃除、洗濯、食事・子供のお弁当の用意（3分で済む）など全部で1時間ぐらいだったけどｗ。12歳未満の子供の要る女性の家事が平日1日8時間って何やってるの？素朴に疑問。キャラ弁でも作ってるの？<https://t.co/YR7hLdPjBJ> <https://t.co/driJqC6CLu>
+>
+> — 田端信太郎 ＠田端大学塾長である！ (@tabbata) [September 13, 2019](https://twitter.com/tabbata/status/1172640070722940931?ref_src=twsrc%5Etfw)
+
+ZOZO田端さんが人として好きなんですけど、上の発言でまた炎上してましたね。笑
+Twitterって文字数制限あるせいで前後の文脈が無視されて1つのツイートだけが目立ってしまう傾向にあると思うんですが、これは
+
+- 大変大変って言う前に時短できるところはしていこう、もっと手間省けるはず
+
+という文脈でのツイートでした。
+> 連休につき珍しく料理しておる。コンロ三口を同時稼働。気分はDJやで。 [pic.twitter.com/UTnBOAObzH](http://t.co/UTnBOAObzH)
+>
+> — 田端信太郎 ＠田端大学塾長である！ (@tabbata) [May 5, 2015](https://twitter.com/tabbata/status/595526659140268032?ref_src=twsrc%5Etfw)
+
+これめっちゃワロたw時短にはサトウのごはんレンチンがオススメ！とか言ってるのに、しっかりHARIOの土鍋でご飯炊いとるw田端さん自身も料理はお好きなようで。
+僕もレトルトのカレーを食べる日もあれば「よし、今日は料理しよう」という日もありまして、今回は後者、料理しようの日です。チキン南蛮いくぞ！
+
+### 材料
+
+チキン南蛮自体は以下の3つで構成されているようです。量は目分量でやっているのですが、鶏もも肉300gで2食分くらいです。量が書いてないやつは適量で。
+**①タルタルソース**
+
+- ゆで卵 1個
+- パセリ
+- ピクルス
+- 玉ねぎ 半玉
+- マヨネーズ
+
+**②南蛮酢**
+
+- 濃口醤油 100cc
+- みりん
+- はちみつ(砂糖がないので)
+- 唐辛子
+- 塩
+- 酢 100cc
+
+**③チキン**
+
+- 鶏もも肉 300g
+- 生卵 1個
+- 小麦粉
+- パン粉(小麦粉が足りなかったので）
+
+あとはチキン南蛮自体が結構ガッツリしてるのでキャベツの千切り的なサラダがあれば箸休めになるでしょう。今回はサラダに対してのやる気が皆無なので、すでに千切りになってるキャベツを買いました。
+
+### タルタルソース作るぞ
+
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006759.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006759.jpg)
+ゆで卵時間かかるので最初に作ります。例によって電子レンジに放り込んどけば勝手に出来上がるやつ。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006760.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006760.jpg)
+湯で時間は8分で。上半身裸で料理してたので反射を避けたつもりがガッツリハンドルに写ってるという。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006761.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006761.jpg)
+タルタルに入れる野菜たち。これらをみじん切りにします。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006762.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006762.jpg)「どうやったら効率よくみじん切りができるか」の研究を重ねています。最近やってるのは包丁を最初からガッツリ入れるのではなく、バラバラになる手前のところで止めて、90°回転させてガッツリ包丁を入れる。すると大部分がかなり均等に細かくなっている。それを本気でみじん切りにします。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006764.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006764.jpg)
+うまくみじん切りにできたらそれを水につけておきます。他の2つの野菜が切り終わるまで。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006765.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006765.jpg)
+ピクルスの瓶のフタ固すぎワロタw握力50kg重の僕でも苦戦しました。固すぎだろ。ピクルスはこんくらいの量。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006766.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006766.jpg)
+玉ねぎと同じ要領でみじん切りにしました。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006768.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006768.jpg)
+パセリ。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006769.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006769.jpg)
+これはただひたすらに切り続けるしかないかな。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006770.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006770.jpg)
+玉ねぎを水からあげて、キッチンペーパーで絞る。
+**てか今思えばパセリも切ってると結構水分が出るので、水気を切ったほうがいいですね。じゃないとマヨネーズ入れたときに粘度が落ちてシャバシャバになり、結果どんどんマヨネーズを足す羽目になるので大量のタルタルソースが出来上がってしまうので注意。**
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006771.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006771.jpg)
+みじん切りになった野菜たち。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006772.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006772.jpg)
+ゆで卵を～
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006773.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006773.jpg)
+ぶっ壊す！
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006775.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006775.jpg)
+マヨネーズを入れてかき混ぜます。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006777.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006777.jpg)
+できた！案の定粘度を気にしてマヨネーズ足しまくってたら多すぎ！まあマヨラーなので無問題。てか最近買ったiwakiの耐熱ボウルいいですね。見栄えが。
+
+### 南蛮酢作る
+
+揚げたチキンを浸す南蛮酢を作ります。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006778.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006778.jpg)
+材料はこちら。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006779.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006779.jpg)参考にしたレシピが「酢を最後に入れたほうが酸味が飛ばなくていいですよ」とのことだったので、それを守りつつ火にかけます。醤油と酢100ccずつに対して、味見をしながら「こんなもんかな？」を探ります。
+
+### チキン揚げる
+
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006780.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006780.jpg)もも肉324gです。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006781.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006781.jpg)こういう肉系を触るときは100均とかで売ってる使い捨て手袋すると手をいちいち洗わなくて楽。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006782.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006782.jpg)
+さばきました。皮が付いてるので剥ぎます。後日鶏油としてなんかに使おう。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006783.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006783.jpg)溶き卵と小麦粉を準備。小麦粉が足りなかったので、「成分一緒じゃね？」ということでパン粉も混ぜました。キッチン狭すぎて定員オーバー。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006784.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006784.jpg)セット！
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006785.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006785.jpg)揚がってこーい！油節約のため、フライパンを傾けて揚げます。このフライパン異常に安い上に異常に軽いのでいいです。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006786.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006786.jpg)
+時間は7、8分くらいでしょうか。揚がったら即
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006787.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006787.jpg)
+南蛮酢の海にダイブ！
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006788.jpg)サル](https://noeye69.com/wp-content/uploads/2019/09/R0006788.jpg)ベージして
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006789.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006789.jpg)切りました。いい感じ！！！衣もなんか見たことあるビジュアルでうまそう。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006793.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006793.jpg)盛り付けて完成。こないだ買ったいいお皿との相性もグンバツ。
+味はヤバすぎまして、一旦絶句して、またしても「**神！！！**」と叫んでしまいました。え、これ作ったの僕？？？やばくね？神を創造してしまった。
+晩ごはんに白いご飯食べない主義なんですが、ぜひ白飯と食いたい。揚げたてだからなのか、衣がパリパリなだけで旨さがこうも違うか。もうスーパーの惣菜コーナーのベチョベチョなチキン南蛮は食えない。いや、あれが逆にうまいときもあるんだけど。
+
+### 片付け：油の回収
+
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006790.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006790.jpg)揚げ物をすると油がもったいないので、コーヒーメーカーにキッチンのゴミ取りネット的なやつをかけて濾して回収してます。
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006791.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006791.jpg)
+こうやって濾して
+[![](https://noeye69.com/wp-content/uploads/2019/09/R0006792.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006792.jpg)
+回収。若干濁ってるけど、そんな繊細じゃない料理(カレーとか)になら全然使える。
+
+### まとめ
+
+自作のチキン南蛮ヤバいうまい。**注意点はタルタルソース作るとき、野菜の水分をなるべく切ること。**
+
+以上です。

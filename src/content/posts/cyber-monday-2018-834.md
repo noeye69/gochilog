@@ -1,0 +1,106 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2018-12-10T14:07:00+09:00
+title: "Amazonサイバーマンデーセールで買ったもの"
+slug: "cyber-monday-2018-834"
+featured: false
+draft: false
+tags:
+  - "お酒"
+  - "カメラ"
+  - "仕事"
+description: "サイバーマンデーセールでしたね。 ギフト券をチャージして買うとポイントが貯まりまくる！ということで、限定品や欲しいものリストに入れてたものをいくつか買いました。 季の美 エディションK サイバーマンデー記念発売のクラフトジン。注文した翌日に"
+ogImage: "https://noeye69.com/wp-content/uploads/2018/12/package.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/cyber-monday-2018-834.html -->
+
+サイバーマンデーセールでしたね。
+
+ギフト券をチャージして買うとポイントが貯まりまくる！ということで、限定品や欲しいものリストに入れてたものをいくつか買いました。
+
+### **季の美　エディションK**
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/package.jpg)](https://noeye69.com/wp-content/uploads/2018/12/package.jpg)
+
+サイバーマンデー記念発売のクラフトジン。注文した翌日に届いててびっくり。
+
+季の美は店で飲んだことあって、「おいしいけど高いよなー」と思ってたら限定品がさらに高い値段で売ってたので買ってみました。「ジントニックと言えばごっち！」と言われるようになるためにも、実験しなければなりません。高いので常飲はできん！特別な時だけ！
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/20181210130252346.jpg)](https://noeye69.com/wp-content/uploads/2018/12/20181210130252346.jpg)
+
+中身はこんな。高級すぎて緊張して持つ手が震えてブレてます。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/jin2.jpg)](https://noeye69.com/wp-content/uploads/2018/12/jin2.jpg)
+
+せっかく買ったので、1杯だけ飲んでみました。ウィルキンソンで割って、ポッカレモン数滴垂らしました。トニックウォーターじゃないので厳密に言うとジンソニック寄りですが。
+
+で、明らかにBEEFEATERとは異なる、高級感漂う味でした。爆香り！ユニクロとセレクトショップの服くらい違うイメージでしょうか。一般人と芸能人というか。こう書くとBEEFEATERを馬鹿にしているように聞こえるかもしれませんが、BEEFEATERも十分おいしいんです。けどこれはうまい！普通の季の美と比べても、ちょっとピリッとしてる感じでしょうか…？
+
+まあなんにせよおいしかったです。なんかの時のために取っておきます。在庫がある限り販売するそうです。
+
+![](//i.moshimo.com/af/i/impression?a_id=1126949&p_id=54&pc_id=54&pl_id=616)
+
+### **投光器**
+
+投光器という言葉を知らなかったのですが、デカいスポットライト的なヤツです。これに関しては、個人的に必要だったわけではなく、会社で必要だったので買いました。ですが、これが思った以上によくできてたのでレビューします。
+
+会社では何に使うかというと、大型ダンプに製品を積み込むときに、製品を照らして量を確認するためです。まあ暗すぎて見えづらいから照らしたいと。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/raito1.jpg)](https://noeye69.com/wp-content/uploads/2018/12/raito1.jpg)
+
+ブツです。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/raito2.jpg)](https://noeye69.com/wp-content/uploads/2018/12/raito2.jpg)
+
+中身はこのような。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/soketto.jpg)](https://noeye69.com/wp-content/uploads/2018/12/soketto.jpg)
+
+車や船で使う用なので、電源がシガーソケットに挿す形になっている。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/ko-do.jpg)](https://noeye69.com/wp-content/uploads/2018/12/ko-do.jpg)
+
+ので、変換プラグも買いました。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/rimo.jpg)](https://noeye69.com/wp-content/uploads/2018/12/rimo.jpg)
+
+リモコンがついていて、オンオフ以外に上下左右ぐるんぐるん動かせます。120°。リモコン式じゃなかったらいろいろ選択肢があったのですが、どうしてもリモコン式である必要があったのでこれにしました。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/on.jpg)](https://noeye69.com/wp-content/uploads/2018/12/on.jpg)
+
+50Wなんですが、昼間電気消して屋内ではこのくらい光ります。このハゲー！！！(自分に言ってます)
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/guai.jpg)](https://noeye69.com/wp-content/uploads/2018/12/guai.jpg)
+
+3mくらい離れてこれくらい。いいんじゃないでしょうか。
+
+Amazonのレビュー見てると、夜間の災害現場や、船の運転をする方が使われているようでした。なるほど、そういうところでも使えそう。
+
+### **Panasonicナノケア**
+
+まだ届いてないんですが。果たして本当に意味があるのか？？？
+
+![](//i.moshimo.com/af/i/impression?a_id=1126949&p_id=54&pc_id=54&pl_id=616)
+
+### タップ
+
+合わせて、タップも買いました。こういうの全部統一したい。
+
+![](//i.moshimo.com/af/i/impression?a_id=1126949&p_id=54&pc_id=54&pl_id=616)
+
+### **GR純正ストラップ**
+
+小物ですが、ずっと悩んでたストラップ問題がついに解決した。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/IMG_2891.jpg)](https://noeye69.com/wp-content/uploads/2018/12/IMG_2891.jpg)
+
+peak designのストラップ、頑丈でいいんですけど電池のフタ開かない問題。さらに、首から下げてる時に腹に当たっても邪魔じゃないように液晶側を体に当てるように首から下げると、写真撮る時にカメラを握るための動作が変な感じになる問題。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/IMG_3060.jpg)](https://noeye69.com/wp-content/uploads/2018/12/IMG_3060.jpg)
+
+てことで、純正にしました。これはカメラ上部の左右を2点吊りするので、電池のフタをふさがないし、握る時も手の動作は腹の下から持ち上げるだけでいい。スムーズ。さすが純正品。なぜこれを先に買わなかったのか。
+
+![](//i.moshimo.com/af/i/impression?a_id=1126949&p_id=54&pc_id=54&pl_id=616)
+
+以上です。

@@ -1,0 +1,154 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-07-25T12:00:00+09:00
+title: "自宅のwi-fiが遅すぎるので月100GB3,000円の格安SIM chat wifiを導入したら快適になった"
+slug: "chat-wifi-937"
+featured: false
+draft: false
+tags:
+  - "ガジェット"
+  - "スマホ"
+  - "生活改善"
+description: "自宅のwi-fiがクソです。なぜなら今のマンションに決める時、「ネット無料！」に飛びついて住み始めたからです(他にもいいところあるけど)。なので住み始めて2年でやっと対策をしました。 「ネット無料！」物件の回線速度はめちゃ遅いことがある ま"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/chat-wifi-937.html -->
+
+自宅のwi-fiがクソです。なぜなら今のマンションに決める時、「ネット無料！」に飛びついて住み始めたからです(他にもいいところあるけど)。なので住み始めて2年でやっと対策をしました。
+
+### 「ネット無料！」物件の回線速度はめちゃ遅いことがある
+
+まずはこちらをご覧ください。
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png)](https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png)
+
+ただの屍のようだ…。19時台で0Mbpsってどういうことや。
+
+ちなみに、回線速度が遅い理由は、
+
+- プロバイダが悪い(夜だけ遅い、など)
+- ルーターが古い(常に遅い)
+
+などがあり、入居当初は「ルーターが古いのか？」と思って新しいのに買い替えましたが、全く症状が改善しませんでした。
+
+で、ググってたら「ネット無料！」物件はネットが遅いことがよくあるみたいです。2年放置してきたけどいい加減ブログ書いたりするのに不便なので対策しよう。
+
+### 格安SIMのchat wifiを契約した
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/chatwifitop-e1554585409795.png)](https://noeye69.com/wp-content/uploads/2019/07/chatwifitop-e1554585409795.png)
+
+ガジェマガさんが紹介していた格安SIM「[chat wifi](https://chat-wifi.com/)」がよさげだなと思いました。
+
+音声電話が使えなかったり返却時の手間など若干めんどくさいところはありますが、ガジェマガさんの提供するクーポンを使うと
+
+- **月100GB使えて3,000円**(国内で使う場合)
+
+というにわかには信じがたい価格設定が魅力のようです。
+
+ガジェマガさんはこのSIMをDSDSスマホ(SIMカード2枚入れられるスマホ)に入れて使ってるようですが、僕はiPhoneなのでSIMが1枚しか入りません。
+
+また一方で、ちょうどLINEモバイルの混雑時間帯の遅さが気になっていたので、**「モバイルルーターにchat wifiのSIMを入れる」**ことにしました。
+
+### HUAWEIのモバイルルーターE5383s-327をゲットした
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006372.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006372.jpg)
+
+モバイルルーター、色々ある割に違いがよくわからなくて、レビュー見てておそらくchat wifiのソフトバンク回線もイケるであろうHUAWEI E5383s-327をAmazonで買いました。
+
+HUAWEI E5383s-327が6,000円なので、chat wifiの料金と合わせると1年使った場合はネット料金として3,500円/月になる計算です。2年使った場合は3,250円/月。まあ許由範囲内かと。モバイルなので持ち運べるし。
+
+### SIMをルーターに入れて設定しよう
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006385.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006385.jpg)
+
+chat wifiのSIMです。届いたときはmini SIMサイズなので、割れ目に沿ってパキッと割ってmicro SIMサイズにします。なぜならHUAWEI E5383s-327がmicro SIMサイズに対応なので。
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006377.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006377.jpg)
+
+HUAWEI E5383s-327の裏面です。
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006378.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006378.jpg)
+
+この角の部分に爪を入れて、
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006379.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006379.jpg)
+
+パカッと開くとバッテリーのスペースがあって、
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006380.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006380.jpg)
+
+右上部にSIMを入れます(画像ではもう入ってますが)。
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006384.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006384.jpg)
+
+このフタをパカっと開けて、チップの面が端子に触れるようにして入れて
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006381.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006381.jpg)
+
+フタを閉めます。
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)
+
+よっしゃ使える！と思ったら、ここからが難航しました。。。
+
+### 【注意】HUAWEI E5383s-327の初期設定はブラウザIEで行うべし
+
+最初は家で初期設定を行っていたのですが、家のネットブラウザ環境はmacのGoogle ChromeとiPhoneのsafariしかありません。
+
+HUAWEI E5383s-327に同梱されていた説明書通りにwi-fiに繋げてHUAWEIのページに遷移してパスワード入力して、**ログインボタンを押すも反応がなく、3回ログインボタンを押したところで「パスワードが違います。3分後にもう一度お試しください」と出る**…。
+
+わけがわからないのでサポートセンターに電話して解決を試みるもダメ。1時間位電話で話して最終的に「壊れている可能性があるので、修理の対応となります」と言われ、「マジかよ！！！」となって返送の手続きに入ろうとしたところで、楽天の口コミで
+
+**「ブラウザがIEじゃないとダメ」**
+
+的な事が書かれていることに気づき、IEで試してみたらすんなり行きました。**そんなことだからGoogleに嫌われるんや**と思った次第です。
+
+改めてAmazonのレビュー見ると、低評価にしてる人の中でおそらくこの**ブラウザのワナ**に気付いてないんじゃないだろうかという方が散見されました。
+
+**HUAWEI E5383s-327の初期設定はIEで行いましょう。**
+
+### 速度比較
+
+速度の目安は、**下り**(ダウンロード)で
+
+- LINEなど…～1Mbps
+- ホームページ閲覧…1Mbps～10Mbps
+- 動画…1Mbps～20Mbps
+- オンラインゲーム…30Mbps以上
+
+出てれば、それぞれ快適にできるようです。
+
+それでは速度を比較してみましょう。家のwi-fiが最もクソなので、比較対象はLINEモバイルです。左がLINEモバイル、右がchat wifi。
+
+- 昼12時台
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/99F07EDB-0200-4D11-A6D2-E07F00EA6554.jpg)](https://noeye69.com/wp-content/uploads/2019/07/99F07EDB-0200-4D11-A6D2-E07F00EA6554.jpg)
+
+昼間はLINEモバイル（ソフトバンク回線)クソですね。chat wifiはホームページ閲覧くらいなら全然できる。
+
+- 夕方5時台
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/B5A292C0-C07C-4243-9A7F-EA6FE52AE478.jpg)](https://noeye69.com/wp-content/uploads/2019/07/B5A292C0-C07C-4243-9A7F-EA6FE52AE478.jpg)
+
+LINEモバイル遅すぎだろ！chat wifi快適や。
+
+- 夜9時台
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/9F4EBF5C-7B47-45EE-915E-194ACBC48243.jpg)](https://noeye69.com/wp-content/uploads/2019/07/9F4EBF5C-7B47-45EE-915E-194ACBC48243.jpg)
+
+LINEモバイルいつまで遅いんやいい加減にしろ。
+
+- 夜11時台
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/9BEE2471-D957-4ACE-BF39-39F2D1032D04.jpg)](https://noeye69.com/wp-content/uploads/2019/07/9BEE2471-D957-4ACE-BF39-39F2D1032D04.jpg)
+
+今更LINEモバイル爆速。もう寝るって。chat wifi、めちゃくちゃ速いわけでもないけど安定して10～20Mbpsくらいは出てますね。
+
+### まとめ
+
+[![](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)
+
+とりあえず不便なく使えそうです。chat wifi、いつでも解約できるので、もしまた不満が出れば変えればいいかなと。
+
+以上です。

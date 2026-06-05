@@ -1,0 +1,87 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-10-28T12:05:34+09:00
+title: "備前焼まつりに行ってきた"
+slug: "bizenyaki-matsuri-2019-4300"
+featured: false
+draft: false
+tags:
+  - "イベントレポート"
+description: "最近お皿にハマっています。岡山県民の代表として、備前焼まつりに行ってきました。 備前焼 is 何 [blogcard url=https://bizenyakija.com/bizenyakiFeature.html] だいたいここに書いて"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/10/dfd7dccefa34aec1bfdf2a8ec5fd3c93-1024x427.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/bizenyaki-matsuri-2019-4300.html -->
+
+最近お皿にハマっています。岡山県民の代表として、備前焼まつりに行ってきました。
+
+## 備前焼 is 何
+
+![](https://noeye69.com/wp-content/uploads/2019/10/dfd7dccefa34aec1bfdf2a8ec5fd3c93-1024x427.jpg)
+だいたいここに書いてあるんですが、要は岡山県備前市発祥のいい感じの焼き物です。
+wikiの引用ですが、
+> 「使い込むほどに味が出る」と言われ、派手さはないが飽きがこないのが特色である。
+
+こういう思想、昔から僕好きですね。「いぶし銀」みたいな。1番じゃないけど、好きな人は好きみたいな。
+アンプで言うとMarshallのJCM800、カメラで言うとGR3みたいな。
+当然岡山県民だったら馴染みがあると思うんですが、「まつり」には行ったことがなかったので行ってきました。
+
+## 備前焼まつり is 何
+
+まつりです。毎年10月半ばの週末土日に開催されてるっぽいです。今年は10/19(土)20(日)に開催されていて、僕は20(日)に行きました。
+﻿
+場所は兵庫寄りの伊部(いんべ)駅の駅前で開催されています。岡山市内からだったら車で1時間弱で着くかな。
+今回は車で行きましたが、出店が多いので酔拳して感覚を麻痺させて高いお皿を買うなら電車で行ってもいいかもしれないなと思いました。
+電車だとJR赤穂線で40分600円。
+思いの外「まつり」感あって人多いです。昼過ぎに行きましたが駐車場が埋まってて割と遠いところに停める羽目になったので、そういう意味でも電車はアリかもしれない。
+
+## 行った
+
+> 備前焼まつり来た [pic.twitter.com/179aShFKsj](https://t.co/179aShFKsj)
+>
+> — 黒本晋吾 (@noeye69) [October 20, 2019](https://twitter.com/noeye69/status/1185767250319405056?ref_src=twsrc%5Etfw)
+
+![](https://noeye69.com/wp-content/uploads/2019/10/4dd772b04bc177a970022f867f81b8b1.jpg)
+めっちゃ雑に書くとこんな感じのフィールドになってます。
+
+- 出店ゾーン…青空市場みたいな感じでテントの下でお皿売ってるイメージ
+- 商店街ゾーン…まつり関係なくても普段普通に営業してるお店ゾーン
+
+商店街ゾーンは普通に長くて、全部見きれませんでした。
+
+### 出店ゾーン
+
+![](https://noeye69.com/wp-content/uploads/2019/10/0CABABE4-3425-453F-B33C-21B063920FC9-2221-000001F19234BA18-1024x576.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/1D0E87B5-E80B-4315-84CD-4A3F962C823E-2221-000001F182C2D54A-1024x576.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/9E569C05-0FF2-492F-B82F-BBBB1DC60BD3-2221-000001F1856D10FF-1024x576.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/69461620-59CA-4A1E-A08F-D84830A7F9E4-2221-000001F1A1455542-1024x576.jpg)
+こんな感じで秋まつり感ある催し物もおっぱじまりました。
+
+### 商店街ゾーン
+
+![](https://noeye69.com/wp-content/uploads/2019/10/C995B51B-8777-4FFE-BA35-616CA7D71F7B-2221-000001F1BCA4AFA7-1024x576.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/49E1DFEE-B6E7-4128-8E98-605F50A25590-2221-000001F1C12BD9D7-1024x576.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/E47208B8-A67C-4AC4-9244-40F104F6DFB9-2221-000001F1C33A89B4-1024x576.jpg)
+スピーカーwお値段110,000円www
+
+### 市川透さんという陶芸家さん気になった
+
+![](https://noeye69.com/wp-content/uploads/2019/10/E37F4F5D-3450-4DBB-9104-7EF830DBAC6C-2221-000001F1BF3026AC-1024x576.jpg)
+ガラス越しで見えづらくてすみません。結局買わなかったのですが、備前焼とは思えない奇抜なデザインの焼き物を作ってる[市川透](http://www.toru6212.tokyo/#id5)さんという方が気になりました。
+なぜ買わなかったかというと日本酒を飲むための焼き物しか？作ってないらしく、日本酒を飲むようになったら買おうかなと。
+
+## 買ったもの
+
+![](https://noeye69.com/wp-content/uploads/2019/10/R0000065-1024x683.jpg)
+備前焼って思ったほど高くなくて、今回買ったお皿はどれも3,000円前後、真ん中の平皿に関しては1,000円と良心的でした。
+![](https://noeye69.com/wp-content/uploads/2019/10/R0000066-1024x683.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/R0000068-1024x683.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/R0000067-1024x683.jpg)
+![](https://noeye69.com/wp-content/uploads/2019/10/R0000069-1-1024x683.jpg)
+いい感じ。
+
+## まとめ
+
+イベントとしても楽しいし、お皿買えるしで非常に満足度高かった。調べたら今年で37回目だそうな。来年も行こう。
+このサイト、岡山観光に特化してる総合観光案内的なHPですがSSL化されてていいですね。写真も丁寧に撮られてて本気度合いが伺えます。いつまでも暗号化されてない非SSLサイトを見つけるとガッカリします。
+以上です。

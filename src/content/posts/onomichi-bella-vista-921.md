@@ -1,0 +1,261 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-06-12T12:00:00+09:00
+title: "尾道のベラビスタ スパ＆マリーナに宿泊してきた"
+slug: "onomichi-bella-vista-921"
+featured: false
+draft: false
+tags:
+  - "いいホテル"
+  - "旅行"
+description: "僕は自信がない。岡山県民として。 なぜなら、高校以降県外に出ていて、車の免許を取って移動の自由が利く時代を岡山県外で過ごしたから。中四国地方をあまり知らないという劣等感があります(少しだけ)。 ということで、旅行する機会があれば中四国に旅行"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/06/8EBCC665-DE7E-408B-AB3D-034975C7A9C6-9459-000006DA752DEDF32.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/onomichi-bella-vista-921.html -->
+
+僕は自信がない。岡山県民として。
+
+なぜなら、高校以降県外に出ていて、車の免許を取って移動の自由が利く時代を岡山県外で過ごしたから。中四国地方をあまり知らないという劣等感があります(少しだけ)。
+
+ということで、旅行する機会があれば中四国に旅行しようという気持ちを常に持って生きており、今回は広島県は尾道を訪れました。
+
+### **Why 尾道？**
+
+- 程よい遠出感
+
+山口県ほど遠くなく、岡山県内ほど近くないちょっとした遠出感があるからです。岡山市内からだと車で1時間ちょいだし。
+
+- 泊まってみたい宿がある
+
+みなさんの旅行の動機にとても興味があるんですが、僕の旅行の動機の大半は**「宿」**です。周りの観光スポットとかは置いといて、そこに泊まりたいから行ってみる。観光スポットは当日探してもいいかな、くらいのノリ。
+
+今回は[ベラビスタ スパ&マリーナ尾道](https://www.bella-vista.jp/)というところにしました。今回の名目は以下の記事です。要は彼女にチャリをもらったので、そのお礼の旅行。
+
+### **ベラビスタ スパ&マリーナ**
+
+尾道駅から少し東に位置するベラビスタ スパ&マリーナ尾道にチェックイン。ちなみに岡山市内から行く場合や尾道で観光して行く場合、ナビの案内通り行くとまあまあすれ違いが怖い道を走ることになります。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/8EBCC665-DE7E-408B-AB3D-034975C7A9C6-9459-000006DA752DEDF32.jpg)](https://noeye69.com/wp-content/uploads/2019/06/8EBCC665-DE7E-408B-AB3D-034975C7A9C6-9459-000006DA752DEDF32.jpg)
+
+僕の思ういい宿は、チェックインのときにお茶やお菓子を出してくれるところだと思っているのですが、ベラビスタ スパ&マリーナ尾道もその類いでした。テンションの上がるオレンジジュース。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/7FE9B390-F257-4441-9E43-CBD3E6C7B706-9459-000006DA6B480AE9.jpg)](https://noeye69.com/wp-content/uploads/2019/06/7FE9B390-F257-4441-9E43-CBD3E6C7B706-9459-000006DA6B480AE9.jpg)
+
+テラスでは仲の良さそうな家族や、
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/1C7D22C4-D256-4DDE-92F5-E83247F8F601-9459-000006DA6CDFB5DF.jpg)](https://noeye69.com/wp-content/uploads/2019/06/1C7D22C4-D256-4DDE-92F5-E83247F8F601-9459-000006DA6CDFB5DF.jpg)
+
+ちょいワルオヤジが黄昏ていました。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/F4B2D011-B780-4044-88F7-E631E43D3CFF-9459-000006DA8C2A8422.jpg)](https://noeye69.com/wp-content/uploads/2019/06/F4B2D011-B780-4044-88F7-E631E43D3CFF-9459-000006DA8C2A8422.jpg)
+
+部屋イン。この部屋の特徴としては瀬戸内オーシャンがビューできるバスなのですが、大浴場がめちゃくちゃ広い上にほぼ貸し切りだったので1回も入ってません。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/528DFEFB-B6D3-46E5-ADBE-F3ADA46F4FAB-9459-000006DAC30B2A4A.jpg)](https://noeye69.com/wp-content/uploads/2019/06/528DFEFB-B6D3-46E5-ADBE-F3ADA46F4FAB-9459-000006DAC30B2A4A.jpg)
+
+ご飯に行く前にホテル内を散策してたら、「ここでテラハ撮影してるのかな？」という掘りゴタツがあったり(どういう集団なんだよ)、
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/638F8E78-4F53-4162-9D83-5D89453E7997-9459-000006DAD33B8CDB.jpg)](https://noeye69.com/wp-content/uploads/2019/06/638F8E78-4F53-4162-9D83-5D89453E7997-9459-000006DAD33B8CDB.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/37E241E5-B1F8-4B33-9838-66136BD0B7AD-9459-000006DB07C257A4.jpg)](https://noeye69.com/wp-content/uploads/2019/06/37E241E5-B1F8-4B33-9838-66136BD0B7AD-9459-000006DB07C257A4.jpg)
+
+インスタ映えする写真が撮れたりしました。
+
+### **晩ご飯はあえてホテル外へ。「田丸屋」で食べよう**
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/7DF8CFE2-3B23-43BC-B099-CDBE6BE343D4-9459-000006DBE1563D2E.jpg)](https://noeye69.com/wp-content/uploads/2019/06/7DF8CFE2-3B23-43BC-B099-CDBE6BE343D4-9459-000006DBE1563D2E.jpg)
+
+最初は晩ご飯付きプランも検討したのですが、タッグになってる寿司屋がまあまあ高いんですよね。プラン別に比較してみるとご飯代が多分20,000円くらい。お酒飲んだら25,000円は越えるでしょう。
+
+彼女がご飯の量が食えない人なので、それだったら食べに出ようということで一番近くの田丸屋というところに行きました。ベラビスタ スパ&マリーナ尾道からタクシーで10分強、2,500円くらいです。
+
+事前に調べたところとんかつ定食の画像とワインの画像が混在して出てきたりして、「ここは何屋なんだ？」という印象だったのですが、結論から言って大正解。絶対こっちのほうがコスパいい。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/7CDE473B-06CE-4803-A5C5-A57752C3E79C-9459-000006DB28B3B6AC.jpg)](https://noeye69.com/wp-content/uploads/2019/06/7CDE473B-06CE-4803-A5C5-A57752C3E79C-9459-000006DB28B3B6AC.jpg)
+
+さあドアをカランコロンカランと開けるといきなり細い通路が。至高空間への最短ルートか。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/FA8F1CEA-A699-4679-9FDE-1097BD770774-9459-000006DB2DA30CAC.jpg)](https://noeye69.com/wp-content/uploads/2019/06/FA8F1CEA-A699-4679-9FDE-1097BD770774-9459-000006DB2DA30CAC.jpg)
+
+OMOTENASHIの心遣い、ありがたい。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/9C6651C3-7EE4-43F6-AF89-E03B4FEA6FB9-9459-000006DB771FC8E2.jpg)](https://noeye69.com/wp-content/uploads/2019/06/9C6651C3-7EE4-43F6-AF89-E03B4FEA6FB9-9459-000006DB771FC8E2.jpg)
+
+右を向けば横の席にもご予約されている方が。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/41DA3412-FC17-4061-8935-E3BEA61E896D-9459-000006DB37EA7ED0.jpg)](https://noeye69.com/wp-content/uploads/2019/06/41DA3412-FC17-4061-8935-E3BEA61E896D-9459-000006DB37EA7ED0.jpg)
+
+左を向けば上質な庭を眺めながら飲めそう。すごい。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/F06BF8EE-8C69-4296-9022-8201DED1D9BD-9459-000006DB3F17E671.jpg)](https://noeye69.com/wp-content/uploads/2019/06/F06BF8EE-8C69-4296-9022-8201DED1D9BD-9459-000006DB3F17E671.jpg)
+
+壁には家訓にしたい掛け軸が。絶対いい店だろ感。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/9BF7100F-99A0-4823-9793-018F9ACC85E5-9459-000006DB46814B03.jpg)](https://noeye69.com/wp-content/uploads/2019/06/9BF7100F-99A0-4823-9793-018F9ACC85E5-9459-000006DB46814B03.jpg)
+
+18時過ぎに行ったんですが、カウンターにてすでにいい感じで飲んでおられる4人組のお客様が。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/29517BB8-08A0-439E-8386-A400CD0FF879-9459-000006DBA1CA4D85.jpg)](https://noeye69.com/wp-content/uploads/2019/06/29517BB8-08A0-439E-8386-A400CD0FF879-9459-000006DBA1CA4D85.jpg)
+
+モノクロで撮ってみたエモすぎる老夫婦。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/18DE5ACE-E63C-482A-A93C-3FBC6027A9C8-9459-000006DB4FCFF27F.jpg)](https://noeye69.com/wp-content/uploads/2019/06/18DE5ACE-E63C-482A-A93C-3FBC6027A9C8-9459-000006DB4FCFF27F.jpg)
+
+ということで、戦闘開始です。乾杯。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/8FB278BC-9804-43AF-A72B-FEDA1BB162D2-9459-000006DB80CB7DB7.jpg)](https://noeye69.com/wp-content/uploads/2019/06/8FB278BC-9804-43AF-A72B-FEDA1BB162D2-9459-000006DB80CB7DB7.jpg)
+
+牛タン塩焼きと、
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/AD692171-F360-44C4-8A28-FA54EA701660-9459-000006DB7E5FD1C1.jpg)](https://noeye69.com/wp-content/uploads/2019/06/AD692171-F360-44C4-8A28-FA54EA701660-9459-000006DB7E5FD1C1.jpg)
+
+豚のモツ煮。無限に食べれるやつでした。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/5816F241-2AC6-4A97-A38A-94E8FB0242B2-9459-000006DB85B5BEDA.jpg)](https://noeye69.com/wp-content/uploads/2019/06/5816F241-2AC6-4A97-A38A-94E8FB0242B2-9459-000006DB85B5BEDA.jpg)
+
+ビールが無くなったのでライムサワー。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/76ABAB8D-3CF7-43ED-A4D3-495192FAB150-9459-000006DB7C190ACA.jpg)](https://noeye69.com/wp-content/uploads/2019/06/76ABAB8D-3CF7-43ED-A4D3-495192FAB150-9459-000006DB7C190ACA.jpg)
+
+お造り盛り合わせです。うまいうまい。サーモンの昆布締めは初めて食べましたが、ヒラメのそれとは方向性が違いますね。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/2AFF8FA3-7332-4A1D-9A06-0F318B61747A-9459-000006DB951405EF.jpg)](https://noeye69.com/wp-content/uploads/2019/06/2AFF8FA3-7332-4A1D-9A06-0F318B61747A-9459-000006DB951405EF.jpg)
+
+普段飲まない白ワインに切り替えて
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/AD0FE751-D915-440D-967E-65CCC0C183E4-9459-000006DB835A0B77.jpg)](https://noeye69.com/wp-content/uploads/2019/06/AD0FE751-D915-440D-967E-65CCC0C183E4-9459-000006DB835A0B77.jpg)
+
+大葉が入ったウインナー。マッシュポテトもうまいうまい。お皿は多分備前焼なんだけど、洒落たタイプ。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/39B3BD67-254E-43A4-B449-7877223239A9-9459-000006DB9CED4B63.jpg)](https://noeye69.com/wp-content/uploads/2019/06/39B3BD67-254E-43A4-B449-7877223239A9-9459-000006DB9CED4B63.jpg)
+
+小エビの唐揚げ。殻がついてると泳いでるのをそのまま揚げたかのような海の味がしますね。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/73F963C9-1EBB-4D93-B313-4FE843EF5302-9459-000006DB9F4E3BD0.jpg)](https://noeye69.com/wp-content/uploads/2019/06/73F963C9-1EBB-4D93-B313-4FE843EF5302-9459-000006DB9F4E3BD0.jpg)
+
+チーズ盛り合わせ。ブルーチーズ？まあまあ口の中に残る臭さで最高なやつだった。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/7993DB29-0B27-4D34-8AE5-6E0841EEC6C1-9459-000006DBC5401E2C.jpg)](https://noeye69.com/wp-content/uploads/2019/06/7993DB29-0B27-4D34-8AE5-6E0841EEC6C1-9459-000006DBC5401E2C.jpg)
+
+広島の日本酒です。これも普段飲まないのに店の雰囲気で飲ませてくる。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/DA17FBB3-A014-4E58-8E8E-88E3A679824A-9459-000006DBD3AFCADB.jpg)](https://noeye69.com/wp-content/uploads/2019/06/DA17FBB3-A014-4E58-8E8E-88E3A679824A-9459-000006DBD3AFCADB.jpg)
+
+ホタルイカの沖漬けと
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/E1E27286-87E6-41AC-B44A-480864D84200-9459-000006DBD8C452E1.jpg)](https://noeye69.com/wp-content/uploads/2019/06/E1E27286-87E6-41AC-B44A-480864D84200-9459-000006DBD8C452E1.jpg)
+
+チーズはさみ揚げでフィニッシュ。戦闘に完全勝利しました。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/C63D84A4-851C-46F9-A0F2-444E3B8A5304-9459-000006DBE3FB56EB.jpg)](https://noeye69.com/wp-content/uploads/2019/06/C63D84A4-851C-46F9-A0F2-444E3B8A5304-9459-000006DBE3FB56EB.jpg)
+
+撮り損ねた品もありますが、このくらいで2人で10,000円行きませんでした。タクシー代加味してもホテルで寿司食べるより10,000円は安いはずです。
+
+てか岡山にあったら絶対通うわ。日曜の晩なのに最終的に老若男女子供のお客さんで満席になってたのも頷ける。
+
+### **ベラビスタ スパ&マリーナの夜**
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/3D795690-DD98-4924-AF68-406657F5925A-9459-000006DC3E2F8DD3.jpg)](https://noeye69.com/wp-content/uploads/2019/06/3D795690-DD98-4924-AF68-406657F5925A-9459-000006DC3E2F8DD3.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/27DB27D2-BA5E-4FAC-A462-8BFC860B2196-9459-000006DBEABD9CB3.jpg)](https://noeye69.com/wp-content/uploads/2019/06/27DB27D2-BA5E-4FAC-A462-8BFC860B2196-9459-000006DBEABD9CB3.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/9E954075-61B2-4C57-8F9A-5003ADC6FC3D-9459-000006DBF0269949.jpg)](https://noeye69.com/wp-content/uploads/2019/06/9E954075-61B2-4C57-8F9A-5003ADC6FC3D-9459-000006DBF0269949.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/1AE5503E-327D-44AB-A1A0-5E8BEC9D9832-9459-000006DBED564C4F.jpg)](https://noeye69.com/wp-content/uploads/2019/06/1AE5503E-327D-44AB-A1A0-5E8BEC9D9832-9459-000006DBED564C4F.jpg)
+
+兵どもが夢の跡。違うか。
+
+### **大浴場がシンプルなのに最高**
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/IwMCVz.jpeg)](https://noeye69.com/wp-content/uploads/2019/06/IwMCVz.jpeg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/YLfyr1.jpeg)](https://noeye69.com/wp-content/uploads/2019/06/YLfyr1.jpeg)
+
+画像は楽天トラベルから引っ張ってきましたが、共用の大浴場が最高でした。大体宣材写真て誇張して撮られてることが多いと思うんですが、まあまあこれに近いです。
+
+檜風呂と露天風呂の2種類しかないんですが逆にシンプルで潔いし、風呂間を移動するときに歩く石畳の廊下もめちゃくちゃ綺麗で不快感なかったです。
+
+普段大浴場付きホテルに泊まってもなんだかんだダルくて入らないこと多いんですが、今回は朝も入ってしまいました。そのくらいの価値があります。
+
+### **ベラビスタ スパ&マリーナの朝**
+
+朝です。朝食ありプランにしてたので、朝ごはんを食べに行きます。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/6FA96D8B-3993-4BC7-B0C3-6BD6802BD55E-9459-000006DC627C5836.jpg)](https://noeye69.com/wp-content/uploads/2019/06/6FA96D8B-3993-4BC7-B0C3-6BD6802BD55E-9459-000006DC627C5836.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/8AE6701E-571C-4B6D-9DCD-770DAF221316-9459-000006DC65E90641.jpg)](https://noeye69.com/wp-content/uploads/2019/06/8AE6701E-571C-4B6D-9DCD-770DAF221316-9459-000006DC65E90641.jpg)
+
+このような通路を通って庭へ移動します。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/E3771B87-B81E-49F7-A924-339FD847FD1E-9459-000006DCDE5252C9.jpg)](https://noeye69.com/wp-content/uploads/2019/06/E3771B87-B81E-49F7-A924-339FD847FD1E-9459-000006DCDE5252C9.jpg)
+
+シャレオツ。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/8881D51A-CD0F-4964-BE29-AC36A1ED7D1E-9459-000006DC7E3E72BE.jpg)](https://noeye69.com/wp-content/uploads/2019/06/8881D51A-CD0F-4964-BE29-AC36A1ED7D1E-9459-000006DC7E3E72BE.jpg)
+
+ウェルカムドリンク？的なやつを飲み干します。若干二日酔いの体にジュースが染み渡るぜ！
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/563E0C52-DE06-4F2D-B1F4-5C01BCBAD00F-9459-000006DC8D883D52.jpg)](https://noeye69.com/wp-content/uploads/2019/06/563E0C52-DE06-4F2D-B1F4-5C01BCBAD00F-9459-000006DC8D883D52.jpg)
+
+席はこんな感じ。ガラス張りで冬は寒そうですがどうなんでしょう。
+
+ワインクーラーが置いてあるところはこのように
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/513B689E-A2D4-44FC-886F-9CEDE1FAD066-9459-000006DC901A5E93.jpg)](https://noeye69.com/wp-content/uploads/2019/06/513B689E-A2D4-44FC-886F-9CEDE1FAD066-9459-000006DC901A5E93.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/9CAEA45D-2019-49E8-89F3-7EEA20FDFDB0-9459-000006DCA5904DFC.jpg)](https://noeye69.com/wp-content/uploads/2019/06/9CAEA45D-2019-49E8-89F3-7EEA20FDFDB0-9459-000006DCA5904DFC.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/52F22421-73D0-4AEA-998A-55C9D183DCD6-9459-000006DC9DAEF399.jpg)](https://noeye69.com/wp-content/uploads/2019/06/52F22421-73D0-4AEA-998A-55C9D183DCD6-9459-000006DC9DAEF399.jpg)
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/2CBA42DB-040A-4913-AC5E-CC7D4A15798D-9459-000006DCAF1B3F4E.jpg)](https://noeye69.com/wp-content/uploads/2019/06/2CBA42DB-040A-4913-AC5E-CC7D4A15798D-9459-000006DCAF1B3F4E.jpg)
+
+色味が賑やかな感じになっております。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/911A5607-9504-4997-B9D3-716E36782EB3-9459-000006DCB97C67E2.jpg)](https://noeye69.com/wp-content/uploads/2019/06/911A5607-9504-4997-B9D3-716E36782EB3-9459-000006DCB97C67E2.jpg)
+
+サラダとプリンをもらいました。チーズがうまいやつです。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/23DFEF92-D412-4152-8244-FF79F11101F3-9459-000006DCC7DD2F87.jpg)](https://noeye69.com/wp-content/uploads/2019/06/23DFEF92-D412-4152-8244-FF79F11101F3-9459-000006DCC7DD2F87.jpg)
+
+貝のスープ。これまた染み渡る。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/B89D2C46-6F0C-4F9B-9D3C-1ECB0FCE775D-9459-000006DCCC9CC839.jpg)](https://noeye69.com/wp-content/uploads/2019/06/B89D2C46-6F0C-4F9B-9D3C-1ECB0FCE775D-9459-000006DCCC9CC839.jpg)
+
+クロワッサンにバター塗って食べるの好きです。
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/52CAA875-E961-43D1-B18E-7DFA79DC6EC9-9459-000006DCD0854D83.jpg)](https://noeye69.com/wp-content/uploads/2019/06/52CAA875-E961-43D1-B18E-7DFA79DC6EC9-9459-000006DCD0854D83.jpg)
+
+鯛のなんちゃらとハンバーグのエッグベネディクトのどちらかが選べて、後者にしました。エッグベネディクト多分初めて食べた。ベネディクトってバンドありそう。ベネディクションとか。
+
+朝から満腹！
+
+### **まとめ**
+
+[![](https://noeye69.com/wp-content/uploads/2019/06/638F8E78-4F53-4162-9D83-5D89453E7997-9459-000006DAD33B8CDB.jpg)](https://noeye69.com/wp-content/uploads/2019/06/638F8E78-4F53-4162-9D83-5D89453E7997-9459-000006DAD33B8CDB.jpg)
+
+こんな感じで尾道のベラビスタ スパ&マリーナ、満喫できました。
+
+学びとしては
+
+- 大浴場で満足できるから部屋の風呂のグレード上げなくてよかった
+- 田丸屋最高。田丸屋で食事するためにベラビスタまた来たい
+
+です。
+
+宿泊料金：59,400円(29,700円/人、2ヶ月前に予約)
+
+宿泊曜日：日曜日から月曜日にかけて
+
+夕食：なし
+
+朝食：あり
+
+1年に1回くらいいいホテル泊まるとテンション上がりますね。今後も定期的にやっていきたい。
+
+﻿
+[ベラビスタ スパ&マリーナ](https://hb.afl.rakuten.co.jp/hgc/1a4ada33.04288615.1a4ada34.75028318/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106093%2F106093.html%3Fcid%3Dtr_af_1632&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIweDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjB9)
+
+﻿
+
+以上です。

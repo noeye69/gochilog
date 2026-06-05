@@ -1,0 +1,63 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2018-12-12T21:01:00+09:00
+title: "サイバーマンデーセールでPanasonicのスチーマーEH-SA69-P買ったんでとりあえず使用2回目レビュー"
+slug: "steamer-835"
+featured: false
+draft: false
+tags:
+  - "家電"
+  - "生活改善"
+description: "タバコ吸ってるクセに肌を気にするおっさんの僕です。こんばんわ。 もともと乾燥肌で、特に冬の今時期なんかは風呂上がってしばらくしたら口の周りが真っ白になるんですよね、粉吹き芋みたいに。おデコは光るのに。 化粧水や乳液もいいんですけど、よく見て"
+ogImage: "https://noeye69.com/wp-content/uploads/2018/12/R0006196.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/steamer-835.html -->
+
+タバコ吸ってるクセに肌を気にするおっさんの僕です。こんばんわ。
+
+もともと乾燥肌で、特に冬の今時期なんかは風呂上がってしばらくしたら口の周りが真っ白になるんですよね、粉吹き芋みたいに。おデコは光るのに。
+
+化粧水や乳液もいいんですけど、よく見てる男性ブロガーの方がスチーマー使ってて気になってたのでサイバーマンデーセールにかこつけて買ってみました。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006196.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006196.jpg)
+
+Panasonicのナノケアです。色々型番あるんですが、小さそうなのでこれで。型番はEH-SA69-Pです。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006033.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006033.jpg)
+
+ブツです。思ったより小さめ。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006199.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006199.jpg)
+
+付属品は説明書の他にアダプタだけのシンプルスタイル。もっと色々ごちゃごちゃ付属してるイメージだったのでよかった。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006205.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006205.jpg)
+
+水を入れるカートリッジです。水だけでいいんですね。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006206.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006206.jpg)
+
+説明書の一番オススメは精製水らしいんですが、浄水器を通した水でもいいみたいなので、とりあえずそれで。
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006204.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006204.jpg)
+
+起動していざ！ポチッとな！
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006207.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006207.jpg)
+
+うわ～
+
+[![](https://noeye69.com/wp-content/uploads/2018/12/R0006208.jpg)](https://noeye69.com/wp-content/uploads/2018/12/R0006208.jpg)
+
+わ～
+
+…
+
+…
+
+ツルリ～ン
+
+てことで、炭酸パックした時みたいにモチモチな感じになりました。もう粉吹き芋とは言わせんぞ。ちなみに、推奨されてたんでこのスチーマー当てた後化粧水と乳液を塗り込みました。
+
+感想としては、水だけでいいの！？すごい！ってのと、意外とサイズが小ぶりで邪魔にならない感じでいいなと思いました。しばらく使ってまた改めてレビューします。

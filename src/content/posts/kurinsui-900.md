@@ -1,0 +1,69 @@
+---
+author: "Shingo Kuromoto"
+pubDatetime: 2019-04-29T12:00:00+09:00
+title: "会社の浄水器をクリンスイに替えた"
+slug: "kurinsui-900"
+featured: false
+draft: false
+tags:
+  - "生活改善"
+description: "水はクリンスイに任せろ 成人の場合体の60%は水分なので、水って大事ですよね。 ペットボトルの水はゴミが邪魔 ピッチャーに浄化作用のあるものを入れるのもめんどくさい でも水道のカルキ臭い水は飲みたくない ので、一人暮らしを始めてソッコー買っ"
+ogImage: "https://noeye69.com/wp-content/uploads/2019/04/IMG_5108.jpg"
+---
+
+<!-- Migrated from WordPress: https://noeye69.com/kurinsui-900.html -->
+
+### 水はクリンスイに任せろ
+
+成人の場合体の60%は水分なので、水って大事ですよね。
+
+- ペットボトルの水はゴミが邪魔
+- ピッチャーに浄化作用のあるものを入れるのもめんどくさい
+- でも水道のカルキ臭い水は飲みたくない
+
+ので、一人暮らしを始めてソッコー買ったもののひとつに浄水器があります。
+[![](https://noeye69.com/wp-content/uploads/2019/04/IMG_5108.jpg)](https://noeye69.com/wp-content/uploads/2019/04/IMG_5108.jpg)
+Amazonで調べたらすぐ出てくるのがクリンスイ。東レのトレビーノがAmazon's choiceになっているが、クリンスイのレビュー数は群を抜いている。
+
+- 取り付けに工具不要
+- 蛇口のアダプタはほとんどのメーカーに対応
+- カートリッジは900Lで交換→1日3L以下なら1年は持つ
+
+ので、導入から維持がめちゃくちゃ楽。1年以上たった今も水漏れ等もないし、全力でオススメします。
+
+### 会社の浄水器を解約した
+
+一方で会社の浄水器は、工場の事務所の玄関マットを交換してくれる業者さんがついでに(？)交換してくれていました。
+で、僕がその代金を支払う対応をしてるんですが、月1で浄水器のカートリッジを交換してくれるときの代金がめちゃくちゃ高いなと思っていたんですよね。
+なのでふと「カートリッジの交換目安ってどんくらいなんですか？」と聞いてみたらなんと、
+「600Lです」
+とのことで、おい待てよと。
+飲食店でもないのにそんな使わねーよ！休み無し換算で1日20Lって！お茶とコーヒー入れるくらいでしか使ってないのに！ボッタクリもいいとこだろ！ふざけんな！(言ってません)
+小さいタイプで450Lで交換目安のものがあると言われましたがそれでも多いし、交換ペースは月1以外ないと言われたので、ソッコーで解約しました。
+
+### クリンスイ取り付けた
+
+めっちゃ簡単です。参考に初期状態から取り付けの様子をお届けします。
+[![](https://noeye69.com/wp-content/uploads/2019/04/A996D56D-A461-4DDB-B530-ACB3239D8796.jpg)](https://noeye69.com/wp-content/uploads/2019/04/A996D56D-A461-4DDB-B530-ACB3239D8796.jpg)
+至って普通のシンクです。
+[![](https://noeye69.com/wp-content/uploads/2019/04/E0D6CF33-89DC-41DC-B2CA-FFF45DC932DB.jpg)](https://noeye69.com/wp-content/uploads/2019/04/E0D6CF33-89DC-41DC-B2CA-FFF45DC932DB.jpg)
+至って普通の蛇口です。
+[![](https://noeye69.com/wp-content/uploads/2019/04/E8426E00-6F20-492E-9786-76C1653104B5.jpg)](https://noeye69.com/wp-content/uploads/2019/04/E8426E00-6F20-492E-9786-76C1653104B5.jpg)
+先っちょを回して外します。
+[![](https://noeye69.com/wp-content/uploads/2019/04/9ED08518-2A39-49C3-9561-D4A9014163D9.jpg)](https://noeye69.com/wp-content/uploads/2019/04/9ED08518-2A39-49C3-9561-D4A9014163D9.jpg)
+TOTOの蛇口なのでアダプタはBセットの白いほうです。
+[![](https://noeye69.com/wp-content/uploads/2019/04/CB961B73-AE42-4E6B-B6F8-D17879B1AFA0.jpg)](https://noeye69.com/wp-content/uploads/2019/04/CB961B73-AE42-4E6B-B6F8-D17879B1AFA0.jpg)
+これ。
+[![](https://noeye69.com/wp-content/uploads/2019/04/B3796FB8-BF97-4A7C-A9C5-1AC6B97492C1.jpg)](https://noeye69.com/wp-content/uploads/2019/04/B3796FB8-BF97-4A7C-A9C5-1AC6B97492C1.jpg)
+本体のポンデリングみたいなやつと合体させます。
+[![](https://noeye69.com/wp-content/uploads/2019/04/F21F4475-5D81-41BC-83C2-9363B2CA16C8.jpg)](https://noeye69.com/wp-content/uploads/2019/04/F21F4475-5D81-41BC-83C2-9363B2CA16C8.jpg)
+蛇口に付けました。
+[![](https://noeye69.com/wp-content/uploads/2019/04/F7104367-45E1-4417-ACD5-5C91D797CA8A.jpg)](https://noeye69.com/wp-content/uploads/2019/04/F7104367-45E1-4417-ACD5-5C91D797CA8A.jpg)
+本体とポンデリングをくっつけました。
+[![](https://noeye69.com/wp-content/uploads/2019/04/8AECA2A6-7355-4626-8E21-7EECE90F9A45.jpg)](https://noeye69.com/wp-content/uploads/2019/04/8AECA2A6-7355-4626-8E21-7EECE90F9A45.jpg)
+これで終わりです。
+後は浄水を1分くらい流して、フィルターに通水させれば使えます。簡単すぎる。
+使用量的に絶対1年ぐらいは使えると思う。一人暮らしや会社の事務所で使うレベルであれば3,000円の初期投資、その後の維持費はフィルター代年間1,000円ちょいでおいしい水がずっと飲めます。
+なんで毎月フィルター替えてたんだ。もと取るぞ！
+
+以上です。
