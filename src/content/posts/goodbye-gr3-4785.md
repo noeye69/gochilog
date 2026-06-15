@@ -12,7 +12,7 @@ tags:
   - "生活改善"
   - "買って後悔したもの"
 description: "1ヶ月くらい悩んだ結果、2019年春に購入したGR3を売ることにしました。 GR3を売却した GR3のいいところはたくさんあるのでできれば所有していたいのですが、先月からとある理由で明らかに使用頻度が下がりそうだったのでもっと使ってもらえそ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/11/R0003030-1024x683.jpg"
+ogImage: "/images/wp/2019/11/R0003030-1024x683.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/goodbye-gr3-4785.html -->
@@ -49,13 +49,13 @@ GR3のいいところはたくさんあるのでできれば所有していた�
 
 エフェクトの「ハイコントラスト白黒」もGR3にしか撮れない質感で、めちゃくちゃいいなと思います。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/R0003030-1024x683.jpg)
+![](/images/wp/2019/11/R0003030-1024x683.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/R0003018-1024x683.jpg)
+![](/images/wp/2019/11/R0003018-1024x683.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/R0002760-1024x683.jpg)
+![](/images/wp/2019/11/R0002760-1024x683.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/R0002697-1024x683.jpg)
+![](/images/wp/2019/11/R0002697-1024x683.jpg)
 
 僕の稚拙な言語能力だとうまく言語化できないですが、今見てもすごくいい感じがします。。。
 
@@ -83,11 +83,11 @@ Pixel 4はスマホなので当然持ち運びしやすいです。特に僕が�
 
 以下はポートレートモードで撮ってるんですが、
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191120125149476_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191120125149476_COVER-1-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191109120906708_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191109120906708_COVER-1-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191123210717899_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191123210717899_COVER-1-1024x768.jpg)
 
 これがスマホで撮れるなんて驚異的な気がします。無加工でもこんだけ画質よかったら全然いい。ボケの感じも好きです。
 
@@ -98,11 +98,11 @@ iPnohe  Xのときのポートレートモードでは
 
 みたいなことがありました。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_9646-1-768x1024.jpg)
+![](/images/wp/2019/11/IMG_9646-1-768x1024.jpg)
 
 去年iPhone Xで撮ったアイスコーヒーなんですが、ストローの先がボケてますよね。あとボケもなんか不自然。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191027145703479_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191027145703479_COVER-1-1024x768.jpg)
 
 こちらはPixel 4で撮影したアイスコーヒー。ストローの先はボケないし、奥のボケの感じも自然な気がします。スマホで撮影したとは思えない高画質。まあここら辺はiPhone 11でも同じくらい綺麗なんだとは思いますが。
 
@@ -152,7 +152,7 @@ GR3はメルカリで売却しました。約10万円で買って8.5万円で売
 
 ## まとめ：GR3、売ってよかった
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191115223558882_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191115223558882_COVER-1-1024x768.jpg)
 
 お金が無限にあれば持っててもいいのですが、時間もお金も有限なのでトータルで売ってよかったなと思っています。
 

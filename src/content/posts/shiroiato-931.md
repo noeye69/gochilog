@@ -8,12 +8,12 @@ draft: false
 tags:
   - "生活改善"
 description: "最近こんな感じで、ご飯食べるテーブルの上でブログ用の写真を撮ることが多いのですが、実はこのアングルで撮ってるのには訳がありまして、写ってない右側には熱いものを置いた時にできてしまった白い跡がついてます。 [blogcard url=http"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0005962.jpg"
+ogImage: "/images/wp/2019/07/R0005962.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/shiroiato-931.html -->
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0005962.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0005962.jpg)
+[![](/images/wp/2019/07/R0005962.jpg)](/images/wp/2019/07/R0005962.jpg)
 
 最近こんな感じで、ご飯食べるテーブルの上でブログ用の写真を撮ることが多いのですが、実はこのアングルで撮ってるのには訳がありまして、写ってない右側には熱いものを置いた時にできてしまった白い跡がついてます。
 
@@ -49,7 +49,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0005962.jpg"
 
 スチームアイロンは持ってないけど、タオル濡らしてたら効果は同じじゃね？と思ってやってみました。おそらく**「水蒸気で油をテーブルに浸透させる」**という機構ではないかと。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/IMG_9608.jpg)](https://noeye69.com/wp-content/uploads/2019/07/IMG_9608.jpg)
+[![](/images/wp/2019/07/IMG_9608.jpg)](/images/wp/2019/07/IMG_9608.jpg)
 
 やってみると思った通りで、めっちゃ綺麗になりました！水蒸気のパワーすごい。
 
@@ -57,7 +57,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0005962.jpg"
 
 どうせなら全面にやってみようと思って、全面にオリーブオイルを垂らして、塗り込んで、濡れタオル敷いてアイロンかけました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006011.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006011.jpg)
+[![](/images/wp/2019/07/R0006011.jpg)](/images/wp/2019/07/R0006011.jpg)
 
 新品同様に蘇りました。いや、むしろオリーブオイルによって艶が増したのでは？
 

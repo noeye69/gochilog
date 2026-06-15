@@ -10,7 +10,7 @@ tags:
   - "四国"
   - "旅行"
 description: "前回の尾道旅行と同じく、宿泊したホテルと別でまとめました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/10/07/moana-coast/] うなぎ処岡 うなぎにハマっています"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/10/F594BA7B-E4EA-4A0F-A4F4-F81E0BFA48CA-751-0000007B0DE71CF1.jpg"
+ogImage: "/images/wp/2019/10/F594BA7B-E4EA-4A0F-A4F4-F81E0BFA48CA-751-0000007B0DE71CF1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/tokushima-trip-4178.html -->
@@ -26,21 +26,21 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/10/F594BA7B-E4EA-4A0F-A4F4
 電話番号も間違ってないしおかしいなと思って、食事の後会計のときにうなぎ処岡の店主に聞けば、
 「70歳くらいのおじさんなんていませんよ？うちは私達夫婦2人でやってますよ笑」とのことで、完全に寒気がしました。夏の終わりに霊って出るんですかね？
 話が横道に逸れましたが、霊のおじさんとの電話を切った後彼女が電話し直したら普通にうなぎ処岡に繋がって無事予約できました。
-[![](https://noeye69.com/wp-content/uploads/2019/10/F594BA7B-E4EA-4A0F-A4F4-F81E0BFA48CA-751-0000007B0DE71CF1.jpg)](https://noeye69.com/wp-content/uploads/2019/10/F594BA7B-E4EA-4A0F-A4F4-F81E0BFA48CA-751-0000007B0DE71CF1.jpg)
+[![](/images/wp/2019/10/F594BA7B-E4EA-4A0F-A4F4-F81E0BFA48CA-751-0000007B0DE71CF1.jpg)](/images/wp/2019/10/F594BA7B-E4EA-4A0F-A4F4-F81E0BFA48CA-751-0000007B0DE71CF1.jpg)
 洒落てる看板。
-[![](https://noeye69.com/wp-content/uploads/2019/10/A2683965-D7FD-4E71-8CFC-02088DF0C4C6-751-0000007B0FC13C27.jpg)](https://noeye69.com/wp-content/uploads/2019/10/A2683965-D7FD-4E71-8CFC-02088DF0C4C6-751-0000007B0FC13C27.jpg)
+[![](/images/wp/2019/10/A2683965-D7FD-4E71-8CFC-02088DF0C4C6-751-0000007B0FC13C27.jpg)](/images/wp/2019/10/A2683965-D7FD-4E71-8CFC-02088DF0C4C6-751-0000007B0FC13C27.jpg)
 テーブル席と座敷があって、順番の都合で座敷に。
-[![](https://noeye69.com/wp-content/uploads/2019/10/IMG_0470.jpg)](https://noeye69.com/wp-content/uploads/2019/10/IMG_0470.jpg)
+[![](/images/wp/2019/10/IMG_0470.jpg)](/images/wp/2019/10/IMG_0470.jpg)
 メニューはこんな感じ。白焼きも気になるけど普通にうな重にしました。あと300円なので肝串焼きも。
-[![](https://noeye69.com/wp-content/uploads/2019/10/7D3072AE-F5A9-430E-BC9F-37BC47CE12E4-751-0000007B158F5BA3.jpg)](https://noeye69.com/wp-content/uploads/2019/10/7D3072AE-F5A9-430E-BC9F-37BC47CE12E4-751-0000007B158F5BA3.jpg)
+[![](/images/wp/2019/10/7D3072AE-F5A9-430E-BC9F-37BC47CE12E4-751-0000007B158F5BA3.jpg)](/images/wp/2019/10/7D3072AE-F5A9-430E-BC9F-37BC47CE12E4-751-0000007B158F5BA3.jpg)
 つきだしのうなぎの骨せんべい。結構固い。
-[![](https://noeye69.com/wp-content/uploads/2019/10/90235880-7648-4080-BCFD-B8F9C64416CA-751-0000007B1735DD8B.jpg)](https://noeye69.com/wp-content/uploads/2019/10/90235880-7648-4080-BCFD-B8F9C64416CA-751-0000007B1735DD8B.jpg)
+[![](/images/wp/2019/10/90235880-7648-4080-BCFD-B8F9C64416CA-751-0000007B1735DD8B.jpg)](/images/wp/2019/10/90235880-7648-4080-BCFD-B8F9C64416CA-751-0000007B1735DD8B.jpg)
 肝串焼き。うなぎの肝って苦くなくて好きです。どっちかっていうと歯ごたえが楽しい。タレはお店に代々伝わる秘伝のタレでしょうか。
-[![](https://noeye69.com/wp-content/uploads/2019/10/IMG_0469.jpg)](https://noeye69.com/wp-content/uploads/2019/10/IMG_0469.jpg)
+[![](/images/wp/2019/10/IMG_0469.jpg)](/images/wp/2019/10/IMG_0469.jpg)
 さあ来ました！うな重です。思ったより早めの提供でした。
 前行った岡山のうおじまは特に予約する必要がないんですが、出てくるまでが結構時間かかる。うなぎって焼くのに時間かかるっぽい。
 うなぎ処岡が予約制なのはお客さんになるべく早く提供するためなのかな。
-![](https://noeye69.com/wp-content/uploads/2019/10/3B329910-237C-4F08-9687-C40B346079D4-751-0000007B1B36720C-1024x683.jpg)
+![](/images/wp/2019/10/3B329910-237C-4F08-9687-C40B346079D4-751-0000007B1B36720C-1024x683.jpg)
 味はほっぺたが落ちすぎて落ちたほっぺたを受ける取り皿が必要なくらい美味しかったです。外適度にパリ、中フワ。
 で、会計で冒頭のやり取りをして退店。ほんとにあの電話のおっちゃん誰なんだ。
 ﻿
@@ -48,16 +48,16 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/10/F594BA7B-E4EA-4A0F-A4F4
 ## 雑貨屋 cue!
 
 お皿にハマっています。せっかく遠出したので、徳島でしか買えないお皿を買いたいなと。Googleマップで調べたらいい感じのお店を見つけました。
-![](https://noeye69.com/wp-content/uploads/2019/10/872E088C-C846-4168-971A-EBA432BD1E97-751-0000007B05408681-1024x683.jpg)
+![](/images/wp/2019/10/872E088C-C846-4168-971A-EBA432BD1E97-751-0000007B05408681-1024x683.jpg)
 cue!です。1階はガレージ(駐車場)、2階がお店です。
-![](https://noeye69.com/wp-content/uploads/2019/10/CF3DDE53-65CB-4601-87F7-E352C6E57232-751-0000007B07A71453-1024x683.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/6F82D898-4C55-4E60-8372-4E035265AA7C-751-0000007B0B97FB99-1024x683.jpg)
+![](/images/wp/2019/10/CF3DDE53-65CB-4601-87F7-E352C6E57232-751-0000007B07A71453-1024x683.jpg)
+![](/images/wp/2019/10/6F82D898-4C55-4E60-8372-4E035265AA7C-751-0000007B0B97FB99-1024x683.jpg)
 こんな感じでテンション上がるお店でした。
-![](https://noeye69.com/wp-content/uploads/2019/10/R0006951-1024x683.jpg)
+![](/images/wp/2019/10/R0006951-1024x683.jpg)
 で、気に入ったのでこれを買いました。
-![](https://noeye69.com/wp-content/uploads/2019/10/R0006953-1024x683.jpg)
+![](/images/wp/2019/10/R0006953-1024x683.jpg)
 お皿というより蕎麦とかのめんつゆを入れる器ですかね。ヘリンボーン。
-![](https://noeye69.com/wp-content/uploads/2019/10/R0006955-1024x683.jpg)
+![](/images/wp/2019/10/R0006955-1024x683.jpg)
 パンフレットというかハガキが置いてありまして、池田大介さんという方の作品がたまたま展示してあったようです。このタイミングでしか買えないお皿でした。ラッキー。
 他にも意識高い系はちみつが置いてあったり、ルームフレグランスが置いてあったりで楽しいお店でした。
 ﻿
@@ -66,9 +66,9 @@ cue!です。1階はガレージ(駐車場)、2階がお店です。
 
 明石海峡大橋が近いので渡ってみようと思って上陸しました。鳴門海峡は渦というか変な潮の流れが散見されました。
 タワーコーヒーは1階がHARIOとかのコーヒーメーカーが置いてあるスペース、2階が喫茶スペースになってました。
-![](https://noeye69.com/wp-content/uploads/2019/10/9D9B90A0-E2FD-48BF-B059-2D4C4D89A4E7-751-0000007B2B314BF6-1024x683.jpg)
+![](/images/wp/2019/10/9D9B90A0-E2FD-48BF-B059-2D4C4D89A4E7-751-0000007B2B314BF6-1024x683.jpg)
 2階はこんな感じでロッジ感ある店内。
-![](https://noeye69.com/wp-content/uploads/2019/10/1DFEADC2-FD4B-448E-A7B8-AAE898BEFEB1-751-0000007B271E2441-1024x683.jpg)
+![](/images/wp/2019/10/1DFEADC2-FD4B-448E-A7B8-AAE898BEFEB1-751-0000007B271E2441-1024x683.jpg)
 いつもアイスカフェオレしか飲みませんが、コーヒーゼリーが入ったカフェオレにしてみました。適度に甘くておいしかったです。コースターオシャレ。
 店頭には名物イッヌ的なイッヌもいて癒やされます。
 ﻿

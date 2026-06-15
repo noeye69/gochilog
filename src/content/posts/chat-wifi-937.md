@@ -10,7 +10,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "自宅のwi-fiがクソです。なぜなら今のマンションに決める時、「ネット無料！」に飛びついて住み始めたからです(他にもいいところあるけど)。なので住み始めて2年でやっと対策をしました。 「ネット無料！」物件の回線速度はめちゃ遅いことがある ま"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png"
+ogImage: "/images/wp/2019/07/IMG_9786.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/chat-wifi-937.html -->
@@ -21,7 +21,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png"
 
 まずはこちらをご覧ください。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png)](https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png)
+[![](/images/wp/2019/07/IMG_9786.png)](/images/wp/2019/07/IMG_9786.png)
 
 ただの屍のようだ…。19時台で0Mbpsってどういうことや。
 
@@ -36,7 +36,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png"
 
 ### 格安SIMのchat wifiを契約した
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/chatwifitop-e1554585409795.png)](https://noeye69.com/wp-content/uploads/2019/07/chatwifitop-e1554585409795.png)
+[![](/images/wp/2019/07/chatwifitop-e1554585409795.png)](/images/wp/2019/07/chatwifitop-e1554585409795.png)
 
 ガジェマガさんが紹介していた格安SIM「[chat wifi](https://chat-wifi.com/)」がよさげだなと思いました。
 
@@ -52,7 +52,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/IMG_9786.png"
 
 ### HUAWEIのモバイルルーターE5383s-327をゲットした
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006372.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006372.jpg)
+[![](/images/wp/2019/07/R0006372.jpg)](/images/wp/2019/07/R0006372.jpg)
 
 モバイルルーター、色々ある割に違いがよくわからなくて、レビュー見てておそらくchat wifiのソフトバンク回線もイケるであろうHUAWEI E5383s-327をAmazonで買いました。
 
@@ -60,35 +60,35 @@ HUAWEI E5383s-327が6,000円なので、chat wifiの料金と合わせると1年
 
 ### SIMをルーターに入れて設定しよう
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006385.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006385.jpg)
+[![](/images/wp/2019/07/R0006385.jpg)](/images/wp/2019/07/R0006385.jpg)
 
 chat wifiのSIMです。届いたときはmini SIMサイズなので、割れ目に沿ってパキッと割ってmicro SIMサイズにします。なぜならHUAWEI E5383s-327がmicro SIMサイズに対応なので。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006377.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006377.jpg)
+[![](/images/wp/2019/07/R0006377.jpg)](/images/wp/2019/07/R0006377.jpg)
 
 HUAWEI E5383s-327の裏面です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006378.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006378.jpg)
+[![](/images/wp/2019/07/R0006378.jpg)](/images/wp/2019/07/R0006378.jpg)
 
 この角の部分に爪を入れて、
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006379.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006379.jpg)
+[![](/images/wp/2019/07/R0006379.jpg)](/images/wp/2019/07/R0006379.jpg)
 
 パカッと開くとバッテリーのスペースがあって、
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006380.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006380.jpg)
+[![](/images/wp/2019/07/R0006380.jpg)](/images/wp/2019/07/R0006380.jpg)
 
 右上部にSIMを入れます(画像ではもう入ってますが)。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006384.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006384.jpg)
+[![](/images/wp/2019/07/R0006384.jpg)](/images/wp/2019/07/R0006384.jpg)
 
 このフタをパカっと開けて、チップの面が端子に触れるようにして入れて
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006381.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006381.jpg)
+[![](/images/wp/2019/07/R0006381.jpg)](/images/wp/2019/07/R0006381.jpg)
 
 フタを閉めます。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)
+[![](/images/wp/2019/07/R0006373.jpg)](/images/wp/2019/07/R0006373.jpg)
 
 よっしゃ使える！と思ったら、ここからが難航しました。。。
 
@@ -123,31 +123,31 @@ HUAWEI E5383s-327に同梱されていた説明書通りにwi-fiに繋げてHUAW
 
 - 昼12時台
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/99F07EDB-0200-4D11-A6D2-E07F00EA6554.jpg)](https://noeye69.com/wp-content/uploads/2019/07/99F07EDB-0200-4D11-A6D2-E07F00EA6554.jpg)
+[![](/images/wp/2019/07/99F07EDB-0200-4D11-A6D2-E07F00EA6554.jpg)](/images/wp/2019/07/99F07EDB-0200-4D11-A6D2-E07F00EA6554.jpg)
 
 昼間はLINEモバイル（ソフトバンク回線)クソですね。chat wifiはホームページ閲覧くらいなら全然できる。
 
 - 夕方5時台
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/B5A292C0-C07C-4243-9A7F-EA6FE52AE478.jpg)](https://noeye69.com/wp-content/uploads/2019/07/B5A292C0-C07C-4243-9A7F-EA6FE52AE478.jpg)
+[![](/images/wp/2019/07/B5A292C0-C07C-4243-9A7F-EA6FE52AE478.jpg)](/images/wp/2019/07/B5A292C0-C07C-4243-9A7F-EA6FE52AE478.jpg)
 
 LINEモバイル遅すぎだろ！chat wifi快適や。
 
 - 夜9時台
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/9F4EBF5C-7B47-45EE-915E-194ACBC48243.jpg)](https://noeye69.com/wp-content/uploads/2019/07/9F4EBF5C-7B47-45EE-915E-194ACBC48243.jpg)
+[![](/images/wp/2019/07/9F4EBF5C-7B47-45EE-915E-194ACBC48243.jpg)](/images/wp/2019/07/9F4EBF5C-7B47-45EE-915E-194ACBC48243.jpg)
 
 LINEモバイルいつまで遅いんやいい加減にしろ。
 
 - 夜11時台
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/9BEE2471-D957-4ACE-BF39-39F2D1032D04.jpg)](https://noeye69.com/wp-content/uploads/2019/07/9BEE2471-D957-4ACE-BF39-39F2D1032D04.jpg)
+[![](/images/wp/2019/07/9BEE2471-D957-4ACE-BF39-39F2D1032D04.jpg)](/images/wp/2019/07/9BEE2471-D957-4ACE-BF39-39F2D1032D04.jpg)
 
 今更LINEモバイル爆速。もう寝るって。chat wifi、めちゃくちゃ速いわけでもないけど安定して10～20Mbpsくらいは出てますね。
 
 ### まとめ
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006373.jpg)
+[![](/images/wp/2019/07/R0006373.jpg)](/images/wp/2019/07/R0006373.jpg)
 
 とりあえず不便なく使えそうです。chat wifi、いつでも解約できるので、もしまた不満が出れば変えればいいかなと。
 

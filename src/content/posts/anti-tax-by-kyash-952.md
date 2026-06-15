@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "増税、イヤですね。どうにもならないので対策をしました。kyashの導入です。 kyashの導入で増税に抗う まずkyashとは、クレジットカードで入金するタイプのプリペイドカードです。僕を例にすると、例えば今までコンビニで買い物するときは "
-ogImage: "https://noeye69.com/wp-content/uploads/2019/08/201908251525365eb.png"
+ogImage: "/images/wp/2019/08/201908251525365eb.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/anti-tax-by-kyash-952.html -->
@@ -53,7 +53,7 @@ kyashには
 
 アプリをダウンロードして画面に従って進んでいけばできます。細々と書くのは苦手なので、先人のリンクを張っておきます。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/201908251525365eb.png)](https://noeye69.com/wp-content/uploads/2019/08/201908251525365eb.png)
+[![](/images/wp/2019/08/201908251525365eb.png)](/images/wp/2019/08/201908251525365eb.png)
 
 登録するとこんな感じ。で、これを今まで使ってたクレジットカード(僕の場合は楽天カード)に紐付けます。これで、アプリ上のkyashのバーチャルカードにクレジットカードから入金できるようになります。
 
@@ -95,7 +95,7 @@ kyashには
 
 リアルカードがあれば岡山市内で日常生活する分にはほぼ困りません。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/R0006600.jpg)](https://noeye69.com/wp-content/uploads/2019/08/R0006600.jpg)
+[![](/images/wp/2019/08/R0006600.jpg)](/images/wp/2019/08/R0006600.jpg)
 
 ちょっとした外出時にはスマホと[土屋鞄のキーケース](https://noeye69.com/2019/04/26/keycase-tsuchiyakaban/)さえ持って出れば免許証に加えて
 
@@ -120,7 +120,7 @@ kyashには
 
 ### まとめ
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/R0006601.jpg)](https://noeye69.com/wp-content/uploads/2019/08/R0006601.jpg)
+[![](/images/wp/2019/08/R0006601.jpg)](/images/wp/2019/08/R0006601.jpg)
 
 増税イヤだなということで、対策してみました。「他にこんなのもあるよ！」というのがあれば教えていただきたいです。
 
@@ -129,7 +129,7 @@ kyashには
 ### 追記：【悲報】9/5の改定でkyash微妙になった
 
 9/5にkyashから1通のメールが。
-[![](https://noeye69.com/wp-content/uploads/2019/08/IMG_0149.png)](https://noeye69.com/wp-content/uploads/2019/08/IMG_0149.png)
+[![](/images/wp/2019/08/IMG_0149.png)](/images/wp/2019/08/IMG_0149.png)
 つまり
 
 - 今まで…kyash**2%**+楽天カード1%=**3%**

@@ -8,7 +8,7 @@ draft: false
 tags:
   - "音響機材"
 description: "久々に楽器系。 4年ほど使っているギターのチューナーが壊れかけているので新調しました。tc electronicのpolytune clipです。お気に入りなので色違いで全く同じものを買いました。 ギターのチューナーを新調した 左がこれまで"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/02/DSCF5056-1024x578.jpg"
+ogImage: "/images/wp/2020/02/DSCF5056-1024x578.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/tuner-5908.html -->
@@ -19,11 +19,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/02/DSCF5056-1024x578.jpg"
 
 ## ギターのチューナーを新調した
 
-![](https://noeye69.com/wp-content/uploads/2020/02/DSCF5056-1024x578.jpg)
+![](/images/wp/2020/02/DSCF5056-1024x578.jpg)
 
 左がこれまで使ってたpolytune clipの白いモデル、右が新しく買った黒いモデルです。
 
-![](https://noeye69.com/wp-content/uploads/2020/02/DSCF5057-1024x578.jpg)
+![](/images/wp/2020/02/DSCF5057-1024x578.jpg)
 
 写真だとわかりづらいんですが、これまで使ってた白い方は落としたりプラスチックの劣化によってヒビが入ってボタン電池のフタの締りが悪くなってきてました。
 
@@ -47,11 +47,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/02/DSCF5056-1024x578.jpg"
 
 当たり前ですがクリップ式なので小さいです。
 
-![](https://noeye69.com/wp-content/uploads/2020/02/DSCF5059-1024x578.jpg)
+![](/images/wp/2020/02/DSCF5059-1024x578.jpg)
 
 こんな感じでつまんで
 
-![](https://noeye69.com/wp-content/uploads/2020/02/DSCF5062-1024x578.jpg)
+![](/images/wp/2020/02/DSCF5062-1024x578.jpg)
 
 ギターのヘッドに挟むだけ。液晶の角度も変えることができて、見やすい角度に調整できるのもいい。
 
@@ -61,7 +61,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/02/DSCF5056-1024x578.jpg"
 
 今では当たり前になりましたが、単音だけじゃなくてポリフォニック(複数弦)チューニングもできます。
 
-![](https://noeye69.com/wp-content/uploads/2020/02/DSCF5054-1024x578.jpg)
+![](/images/wp/2020/02/DSCF5054-1024x578.jpg)
 
 これは机を叩いて複数の音を伝えて、チューナーが検知しているモードの画面。
 
@@ -77,13 +77,13 @@ KORGのpitchclipも使ったことあるけど、tc electronicのpolytune clip�
 
 ## まとめと告知
 
-![](https://noeye69.com/wp-content/uploads/2020/02/DSCF5052-1-1024x578.jpg)
+![](/images/wp/2020/02/DSCF5052-1-1024x578.jpg)
 
 ということでチューナーを新調してライブの準備は万端です。
 
 ここで告知です。
 
-![](https://noeye69.com/wp-content/uploads/2020/02/EQc0M4xUUAAzm_F.jpeg)
+![](/images/wp/2020/02/EQc0M4xUUAAzm_F.jpeg)
 
 明日ライブ@心斎橋HOKAGEです。久々の湯浅さん企画。やっぱりHOKAGEだ。よろしくです。
 

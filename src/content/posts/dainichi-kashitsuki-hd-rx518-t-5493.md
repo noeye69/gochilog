@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "今年も例に漏れずインフルエンザが流行ってますね。僕は結構筋肉質なのに予防注射をしてもインフルエンザになってしまう体質なんですよね。対策が必要です。 もともと使ってた加湿器は10年くらい前の型でカルキが詰まって壊れてしまったし、引っ越して部屋"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4851-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4851-1024x578.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/dainichi-kashitsuki-hd-rx518-t-5493.html -->
@@ -20,7 +20,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4851-1024x578.jpg"
 
 ## ダイニチの加湿器HD-RX518-Tでインフルエンザ対策
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4851-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4851-1024x578.jpg)
 
 ダイニチの加湿器HD-RX518-Tを購入しました。
 
@@ -62,7 +62,7 @@ Amazonで「加湿器」で検索すると安価なタイプで超音波式加�
 
 という2つの動力方式の組み合わせだから「ハイブリッド」な訳ですね。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/61xfPpoTwL._SL1000_.jpg)
+![](/images/wp/2020/01/61xfPpoTwL._SL1000_.jpg)
 
 ダイニチの加湿器HD-RX518-Tは、
 
@@ -75,29 +75,29 @@ Amazonで「加湿器」で検索すると安価なタイプで超音波式加�
 
 ## ということで、ダイニチの加湿器です
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4855-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4855-1024x578.jpg)
 
 ダイニチの加湿器は見た目もスタイリッシュでいい感じですね。象印のとか、性能はいいのかもしれませんが見た目がガチ家電過ぎて嫌すぎる。
 
 ### 50%標準モードで運転
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4863-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4863-1024x578.jpg)
 
 モード色々ありますが、50%の標準モードで運転してます。あんまり加湿しすぎても結露してレースのカーテンが汚れるし。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4857-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4857-1024x578.jpg)
 
 ちなみにこんなふうに持ち手が立ち上がります。デカい割に本体重量4.6kgで、思ったより軽いです。
 
 ### 音はSHARPの空気清浄機加湿器より静か
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4860-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4860-1024x578.jpg)
 
 で、左のメッシュ部分から蒸気が出ます。音はSHARPの空気清浄機加湿器より静かで、特に寝るときも気になりません。
 
 ### 水は1回補充すれば1日くらいは持つ
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4859-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4859-1024x578.jpg)
 
 横にタンクが付いてます。結構デカくて、2番目に大きい木造8.5畳/洋室14畳用は約5L入ります。50%の標準モードで1日に1回補充するかなぐらいです。
 
@@ -105,7 +105,7 @@ Amazonで「加湿器」で検索すると安価なタイプで超音波式加�
 
 ### フィルターはタンクの奥
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4864-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4864-1024x578.jpg)
 
 タンクを刺す部分を手前に引っ張ると、フィルターがコンニチワします。
 
@@ -115,7 +115,7 @@ Amazonで「加湿器」で検索すると安価なタイプで超音波式加�
 
 ## まとめ
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4851-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4851-1024x578.jpg)
 
 ということで、インフルエンザや、それでなくても風邪で時間を無駄にするのが嫌なので対策しました。いい感じです。
 

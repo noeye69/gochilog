@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "挑発的なタイトルになりましたが、悪意は全くありません。某書籍のタイトルのパクリです。 Googleすごい これに尽きるんですけど、ほんとGoogle社はすごい。恩恵受けまくり。 マイクロソフト社のOfficeがすごいのは十分わかってるんです"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/sigotokourituka.jpg"
+ogImage: "/images/wp/2019/03/sigotokourituka.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/wasting-time-by-office-865.html -->
@@ -48,13 +48,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/sigotokourituka.jpg"
 
 Googleの場合は、スプレッドシート関連、ドキュメント関連、Gmail関連、というように、機能ごとにまとめて見れて、なおかつその移動がしやすいです。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/sigotokourituka.jpg)](https://noeye69.com/wp-content/uploads/2019/03/sigotokourituka.jpg)
+[![](/images/wp/2019/03/sigotokourituka.jpg)](/images/wp/2019/03/sigotokourituka.jpg)
 
 スマホで見るとこんな感じ(メールがクソ貯まってるのは置いといて)。
 
 今の僕の仕事が、社内で言えば売上や仕入の管理、社外で言えば集計したものを送る系の仕事なので、この横の移動がしやすいのはすごい便利なんです。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/20190310095612b1a.jpg)](https://noeye69.com/wp-content/uploads/2019/03/20190310095612b1a.jpg)
+[![](/images/wp/2019/03/20190310095612b1a.jpg)](/images/wp/2019/03/20190310095612b1a.jpg)
 
 こんなイメージ。Googleは一本串。
 
@@ -74,7 +74,7 @@ Googleのアプリを使えば、もうそんな必要がないんです。
 
 例えば、日付、お客さんの名前、品名、数量、単価、金額などが書いてある生データがあります。これを月初にまとめて、
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/matome.jpg)](https://noeye69.com/wp-content/uploads/2019/03/matome.jpg)
+[![](/images/wp/2019/03/matome.jpg)](/images/wp/2019/03/matome.jpg)
 
 一体今月の仕入単価はいくらなんだい？というのを社長(父親)に報告していたんですが、このファイルを共有しておけば、
 

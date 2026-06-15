@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "glo、大好きです。電子タバコとしてだけではなく、ユーザー目線で作られた素晴らしい製品だと思っています。そんなgloから新作「glo pro」が発売されました。 たまたまglo proの発売の情報を知った 先日たまたまGoogle Chro"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/10/IMG_0654-1.jpg"
+ogImage: "/images/wp/2019/10/IMG_0654-1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/glo-pro-4088.html -->
@@ -28,9 +28,9 @@ glo、大好きです。電子タバコとしてだけではなく、ユーザ�
 
 glo公式HPを見る限り、「主要都市以外の人は公式HPから買うのが早いな」という感じでした。僕は岡山県に住んでいるので、発売日に買えないんです...。
 ところが発売当日の10時前の時点でも公式HPから買える気配がなかったので、広島に住んでる妹に「時間あるときにgloストア行って買って送ってくれ」とLINEしました。
-[![](https://noeye69.com/wp-content/uploads/2019/10/IMG_0654-1.jpg)](https://noeye69.com/wp-content/uploads/2019/10/IMG_0654-1.jpg)
+[![](/images/wp/2019/10/IMG_0654-1.jpg)](/images/wp/2019/10/IMG_0654-1.jpg)
 というやり取りをしたその直後！10時過ぎにオンラインストアで買えるようになってたので即注文。
-[![](https://noeye69.com/wp-content/uploads/2019/10/IMG_0657.jpg)](https://noeye69.com/wp-content/uploads/2019/10/IMG_0657.jpg)
+[![](/images/wp/2019/10/IMG_0657.jpg)](/images/wp/2019/10/IMG_0657.jpg)
 兄弟揃ってぼのぼのが好きです。
 
 ## 翌日に届いた
@@ -47,7 +47,7 @@ gloの最高なところのひとつに、「**発送が早い**」という点�
 
 ## 開けてみた
 
-[![](https://noeye69.com/wp-content/uploads/2019/10/R0006919.jpg)](https://noeye69.com/wp-content/uploads/2019/10/R0006919.jpg)
+[![](/images/wp/2019/10/R0006919.jpg)](/images/wp/2019/10/R0006919.jpg)
 開けてみました。ベージュ寄りのシャンパンカラーでゴールドのラインが見えにくくなってていい感じ。
 付属品は特に写真に撮る必要がないと思ったので撮ってませんが、
 
@@ -60,7 +60,7 @@ gloの最高なところのひとつに、「**発送が早い**」という点�
 
 ### サイズ感：glo シリーズ2とminiの中間で握りやすい
 
-[![](https://noeye69.com/wp-content/uploads/2019/10/R0006929.jpg)](https://noeye69.com/wp-content/uploads/2019/10/R0006929.jpg)
+[![](/images/wp/2019/10/R0006929.jpg)](/images/wp/2019/10/R0006929.jpg)
 並べてみました。
 左から
 
@@ -80,19 +80,19 @@ glo proの
 
 ### スティックを挿すときに開くフタが飛び出てない
 
-[![](https://noeye69.com/wp-content/uploads/2019/10/R0006930.jpg)](https://noeye69.com/wp-content/uploads/2019/10/R0006930.jpg)
+[![](/images/wp/2019/10/R0006930.jpg)](/images/wp/2019/10/R0006930.jpg)
 このようにglo シリーズ2はスライド式のフタが飛び出てるのでちょっとしたことで引っかかってフタが閉まりにくくなることがあったのですが、glo proはフタが飛び出てないので引っかかることがないので最高。
-[![](https://noeye69.com/wp-content/uploads/2019/10/R0006920.jpg)](https://noeye69.com/wp-content/uploads/2019/10/R0006920.jpg)
+[![](/images/wp/2019/10/R0006920.jpg)](/images/wp/2019/10/R0006920.jpg)
 さらによく見るとフタには滑り止めの加工がされているので閉めやすいです。しかも画像ではわかりませんが、スライドの滑らかさもより滑らかになってて閉めやすい。
 
 ### 充電：USB type-Cです
 
-[![](https://noeye69.com/wp-content/uploads/2019/10/R0006925.jpg)](https://noeye69.com/wp-content/uploads/2019/10/R0006925.jpg)
+[![](/images/wp/2019/10/R0006925.jpg)](/images/wp/2019/10/R0006925.jpg)
 充電端子はUSB type-Cで、今度買う予定のAndroidスマホのGoogle Pixel 4と同じです。個人的な話ですが、ケーブルが統一されるのは素晴らしい。
 ただし、端子の位置が変更されているので充電しながら吸う時の持ち心地は変わります。
-[![](https://noeye69.com/wp-content/uploads/2019/10/R0006927.jpg)](https://noeye69.com/wp-content/uploads/2019/10/R0006927.jpg)
+[![](/images/wp/2019/10/R0006927.jpg)](/images/wp/2019/10/R0006927.jpg)
 このようにシリーズ2は下側についてますが、
-[![](https://noeye69.com/wp-content/uploads/2019/10/R0006922.jpg)](https://noeye69.com/wp-content/uploads/2019/10/R0006922.jpg)
+[![](/images/wp/2019/10/R0006922.jpg)](/images/wp/2019/10/R0006922.jpg)
 glo proは横なので、持ち心地は変わってしまいます。まあこの辺は慣れかなとは思いますが。
 
 ## 写真ではわからない良いところ
@@ -122,7 +122,7 @@ glo proはこれまでと同じ3秒長押しで通常モード、5秒長押し�
 
 ### 公式HPで買ったからか、製品登録が完了した状態で届いた
 
-[![](https://noeye69.com/wp-content/uploads/2019/10/IMG_0660.jpg)](https://noeye69.com/wp-content/uploads/2019/10/IMG_0660.jpg)
+[![](/images/wp/2019/10/IMG_0660.jpg)](/images/wp/2019/10/IMG_0660.jpg)
 使い心地とはちょっと違うんですが、買ってしばらくしたら「製品登録が完了しました」とメールが届きました。これ何気に面倒くさくなくて最高。
 glo、製品としてはすごく良いんですけど壊れやすいのが玉に瑕。しかし、製品登録をしていれば故障しても無料で新品に交換してもらえます。
 でも製品登録ってランダムな文字列を打たなきゃいけなくて結構めんどくさいんですが、それを勝手にやってくれるなら楽ですね。

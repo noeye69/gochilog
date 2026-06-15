@@ -9,7 +9,7 @@ tags:
   - "カメラ"
   - "ガジェット"
 description: "昨日の月報で一眼レフカメラX-T30を買ったことを告白しました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/06/01/geppou-201905/] カメラって本体以外にも必"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg"
+ogImage: "/images/wp/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/x-t30-accessory-918.html -->
@@ -42,11 +42,11 @@ GR3にはリングストラップを使っていますが、このくらいの�
 
 - オシャレ部門
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg)](https://noeye69.com/wp-content/uploads/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg)Barton1972のBraided Style-Pitch Black
+[![](/images/wp/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg)](/images/wp/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg)Barton1972のBraided Style-Pitch Black
 
 - 機能部門
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/3_000000001399.jpg)](https://noeye69.com/wp-content/uploads/2019/06/3_000000001399.jpg)
+[![](/images/wp/2019/06/3_000000001399.jpg)](/images/wp/2019/06/3_000000001399.jpg)
 
 ARTISAN&ARTISTのイージースライダー
 
@@ -54,7 +54,7 @@ ARTISAN&ARTISTのイージースライダー
 
 イージースライダーに関しては、同じような機能を持ったNINJA STRAP(ニンジャストラップ)というのがあるのですが、こっちのほうが評判良さそうだったのでこれを候補に。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004719.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004719.jpg)
+[![](/images/wp/2019/06/R0004719.jpg)](/images/wp/2019/06/R0004719.jpg)
 
 で、Barton1972のBraided Style-Pitch Blackの在庫がどこにもないという消極的な理由でARTISAN&ARTISTのイージースライダーにしました。Barton1972、めちゃくちゃかっこいいんですがしょうがない。
 
@@ -78,11 +78,11 @@ FUJIFILMのカメラも、GR3と同様にバッテリーの持ちが悪いみた
 
 ということで、INPONのサムレスト。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004728.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004728.jpg)
+[![](/images/wp/2019/06/R0004728.jpg)](/images/wp/2019/06/R0004728.jpg)
 
 X-T10、X-T20用ですが、問題なく付きました。こういう金属製のパーツ、そそられる。笑
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004727.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004727.jpg)
+[![](/images/wp/2019/06/R0004727.jpg)](/images/wp/2019/06/R0004727.jpg)
 
 めっちゃ持ちやすくなりました。
 
@@ -90,17 +90,17 @@ X-T10、X-T20用ですが、問題なく付きました。こういう金属製�
 
 GR3にはなかったんですが、シャッターボタン付ける前提で穴が開いてるんですよね。これが変な押し心地なので、シャッターボタン付けてみました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004723.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004723.jpg)
+[![](/images/wp/2019/06/R0004723.jpg)](/images/wp/2019/06/R0004723.jpg)
 
 Geesoのシャッターボタンです。ボタン表面が凸/平/凹の3タイプと、緑のゴムのスペーサー？が6個入ってます。スペーサーが予備として3つ入ってるのがありがたいですね。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004720.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004720.jpg)
+[![](/images/wp/2019/06/R0004720.jpg)](/images/wp/2019/06/R0004720.jpg)
 
 僕はとりあえず凹タイプを付けてみました。いい感じ。
 
 ### **まとめ**
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004726.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004726.jpg)
+[![](/images/wp/2019/06/R0004726.jpg)](/images/wp/2019/06/R0004726.jpg)
 
 さあこれで撮りまくるぞ。
 

@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "この短期間にglo何個買ってんだ…。 gloは普通とminiというサイズの違いでバッテリー持ちが全然違う 年末に買ったリッチブラックのgloは新年会の3次会で紛失し、さらに4次会で行った焼肉屋の領収書も紛失し、途方にくれました。 「あの色、"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/01/R0006014.jpg"
+ogImage: "/images/wp/2019/01/R0006014.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/glo-broken-844.html -->
@@ -21,7 +21,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/01/R0006014.jpg"
 「あの色、気に入ってたのになー」と思ったのですが、背に腹は代えられんということで近所のファミマで買いなおしたファミマ限定のglo。
 なんかバッテリーの持ちが悪いなと思ってたら、gloって普通のとminiってサイズの2種類があるみたいですね。
 
-[![](https://noeye69.com/wp-content/uploads/2019/01/R0006014.jpg)](https://noeye69.com/wp-content/uploads/2019/01/R0006014.jpg)
+[![](/images/wp/2019/01/R0006014.jpg)](/images/wp/2019/01/R0006014.jpg)
 
 左が普通サイズ、右がファミマ限定のminiです。若干ですが横幅が違う。
 そして見た目以上に違うのがバッテリーの持ちです。普通サイズの方は20本くらいは吸えるのに対して、miniだと10本吸えるか吸えないかなので、まあまあ吸う人だとminiはあまりオススメできません。1日持たない。
@@ -30,18 +30,18 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/01/R0006014.jpg"
 
 gloはmicroUSBで充電するんですが、今週頭に買って間もないminiの方を充電しようとしたところ、中の穴がズレて入らなくなりました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/01/IMG_3481.jpg)](https://noeye69.com/wp-content/uploads/2019/01/IMG_3481.jpg)
+[![](/images/wp/2019/01/IMG_3481.jpg)](/images/wp/2019/01/IMG_3481.jpg)
 
 部品が外れてカラカラ音が鳴る…。
 ということで、交換してもらうことにしました。gloは買ったら箱の裏にシリアルナンバー的なものが振られていて、これを公式サイトで登録していれば1年間は何度でも無料で新品に交換してもらえるようです。
 新しいのが届いてからもさらに1年間保証がついているのはすごい。初期費用さえ払えば永遠に交換対応してもらえます。
 公式サイトに行って、本体に書いてある箱のとは違うシリアル番号等を伝えて、手続き完了。
 
-[![](https://noeye69.com/wp-content/uploads/2019/01/IMG_3484.jpg)](https://noeye69.com/wp-content/uploads/2019/01/IMG_3484.jpg)
+[![](/images/wp/2019/01/IMG_3484.jpg)](/images/wp/2019/01/IMG_3484.jpg)
 
 2日で新しいminiが届きました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/01/IMG_3485.jpg)](https://noeye69.com/wp-content/uploads/2019/01/IMG_3485.jpg)
+[![](/images/wp/2019/01/IMG_3485.jpg)](/images/wp/2019/01/IMG_3485.jpg)
 
 壊れたgloを送り返す袋が同梱されていました。これに壊れたgloと保証書を入れて送り返す仕組みです。
 で、結局リッチブラックをAmazonで再度購入。これをメインにして、交換してもらったminiはサブで。もう失くさんぞ…。

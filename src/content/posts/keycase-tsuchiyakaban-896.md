@@ -10,7 +10,7 @@ tags:
   - "仕事"
   - "生活改善"
 description: "財布を小型化して、カード類は別でカードホルダーに入れて持つという記事 を書きましたが、財布に入れるカードを 免許証 保険証 クレジットカード 銀行カード の4枚にしました。 使っているうちに、財布すら持ち歩くのが面倒になってきました。 例え"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4.jpg"
+ogImage: "/images/wp/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/keycase-tsuchiyakaban-896.html -->
@@ -50,7 +50,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/04/49A9C4F6-1063-49A6-AE30
 
 ---
 
-[![](https://noeye69.com/wp-content/uploads/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4.jpg)](https://noeye69.com/wp-content/uploads/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4.jpg)
+[![](/images/wp/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4.jpg)](/images/wp/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4.jpg)
 
 これ作った人に会ったら握手したい。むしろ会いに行きたい。
 
@@ -58,11 +58,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/04/49A9C4F6-1063-49A6-AE30
 
 僕の使ってる財布も土屋鞄のものなんですが、HP見てると革製品全部ここで統一したくなってくる。
 
-[![](https://noeye69.com/wp-content/uploads/2019/04/077D32ED-0DB1-4C22-BB2B-0F683B5B0128.jpg)](https://noeye69.com/wp-content/uploads/2019/04/077D32ED-0DB1-4C22-BB2B-0F683B5B0128.jpg)
+[![](/images/wp/2019/04/077D32ED-0DB1-4C22-BB2B-0F683B5B0128.jpg)](/images/wp/2019/04/077D32ED-0DB1-4C22-BB2B-0F683B5B0128.jpg)
 
 ちなみにカラーは明るい茶色、暗い茶色2色あって、明るい方にしました。春っぽい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/04/201904281706396ca.jpeg)](https://noeye69.com/wp-content/uploads/2019/04/201904281706396ca.jpeg)
+[![](/images/wp/2019/04/201904281706396ca.jpeg)](/images/wp/2019/04/201904281706396ca.jpeg)
 
 カード収納は2箇所。鍵をどれだけ付けるかにもよりますが、トータルでギリギリ2枚入るかなと。
 

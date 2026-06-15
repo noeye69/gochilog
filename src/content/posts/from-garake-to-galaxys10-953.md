@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "生活改善"
 description: "会社でいろんなクラウド化やペーパーレス化に取り組んでおり、必要に迫られて専務の会社携帯をガラケーからGalaxy S10に機種変しました。会社のお金でGalaxy S10に機種変できるなら僕も機種変したいくらいです。いいなぁ。 専務「僕はガ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/09/IMG_0038.jpg"
+ogImage: "/images/wp/2019/09/IMG_0038.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/from-garake-to-galaxys10-953.html -->
@@ -95,7 +95,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/09/IMG_0038.jpg"
 
 - HOKONUI ワイヤレスモバイルバッテリー
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0038.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0038.jpg)
+[![](/images/wp/2019/09/IMG_0038.jpg)](/images/wp/2019/09/IMG_0038.jpg)
 
 中国製。ANKER、なんでワイヤレスモバイルバッテリー早く出さないんだろう。
 

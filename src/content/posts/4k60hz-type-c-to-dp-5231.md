@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "4kディスプレイを導入して、「よっしゃ4kを堪能するぞ！」と思っていたら、思ったよりマウスがカクカクしてぴえん😂、という経験はないでしょうか？ 実際に僕も昨年末にDellの4kディスプレイU2718QMを購入して、アメリカからpixelbo"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4788-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4788-1024x578.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/4k60hz-type-c-to-dp-5231.html -->
@@ -68,7 +68,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4788-1024x578.jpg"
 
 しかし汎用性が高い分、Amazonにも多数のHDMIケーブルが存在してるわけですが、HDMIケーブルにもバージョンがあって、バージョンを明記してないケーブルもあるわけです。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4788-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4788-1024x578.jpg)
 
 例えばAmazonベーシックのHDMIケーブル、pixelbook goと接続したら4k30Hzでぴえん😂でした。
 
@@ -76,21 +76,21 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4788-1024x578.jpg"
 
 同じHDMIケーブルでもハブによっては4k30Hzしか出せないものもあるし、4k60Hzが出るものもありました。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4787-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4787-1024x578.jpg)
 
 例えば、Amazonで4k60Hzを謳っているiVANKY HDMI 2.0規格ケーブルを使った場合でも、
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4794-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4794-1024x578.jpg)
 
 このAnkerのPowerExpand+ 7-in-1ハブだと4k60Hzで表示されないけど、
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4791-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4791-1024x578.jpg)
 
 このXVZという謎のメーカーのハブだと4k60Hzで表示されてヌルヌル〜！最高〜！
 
 …と思ったけど**接続が途切れやすくて数分おきに画面が真っ暗になる、**という事態が発生したり。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4789-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4789-1024x578.jpg)
 
 途中HDMI→DPに変換する変換ケーブルを試したりもしました。動作不能(ダメ)です！動きません！
 
@@ -98,15 +98,15 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4788-1024x578.jpg"
 
 ## やっぱUSB type-C→DPがシンプルでいい
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4775-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4775-1024x578.jpg)
 
 ということで、結局辿り着いたのがuniというメーカーのUSB type-C→DPケーブルでした。pixelbook goはDellのディスプレイの後ろのケーブル隠しボックスの上に立ててます。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4779-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4779-1024x578.jpg)
 
 ん？これはケーブルや配置に散々悩んで最終的に辿り着いた、satechiのユニバーサルバーティカルアルミニウムラップトップスタンドです。pixelbook goの裏面の波々形状もかっこいいですよね。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4793-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4793-1024x578.jpg)
 
 ん？これはそのお気に入りのデスクを正面から撮ったものです。お気に入り。
 

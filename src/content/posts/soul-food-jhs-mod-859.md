@@ -8,7 +8,7 @@ draft: false
 tags:
   - "音響機材"
 description: "これをポチろうかポチるまいか悩んでいます pic.twitter.com/z4tJwfFPDs ? 黒本晋吾 (@noeye69) 2019年2月20日 結局ポチりました。Ibanez TS-808 WEED mod.。オーバードライブです"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/02/26A28DEB-1DCC-4EFB-B5A0-257EE034F377.jpg"
+ogImage: "/images/wp/2019/02/26A28DEB-1DCC-4EFB-B5A0-257EE034F377.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/soul-food-jhs-mod-859.html -->
@@ -79,7 +79,7 @@ TS系というのは不思議なエフェクターで、JCなどのクリーン�
 
 ### soul food JHS mod.は良質な塩
 
-[![](https://noeye69.com/wp-content/uploads/2019/02/26A28DEB-1DCC-4EFB-B5A0-257EE034F377.jpg)](https://noeye69.com/wp-content/uploads/2019/02/26A28DEB-1DCC-4EFB-B5A0-257EE034F377.jpg)
+[![](/images/wp/2019/02/26A28DEB-1DCC-4EFB-B5A0-257EE034F377.jpg)](/images/wp/2019/02/26A28DEB-1DCC-4EFB-B5A0-257EE034F377.jpg)
 
 あくまでも僕にとってですが。
 
@@ -103,7 +103,7 @@ TS系というのは不思議なエフェクターで、JCなどのクリーン�
 
 - ACアダプター必須
 
-[![](https://noeye69.com/wp-content/uploads/2019/02/F218008B-4F1D-438E-9B08-C715DCFDA717.jpg)](https://noeye69.com/wp-content/uploads/2019/02/F218008B-4F1D-438E-9B08-C715DCFDA717.jpg)
+[![](/images/wp/2019/02/F218008B-4F1D-438E-9B08-C715DCFDA717.jpg)](/images/wp/2019/02/F218008B-4F1D-438E-9B08-C715DCFDA717.jpg)
 
 唯一不満なのは、なんか繊細な回路があるらしくて、電池を使うと故障すること。電圧が安定しているACアダプターが必須です。僕はCAJのを使っています。
 

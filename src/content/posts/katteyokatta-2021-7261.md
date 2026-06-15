@@ -10,7 +10,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "観音クリエイションさんのアドベントカレンダー に(勝手に)参加させていただくのも今年で4回目です。 見るのも書くのも毎年の楽しみです、企画ありがとうございます。 昨年からメインの活動(？)をYoutubeに移行したためブログは放置気味でした"
-ogImage: "https://noeye69.com/wp-content/uploads/2021/12/U4021QW-1024x576.jpg"
+ogImage: "/images/wp/2021/12/U4021QW-1024x576.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/katteyokatta-2021-7261.html -->
@@ -25,7 +25,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2021/12/U4021QW-1024x576.jpg"
 
 ## ウルトラワイドモニター DELL U4021QW
 
-![](https://noeye69.com/wp-content/uploads/2021/12/U4021QW-1024x576.jpg)
+![](/images/wp/2021/12/U4021QW-1024x576.jpg)
 動画編集するなら作業領域の広いウルトラワイドモニターがいいハズ！と思って27インチのU2720QMからアップグレード。20万。(死)
  
 色もいいし、想像していた通り動画編集は快適になりました。
@@ -36,25 +36,25 @@ ogImage: "https://noeye69.com/wp-content/uploads/2021/12/U4021QW-1024x576.jpg"
 
 ## ゲーミングモニターASUS PG32UQ
 
-![](https://noeye69.com/wp-content/uploads/2021/12/PG32UQ-1024x576.jpg)
+![](/images/wp/2021/12/PG32UQ-1024x576.jpg)
 で買い替えたのがコレ。4kで144Hz(PS5だと120Hz)出せるスゴイやつ。15万。(死)
  
 DELLのU4021QW含め一般的なディスプレイのリフレッシュレートは60Hzなんですよね。普通に使う分には全然問題ないんですが、ゲームにコミットするならリフレッシュレートが高い方がいいらしい、ということで購入しました。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/C0884_Moment-1024x576.jpg)
+![](/images/wp/2021/12/C0884_Moment-1024x576.jpg)
 結果その通りで、ヌルヌルでプレイできます。60Hzと144Hzは明確に違う。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/C0895_Moment-1024x576.jpg)
+![](/images/wp/2021/12/C0895_Moment-1024x576.jpg)
 注意点としては、PC側にもスペックが求められます。グラボはGeForce RTX3080Ti(20万)をコッソリ買って使用中。
 
 ## DELL 破格4kモニター S2721QS
 
-![](https://noeye69.com/wp-content/uploads/2021/12/S2721QS-1024x576.jpg)
+![](/images/wp/2021/12/S2721QS-1024x576.jpg)
 これは年明けに友人のデスク環境構築のために購入したので、厳密に言うと自分で買っていないんですが、コスパ最強のDELLの4k27インチのモニターになります。
  
 4k27インチで3.5万円はすごいですよね。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/45bfca5d63d1d27be036e1aa774e8112-1024x576.jpg)
+![](/images/wp/2021/12/45bfca5d63d1d27be036e1aa774e8112-1024x576.jpg)
 4k、一度使ったらもうフルHDには戻れません(左：4K、右：フルHD)。字が小さく感じるのであれば設定で大きくすればいいですし。
  
 https://youtu.be/WncldQ1tC9o
@@ -63,31 +63,31 @@ https://youtu.be/WncldQ1tC9o
 さらにちなみに、友人のデスク環境構築の裏テーマは**「友人の子どもがフォートナイトにハマる」**だったんですが、現在ダダハマってくれている模様。
  
 自分の体験上、子供の頃からPCで遊ぶのは教育上いいと思っているので、制限するのではなくむしろ歓迎すべきだと考えています。
-![](https://noeye69.com/wp-content/uploads/2021/12/1621604506094..jpg)
+![](/images/wp/2021/12/1621604506094..jpg)
 
 ## BenQ Screen Bar Plus
 
-![](https://noeye69.com/wp-content/uploads/2021/12/screenbarplus-1024x576.jpg)
+![](/images/wp/2021/12/screenbarplus-1024x576.jpg)
 こちらもBenQ様からの提供なので厳密には買ってませんが、もともと廉価版のScreen Barはずっと使っていたので合わせて紹介します。
  
 どちらも機能としてはディスプレイ丈夫に引っ掛けて、ディスプレイから手元の間を照らしてくれる省スペースなデスクライトです。あるのとないのでは快適度が全然違う。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/C0674_Moment-1024x576.jpg)
+![](/images/wp/2021/12/C0674_Moment-1024x576.jpg)
 一番大きな違いは、Screen Barではバー側についているせいで操作しにくかったタッチセンサー部が、
  
-![](https://noeye69.com/wp-content/uploads/2021/12/8f88e75e3d43cb2279bb6cc8d9828ceb-1024x576.jpg)
+![](/images/wp/2021/12/8f88e75e3d43cb2279bb6cc8d9828ceb-1024x576.jpg)
 Screen Bar Plusでは独立してコントローラーとして手元に置けるようになった点です。
  
 このため、Screen Barのときには常時つけっぱなしだったライトが、Screen Bar Plusでは使わないときはきちんとオフにするようになりました。電気代の節約。地球への配慮。SDGs。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/C0716_Moment-1024x576.jpg)
+![](/images/wp/2021/12/C0716_Moment-1024x576.jpg)
 唯一残念なのは、コントローラーが有線な点です。しかし、12/13に発売したScreen Bar Haloはリモコンが付属しており、完全体となりました。
  
 ちなみに使わなくなったScreen Barは、Youtubeでの視聴者プレゼントにて手元を離れていきました。
 
 ## PCケース Meshlicious
 
-![](https://noeye69.com/wp-content/uploads/2021/12/Meshlicious-1024x576.jpg)
+![](/images/wp/2021/12/Meshlicious-1024x576.jpg)
 スケスケのメッシュのケースです。現在の自宅のメインPC。
  
 14Lと小型でとにかくかっこいい。…が、組むのは大変です。小さいので省スペースなのはいいんですが、中がとにかく狭いです。インシュロックでガチガチに配線をまとめなければいけません。
@@ -116,23 +116,23 @@ Screen Bar Plusでは独立してコントローラーとして手元に置け�
 
 ## デンカエレクトロン 編み込みケーブルまとめ
 
-![](https://noeye69.com/wp-content/uploads/2021/12/DSCF7759_Moment-1024x576.jpg)
+![](/images/wp/2021/12/DSCF7759_Moment-1024x576.jpg)
 デスクトップPCって拡張性高くてアレコレ繋げてしまうんですが、配線がゴチャつきやすいですよね。そんなときにケーブルをかっこよくまとめてくれるのがこちら。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/DSCF7780_Moment-1024x576.jpg)
+![](/images/wp/2021/12/DSCF7780_Moment-1024x576.jpg)
 5mとか10mで売られており、自分でハサミで切ってケーブルを収納します。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/DSCF7780_Moment2-1024x576.jpg)
+![](/images/wp/2021/12/DSCF7780_Moment2-1024x576.jpg)
 雑に切ってもいい感じに端が縮れるのもポイント高い。
  
 あんまりやりすぎるとメンテしづらいので程々に。僕は見えるところだけ使ってる感じです。
 
 ## モノタロウ エアコンプレッサー
 
-![](https://noeye69.com/wp-content/uploads/2021/12/27faadaad3d7893af71186987fa7e74f-1024x576.jpg)
+![](/images/wp/2021/12/27faadaad3d7893af71186987fa7e74f-1024x576.jpg)
 あると便利なエアコンプレッサー。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/f717740bc1bb245dd36e73223217f223-1024x576.jpg)
+![](/images/wp/2021/12/f717740bc1bb245dd36e73223217f223-1024x576.jpg)
 今まではエレコムとかが出してる缶のタイプのエアダスターを使っていましたが、使ってると中の気圧が下がって、缶が冷えて(理想気体の状態方程式PV=nRT)パワーが無くなるんですよね。
  
 ということでご家庭でも使いやすいオイルレスのエアコンプレッサーの導入です。
@@ -144,7 +144,7 @@ Screen Bar Plusでは独立してコントローラーとして手元に置け�
 
 ## DELL Inspiron15
 
-![](https://noeye69.com/wp-content/uploads/2021/12/Inspiron15-1024x576.jpg)
+![](/images/wp/2021/12/Inspiron15-1024x576.jpg)
 こちらは会社での簡易作業用に購入しました。主にブラウザでGoogleのスプレッドシートなどを触る用PC。
  
 PCってほんとに用途によって選ぶべきものが変わりますが、ネットくらいの用途だとこれでいい。
@@ -153,7 +153,7 @@ DELLのPCはAmazonで買うよりセール中に[メーカーのHP](https://www.
  
 CPUはネット用途ならRyzen5が一番コスパいいかなと思います。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/C0063_2_Moment3-1024x576.jpg)
+![](/images/wp/2021/12/C0063_2_Moment3-1024x576.jpg)
 素のままだとメモリが8GBで心許ないので、別途8GBのメモリを買い足して増設しました。これでフルHDの動画編集やApexもできる(あくまで"できる")くらいになりました。
  
 ちなみにこちらもYoutubeで紹介したところ、現在15万再生とプチバズりました。
@@ -162,7 +162,7 @@ https://youtu.be/hcYHZBSROZw
 
 ## 格安卓上スピーカー creative Pebble
 
-![](https://noeye69.com/wp-content/uploads/2021/12/Pebble-1024x576.jpg)
+![](/images/wp/2021/12/Pebble-1024x576.jpg)
 Pebbleはもともと会社PC用のスピーカーとして使っていましたが、改めてレビューしたら評判良かったのでここで紹介。
  
 Pebbleは2千円以下のスピーカーの中ではかなり音がいいと思います。
@@ -178,7 +178,7 @@ bluetooth版もありますが、絶対有線のほうが音は良いです。
 
 ## モニタースピーカー GENELEC 8020DPM
 
-![](https://noeye69.com/wp-content/uploads/2021/12/C0290_Moment-1024x576.jpg)
+![](/images/wp/2021/12/C0290_Moment-1024x576.jpg)
 以前作った自作スピーカーから買い替え。
  
 Youtubeで安いスピーカー比較動画を作った時、「高いのってほんとにイイの？」と思い、[レンティオ](https://www.rentio.jp/?gclid=CjwKCAiA-9uNBhBTEiwAN3IlNOD5h98UnmaZi47Y3KBlVuaGguqZnM6w6qxQEgWLwzPYn52D9b2NJBoCpq0QAvD_BwE#)という家電を数日貸してもらえるサービスでレンタルしたらマジで良かったので購入。
@@ -189,7 +189,7 @@ Youtubeで安いスピーカー比較動画を作った時、「高いのって�
 
 ## オーディオインターフェース MOTU M4
 
-![](https://noeye69.com/wp-content/uploads/2021/12/C0777_Moment-1024x576.jpg)
+![](/images/wp/2021/12/C0777_Moment-1024x576.jpg)
 スピーカーがガチならオーディオインターフェースもガチにしたく、RODEのAI-1から乗り換え。
  
 昨今の半導体不足で国内在庫の復活の目処が立っていなったので並行輸入品を購入。用途的には2in2outのM2で良かったんですが、在庫がなかったので4in4outのM4で。
@@ -198,10 +198,10 @@ Youtubeで安いスピーカー比較動画を作った時、「高いのって�
 
 ## モニターヘッドホン SHURE SRH1840
 
-![](https://noeye69.com/wp-content/uploads/2021/12/2e0d4bd0dbb4e25402335515cf01df34-1024x576.jpg)
+![](/images/wp/2021/12/2e0d4bd0dbb4e25402335515cf01df34-1024x576.jpg)
 オーディオインターフェースがガチならヘッドホンもガチにしたく、ゼンハイザーのIE 40 proから乗り換え。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/DSCF7783_Moment-1024x576.jpg)
+![](/images/wp/2021/12/DSCF7783_Moment-1024x576.jpg)
 …というよりは、IE 40 proは耳に掛けるタイプのモニタリングイヤホンなんですが、これがめんどくさかった。
  
 ゲームのときに顕著だったんですが、
@@ -222,22 +222,22 @@ SONYのMDR-900STなんて発売から30年経っても未だに「〇〇歌っ�
 
 ## ULTIMATEのマイクスタンド＋manfrottoのボール雲台
 
-![](https://noeye69.com/wp-content/uploads/2021/12/e466039839d2c6764dcc4d294b895523-1024x576.jpg)
+![](/images/wp/2021/12/e466039839d2c6764dcc4d294b895523-1024x576.jpg)
 ヘッドホンを購入したら欲しくなるスタンドですが、コイツはヘッドホンスタンドとウェブカムスタンドの2刀流、**スタンド界の大谷翔平**です。
  
 zoom時に一眼を固定する際、これまで同じくmanfrottoのミニ三脚を使用していましたが、一眼だと重くて不安定だったんですよね。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_114453273-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_114453273-1024x576.jpg)
 この組み合わせだと全部で2kgくらいあるので、これを導入することで一眼の安定感が増すと同時に、
  
-![](https://noeye69.com/wp-content/uploads/2021/12/37e424ec8c968bacc1393da9ff955426-1024x576.jpg)
+![](/images/wp/2021/12/37e424ec8c968bacc1393da9ff955426-1024x576.jpg)
 こんなこんな感じでヘッドホンスタンドにもなるという。zoomのときは必ずヘッドホンを使用するので、使用するタイミングが被らないのもグッド。
  
 物撮りする際に三脚が置きにくい時など、卓上カメラスタンドとしても使えます。
 
 ## ゲーミングマウス Logicool G pro superlight
 
-![](https://noeye69.com/wp-content/uploads/2021/12/80e78ad8561be47d41f3cd5ea2219960-1024x576.jpg)
+![](/images/wp/2021/12/80e78ad8561be47d41f3cd5ea2219960-1024x576.jpg)
 今までLogicoolのMX Master 3をメインに使用していましたが、ゲームをプレイするには重いし動かしにくいということで購入しました。
 
 - MX Master 3…142g
@@ -245,26 +245,26 @@ zoom時に一眼を固定する際、これまで同じくmanfrottoのミニ三�
 
 と半分以下の重さで、その名の通りスーパーライト。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/e5c19e0cf535403e9c989442e6d30149-1024x576.jpg)
+![](/images/wp/2021/12/e5c19e0cf535403e9c989442e6d30149-1024x576.jpg)
 充電がmicro-USBなのが微妙ですが、それ以外は花丸です。
 
 ## ゲーミングマウスパッド Logicool G240t
 
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211110_132344851.PORTRAIT-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211110_132344851.PORTRAIT-1024x576.jpg)
 今までデスクマット的なものを敷いていましたが、引っかかりが気になったので購入。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211209_111840463-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211209_111840463-1024x576.jpg)
 かなりデカイですが、滑りは良好でビクロイに貢献してくれています。
 
 ## Logitech K835(US配列)
 
-![](https://noeye69.com/wp-content/uploads/2021/12/k835-1024x576.jpg)
+![](/images/wp/2021/12/k835-1024x576.jpg)
 こちらはLogicool K835のUS配列版。国内で取り扱いがないのでAliexpress経由で輸入しました。なのでLogitech名義です。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_110355103-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_110355103-1024x576.jpg)
 日本語配列だとひらがなが刻印されていて見た目が気になるんですが、US配列版はミニマルで非常によろしい。センターにアルファベット1つ。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/Cobs_2298376_b2c9_1.jpg)
+![](/images/wp/2021/12/Cobs_2298376_b2c9_1.jpg)
 最近出たMX Keys miniも圧倒的にUS配列版の方が見た目がキレイなので、LogicoolにはUS配列のキーボードを国内に流通させて欲しいものです。
  
 K835自体は国内/国外どっちで買っても価格は5～6千円ほどと、メカニカルキーボードとしてはかなり安いですが普通に使いやすい。
@@ -274,30 +274,30 @@ K835自体は国内/国外どっちで買っても価格は5～6千円ほどと�
 
 ## **マランツプロ MPM-1000**
 
-![](https://noeye69.com/wp-content/uploads/2021/12/C0493_Moment2-1024x576.jpg)
+![](/images/wp/2021/12/C0493_Moment2-1024x576.jpg)
 こちらはzoom専用のマイク。zoomだと音にも処理が入るから高いマイクを使ったってしょうがないよね、ということで5千円くらいの安物です。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/C0752_Moment2-1024x576.jpg)
+![](/images/wp/2021/12/C0752_Moment2-1024x576.jpg)
 安物ですが、「zoomで使うんだったらこれでよくね？」ってくらいに音は良くて、TAMAのスタンドに固定してるのでいつでもzoom飲みできます。
  
 ちなみにMPM-1000はXLRケーブルを挿してオーディオインターフェースと接続するタイプのマイクですが、型違いのMPM-1000**U**はUSB接続なのでオーディオインターフェースがない方はこちらがオススメ。
 
 ## FLEXISPOT 引き出し
 
-![](https://noeye69.com/wp-content/uploads/2021/12/hikidashi-1024x576.jpg)
+![](/images/wp/2021/12/hikidashi-1024x576.jpg)
 存在は知っていたのですが、ずっと品切れだった引き出しを今年は買うことができました。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/flexispot-1024x576.jpg)
+![](/images/wp/2021/12/flexispot-1024x576.jpg)
 愛用しているFLEXISPOTの電動昇降デスクですが、欠点がありました。収納がありません。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_111815609-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_111815609-1024x576.jpg)
 しかし、この引き出しを取り付けることで収納スペースを確保することができます。鍵付きで、電動ドライバーがあれば簡単に取り付けることができます。
  
 収納の量は大したことはないですが、あると便利なのは間違いない。
 
 ## Pixel 6 Pro
 
-![](https://noeye69.com/wp-content/uploads/2021/12/pixel6pro-1024x576.jpg)
+![](/images/wp/2021/12/pixel6pro-1024x576.jpg)
 iPhoneからAndroidに戻して早2年ですが、結局Pixelシリーズが最高です。
  
 間にちょこちょこ浮気してますが、
@@ -309,14 +309,14 @@ iPhoneからAndroidに戻して早2年ですが、結局Pixelシリーズが最�
  
 iPhoneはUSB-Cになれば考えます。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211120_051937848-1024x576.jpg)
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211103_051958408.PORTRAIT-1024x576.jpg)
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211103_040807877-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211120_051937848-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211103_051958408.PORTRAIT-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211103_040807877-1024x576.jpg)
 ダフトパンクみたいなカメラですが十分綺麗です。
 
 ## ANKER soundcore librerty neo 2
 
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_112018098-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_112018098-1024x576.jpg)
 ANKERシリーズ。こちらは1個前の世代のものを使っていましたが、ついにUSB-Cに対応したということで買い替え。
  
 価格もセール時に買えば4,000円と比較的安いので雑に扱えるし、音も十分いいのでランニング時のスタメンイヤホン。
@@ -325,7 +325,7 @@ ANKERシリーズ。こちらは1個前の世代のものを使っていまし�
 
 ## ANKER soundcore life A2 NC
 
-![](https://noeye69.com/wp-content/uploads/2021/12/lifea2nc-1024x576.jpg)
+![](/images/wp/2021/12/lifea2nc-1024x576.jpg)
 ランニング以外の外出時のスタメンイヤホン。常にカバンに入っています。
  
 ラーメン屋などでのちょっとした待ち時間にYoutubeをながら聴きするのに最適です。
@@ -334,7 +334,7 @@ ANKERシリーズ。こちらは1個前の世代のものを使っていまし�
 
 ## ANKER PowerCore Fusion 10000
 
-![](https://noeye69.com/wp-content/uploads/2021/12/deeeda8f33b1e7a14e2cf4f6465aec99-1024x576.jpg)
+![](/images/wp/2021/12/deeeda8f33b1e7a14e2cf4f6465aec99-1024x576.jpg)
 こちらもカバンに常に入っている充電器兼モバイルバッテリー。
  
 これまで半分の容量の5,000mAhのものが売ってましたが、絶対10,000mAhの方がいいよなと思ってたら発売されました。
@@ -343,7 +343,7 @@ ANKERシリーズ。こちらは1個前の世代のものを使っていまし�
 
 ## SONY FX3
 
-![](https://noeye69.com/wp-content/uploads/2021/12/850c7612116999490846136e772ab7fd-1024x576.png)
+![](/images/wp/2021/12/850c7612116999490846136e772ab7fd-1024x576.png)
 最後はカメラシリーズ。Youtubeが収益化できたご褒美に買ったFX3です(まだ全然元は取れてませんが)。
  
 FUJIFILM X-T4から買い替え。見た目が最高にかっこいいです。
@@ -354,19 +354,19 @@ FUJIFILM X-T4から買い替え。見た目が最高にかっこいいです。
 
 ## SONY SEL35F14GM
 
-![](https://noeye69.com/wp-content/uploads/2021/12/3518-1024x576.png)
+![](/images/wp/2021/12/3518-1024x576.png)
 FX3の自撮りメインのレンズ。自撮り用だと35mmが丁度いいです。
  
 高いだけある。高すぎだけど。
 
 ## SONY SEL24F14GM
 
-![](https://noeye69.com/wp-content/uploads/2021/12/2414-1024x576.png)
+![](/images/wp/2021/12/2414-1024x576.png)
 35mmだと画角が狭い時用。高いだけある。高すぎだけど…。
 
 ## SONY α7C
 
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_113155550-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_113155550-1024x576.jpg)
 メインと色味を揃えたいのでサブカメラだったFUJIFILMのX-S10から買い替え。
  
 Youtube以外でも、zoomでウェブカムとしてこれを使えばほぼ100%「写りめっちゃ良くない？」と言われます。おじさんが写りよくてもしょうがないけど。
@@ -375,7 +375,7 @@ Youtube以外でも、zoomでウェブカムとしてこれを使えばほぼ100
 
 ## SIGMA 28-70mm F2.8 DG DN
 
-![](https://noeye69.com/wp-content/uploads/2021/12/sigma-1024x576.png)
+![](/images/wp/2021/12/sigma-1024x576.png)
 SONY純正は高すぎるので、サブカメラには半額以下のサードパーティー製で。
 
 - ズームできて
@@ -388,7 +388,7 @@ SONY純正は高すぎるので、サブカメラには半額以下のサード�
 
 ## マイク Sennheiser MKE200
 
-![](https://noeye69.com/wp-content/uploads/2021/12/MKE200-1024x576.jpg)
+![](/images/wp/2021/12/MKE200-1024x576.jpg)
 今年発売されたMKE200、vlog用神マイクです。
  
 普段は同メーカーのMKE600で音声収録していますが、指向性が高く正面からの音の収録にしか向いていません。
@@ -397,14 +397,14 @@ SONY純正は高すぎるので、サブカメラには半額以下のサード�
  
 そんなときに便利なのがMKE600の弟分的存在、MKE200です。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/sennheiser-1024x576.png)
+![](/images/wp/2021/12/sennheiser-1024x576.png)
 一応集音部はこちら側ですが、前後両方向から音声を録音してもある程度聞ける音で録れます。これがMKE600では前後で差がありすぎて無理なんですよね。
  
 スマホで使うためのケーブルも同梱されているので、スマホでもすぐ使えます。
 
 ## 照明 GODOX UL150
 
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_113723945-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_113723945-1024x576.jpg)
 照明もアップグレードしました。150wで0～100%まで1刻みで明るさを調整できます。
  
 ガチなメーカーのAputureは素人が手を出すには高過ぎるんですが(10万超え)、こちらGODOXはギリ買えます。それでも5万しますが…(今値段見て改めてビビりました)。
@@ -418,7 +418,7 @@ SONY純正は高すぎるので、サブカメラには半額以下のサード�
 
 ## 小型補助照明 Pixel G1S
 
-![](https://noeye69.com/wp-content/uploads/2021/12/6dee720f7498bb43c796216be1b36592-1024x576.png)
+![](/images/wp/2021/12/6dee720f7498bb43c796216be1b36592-1024x576.png)
 こちらは補助照明です。白はもちろん、青とか赤とか色を変えることができます。
 
 - どうしてももう少し明かりが欲しい
@@ -426,17 +426,17 @@ SONY純正は高すぎるので、サブカメラには半額以下のサード�
 
 ときに使います。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_114104364-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_114104364-1024x576.jpg)
 机を壁に寄せて置いた場合、どうしてもzoom時に逆光になってしまうんですが、そんなときに自分の顔に向けて使ったり、
  
-![](https://noeye69.com/wp-content/uploads/2021/12/Meshlicious-1024x576.jpg)
+![](/images/wp/2021/12/Meshlicious-1024x576.jpg)
 この写真だと画角の左外に青く光らせて置くことで、雰囲気をいい感じにしてくれます。
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_113937295-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_113937295-1024x576.jpg)
 USB-Cで充電できるのも◯。
  
  
-![](https://noeye69.com/wp-content/uploads/2021/12/PXL_20211213_114134052-1024x576.jpg)
+![](/images/wp/2021/12/PXL_20211213_114134052-1024x576.jpg)
 カメラのシューに固定したい場合は、こちらのアダプターを使用して固定しています。前後左右の角度調整しやすい地味にいいアクセサリー。
 
 ## まとめ

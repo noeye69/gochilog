@@ -9,7 +9,7 @@ tags:
   - "カメラ"
   - "ガジェット"
 description: "発売日前に急に気になって調べてたら気付いたら買ってました、GR3。GR2は下取りに出して。 GRシリーズが持ついぶし銀の魅力はなんなんでしょうね…。 発売日に届くように予約したのに、登録した住所の番地がなぜか記載漏れで入ってなかったせいで手"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/9FEBF295-A582-4505-B982-FFD6328CC45D.jpg"
+ogImage: "/images/wp/2019/03/9FEBF295-A582-4505-B982-FFD6328CC45D.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/first-impression-of-gr3-874.html -->
@@ -36,25 +36,25 @@ GRシリーズが持ついぶし銀の魅力はなんなんでしょうね…。
 
 興奮を抑えつつ、開封の様子を雑に撮りました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/9FEBF295-A582-4505-B982-FFD6328CC45D.jpg)](https://noeye69.com/wp-content/uploads/2019/03/9FEBF295-A582-4505-B982-FFD6328CC45D.jpg)
+[![](/images/wp/2019/03/9FEBF295-A582-4505-B982-FFD6328CC45D.jpg)](/images/wp/2019/03/9FEBF295-A582-4505-B982-FFD6328CC45D.jpg)
 
 墨色っぽい箱です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/0B536ACD-8467-4D7D-A2BB-E66946FC8522.jpg)](https://noeye69.com/wp-content/uploads/2019/03/0B536ACD-8467-4D7D-A2BB-E66946FC8522.jpg)
+[![](/images/wp/2019/03/0B536ACD-8467-4D7D-A2BB-E66946FC8522.jpg)](/images/wp/2019/03/0B536ACD-8467-4D7D-A2BB-E66946FC8522.jpg)
 
 初回限定の青いリングです。せっかくのオールブラックが台無しになるので僕はつけません。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/A999357D-3090-429A-8F94-9C9D3D943AF7.jpg)](https://noeye69.com/wp-content/uploads/2019/03/A999357D-3090-429A-8F94-9C9D3D943AF7.jpg)
+[![](/images/wp/2019/03/A999357D-3090-429A-8F94-9C9D3D943AF7.jpg)](/images/wp/2019/03/A999357D-3090-429A-8F94-9C9D3D943AF7.jpg)
 
 キター！！！このオシャレとは言い難い無骨な見た目！ミリタリー感！数値上小さくなっているので当然なんですが、確かにGR2よりコンパクトになった感じがします。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/CE8A43B8-D201-4AD2-A223-293B3E2C95C2.jpg)](https://noeye69.com/wp-content/uploads/2019/03/CE8A43B8-D201-4AD2-A223-293B3E2C95C2.jpg)
+[![](/images/wp/2019/03/CE8A43B8-D201-4AD2-A223-293B3E2C95C2.jpg)](/images/wp/2019/03/CE8A43B8-D201-4AD2-A223-293B3E2C95C2.jpg)
 
 裏面はこのような。液晶ディスプレイがデカくなってます。
 
 前評判では十字キーが右肩上がりに傾いてると言われてたけど、触ったら確かに少しそんな感じになるけど僕のは割と水平で、アタリではないだろうか。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/AE0EF77F-B3F4-46FA-B54B-54452776EF7F.jpg)](https://noeye69.com/wp-content/uploads/2019/03/AE0EF77F-B3F4-46FA-B54B-54452776EF7F.jpg)
+[![](/images/wp/2019/03/AE0EF77F-B3F4-46FA-B54B-54452776EF7F.jpg)](/images/wp/2019/03/AE0EF77F-B3F4-46FA-B54B-54452776EF7F.jpg)
 
 バッテリーです。左がGR3、右がGR2の互換品です。使えるかもと思ってて取ってたけど、使えんのかい！
 
@@ -73,47 +73,47 @@ GRシリーズが持ついぶし銀の魅力はなんなんでしょうね…。
 
 早速出かけました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001781.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001781.jpg)[![](https://noeye69.com/wp-content/uploads/2019/03/R0001784.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001784.jpg)
+[![](/images/wp/2019/03/R0001781.jpg)](/images/wp/2019/03/R0001781.jpg)[![](/images/wp/2019/03/R0001784.jpg)](/images/wp/2019/03/R0001784.jpg)
 
 近所の神社です。
 
 今回タッチパネルでピントが合わせられるのがいいですね。GR2の時デフォルトの設定だとまあまあの頻度で「そうじゃねんだよ！」ってなってたのが、GR3だとあんまない。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001799.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001799.jpg)
+[![](/images/wp/2019/03/R0001799.jpg)](/images/wp/2019/03/R0001799.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001798.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001798.jpg)
+[![](/images/wp/2019/03/R0001798.jpg)](/images/wp/2019/03/R0001798.jpg)
 
 ブラブラ歩いて公園に来ました。
 
 こんな感じで、手前にピントを合わせるのか、奥にピントを合わせるのか、タッチ1つで解決できるのすごい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001795.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001795.jpg)
+[![](/images/wp/2019/03/R0001795.jpg)](/images/wp/2019/03/R0001795.jpg)
 
 手前。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001796.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001796.jpg)
+[![](/images/wp/2019/03/R0001796.jpg)](/images/wp/2019/03/R0001796.jpg)
 
 奥。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001802.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001802.jpg)
+[![](/images/wp/2019/03/R0001802.jpg)](/images/wp/2019/03/R0001802.jpg)
 
 おっさんがパンジーを撮りますよ！綺麗に映るな。マクロモードもいい感じです。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001803.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001803.jpg)
+[![](/images/wp/2019/03/R0001803.jpg)](/images/wp/2019/03/R0001803.jpg)
 
 脳内お花畑大学生。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001933.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001933.jpg)
+[![](/images/wp/2019/03/R0001933.jpg)](/images/wp/2019/03/R0001933.jpg)
 
 夜も徘徊してみました。近所のマンション。光加減がエモい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001934.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001934.jpg)
+[![](/images/wp/2019/03/R0001934.jpg)](/images/wp/2019/03/R0001934.jpg)
 
 神社に通づる道。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001935.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001935.jpg)
+[![](/images/wp/2019/03/R0001935.jpg)](/images/wp/2019/03/R0001935.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0001936.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0001936.jpg)
+[![](/images/wp/2019/03/R0001936.jpg)](/images/wp/2019/03/R0001936.jpg)
 
 神社です。左右対称なのがいい感じ。
 

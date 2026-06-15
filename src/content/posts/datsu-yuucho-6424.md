@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "ゆうちょ銀行を使い始めたのは確か京都で浪人してたときだったと思いますが、15年ほど使ってきたゆうちょ銀行の使用を辞めることにしました。 郵便局が嫌いすぎる ある日、とあるキャッシュバックを受け取りに郵便局に行った際に、シャチハタが必要な箇所"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/06/f81fd2e4c52864042852c112ce927ae2.png"
+ogImage: "/images/wp/2020/06/f81fd2e4c52864042852c112ce927ae2.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/datsu-yuucho-6424.html -->
@@ -47,7 +47,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/06/f81fd2e4c52864042852c11
 
 ## 楽天銀行に乗り換えた
 
-![](https://noeye69.com/wp-content/uploads/2020/06/f81fd2e4c52864042852c112ce927ae2.png)
+![](/images/wp/2020/06/f81fd2e4c52864042852c112ce927ae2.png)
 引っ越し先は楽天銀行。
  
 というのも、会社に従業員も使える共用のクレジットカード欲しいなと思って、楽天カードの諸々の手続きの最中に「あ、このタイミングでゆうちょから離れよう」と思い、実行したというワケです。

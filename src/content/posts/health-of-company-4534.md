@@ -8,7 +8,7 @@ draft: false
 tags:
   - "仕事"
 description: "会社の数字を見てて気付いたことがあるので記事にしてみます。 最近効率がいいのかもしれない 従業員「現場を見た感じ、最近あんまり在庫ないですね」 僕「いや、入荷自体は結構ありますよ」 従業員「じゃあ効率よく捌けてるってことなんですね」 という"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/11/ec84edd163ac24323b18bca40428031d.jpg"
+ogImage: "/images/wp/2019/11/ec84edd163ac24323b18bca40428031d.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/health-of-company-4534.html -->
@@ -62,7 +62,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/11/ec84edd163ac24323b18bca
 ## うちの会社の効率指数をグラフにしてみた
 
 ここからはうちの会社のリアルな効率指数の推移です。
-![](https://noeye69.com/wp-content/uploads/2019/11/ec84edd163ac24323b18bca40428031d.jpg)
+![](/images/wp/2019/11/ec84edd163ac24323b18bca40428031d.jpg)
 これグラフにした時、「なるほどな」と思いました。妙に納得感がある。
 そもそも2017年から効率指数がまあまあ乱高下していて、2018年4月から9月は効率指数が直線的に下がっていて、**特に7～9月は連続で1を割り込んでいる。**
 で、10月に「とある問題」をきっかけに**従業員が一人辞めています**。12月に部長が変わって、2019年4月に「とある問題」に本格的に取り組みました。まだ完全に解決したわけではありませんが。

@@ -11,7 +11,7 @@ tags:
   - "料理"
   - "生活改善"
 description: "備前焼まつりでゲットしたお皿を使って、ベーコンまつりを開催しました。 今日のお料理 炙りベーコンのカルボナーラ 炙りベーコンのポテサラ サラダ です。 材料 炙りベーコンのカルボナーラ 予め作っておいたベーコン バター 牛乳 生クリーム 粉"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_184449-1024x768.jpg"
+ogImage: "/images/wp/2019/10/IMG_20191027_184449-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/bacon-fes-4384.html -->
@@ -62,40 +62,40 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_184449-102
 
 ## 炙りベーコンのカルボナーラ
 
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_184449-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_184449-1024x768.jpg)
 イントロからサビの曲みたく最初に盛り上がりどころが来ますが、作り置きしてたベーコンを炙ります。耐熱容器に入れてるので大丈夫なはず。
-![](https://noeye69.com/wp-content/uploads/2019/10/00100trPORTRAIT_00100_BURST20191027184633763_COVER-1024x768.jpg)
+![](/images/wp/2019/10/00100trPORTRAIT_00100_BURST20191027184633763_COVER-1024x768.jpg)
 爆香りです。燻製のいい匂いがブワッと台所中に広がりました。ちなみに今回はもも肉。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_185829-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_185829-1024x768.jpg)
 バターを溶かします。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_185900-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_185900-1024x768.jpg)
 生クリームと牛乳と粉チーズととろけるチーズを入れてひと煮立ちさせます。塩コショウで味を整えてベーコン入れてソースの完成。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_191130-768x1024.jpg)
+![](/images/wp/2019/10/IMG_20191027_191130-768x1024.jpg)
 麺を茹でます。今回はイオンで売ってた麺工房にしむらの「フェットチーネ　大麦パスタ」です。カルボナーラと言えば平麺ですね。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_191307-768x1024.jpg)
+![](/images/wp/2019/10/IMG_20191027_191307-768x1024.jpg)
 これがめちゃくちゃうまくて、茹でても千切れないし見た目もいいのでリピート決定。
 
 ## 炙りベーコンのポテサラ
 
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_175433-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_175433-1024x768.jpg)
 たまごを茹でます。コンロが一つ空くので、このゆでたまごを電子レンジで作るやつ好きです。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_175219-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_175219-1024x768.jpg)
 じゃがいもです。なんか黄色みが強い品種だったようです。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_180138-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_180138-1024x768.jpg)
 茹で時間短縮のために半分くらいに切っておきました。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_182237-1-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_182237-1-1024x768.jpg)
 箸が刺さるくらいまで茹でます。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_181833-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_181833-1024x768.jpg)
 ピクルスが余ってたので使い切りました。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_182415-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_182415-1024x768.jpg)
 茹で上がったのでマッシュマッシュ！
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_182707-1-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_182707-1-1024x768.jpg)
 食堂マルシンのポテサラに近づけるために、煮干しと鰹節を粉砕して混ぜ込むことにしました。煮干しの頭とハラワタを取ります。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_182851-768x1024.jpg)
+![](/images/wp/2019/10/IMG_20191027_182851-768x1024.jpg)
 鰹節はそのままボトルに入れてセット
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_182925-768x1024.jpg)
+![](/images/wp/2019/10/IMG_20191027_182925-768x1024.jpg)
 粉砕。いい感じ。多分。
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_183201-1-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_183201-1-1024x768.jpg)
 粉砕したやつ、ゆでたまご、マヨネーズ、塩コショウなどを入れて混ぜます。完成。
 
 ## サラダ
@@ -104,10 +104,10 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_184449-102
 
 ## 完成
 
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_192506-1024x768.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/IMG_20191027_192412-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_192506-1024x768.jpg)
+![](/images/wp/2019/10/IMG_20191027_192412-1024x768.jpg)
 最近買ったお皿をふんだんに使って盛り付けました。
-![](https://noeye69.com/wp-content/uploads/2019/10/00100trPORTRAIT_00100_BURST20191027192439156_COVER-1024x768.jpg)
+![](/images/wp/2019/10/00100trPORTRAIT_00100_BURST20191027192439156_COVER-1024x768.jpg)
 この青いお皿もいい感じ。岡山のフランクで買いました。
 味は毎度おなじみの自画自賛になりますが最高でした。
 

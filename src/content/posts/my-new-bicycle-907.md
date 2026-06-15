@@ -9,7 +9,7 @@ tags:
   - "ファッション"
   - "生活改善"
 description: "先日チャリをゲットしました。彼女からタダで。 チャリゲット！！！ pic.twitter.com/eFTKrDt7Oh ? 黒本晋吾 (@noeye69) 2019年4月13日 10年以上乗っていたGIANTのマウンテンバイクのサスペンショ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg"
+ogImage: "/images/wp/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/my-new-bicycle-907.html -->
@@ -33,13 +33,13 @@ HPカッコイイ。
 
 色がめっちゃいい感じのマットブラックなんですが、鍵がホワイト、ベルがゴールドだったんで、ブラックに統一しました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg)](https://noeye69.com/wp-content/uploads/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg)
+[![](/images/wp/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg)](/images/wp/2019/05/E8A87837-8E7D-4467-AE21-30B7092821DC.jpg)
 
 多分同じ型の別メーカーが作ったやつ。赤ポチ、邪魔だなとは思うけどオールブラックないんですよね。
 
 GIANTの時は鍵がダイヤル式じゃなくて物理キーがあるタイプだったんですが、鍵が邪魔なのでダイヤル式にしました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/05/6076C7E9-4320-4046-8399-11F469E25A69.jpg)](https://noeye69.com/wp-content/uploads/2019/05/6076C7E9-4320-4046-8399-11F469E25A69.jpg)
+[![](/images/wp/2019/05/6076C7E9-4320-4046-8399-11F469E25A69.jpg)](/images/wp/2019/05/6076C7E9-4320-4046-8399-11F469E25A69.jpg)
 
 ベル。ライトもキャットアイってメーカーのだから、ハンドル周りはキャットアイに任せろ！って感じです。値段も安いし。
 
@@ -47,7 +47,7 @@ GIANTの時は鍵がダイヤル式じゃなくて物理キーがあるタイプ
 
 ---
 
-[![](https://noeye69.com/wp-content/uploads/2019/05/B3452919-5744-4DD9-B949-C823FD2BEFE1.jpg)](https://noeye69.com/wp-content/uploads/2019/05/B3452919-5744-4DD9-B949-C823FD2BEFE1.jpg)
+[![](/images/wp/2019/05/B3452919-5744-4DD9-B949-C823FD2BEFE1.jpg)](/images/wp/2019/05/B3452919-5744-4DD9-B949-C823FD2BEFE1.jpg)
 
 イカすな。これで大都会岡山を疾走するぜ。
 

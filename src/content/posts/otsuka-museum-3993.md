@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "先日徳島旅行に行きました。 明石海峡大橋から見える大塚国際美術館に「時間あるから寄っていくか」くらいの、今思えば軽すぎる気持ちで行ったことを激しく後悔しています。 「何歳のオトナが書いてるんだ」という内容ですが今年33歳、懺悔の記録です。 "
-ogImage: "https://noeye69.com/wp-content/uploads/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg"
+ogImage: "/images/wp/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/otsuka-museum-3993.html -->
@@ -31,7 +31,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/09/2D6D05F1-9E67-439F-BA3D
 調べたら岡山県倉敷市の大原美術館の入館料は1,300円でした。その約3倍はやっぱり高いのでは？
 と思って更に調べたら、**大塚国際美術館は日本で一番入館料が高い**んですね。
 元を取るべく、それなりに写真撮りました。
-[![](https://noeye69.com/wp-content/uploads/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg)](https://noeye69.com/wp-content/uploads/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg)](https://noeye69.com/wp-content/uploads/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg)](https://noeye69.com/wp-content/uploads/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)](https://noeye69.com/wp-content/uploads/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)
+[![](/images/wp/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg)](/images/wp/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg) [![](/images/wp/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg)](/images/wp/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg) [![](/images/wp/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg)](/images/wp/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg) [![](/images/wp/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)](/images/wp/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)
 うん、綺麗ですね。
 
 ## 高い入館料のワケが知りたくて公式HP見たら涙が止まらねぇよ
@@ -50,22 +50,22 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/09/2D6D05F1-9E67-439F-BA3D
 - **初代館長「本物は将来新婚旅行ででも見てくれ。私は真実の姿を永遠に伝えたいんだ」**
 
 …
-[![](https://noeye69.com/wp-content/uploads/2019/09/3d46d65dfedd27fde3a12c1b2007e97a.jpg)](https://noeye69.com/wp-content/uploads/2019/09/3d46d65dfedd27fde3a12c1b2007e97a.jpg)
+[![](/images/wp/2019/09/3d46d65dfedd27fde3a12c1b2007e97a.jpg)](/images/wp/2019/09/3d46d65dfedd27fde3a12c1b2007e97a.jpg)
 いやもう本当になんというか「高いとか馬鹿なこと言ってごめんなさい」という気持ちになったし、ただただ感動した。
 **もうコピーとかの次元を超えて、美術館全体が完全なるオリジナルで、巨大なバックアップだった**。
 しかも最初に「鳴門海峡の砂を使ってタイルが作りたい」と提案した従業員2人は、会社が取り組んでくれないなら会社を辞める覚悟だったそうな。アツすぎる。
 
 ## 背景を踏まえた上でもう一度見てみる
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg)](https://noeye69.com/wp-content/uploads/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg)](https://noeye69.com/wp-content/uploads/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg)](https://noeye69.com/wp-content/uploads/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)](https://noeye69.com/wp-content/uploads/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)
+[![](/images/wp/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg)](/images/wp/2019/09/2D6D05F1-9E67-439F-BA3D-89E9E0D16AC2-751-0000007B305D51C4.jpg) [![](/images/wp/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg)](/images/wp/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA.jpg) [![](/images/wp/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg)](/images/wp/2019/09/E1CD8C17-BC51-435D-BE1E-C9BAEDD85F52-751-0000007B3469CA1E.jpg) [![](/images/wp/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)](/images/wp/2019/09/F292BC98-B6DE-42B6-A5E0-B2C0CE068F75-751-0000007B3A2C091A.jpg)
 同じ写真なのに背景を知ると見え方がまるで変わってくる。これ全部、絵の具じゃなくてタイルに色を付けて焼き固めてるんだな。
 これ、イタリアにあるシスティーナ礼拝堂という建物の天井画の再現らしいです。**イタリア行って本物見てみたい。笑**
 今思えば大塚国際美術館に入って最初の展示品がこの「システィーナ礼拝堂の天井画」だし、途中2階からも見れるし一番見せたいんだなということが伝わってくる。
 他の展示品の写真も。
-[![](https://noeye69.com/wp-content/uploads/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA-1.jpg)](https://noeye69.com/wp-content/uploads/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA-1.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/8119313F-4D36-432B-BCCB-44C098E272FB-751-0000007B8E22ED7A-1.jpg)](https://noeye69.com/wp-content/uploads/2019/09/8119313F-4D36-432B-BCCB-44C098E272FB-751-0000007B8E22ED7A-1.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/B47E9BB4-D170-43C0-AC00-992325D921BC-751-0000007BB6DADD0B-1.jpg)](https://noeye69.com/wp-content/uploads/2019/09/B47E9BB4-D170-43C0-AC00-992325D921BC-751-0000007BB6DADD0B-1.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/BFE1DABE-F43B-42DC-ADC9-BD2C7BD1E3CB-751-0000007BCD2C2D19-1.jpg)](https://noeye69.com/wp-content/uploads/2019/09/BFE1DABE-F43B-42DC-ADC9-BD2C7BD1E3CB-751-0000007BCD2C2D19-1.jpg)
-[![](https://noeye69.com/wp-content/uploads/2019/09/1B9CB0BD-C3A0-48CE-969C-1DF71B2C0D53-751-0000007BC03046AD.jpg)](https://noeye69.com/wp-content/uploads/2019/09/1B9CB0BD-C3A0-48CE-969C-1DF71B2C0D53-751-0000007BC03046AD.jpg)
+[![](/images/wp/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA-1.jpg)](/images/wp/2019/09/82422C5F-0E22-4601-B550-CA6837B2C04E-751-0000007BC2B4DFCA-1.jpg) [![](/images/wp/2019/09/8119313F-4D36-432B-BCCB-44C098E272FB-751-0000007B8E22ED7A-1.jpg)](/images/wp/2019/09/8119313F-4D36-432B-BCCB-44C098E272FB-751-0000007B8E22ED7A-1.jpg) [![](/images/wp/2019/09/B47E9BB4-D170-43C0-AC00-992325D921BC-751-0000007BB6DADD0B-1.jpg)](/images/wp/2019/09/B47E9BB4-D170-43C0-AC00-992325D921BC-751-0000007BB6DADD0B-1.jpg) [![](/images/wp/2019/09/BFE1DABE-F43B-42DC-ADC9-BD2C7BD1E3CB-751-0000007BCD2C2D19-1.jpg)](/images/wp/2019/09/BFE1DABE-F43B-42DC-ADC9-BD2C7BD1E3CB-751-0000007BCD2C2D19-1.jpg)
+[![](/images/wp/2019/09/1B9CB0BD-C3A0-48CE-969C-1DF71B2C0D53-751-0000007BC03046AD.jpg)](/images/wp/2019/09/1B9CB0BD-C3A0-48CE-969C-1DF71B2C0D53-751-0000007BC03046AD.jpg)
 写真撮ってる時「コピー品のコピー撮っててなんか滑稽だな」と思ってたけど、逆に写真に撮っててよかった。
-[![](https://noeye69.com/wp-content/uploads/2019/09/2E104D2B-B832-4545-8AB7-5FDD8A550B90-751-0000007B8346A680.jpg)](https://noeye69.com/wp-content/uploads/2019/09/2E104D2B-B832-4545-8AB7-5FDD8A550B90-751-0000007B8346A680.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/34E5D566-65AC-493A-94AA-2471D7ECD7DF-751-0000007B740F55C3.jpg)](https://noeye69.com/wp-content/uploads/2019/09/34E5D566-65AC-493A-94AA-2471D7ECD7DF-751-0000007B740F55C3.jpg) [![](https://noeye69.com/wp-content/uploads/2019/09/178656D0-C3E8-4A79-A3AB-96ABFE6D88C3-751-0000007B781B1A04.jpg)](https://noeye69.com/wp-content/uploads/2019/09/178656D0-C3E8-4A79-A3AB-96ABFE6D88C3-751-0000007B781B1A04.jpg)
+[![](/images/wp/2019/09/2E104D2B-B832-4545-8AB7-5FDD8A550B90-751-0000007B8346A680.jpg)](/images/wp/2019/09/2E104D2B-B832-4545-8AB7-5FDD8A550B90-751-0000007B8346A680.jpg) [![](/images/wp/2019/09/34E5D566-65AC-493A-94AA-2471D7ECD7DF-751-0000007B740F55C3.jpg)](/images/wp/2019/09/34E5D566-65AC-493A-94AA-2471D7ECD7DF-751-0000007B740F55C3.jpg) [![](/images/wp/2019/09/178656D0-C3E8-4A79-A3AB-96ABFE6D88C3-751-0000007B781B1A04.jpg)](/images/wp/2019/09/178656D0-C3E8-4A79-A3AB-96ABFE6D88C3-751-0000007B781B1A04.jpg)
 これも全部タイルのコピー品だったのか。すごい。
 ちなみにコピー品だから触ってOKだそうです。触っときゃよかった。
 

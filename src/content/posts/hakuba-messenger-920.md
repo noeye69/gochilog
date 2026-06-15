@@ -9,7 +9,7 @@ tags:
   - "カメラ"
   - "ファッション"
 description: "気付けばHAKUBAの製品を結構使っていた HAKUBAというメーカー、カメラが趣味の方はどこかしらで目にしたことがあると思います。 カメラのケースやブロワー、三脚、掃除用のレンズペン、レンズフィルターや液晶保護フィルムなど、カメラを使う上"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/06/R0004762.jpg"
+ogImage: "/images/wp/2019/06/R0004762.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/hakuba-messenger-920.html -->
@@ -55,7 +55,7 @@ HAKUBAというメーカー、カメラが趣味の方はどこかしらで目�
 
 で、あれでもないこれでもないと探し続けて見つけたのが、HAKUBAのカメラバッグ、「プラスシェル シティ04 メッセンジャー Mサイズ」です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004762.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004762.jpg)
+[![](/images/wp/2019/06/R0004762.jpg)](/images/wp/2019/06/R0004762.jpg)
 
 デザインも無駄にゴチャついてないし、**一見いわゆるカメラバッグに見えないのもいい。**Peak designのプレーンな感じの見た目に近いのに、これで5,000円台。
 
@@ -71,7 +71,7 @@ HAKUBAというメーカー、カメラが趣味の方はどこかしらで目�
 
 ### **収納してみた**
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004768.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004768.jpg)
+[![](/images/wp/2019/06/R0004768.jpg)](/images/wp/2019/06/R0004768.jpg)
 
 - 財布
 - キーケース
@@ -82,47 +82,47 @@ HAKUBAというメーカー、カメラが趣味の方はどこかしらで目�
 
 です。純粋にカメラ用品しか入れないんじゃなくて、普段必要なものも入れる想定です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004780.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004780.jpg)
+[![](/images/wp/2019/06/R0004780.jpg)](/images/wp/2019/06/R0004780.jpg)
 
 開梱時は仕切りが2つ入ってて、マジックテープで壁面にくっついてます。なので、自分の好きなように仕切り位置を変えることができます。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004763.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004763.jpg)
+[![](/images/wp/2019/06/R0004763.jpg)](/images/wp/2019/06/R0004763.jpg)
 
 入りました。カメラの横の充電器等を入れているスペースにレンズ1本くらい入りそうなので、今後レンズが増えた場合にはここに入れたい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004770.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004770.jpg)
+[![](/images/wp/2019/06/R0004770.jpg)](/images/wp/2019/06/R0004770.jpg)
 
 財布や予備のバッテリーは前側の2つのポケットに収納。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004777.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004777.jpg)
+[![](/images/wp/2019/06/R0004777.jpg)](/images/wp/2019/06/R0004777.jpg)
 
 fire HD 8は8インチなのですが、背中側の収納スペースに入れます。内寸は横幅が24cmなので、iPad Pro(約27cm)は入らないですね。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004779.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004779.jpg)
+[![](/images/wp/2019/06/R0004779.jpg)](/images/wp/2019/06/R0004779.jpg)
 
 フラップの部分にもチャックがついてて、
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004778.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004778.jpg)
+[![](/images/wp/2019/06/R0004778.jpg)](/images/wp/2019/06/R0004778.jpg)
 
 小物を入れるスペースがあるのも気が利いている。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004773.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004773.jpg)
+[![](/images/wp/2019/06/R0004773.jpg)](/images/wp/2019/06/R0004773.jpg)
 
 横から見るとこんな感じ。カメラバッグってクッションとか入ってるからどうしてもボテッとしてしまいますね。まあしょうがない。
 
 底面がターポリンで補強されてるのもあって自立しますね。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004774.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004774.jpg)
+[![](/images/wp/2019/06/R0004774.jpg)](/images/wp/2019/06/R0004774.jpg)
 
 キャリーケースの取っ手に引っ掛けることを想定した持ち手が付いてるのもいいですね。
 
 ### **いいところ：フラップ上部から内部にアクセスできる**
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004776.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004776.jpg)
+[![](/images/wp/2019/06/R0004776.jpg)](/images/wp/2019/06/R0004776.jpg)
 
 で、このバッグの一番いいところですが、フラップの上部にチャックがついてて、
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/R0004775.jpg)](https://noeye69.com/wp-content/uploads/2019/06/R0004775.jpg)
+[![](/images/wp/2019/06/R0004775.jpg)](/images/wp/2019/06/R0004775.jpg)
 
 マジックテープ付きフラップを開けなくてもすぐにカバン内部にアクセスできます。
 

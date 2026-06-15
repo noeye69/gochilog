@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "今までは実家の洗濯機の買い替えに伴って玉突きで出てきた2003年製の旧National製のドラム洗濯機の初期型を使っていましたが、引っ越しに伴って「流石にもう買い換えよう」ということで日立のビッグドラムBD-SX110CLを買いました。 2"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/01/IMG_20191230_123150-1-1024x768.jpg"
+ogImage: "/images/wp/2020/01/IMG_20191230_123150-1-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/drum-mizumore-5290.html -->
@@ -24,7 +24,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/IMG_20191230_123150-1-1
 
 堀口さんと同じ日立のビッグドラムBD-SX110CL購入して「これでQOL爆上がりや！」とウッキウキで回してみたのですが、**トラブル発生。何故か洗濯が終わると洗面台の下がビショ濡れです。**
 
-![](https://noeye69.com/wp-content/uploads/2020/01/IMG_20191230_123150-1-1024x768.jpg)
+![](/images/wp/2020/01/IMG_20191230_123150-1-1024x768.jpg)
 
 これは水漏れがわかりやすいように紙を敷いて写真を撮ったものですが、こんな感じで洗濯機の横に置いてある洗面台の下がビシャビシャになります。最悪です。
 
@@ -42,7 +42,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/IMG_20191230_123150-1-1
 
 ## やったこと：デフォルトの空冷除湿方式から水冷除湿方式に切り替える
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4849-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4849-1024x578.jpg)
 
 やったこととしては乾燥方式の変更です。
 
@@ -63,13 +63,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/IMG_20191230_123150-1-1
 
 ### 洗剤と柔軟剤が自動投入なのでいちいち計らなくていい
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4845-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4845-1024x578.jpg)
 
 日立のビッグドラムBD-SX110CLは洗剤と柔軟剤を自動投入部分に大量に入れておけば、洗濯物の量から勝手に判断して都度自動で投入してくれます。
 
 自動投入の量も多めや少なめなど細かく変更できますが、めんどくさいのでデフォルトのまま使ってます。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4850-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4850-1024x578.jpg)
 
 いちいち計らなくていいので、5Lとかの業務用を買って洗濯機の中のものが足りなくなったら雑に大量投入するだけでいいので楽です。最高。
 
@@ -81,7 +81,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/IMG_20191230_123150-1-1
 
 ## まとめ
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4844-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4844-1024x578.jpg)
 
 ドラム式洗濯機、最高です。「ドラム式洗濯機はローンを組んででも買う価値がある」という主張も納得です。
 

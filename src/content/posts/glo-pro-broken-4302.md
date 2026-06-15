@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "買ってから2週間ちょいでglo proがもう壊れました。スイッチの不良です。 僕のデスク環境について動画にしてみました。この中で少しだけglo proについて触れています。 早速glo proが壊れたから交換してもらった gloシリーズ2の"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/10/R0007075-1024x683.jpg"
+ogImage: "/images/wp/2019/10/R0007075-1024x683.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/glo-pro-broken-4302.html -->
@@ -33,7 +33,7 @@ gloシリーズ2のときから知ってましたが、glo本当に壊れやす�
 - 充電ケーブルが挿せなくなる
 
 を経験していて、最初に書きましたが今回はスイッチが埋まって戻ってこなくなるパターンです。
-![](https://noeye69.com/wp-content/uploads/2019/10/R0007075-1024x683.jpg)
+![](/images/wp/2019/10/R0007075-1024x683.jpg)
 このパターンはシリーズ2でもあったので知ってます。
 にしても2週間て。まあ発売日に買ったので初期ロット品だし、長押しのブースト機能しか使ってないからこの短期間で壊れるのもわかるのですが。
 
@@ -52,12 +52,12 @@ gloシリーズ2のときから知ってましたが、glo本当に壊れやす�
 
 の2パターンがあります。
 これも一度オペレーターの方に聞いたことがあるのですが、この2パターンのどちらになるかはランダムだそうです。今回は新製品だから原因追求したいんでしょうか。
-![](https://noeye69.com/wp-content/uploads/2019/10/R0007076-1024x683.jpg)
+![](/images/wp/2019/10/R0007076-1024x683.jpg)
 返信用封筒が同梱されていたので、ちゃんと返品しました。
 
 ## まとめ
 
-![](https://noeye69.com/wp-content/uploads/2019/10/R0007074-1024x683.jpg)
+![](/images/wp/2019/10/R0007074-1024x683.jpg)
 glo proでも変わらず保証が充実してて素晴らしいです。
 まだAmazon等で買うことはできず、[オンラインストア](https://www.discoverglo.jp/login?returnUrl=https://onlinestore.discoverglo.jp/)かgloストアのみでの扱いみたいですが、glo proいいですね。
 新品が届くまでの1日間を前のgloシリーズ2でしのぎましたが、glo proの方が

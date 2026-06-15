@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "食べログでレビュー書いたところでなんのメリットもありませんが、Googleならローカルガイドサミット参加の可能性もありますしね https://t.co/itk7gqKsjD ? 黒本晋吾 (@noeye69) 2019年5月15日 ドヤ顔"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/05/IMG-5760.png"
+ogImage: "/images/wp/2019/05/IMG-5760.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-local-guide-911.html -->
@@ -44,7 +44,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/05/IMG-5760.png"
 
 僕はGoogleフォトで写真を管理しているのですが、過去の写真を遡って「ここは何て名前だったっけ・・・？？？」と記憶とインスタの位置情報をディグして投稿したところ、割とすぐレベル5になれました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/05/IMG-5760.png)](https://noeye69.com/wp-content/uploads/2019/05/IMG-5760.png)
+[![](/images/wp/2019/05/IMG-5760.png)](/images/wp/2019/05/IMG-5760.png)
 
 インスタに写真を投稿したところで承認欲求しか満たされないので、それよりはGoogleで口コミを書いたほうが面白そうです。
 

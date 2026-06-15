@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "ここで言う「リアル会議」とは、「直接会う会議」のことです。リアル会議の対義語は「直接会うことなく画面を見ながら行う」バーチャル会議とします。 社内のリアル会議ならまだしも、社外の人とリアル会議するのは色々と骨が折れます。 なぜなら会社が違う"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/10/39051b29fdfa10712ac767fc565ed5ac.jpg"
+ogImage: "/images/wp/2019/10/39051b29fdfa10712ac767fc565ed5ac.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/reduce-real-meeting-4067.html -->
@@ -115,7 +115,7 @@ ISO14001の補助はぜひ先生にお願いしたいんだけど、来てもら
 - 結局僕一人で行くことになったけど専務も気持ち的には参加したい
 
 という状況があり、この状況ならこのリアル会議を一部バーチャル会議で補ってもいいのではと思いました。具体的には僕がその様子をスマホで中継して、専務には会社でスマホから見てもらう。
-[![](https://noeye69.com/wp-content/uploads/2019/10/39051b29fdfa10712ac767fc565ed5ac.jpg)](https://noeye69.com/wp-content/uploads/2019/10/39051b29fdfa10712ac767fc565ed5ac.jpg)
+[![](/images/wp/2019/10/39051b29fdfa10712ac767fc565ed5ac.jpg)](/images/wp/2019/10/39051b29fdfa10712ac767fc565ed5ac.jpg)
 こんな感じで。全然イケそう。やってみます。
 
 ## まとめ

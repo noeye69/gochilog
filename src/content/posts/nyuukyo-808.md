@@ -9,15 +9,15 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "さて、入居しました。 こんな感じの物件です。 何を買う 大学の時の一人暮らしの部屋って、親が勝手に買ったものが多くて統一感にかけるというか、センスが違うというか。 そういうのがあって、なんか統一感出したかったんですよね。 僕の中では未だに「"
-ogImage: "https://noeye69.com/wp-content/uploads/2018/08/a0208742_09482603.jpeg"
+ogImage: "/images/wp/2018/08/a0208742_09482603.jpeg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/nyuukyo-808.html -->
 
 さて、入居しました。
 こんな感じの物件です。
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09482603.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09482603.jpeg)
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09465182.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09465182.jpeg)
+[![](/images/wp/2018/08/a0208742_09482603.jpeg)](/images/wp/2018/08/a0208742_09482603.jpeg)
+[![](/images/wp/2018/08/a0208742_09465182.jpeg)](/images/wp/2018/08/a0208742_09465182.jpeg)
 
 ### 何を買う
 
@@ -25,9 +25,9 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/08/a0208742_09482603.jpeg"
 そういうのがあって、なんか統一感出したかったんですよね。
 僕の中では未だに「アメリカン is かっこいい」という価値観があって、好きな服のブランドのインスタの雰囲気に近づけたいな、というのがありました。
 こんな感じ。
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09514162.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09514162.jpeg)
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09485974.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09485974.jpeg)
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09521117.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09521117.jpeg)
+[![](/images/wp/2018/08/a0208742_09514162.jpeg)](/images/wp/2018/08/a0208742_09514162.jpeg)
+[![](/images/wp/2018/08/a0208742_09485974.jpeg)](/images/wp/2018/08/a0208742_09485974.jpeg)
+[![](/images/wp/2018/08/a0208742_09521117.jpeg)](/images/wp/2018/08/a0208742_09521117.jpeg)
 
 ### どこで買う
 
@@ -58,17 +58,17 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/08/a0208742_09482603.jpeg"
 
 このアプリの存在に気づくまでは、エクセルで計算して手で書いてましたからね。笑
 
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09535721.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09535721.jpeg)
+[![](/images/wp/2018/08/a0208742_09535721.jpeg)](/images/wp/2018/08/a0208742_09535721.jpeg)
 
 僕の場合、このアプリを使ってテレビとベッドをどこに置くかの2パターンを検討してました。
 
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09543366.png)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09543366.png)
+[![](/images/wp/2018/08/a0208742_09543366.png)](/images/wp/2018/08/a0208742_09543366.png)
 
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09550573.png)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_09550573.png)
+[![](/images/wp/2018/08/a0208742_09550573.png)](/images/wp/2018/08/a0208742_09550573.png)
 
 ### 完成
 
 で、一月くらいかけてだいたいの家具を揃えました。
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_10154845.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_10154845.jpeg)
-[![](https://noeye69.com/wp-content/uploads/2018/08/a0208742_10152647-1.jpeg)](https://noeye69.com/wp-content/uploads/2018/08/a0208742_10152647-1.jpeg)
+[![](/images/wp/2018/08/a0208742_10154845.jpeg)](/images/wp/2018/08/a0208742_10154845.jpeg)
+[![](/images/wp/2018/08/a0208742_10152647-1.jpeg)](/images/wp/2018/08/a0208742_10152647-1.jpeg)
 ええ感じや！次の更新で、買ってよかったもの(ごちリコメンド)について紹介します。

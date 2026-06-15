@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "アイキャッチは自作PCで有名なヨシダヨシオさんのグッツのマグカップです。 自作PC作るぞってことでAmazonでパーツ頼んだんですが、PCパーツはAmazon遅いのか、一向に届かないのでとりあえずマグカップをアイキャッチにしました。ファンで"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/02/IMG_20200204_202803-768x1024.jpg"
+ogImage: "/images/wp/2020/02/IMG_20200204_202803-768x1024.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/hajimete-no-jisaku-pc-5728.html -->
@@ -51,7 +51,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/02/IMG_20200204_202803-768
 
 上にあげたヨシダさんの動画は組み立て編で、パーツ選定である準備編があったのでそれを見てメモしました。ちなみにヨシダさんのコンセプトは「5万円代で作るゲーミングPC」です。
 
-![](https://noeye69.com/wp-content/uploads/2020/02/IMG_20200204_202803-768x1024.jpg)
+![](/images/wp/2020/02/IMG_20200204_202803-768x1024.jpg)
 
 とりあえずそこらへんにあった封筒の裏に雑にメモしました。清書します。
 

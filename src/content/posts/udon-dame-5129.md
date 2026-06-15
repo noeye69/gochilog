@@ -10,7 +10,7 @@ tags:
   - "生活改善"
   - "買って後悔したもの"
 description: "年始にAnkerのsoundcore Liberty Airを購入して、「以前使ってたpasonomiのbluetoothイヤホンより音良くなってウェイ！」みたいな記事を書きました。 [sitecard subtitle=関連記事 url="
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_BURST20191217233300323_COVER-1-1024x768.jpg"
+ogImage: "/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191217233300323_COVER-1-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/udon-dame-5129.html -->
@@ -35,7 +35,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_B
 
 ## Ankerのsoundcore Liberty Airは外れやすい
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_BURST20191217233300323_COVER-1-1024x768.jpg)
+![](/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191217233300323_COVER-1-1024x768.jpg)
 
 昨年末にそれまで使っていたpasonomiを片耳だけ紛失したので、防水機能ついてて音がいいと噂のAnkerのsoundcore Liberty Airを購入して使っていたわけですが、確かに音はpasonomiよりいいんですが**これ外れやすいんですよね。**
 
@@ -43,7 +43,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_B
 
 ## soundcore Liberty Neoは外れにくい
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_BURST20191217233344872_COVER-1-1024x768.jpg)
+![](/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191217233344872_COVER-1-1024x768.jpg)
 
 「確かpasonomiは外れにくかったな」と思って、似た形のsoundcore Liberty NeoをAmazonのサイバーマンデーセールで買いました。
 
@@ -68,11 +68,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_B
 
 ## 重心が物体の外部にあると不安定
 
-![](https://noeye69.com/wp-content/uploads/2019/12/websem15-7.gif)
+![](/images/wp/2019/12/websem15-7.gif)
 
 例えばやじろべえもL字型をしていて重心はやじろべえ外にありますが、やじろべえは左右対称な形で、重心が支点の真下にあるからチョンと突いても安定しています。ここで大事なのは「重心が支点の真下である」ことです。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/websem15-8.gif)
+![](/images/wp/2019/12/websem15-8.gif)
 
 これは極端な例ですが、やじろべえをこんな感じに逆さにして重心が支点の真上に来ると明らかにすぐ倒れそうですよね。
 
@@ -88,7 +88,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_B
 
 先程も述べましたがL字型の物体の重心が外にあるのはL字型という複雑な形をしているからで、うどん部分を短くすれば重心は少しだけ物体に近づきます。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/AirPodsPro-Review-2.jpg)
+![](/images/wp/2019/12/AirPodsPro-Review-2.jpg)
 
 airpodsを例に出すと、最近出たairpods proのうどん部分は少なくともairpods 2から比べて短くなってます。これはもしかしたら、うどん部分が長いと重心がイヤホン本体からから離れてしまって安定しないからかもしれません。他にも理由はあると思いますが。
 
@@ -96,7 +96,7 @@ Appleがうどんを作ったことによって他社が真似しだすので、
 
 ## soundcore Liberty Neoはシンプルな形だから安定している
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191217_000135-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191217_000135-1024x768.jpg)
 
 改めて見てもやっぱり安定する理由はこのシンプルな形にあるのでは。重心の観点だけで考えると普通の一直線の耳栓タイプがいいような気もしますが、それだといろんな機能を詰め込めないのでしょうか。
 

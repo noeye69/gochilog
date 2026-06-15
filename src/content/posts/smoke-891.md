@@ -8,7 +8,7 @@ draft: false
 tags:
   - "料理"
 description: "前の職場の時、先輩の家に招かれてごちそうになった燻製がうますぎた。 「家でこんなんできるんだ…！燻製うますぎじゃね？」確かサバとかステーキとかししゃもを頂いいたような気がする。 燻製やってみた …あれから4年の月日が流れ、ついに燻製鍋を手に"
-ogImage: "https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg"
+ogImage: "/images/wp/2018/09/IMG_0908.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/smoke-891.html -->
@@ -19,11 +19,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg"
 
 ### 燻製やってみた
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg)](https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg)
+[![](/images/wp/2018/09/IMG_0908.jpg)](/images/wp/2018/09/IMG_0908.jpg)
 
 …あれから4年の月日が流れ、ついに燻製鍋を手に入れた！
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/IMG_0900.jpg)](https://noeye69.com/wp-content/uploads/2018/09/IMG_0900.jpg)
+[![](/images/wp/2018/09/IMG_0900.jpg)](/images/wp/2018/09/IMG_0900.jpg)
 
 温度計。燻製は、温燻と熱燻があって、常温で食べれるチーズとかは温燻、火を通して食べる生肉とかは熱燻します。で、その時に使うやつ。鍋蓋に挿すタイプ。
 
@@ -33,17 +33,17 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg"
 
 うちはたまたま温度センサーがついてないコンロがあったので、そっちでやりました。まるで僕が燻製を始めることを予測していたかのように。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/IMG_0899.jpg)](https://noeye69.com/wp-content/uploads/2018/09/IMG_0899.jpg)
+[![](/images/wp/2018/09/IMG_0899.jpg)](/images/wp/2018/09/IMG_0899.jpg)
 
 チップも何種類かあるんですが、ヒッコリーとサクラを所有しています。これはサクラ。
 
 チップをこのくらい敷きます。あまり量が多いと、匂いがつきすぎてチップを食ってる気分になって最悪なので、入れすぎ注意。この日はこれらを燻りました。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/27bca1ae-32e9-4737-be20-46add9ffdc04.jpg)](https://noeye69.com/wp-content/uploads/2018/09/27bca1ae-32e9-4737-be20-46add9ffdc04.jpg)
+[![](/images/wp/2018/09/27bca1ae-32e9-4737-be20-46add9ffdc04.jpg)](/images/wp/2018/09/27bca1ae-32e9-4737-be20-46add9ffdc04.jpg)
 
 スモークタン。焼いてないので油もそんな出ず、脂っこくないから無限に食える。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/9c25baef-f11f-4b01-874e-73a5cad18e11.jpg)](https://noeye69.com/wp-content/uploads/2018/09/9c25baef-f11f-4b01-874e-73a5cad18e11.jpg)
+[![](/images/wp/2018/09/9c25baef-f11f-4b01-874e-73a5cad18e11.jpg)](/images/wp/2018/09/9c25baef-f11f-4b01-874e-73a5cad18e11.jpg)
 
 カニカマとかチーズとかウィンナー。うますぎる！安い食材が化けますね。チーズを熱燻でやってしまうと、温度が高すぎて若干溶けるので注意。ということで完全に味を占めました。
 
@@ -51,11 +51,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg"
 
 さあ、燻製設備を手に入れたらやりたかった、ベーコン作り！
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/e2c91d1b-17a8-4a84-bde0-b6bfec150e6f.jpg)](https://noeye69.com/wp-content/uploads/2018/09/e2c91d1b-17a8-4a84-bde0-b6bfec150e6f.jpg)
+[![](/images/wp/2018/09/e2c91d1b-17a8-4a84-bde0-b6bfec150e6f.jpg)](/images/wp/2018/09/e2c91d1b-17a8-4a84-bde0-b6bfec150e6f.jpg)
 
 豚バラブロックをスーパーで手に入れます。油が多いのが嫌な人は、ヒレとかでやってみてください。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/ecdf9e2d-dae9-432c-a4af-091706431f60.jpg)](https://noeye69.com/wp-content/uploads/2018/09/ecdf9e2d-dae9-432c-a4af-091706431f60.jpg)
+[![](/images/wp/2018/09/ecdf9e2d-dae9-432c-a4af-091706431f60.jpg)](/images/wp/2018/09/ecdf9e2d-dae9-432c-a4af-091706431f60.jpg)
 
 ジップロックに塩、その他好きなハーブとかコショウを入れましょう。
 
@@ -63,33 +63,33 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg"
 
 ハーブ類は、ホワイトペッパー、クレイジーガーリック、ローリエ、唐辛子、京都の黒七味とか入れました。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/a7d98794-e634-425e-98ba-e8333ae0be5c.jpg)](https://noeye69.com/wp-content/uploads/2018/09/a7d98794-e634-425e-98ba-e8333ae0be5c.jpg)
+[![](/images/wp/2018/09/a7d98794-e634-425e-98ba-e8333ae0be5c.jpg)](/images/wp/2018/09/a7d98794-e634-425e-98ba-e8333ae0be5c.jpg)
 
 で、冷蔵庫で一週間寝かせます。･･････1週間寝かせました。長げえよ！文句を言わず塩抜きをします。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/a0142f43-c664-4ace-9694-94de8ee6ed96.jpg)](https://noeye69.com/wp-content/uploads/2018/09/a0142f43-c664-4ace-9694-94de8ee6ed96.jpg)
+[![](/images/wp/2018/09/a0142f43-c664-4ace-9694-94de8ee6ed96.jpg)](/images/wp/2018/09/a0142f43-c664-4ace-9694-94de8ee6ed96.jpg)
 
 ボウルに水を張って、蛇口からチョロチョロと水を出し続けて3時間。なげぇ。水道代もかかります。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/36bf1f55-591e-454c-bf01-c91636ae2830.jpg)](https://noeye69.com/wp-content/uploads/2018/09/36bf1f55-591e-454c-bf01-c91636ae2830.jpg)
+[![](/images/wp/2018/09/36bf1f55-591e-454c-bf01-c91636ae2830.jpg)](/images/wp/2018/09/36bf1f55-591e-454c-bf01-c91636ae2830.jpg)
 
 3時間後、水から上げてキッチンペーパーに包みます。この時の肉は、なんか熟成した肉！って感じの触り心地です。
 
 乾燥が目的なので、ラップなどはせずに、そのまま冷蔵庫に。24時間寝かせます。乾燥させないと燻製した時に水分が変な反応して酸っぱくなるらしいです。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/ac2dcc02-b969-45ba-99d4-70da25f67630.jpg)](https://noeye69.com/wp-content/uploads/2018/09/ac2dcc02-b969-45ba-99d4-70da25f67630.jpg)
+[![](/images/wp/2018/09/ac2dcc02-b969-45ba-99d4-70da25f67630.jpg)](/images/wp/2018/09/ac2dcc02-b969-45ba-99d4-70da25f67630.jpg)
 
 24時間後。早く食いたい。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/c657b76f-b68a-42a3-b332-bcbf4f9ad058.jpg)](https://noeye69.com/wp-content/uploads/2018/09/c657b76f-b68a-42a3-b332-bcbf4f9ad058.jpg)
+[![](/images/wp/2018/09/c657b76f-b68a-42a3-b332-bcbf4f9ad058.jpg)](/images/wp/2018/09/c657b76f-b68a-42a3-b332-bcbf4f9ad058.jpg)
 
 さあ、燻されてきなさい。奥のアルミホイルのヤツは、ついでに燻製しようとしたオリーブオイルと醤油のソースなんですが、アルミホイルの器が雑過ぎて燻製後全部下にこぼれてました。
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/624432ef-eb4a-4ae9-b9e1-634ac49b0757.jpg)](https://noeye69.com/wp-content/uploads/2018/09/624432ef-eb4a-4ae9-b9e1-634ac49b0757.jpg)
+[![](/images/wp/2018/09/624432ef-eb4a-4ae9-b9e1-634ac49b0757.jpg)](/images/wp/2018/09/624432ef-eb4a-4ae9-b9e1-634ac49b0757.jpg)
 
 25分熱薫、5分火を止めて蒸らした後･･･
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/c9810556-1531-43a6-8746-e5b09d3f65b2.jpg)](https://noeye69.com/wp-content/uploads/2018/09/c9810556-1531-43a6-8746-e5b09d3f65b2.jpg)
+[![](/images/wp/2018/09/c9810556-1531-43a6-8746-e5b09d3f65b2.jpg)](/images/wp/2018/09/c9810556-1531-43a6-8746-e5b09d3f65b2.jpg)
 
 完成！この時点でめちゃ美味そう。
 
@@ -97,7 +97,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg"
 
 ### 自家製ベーコンでカルボナーラ作った
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/773adde5-9da1-4048-92f0-ac1a6e40a106.jpg)](https://noeye69.com/wp-content/uploads/2018/09/773adde5-9da1-4048-92f0-ac1a6e40a106.jpg)
+[![](/images/wp/2018/09/773adde5-9da1-4048-92f0-ac1a6e40a106.jpg)](/images/wp/2018/09/773adde5-9da1-4048-92f0-ac1a6e40a106.jpg)
 
 タマネギをバター30gで炒める。ソースは卵黄2個＋市販のホイップクリーム1パック＋パルメザンチーズ大さじ3杯＋きざみチーズを適当にブレンドしたものを炒めたタマネギに投入。
 
@@ -109,7 +109,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/09/IMG_0908.jpg"
 
 らしいです。で、最後に塩コショウなどで味を調整して･･･
 
-[![](https://noeye69.com/wp-content/uploads/2018/09/6b2ea251-4148-4a8b-a6e1-5856efefaa4e.jpg)](https://noeye69.com/wp-content/uploads/2018/09/6b2ea251-4148-4a8b-a6e1-5856efefaa4e.jpg)
+[![](/images/wp/2018/09/6b2ea251-4148-4a8b-a6e1-5856efefaa4e.jpg)](/images/wp/2018/09/6b2ea251-4148-4a8b-a6e1-5856efefaa4e.jpg)
 
 完成！･･････うますぎる！！！お店やコンビニのと違って、自分で作ったらベーコンもアホほどいれれるので最高。
 

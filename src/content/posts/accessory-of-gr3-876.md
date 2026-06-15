@@ -9,7 +9,7 @@ tags:
   - "カメラ"
   - "ガジェット"
 description: "価格の割にワクワクする買い物だったぞ！ ケース GR3を入れるケースです。かわいいポーチ。HAKUBAのやつです。 サイズはSとMの2つあったんですが、Sでちょうどよかったです。 カラビナはもうちょいデカいやつの方が使い勝手良さそうなので要"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D.jpg"
+ogImage: "/images/wp/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/accessory-of-gr3-876.html -->
@@ -18,7 +18,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/0B7D3F0B-7167-4917-8C10
 
 ### ケース
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D.jpg)](https://noeye69.com/wp-content/uploads/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D.jpg)
+[![](/images/wp/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D.jpg)](/images/wp/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D.jpg)
 
 GR3を入れるケースです。かわいいポーチ。HAKUBAのやつです。
 
@@ -26,37 +26,37 @@ GR3を入れるケースです。かわいいポーチ。HAKUBAのやつです�
 
 カラビナはもうちょいデカいやつの方が使い勝手良さそうなので要検討。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/690164C6-D2E8-4153-B91B-CD1AA5CC4331.jpg)](https://noeye69.com/wp-content/uploads/2019/03/690164C6-D2E8-4153-B91B-CD1AA5CC4331.jpg)
+[![](/images/wp/2019/03/690164C6-D2E8-4153-B91B-CD1AA5CC4331.jpg)](/images/wp/2019/03/690164C6-D2E8-4153-B91B-CD1AA5CC4331.jpg)
 
 赤いタグはマンハッタンポーテージを思い出す。PIXGEARと書いてあります。?クスを”X”にしちゃう系ね。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/D327C68E-1EB3-47F0-B674-0A839BA69018.jpg)](https://noeye69.com/wp-content/uploads/2019/03/D327C68E-1EB3-47F0-B674-0A839BA69018.jpg)
+[![](/images/wp/2019/03/D327C68E-1EB3-47F0-B674-0A839BA69018.jpg)](/images/wp/2019/03/D327C68E-1EB3-47F0-B674-0A839BA69018.jpg)
 
 横から見たらこんな感じ。厚さは6.5cmくらい。
 
 左側がバッテリーとか入れるサブ収納、右側がカメラを入れるメイン収納です。チャックの目は覆ってあって見えません。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/6DD56164-B147-4833-B527-FD304CF329F7.jpg)](https://noeye69.com/wp-content/uploads/2019/03/6DD56164-B147-4833-B527-FD304CF329F7.jpg)
+[![](/images/wp/2019/03/6DD56164-B147-4833-B527-FD304CF329F7.jpg)](/images/wp/2019/03/6DD56164-B147-4833-B527-FD304CF329F7.jpg)
 
 反対から見たらこんな感じ。
 
 2つのチャックの隙間もなく、1,000円くらいなのにしっかりとした作り。開け閉めしても角で引っかかるみたいなことはなく。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/3E9DD012-7B15-46D2-90A3-7D8A9B6C4BEF.jpg)](https://noeye69.com/wp-content/uploads/2019/03/3E9DD012-7B15-46D2-90A3-7D8A9B6C4BEF.jpg)
+[![](/images/wp/2019/03/3E9DD012-7B15-46D2-90A3-7D8A9B6C4BEF.jpg)](/images/wp/2019/03/3E9DD012-7B15-46D2-90A3-7D8A9B6C4BEF.jpg)
 
 今のところサブ収納には買ったバッテリー2つ入れてます。
 
 メイン収納の方には当然カメラを入れます。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/141F67EA-DE9E-4E6B-836F-2BC20333B702.jpg)](https://noeye69.com/wp-content/uploads/2019/03/141F67EA-DE9E-4E6B-836F-2BC20333B702.jpg)
+[![](/images/wp/2019/03/141F67EA-DE9E-4E6B-836F-2BC20333B702.jpg)](/images/wp/2019/03/141F67EA-DE9E-4E6B-836F-2BC20333B702.jpg)
 
 ハンドストラップも余裕で入るぞ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/1F099E0F-EFCD-4C78-AA3D-4CC3EDA4E9C1.jpg)](https://noeye69.com/wp-content/uploads/2019/03/1F099E0F-EFCD-4C78-AA3D-4CC3EDA4E9C1.jpg)
+[![](/images/wp/2019/03/1F099E0F-EFCD-4C78-AA3D-4CC3EDA4E9C1.jpg)](/images/wp/2019/03/1F099E0F-EFCD-4C78-AA3D-4CC3EDA4E9C1.jpg)
 
 2cm弱くらいは余裕があるので、入れにくいことはないかと。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D-1.jpg)](https://noeye69.com/wp-content/uploads/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D-1.jpg)
+[![](/images/wp/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D-1.jpg)](/images/wp/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D-1.jpg)
 
 改めて見てもいい感じ！
 
@@ -64,19 +64,19 @@ GR3を入れるケースです。かわいいポーチ。HAKUBAのやつです�
 
 ### 互換バッテリーと充電器
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/junsei.jpg)](https://noeye69.com/wp-content/uploads/2019/03/junsei.jpg)
+[![](/images/wp/2019/03/junsei.jpg)](/images/wp/2019/03/junsei.jpg)
 
 なんで純正品はこんな高いんでしょうか？2つ合わせて9,000円て！バッテリーはまだわかるけど充電器に4,500円は高すぎだろう。プラスチックの箱のくせに！
 
 バッテリーの型は「LI-92B」だったので、それで探しました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/14E3FECE-0F05-4AB0-86EA-CF339696D59D.jpg)](https://noeye69.com/wp-content/uploads/2019/03/14E3FECE-0F05-4AB0-86EA-CF339696D59D.jpg)
+[![](/images/wp/2019/03/14E3FECE-0F05-4AB0-86EA-CF339696D59D.jpg)](/images/wp/2019/03/14E3FECE-0F05-4AB0-86EA-CF339696D59D.jpg)
 
 てことで、ロワジャパンの互換バッテリーと、strってとこの充電器です。
 
 バッテリーは2個で1,000円、充電器は2,000円で、合計3,000円です。純正換算の1/4です。破格。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/27C8C23C-A81A-4527-A56E-2F9B986E79AE.jpg)](https://noeye69.com/wp-content/uploads/2019/03/27C8C23C-A81A-4527-A56E-2F9B986E79AE.jpg)
+[![](/images/wp/2019/03/27C8C23C-A81A-4527-A56E-2F9B986E79AE.jpg)](/images/wp/2019/03/27C8C23C-A81A-4527-A56E-2F9B986E79AE.jpg)
 
 LI-90B?92Bの互換品だそうです。
 
@@ -112,21 +112,21 @@ LI-90B?92Bの互換品だそうです。
 
 このマークは、電気用品安全法で規制される製品についてるマークで、**経産省が認定した評価機関が発行するひし形**のものと、**自己宣言でいい丸型**の2種類があるんですが、**GR2の純正バッテリーは自己宣言でいい丸型でした。**
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4549.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4549.jpg)
+[![](/images/wp/2019/03/IMG-4549.jpg)](/images/wp/2019/03/IMG-4549.jpg)
 
 見てください。GR2純正バッテリーの表面。シンプル。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4547.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4547.jpg)
+[![](/images/wp/2019/03/IMG-4547.jpg)](/images/wp/2019/03/IMG-4547.jpg)
 
 裏面。**自己宣言でいい丸型のPSEマークのみ**入ってる。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4548.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4548.jpg)
+[![](/images/wp/2019/03/IMG-4548.jpg)](/images/wp/2019/03/IMG-4548.jpg)
 
 で、これは今回買ったGR3の互換品のバッテリー。**GR2と同じで自己宣言でいい丸型のPSEマークが入ってる。**
 
 ##### ULマーク
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4545.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4545.jpg)
+[![](/images/wp/2019/03/IMG-4545.jpg)](/images/wp/2019/03/IMG-4545.jpg)
 
 GR3の純正バッテリーに新たに追加されていたULマーク。
 
@@ -136,7 +136,7 @@ ULマークは、以下のページによるとPSEマークとは違って、経
 
 **なんですが！**
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4546.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4546.jpg)
+[![](/images/wp/2019/03/IMG-4546.jpg)](/images/wp/2019/03/IMG-4546.jpg)
 
 裏面には**自己宣言でいい丸型のPSEマークが！**
 
@@ -152,11 +152,11 @@ ULマークは、以下のページによるとPSEマークとは違って、経
 
 ### 充電してみた
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/E0A4C079-7AD4-4D83-9D83-0E95F3DF8C56.jpg)](https://noeye69.com/wp-content/uploads/2019/03/E0A4C079-7AD4-4D83-9D83-0E95F3DF8C56.jpg)
+[![](/images/wp/2019/03/E0A4C079-7AD4-4D83-9D83-0E95F3DF8C56.jpg)](/images/wp/2019/03/E0A4C079-7AD4-4D83-9D83-0E95F3DF8C56.jpg)
 
 この充電器はmicro USBでした。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/D1CDA225-739D-4A0F-A16E-DD76004E018B.jpg)](https://noeye69.com/wp-content/uploads/2019/03/D1CDA225-739D-4A0F-A16E-DD76004E018B.jpg)
+[![](/images/wp/2019/03/D1CDA225-739D-4A0F-A16E-DD76004E018B.jpg)](/images/wp/2019/03/D1CDA225-739D-4A0F-A16E-DD76004E018B.jpg)
 
 この充電器、2個同時に充電できるのが便利ですね。もちろん1個だけでもできました。
 

@@ -9,7 +9,7 @@ tags:
   - "ゆるく語る"
   - "生活改善"
 description: "ベッドの上からこんにちわ。ぎっくり腰に苦しんでいるのでロキソニンテープです。ロキソニンも飲んでます。せっかくなので記録として残しておきます。 いつ何をしてぎっくりしたか 昨日の朝、会社の事務所で掃除機をかけようとコンセントを挿そうとしたとこ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/08/201908081156503e5.jpg"
+ogImage: "/images/wp/2019/08/201908081156503e5.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/4th-times-gikkurigoshi-943.html -->

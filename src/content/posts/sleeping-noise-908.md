@@ -8,12 +8,12 @@ draft: false
 tags:
   - "生活改善"
 description: "自分では全然やっているつもりがないのに、実はやっていて他人に迷惑をかけていることってありますよね。 その中に いびき 歯ぎしり の2つがあると思います。 いびきには2種類ある 調べたところ、いびきには 単純性いびき 睡眠時無呼吸を伴ういびき"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/07/001l.jpg"
+ogImage: "/images/wp/2019/07/001l.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/sleeping-noise-908.html -->
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/001l.jpg)](https://noeye69.com/wp-content/uploads/2019/07/001l.jpg)
+[![](/images/wp/2019/07/001l.jpg)](/images/wp/2019/07/001l.jpg)
 
 自分では全然やっているつもりがないのに、実はやっていて他人に迷惑をかけていることってありますよね。
 
@@ -39,7 +39,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/001l.jpg"
 
 ### **ノーズピン**
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/7596766D-F2F5-4F8B-947A-EF7DC9D1FBAB.jpg)](https://noeye69.com/wp-content/uploads/2019/07/7596766D-F2F5-4F8B-947A-EF7DC9D1FBAB.jpg)
+[![](/images/wp/2019/07/7596766D-F2F5-4F8B-947A-EF7DC9D1FBAB.jpg)](/images/wp/2019/07/7596766D-F2F5-4F8B-947A-EF7DC9D1FBAB.jpg)
 
 これです。これで1セット。
 
@@ -60,7 +60,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/001l.jpg"
 
 ### **歯ぎしりガード**
 
-[![](https://noeye69.com/wp-content/uploads/2019/05/35AE09E7-DB80-408B-966E-A7E460266D96.jpg)](https://noeye69.com/wp-content/uploads/2019/05/35AE09E7-DB80-408B-966E-A7E460266D96.jpg)
+[![](/images/wp/2019/05/35AE09E7-DB80-408B-966E-A7E460266D96.jpg)](/images/wp/2019/05/35AE09E7-DB80-408B-966E-A7E460266D96.jpg)
 
 これです。同じサイズのものが2つで1セット。フニフニした素材感で、ゴムを噛んでいるような感じ。起きてたら全然噛みたくないです。
 

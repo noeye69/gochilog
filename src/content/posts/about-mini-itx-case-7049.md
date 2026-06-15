@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "久しぶりの更新です。 2020年度はYoutubeに注力してきましたが、4月でやっとチャンネル登録者1000人達成できました。1年1ヶ月でやっと1000人。疲れました。笑 Youtubeではある1つのテーマについて1本の動画にすることが多く"
-ogImage: "https://noeye69.com/wp-content/uploads/2021/06/KENTA039_jidoricamera_TP_V-1024x682.jpg"
+ogImage: "/images/wp/2021/06/KENTA039_jidoricamera_TP_V-1024x682.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/about-mini-itx-case-7049.html -->
@@ -21,7 +21,7 @@ Youtubeではある1つのテーマについて1本の動画にすることが�
 
 ## Youtubeは他人からの評価が丸見え
 
-![](https://noeye69.com/wp-content/uploads/2021/06/KENTA039_jidoricamera_TP_V-1024x682.jpg)
+![](/images/wp/2021/06/KENTA039_jidoricamera_TP_V-1024x682.jpg)
 1000人達成できたのでYoutubeに関する雑感を書きますと、Youtubeは他人からの評価が丸見えなのがツラいところです。
  
 自分が他人の動画を見るときも、再生回数や高評価の数で動画を視聴するかどうかある程度決めますしね。
@@ -38,7 +38,7 @@ Youtubeではある1つのテーマについて1本の動画にすることが�
 
 ### ことの発端はミドルタワーケースからコンパクトなケースに入れ替えたから
 
-![](https://noeye69.com/wp-content/uploads/2021/01/Era_ITX_Production_Creative-Room_Creative_Room_v6.0005-1024x724.jpg)
+![](/images/wp/2021/01/Era_ITX_Production_Creative-Room_Creative_Room_v6.0005-1024x724.jpg)
 
 小型ケース：FractalDesignのERA ITX
 
@@ -46,12 +46,12 @@ Youtubeではある1つのテーマについて1本の動画にすることが�
  
 ギュウギュウに詰め込みたい。
  
-![](https://noeye69.com/wp-content/uploads/2021/06/meshlicious-1024x576.jpg)
+![](/images/wp/2021/06/meshlicious-1024x576.jpg)
 ということで、ちょうどその時SSUPDというメーカーからMeshliciousというフルメッシュのめちゃめちゃカッコいいケースが発売されたんで、買っちゃいました。
 
 ### AMD5000番台のCPUと500マザーボードでUSBの接続が断続的に切れる不具合
 
-**![](https://noeye69.com/wp-content/uploads/2021/06/ryzen-mbm.jpg)**
+**![](/images/wp/2021/06/ryzen-mbm.jpg)**
 **で、これですよ！(怒)**
  
 ・ダビンチリゾルブで編集して、いざ書き出すぞ！って書き出しスタートさせると
@@ -70,7 +70,7 @@ Youtubeではある1つのテーマについて1本の動画にすることが�
 
 ### 第10世代対応のZ490マザーボード、BIOS更新しても第11世代のCPUが使えない
 
-![](https://noeye69.com/wp-content/uploads/2021/06/61clam01msL._AC_SX425_.jpg)
+![](/images/wp/2021/06/61clam01msL._AC_SX425_.jpg)
 新しいCPUにintelのcorei7 11700KFと、それを取り付けるマザーボードにASUSのZ490-i gamingをチョイスしたわけですが、、、これがいざ組むと**動かないんですね～。**
  
 CPUは第11世代のintel、マザーボードは第10世代のintelに対応したものを購入したんですが、マザーボードがBIOS更新をしても第11世代を読み込まないんですよね。
@@ -83,7 +83,7 @@ mini-ITXだからって舐められてるのか？？？RYZENのときは世代�
 
 ### corei7を選んだ理由：2万円高いcorei9と性能があまり変わらなさそう
 
-![](https://noeye69.com/wp-content/uploads/2021/06/cpu_package.png)
+![](/images/wp/2021/06/cpu_package.png)
 ちなみに今回最上位のcorei9を選ばなかった理由は、第11世代はi9とi7であんまり差がなさそうだったから。
  
 corei9に関しては表面上は第10世代からダウングレードですしね。コア数とか。

@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "昨日爆裂に飲んだけど、しっかりと二日酔い対策をしたのでこんな時間からブログが書けてます。おはようございます。 なぜ春になったからするのかと言うと、去年もこの時期にこれで掃除したからです。 Panasonicの洗濯槽クリーナーN-W2です。 "
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/sentakucleaner.jpg"
+ogImage: "/images/wp/2019/03/sentakucleaner.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/cleaning-of-washing-machine-870.html -->
@@ -18,7 +18,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/sentakucleaner.jpg"
 
 なぜ春になったからするのかと言うと、去年もこの時期にこれで掃除したからです。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/sentakucleaner.jpg)](https://noeye69.com/wp-content/uploads/2019/03/sentakucleaner.jpg)
+[![](/images/wp/2019/03/sentakucleaner.jpg)](/images/wp/2019/03/sentakucleaner.jpg)
 
 Panasonicの洗濯槽クリーナーN-W2です。
 

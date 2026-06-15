@@ -77,8 +77,6 @@ let ogImageUrl: string | undefined;
 
 if (typeof initOgImage === "string") {
   ogImageUrl = initOgImage;
-} else if (initOgImage?.src) {
-  ogImageUrl = initOgImage.src;
 }
 
 if (!ogImageUrl && config.features.dynamicOgImage) {
@@ -92,6 +90,13 @@ if (!ogImageUrl && config.features.dynamicOgImage) {
 const ogImage = ogImageUrl
   ? new URL(ogImageUrl, Astro.url.origin).href
   : undefined;
+const heroImage =
+  typeof ogImageUrl === "string"
+    ? ogImageUrl.replace(
+        "https://noeye69.com/wp-content/uploads/",
+        "/images/wp/"
+      )
+    : undefined;
 ---
 
 <PostLayout
@@ -131,7 +136,13 @@ const ogImage = ogImageUrl
       </span>
       <EditPost {hideEditPost} {post} class="max-sm:hidden" />
     </div>
-
+    {heroImage && (
+  <img
+    src={heroImage}
+    alt={title}
+    class="mt-8 aspect-video w-full rounded border border-border object-cover"
+  />
+)}
     <article
       id="article"
       class:list={[

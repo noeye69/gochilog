@@ -8,7 +8,7 @@ draft: false
 tags:
   - "料理"
 description: "至高。 作って写真撮ってたのに完全に忘れてました。燻製牡蠣で作るアヒージョ！さあ、19ぜ！ スーパーで買った牡蠣です。すでにうまそう。濡れ濡れですね。なので乾燥させます。水分が多いと燻製した時に酸っぱくなるらしい。 こうやって放置してても全"
-ogImage: "https://noeye69.com/wp-content/uploads/2018/11/94cb47d9-77fa-4b8c-98a8-df1747153fe7.jpg"
+ogImage: "/images/wp/2018/11/94cb47d9-77fa-4b8c-98a8-df1747153fe7.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/smoked-oyster-828.html -->
@@ -17,13 +17,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/11/94cb47d9-77fa-4b8c-98a8
 
 作って写真撮ってたのに完全に忘れてました。燻製牡蠣で作るアヒージョ！さあ、19ぜ！
 
-[![](https://noeye69.com/wp-content/uploads/2018/11/94cb47d9-77fa-4b8c-98a8-df1747153fe7.jpg)](https://noeye69.com/wp-content/uploads/2018/11/94cb47d9-77fa-4b8c-98a8-df1747153fe7.jpg)
+[![](/images/wp/2018/11/94cb47d9-77fa-4b8c-98a8-df1747153fe7.jpg)](/images/wp/2018/11/94cb47d9-77fa-4b8c-98a8-df1747153fe7.jpg)
 
 スーパーで買った牡蠣です。すでにうまそう。濡れ濡れですね。なので乾燥させます。水分が多いと燻製した時に酸っぱくなるらしい。
 
 こうやって放置してても全然乾かないんで、移動させて扇風機で乾燥させました。台所が磯臭くなりますが我慢します。
 
-[![](https://noeye69.com/wp-content/uploads/2018/11/1e1bbd88-c3ad-4e6b-818a-b509d49df328.jpg)](https://noeye69.com/wp-content/uploads/2018/11/1e1bbd88-c3ad-4e6b-818a-b509d49df328.jpg)
+[![](/images/wp/2018/11/1e1bbd88-c3ad-4e6b-818a-b509d49df328.jpg)](/images/wp/2018/11/1e1bbd88-c3ad-4e6b-818a-b509d49df328.jpg)
 
 牡蠣を乾かしている間、こいつらを燻製します。「燻製　オススメ　食材」で検索するとトマトって出てくるんですけど、トマト好きじゃないんですよね。
 
@@ -33,7 +33,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/11/94cb47d9-77fa-4b8c-98a8
 
 いざ！燻されて来い！
 
-[![](https://noeye69.com/wp-content/uploads/2018/11/f3e4cbbd-a382-4fe3-809e-afc754a5ffb1.jpg)](https://noeye69.com/wp-content/uploads/2018/11/f3e4cbbd-a382-4fe3-809e-afc754a5ffb1.jpg)
+[![](/images/wp/2018/11/f3e4cbbd-a382-4fe3-809e-afc754a5ffb1.jpg)](/images/wp/2018/11/f3e4cbbd-a382-4fe3-809e-afc754a5ffb1.jpg)
 
 ほう…。トマトが熱でパックリいかれておる。卵の色、写真見てるだけで味が思い出せる。
 
@@ -41,7 +41,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/11/94cb47d9-77fa-4b8c-98a8
 
 うっとりしてたら牡蠣も乾燥したので、今度は牡蠣のターン！
 
-[![](https://noeye69.com/wp-content/uploads/2018/11/37605187-0e8c-4cb2-b6a0-e0c86ae22cba.jpg)](https://noeye69.com/wp-content/uploads/2018/11/37605187-0e8c-4cb2-b6a0-e0c86ae22cba.jpg)
+[![](/images/wp/2018/11/37605187-0e8c-4cb2-b6a0-e0c86ae22cba.jpg)](/images/wp/2018/11/37605187-0e8c-4cb2-b6a0-e0c86ae22cba.jpg)
 
 ほう…。
 
@@ -55,7 +55,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/11/94cb47d9-77fa-4b8c-98a8
 
 などと一緒に、スキレットで煮込みます。
 
-[![](https://noeye69.com/wp-content/uploads/2018/11/dc478a46-1e61-4bca-b10a-d4a87936f622.jpg)](https://noeye69.com/wp-content/uploads/2018/11/dc478a46-1e61-4bca-b10a-d4a87936f622.jpg)
+[![](/images/wp/2018/11/dc478a46-1e61-4bca-b10a-d4a87936f622.jpg)](/images/wp/2018/11/dc478a46-1e61-4bca-b10a-d4a87936f622.jpg)
 
 たまに嫌いなトマトの水分がオリーブオイルの中で漏れて爆発して「アッツ！」てならないように常に緊張感を保ちながら、こんな感じで軽く火を通して、完成！
 

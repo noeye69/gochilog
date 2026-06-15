@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "掃除ってほんとめんどくさいですよね。パッと見キレイだったらええんよ。汚ならしい毛とかが散見されなければ。結論としては、マキタのコードレス掃除機＋ルンバの組合せが最高。 導入の経緯 普通の掃除機 マキタ マキタ+ルンバ という順番で導入しまし"
-ogImage: "https://noeye69.com/wp-content/uploads/2018/08/464-3061.jpg"
+ogImage: "/images/wp/2018/08/464-3061.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/makita-and-roomba-890.html -->
@@ -26,7 +26,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/08/464-3061.jpg"
 
 ### 普通の掃除機
 
-[![](https://noeye69.com/wp-content/uploads/2018/08/464-3061.jpg)](https://noeye69.com/wp-content/uploads/2018/08/464-3061.jpg)
+[![](/images/wp/2018/08/464-3061.jpg)](/images/wp/2018/08/464-3061.jpg)
 
 最初は、昔から使ってる三菱電機のこういう掃除機を使っていました。
 
@@ -38,7 +38,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/08/464-3061.jpg"
 
 ### マキタのコードレス掃除機はまあまあいい
 
-[![](https://noeye69.com/wp-content/uploads/2018/08/IMG_0880.jpg)](https://noeye69.com/wp-content/uploads/2018/08/IMG_0880.jpg)
+[![](/images/wp/2018/08/IMG_0880.jpg)](/images/wp/2018/08/IMG_0880.jpg)
 調べてみるといろんなバージョンがあるんですが、僕の買ったCL107FDSHWは
 
 - 紙パック式
@@ -61,7 +61,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/08/464-3061.jpg"
 
 ### ルンバ復活させるぞ
 
-[![](https://noeye69.com/wp-content/uploads/2018/08/IMG_0905.jpg)](https://noeye69.com/wp-content/uploads/2018/08/IMG_0905.jpg)
+[![](/images/wp/2018/08/IMG_0905.jpg)](/images/wp/2018/08/IMG_0905.jpg)
 これです。2007年発売の530。ルンバは2000年代から普及し始めて今ではいろんなシリーズが出ており、この530に至ってはもう生産終了しています。なぜ実家で使われていなかったのか、ですが、電池が消耗してて掃除の途中で止まるからですね。
 
 ということで、Amazonでバッテリー買いました。純正だと1万くらいで高いので、レビュー評価の高い互換品を買いました。

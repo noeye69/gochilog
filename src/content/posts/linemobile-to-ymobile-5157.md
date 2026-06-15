@@ -10,7 +10,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "僕は見て見ぬふりをしていた。LINEモバイルが遅すぎることを。 今年の春に仙台に遊びに行ったときに、LINEモバイルがまーじで使い物にならないなーと思いました。昼間の時間帯以外でもYouTubeはおろか、ウェブページすら開けなくてマジで使え"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/Screenshot_20191224-093847-1024x486.png"
+ogImage: "/images/wp/2019/12/Screenshot_20191224-093847-1024x486.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/linemobile-to-ymobile-5157.html -->
@@ -81,11 +81,11 @@ APNは**A**ccess **P**oint **N**ameの略で、APN設定は「スマホにSIMを
 
 ## ワイモバイルの速度
 
-![](https://noeye69.com/wp-content/uploads/2019/12/Screenshot_20191224-093847-1024x486.png)
+![](/images/wp/2019/12/Screenshot_20191224-093847-1024x486.png)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/Screenshot_20191224-093906-1024x489.png)
+![](/images/wp/2019/12/Screenshot_20191224-093906-1024x489.png)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/Screenshot_20191224-093840-1024x483.png)
+![](/images/wp/2019/12/Screenshot_20191224-093840-1024x483.png)
 
 結果はすべてワイモバイルのもの。使って2週間ほどですが速度は問題ないです。大体20MbpsあればYouTubeの4k動画でもストレスなく見れるのですが、混雑してる昼時や夕方でも20Mbps以上あるのは強い。
 

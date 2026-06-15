@@ -8,7 +8,7 @@ draft: false
 tags:
   - "いいホテル"
 description: "2019年11月に泊まった高松のホテル、記事にするのをなんやかんやで後回しにしてたところ忘却してましたが、リアル実生活で「あのホテルってどこ？」と聞かれたので今更ですが記します。 このホテル、酒好きにはたまらん設計になってます。 高松のホテ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_170618-1024x768.jpg"
+ogImage: "/images/wp/2019/12/IMG_20191130_170618-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/the-chelsea-breath-5039.html -->
@@ -19,19 +19,19 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_170618-102
 
 ## 高松のホテルTHE CHELSEA BREATHはラウンジで飲み放題で最高
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_170618-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_170618-1024x768.jpg)
 
 チェックインを済ませて右を見ると！なんかよくわからないけど木を複雑に絡め合わせたオブジェが！
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191130171002052_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191130171002052_COVER-1024x768.jpg)
 
 その奥には楽園が待っていました。金のやつ！手前の金のやつからはハイボール、奥の金のやつからはビールが無限に出てきます。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_171121-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_171121-1024x768.jpg)
 
 日本酒、ウイスキー、ワインもあります。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_171113-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_171113-1024x768.jpg)
 
 おつまみもあります。ナッツ、堅揚げポテト的なやつ、スナック菓子。
 
@@ -41,21 +41,21 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_170618-102
 
 てか今まで「酔っぱらい大量発生！」とか「騒ぐやつが多くて困る」みたいな問題起きてないんだろうか？と思うほどに、楽園です。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_171712-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_171712-1024x768.jpg)
 
 とりあえずビアーをあおりました。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_171808-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_171808-1024x768.jpg)
 
 下を見るとモダンアート的な何かが発光していました。ビアーはうまいです。
 
 ## 晩飯は焼き鳥屋「てんやわんや」
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_183443-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_183443-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191130183449824_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191130183449824_COVER-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191130184232681_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191130184232681_COVER-1024x768.jpg)
 
 夜は仕事関係の方と「てんやわんや」という焼き鳥屋さんで飲みました。
 
@@ -63,19 +63,19 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_170618-102
 
 ## 風呂
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_170028-768x1024.jpg)
+![](/images/wp/2019/12/IMG_20191130_170028-768x1024.jpg)
 
 部屋にはこんな感じでシャワールームしかないタイプの部屋だったので、大浴場に行きましょう。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191130213132285_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191130213132285_COVER-1024x768.jpg)
 
 その前にラウンジで1杯やりましょう。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_173335-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_173335-1024x768.jpg)
 
 THE CALM.
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191130213542238_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191130213542238_COVER-1024x768.jpg)
 
 お風呂上がってもう1杯。ポテチ食べちゃったよ！寝る前なのに！
 
@@ -83,19 +83,19 @@ THE CALM.
 
 ## 朝飯
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191201_075029-scaled-e1580271828316-768x1024.jpg)
+![](/images/wp/2019/12/IMG_20191201_075029-scaled-e1580271828316-768x1024.jpg)
 
 翌朝です。バイキングではなく、メニューが決まったコースです。野菜の炊いたん(炊いたやつ、広島弁)。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191201_075335-scaled-e1580271773150-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191201_075335-scaled-e1580271773150-1024x768.jpg)
 
 健康的な感じ。味も薄めです。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191201_080524-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191201_080524-1024x768.jpg)
 
 ホテルの朝食といえばベーコン。これはバイキングで出てくるベーコンとは違いますね。そもそも肉の色が違う。メニュー見たら「讃岐オリーブ夢豚」、夢まで詰め込んでるベーコンでした。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191201_075356-scaled-e1580273483423-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191201_075356-scaled-e1580273483423-1024x768.jpg)
 
 ご飯も土鍋で炊いたやつが出てきます。めちゃキレイ。うますぎ。
 
@@ -103,7 +103,7 @@ THE CALM.
 
 ## まとめ
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191130_170618-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191130_170618-1024x768.jpg)
 
 お酒好きには天国のようなホテルでした。このラウンジは至高。全国的に見ても飲み放題のラウンジがあるホテルなんて珍しいんじゃないでしょうか？僕が世間知らずなだけでしょうか。
 

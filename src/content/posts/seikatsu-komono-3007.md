@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "アイキャッチは新しく買ったRICOHのGR2で撮った岡山の街の川です。カメラすごい。また経験値積んだら、カメラについても書きます。 一人暮らしを始めるようになってめちゃくちゃAmazonや楽天を活用しているんですが、その中で「めちゃくちゃ高"
-ogImage: "https://noeye69.com/wp-content/uploads/2018/10/IMG_1272.jpg"
+ogImage: "/images/wp/2018/10/IMG_1272.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/seikatsu-komono-3007.html -->

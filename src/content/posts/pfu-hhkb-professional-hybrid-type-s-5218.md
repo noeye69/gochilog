@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "2019年の夏頃にPFU HHKB professional BTを購入したのですが、発売が2016年だったのには気付いていました。 そろそろ新作出るんじゃねーの？ と。そしたらその4ヶ月後の2019年12月に出ました。 発売されたモデルは"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4947-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4947-1024x578.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/pfu-hhkb-professional-hybrid-type-s-5218.html -->
@@ -50,13 +50,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4947-1024x578.jpg"
 
 ## PFU HHKB professional HYBRID Type-Sの打ち心地が最高。professional BTと全然違う
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4947-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4947-1024x578.jpg)
 
 静音モデルのHYBRID Type-Sです。
 
 ### Controlキー変更した
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4951-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4951-1024x578.jpg)
 
 画像でめっちゃ目立つんで先に述べますが、Controlキーを赤いキートップに変更しました。
 
@@ -66,7 +66,7 @@ Escキーも同梱されているんですが、僕はプログラミングと�
 
 ## 肝心の打ち心地
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4949-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4949-1024x578.jpg)
 
 どうせ同じメーカーのキーボード買うなら、Type-Sという打鍵音が静かなモデルを試したくてType-Sにしたのですが、**これ先代のprofessional BTとは全然違いますね。。。**単に打鍵音が静かになるだけでなく、打ち心地も全然違います。**クソ気持ちいい**。
 
@@ -80,13 +80,13 @@ Escキーも同梱されているんですが、僕はプログラミングと�
 
 ## PCと色が揃って統一感出て気持ちがいい
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4954-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4954-1024x578.jpg)
 
 これは完全に自己満ですが、色が統一できました。pixelbook goで尊師スタイルです。
 
 professional BTを買ったときはmacbookだったので別にグレーでも気にならなかったのですが、pixelbook goにしてからは逆にキーボードが浮いていたので、どうせ買うなら黒に統一しようと思った次第です。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4957-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4957-1024x578.jpg)
 
 墨色、という表現も的を得ていて、漆黒のブラックというよりは少〜しだけ白味がかったブラックです。
 
@@ -94,7 +94,7 @@ professional BTを買ったときはmacbookだったので別にグレーでも�
 
 ## バッテリーは単3電池式
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4943-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4943-1024x578.jpg)
 
 バッテリーは単3電池2本です。
 
@@ -104,7 +104,7 @@ Appleのキーボードは充電式のリチウムイオン電池ですが、充
 
 ## USB type-Cでも接続できる
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4942-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4942-1024x578.jpg)
 
 「HYBRID」たる所以は、bluetoothだけでなく有線でも接続できるという点ですね。USB type-CでPCと接続できます。僕の場合はbluetoothしか使いませんが。
 
@@ -112,21 +112,21 @@ bluetooth接続も安定しています。
 
 ## これまで使ってたソフトケースにも入る
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4959-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4959-1024x578.jpg)
 
 これまで使っていたバード電子のソフトケース PZ-KBSC-HHKにももちろん入ります。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4960-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4960-1024x578.jpg)
 
 ほらね、ピッタリ。
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4963-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4963-1024x578.jpg)
 
 さすが、MADE IN ハポン。
 
 ## まとめ：完全にハート掴まれた
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4966-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4966-1024x578.jpg)
 
 正当進化しています。完全にハート掴まれました。
 

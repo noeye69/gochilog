@@ -8,7 +8,7 @@ draft: false
 tags:
   - "旅行"
 description: "今年で海パーン！も7回目だそうです。海パーンはかつてのPerfumeの沖縄ライブのサブタイトルで、「同じだろ」ということでパクってます。 僕のやっているExcuse To Travel(以下エクトラ)というバンドのドラムのゆうき3(ゆうきさ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/08/IMG_9838.jpg"
+ogImage: "/images/wp/2019/08/IMG_9838.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/umi-paaan-2019-946.html -->
@@ -41,13 +41,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/08/IMG_9838.jpg"
 
 まずはきりぬくんと合流。きりぬくんはHARD CORE KITCHENという関西の老舗レーベルからエクトラの音源が出た時にインタビュー記事のインタビュアーとして参加してもらった、いわゆる仲良しです。僕とはたまたま同郷。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/IMG_9838.jpg)](https://noeye69.com/wp-content/uploads/2019/08/IMG_9838.jpg)
+[![](/images/wp/2019/08/IMG_9838.jpg)](/images/wp/2019/08/IMG_9838.jpg)
 
 岡山の焼肉牧場という、岡山でBBQする人はだいたいここで買う的なプリミティブなお店で肉の買い出しです。
 
 昨年持って行ったらゆうき3のお父さんからめちゃくちゃ好評だったチャンジャを買うついでに、メインイベントのBBQで使う肉も一緒に買いました。ほんとここのチャンジャ、1パック500円と強気な価格設定だけあってゴリッゴリで美味しいんですよね。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/R0005684.jpg)](https://noeye69.com/wp-content/uploads/2019/08/R0005684.jpg)
+[![](/images/wp/2019/08/R0005684.jpg)](/images/wp/2019/08/R0005684.jpg)
 
 おろしにんにくはコイツのことです。チューブのおろしにんにくとは違って、塩とか旨味成分が混ぜてあってこれ単体をペロッと舐めればお酒が何杯でも飲める悪魔のおろしにんにくです。
 
@@ -69,7 +69,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/08/IMG_9838.jpg"
 
 ### お母さんとKP
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/IMG_9839.jpg)](https://noeye69.com/wp-content/uploads/2019/08/IMG_9839.jpg)
+[![](/images/wp/2019/08/IMG_9839.jpg)](/images/wp/2019/08/IMG_9839.jpg)
 
 お父さんが就寝されていたので、お母さんとKP(乾杯)です。イカのフライの分厚さがすごかった。お母さんが手料理の鳥の煮付けなど振る舞ってくれてそれもめちゃうまかった。実家感。
 
@@ -80,7 +80,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/08/IMG_9838.jpg"
 翌日。いつもスーパー
 の寿司を買って海で食べてたのですが、趣向を変えてカップ焼きそばにしました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/IMG_9842.jpg)](https://noeye69.com/wp-content/uploads/2019/08/IMG_9842.jpg)
+[![](/images/wp/2019/08/IMG_9842.jpg)](/images/wp/2019/08/IMG_9842.jpg)
 
 スーパーにはコンビニで売ってる大盛りがないので、いつもの一平ちゃんではなくこちらのエースコックの太麺焼きそばを買ったんですが、これがめちゃくちゃまずかった。ソースの絡みも悪いしそのソースもまずいし何だこれ。好き好んでこれ買う人いないんじゃないだろうか？
 
@@ -88,7 +88,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/08/IMG_9838.jpg"
 
 ダメヅマリとちかさんも合流して海へ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/IMG_9843.jpg)](https://noeye69.com/wp-content/uploads/2019/08/IMG_9843.jpg)
+[![](/images/wp/2019/08/IMG_9843.jpg)](/images/wp/2019/08/IMG_9843.jpg)
 
 GWくらいに買ったポップアップテントです。畳むの若干コツがいるんですが、開くときはホイポイカプセル的にボガーンと開きます。ちなみにこれは大きいサイズで、大人3人くらいなら休めます。
 
@@ -106,65 +106,65 @@ GWくらいに買ったポップアップテントです。畳むの若干コツ
 
 半分以上このために毎年ここに来ているようなものです。BBQ！！！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2392.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2392.jpg)
+[![](/images/wp/2019/08/DSCF2392.jpg)](/images/wp/2019/08/DSCF2392.jpg)
 
 今年からビールサーバーが導入されました。田中家本気(マジ)だッッッ！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2395.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2395.jpg)
+[![](/images/wp/2019/08/DSCF2395.jpg)](/images/wp/2019/08/DSCF2395.jpg)
 
 KP！！！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2400.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2400.jpg)
+[![](/images/wp/2019/08/DSCF2400.jpg)](/images/wp/2019/08/DSCF2400.jpg)
 
 キムチ！！！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2399.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2399.jpg)
+[![](/images/wp/2019/08/DSCF2399.jpg)](/images/wp/2019/08/DSCF2399.jpg)
 
 サザエ！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2401.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2401.jpg)
+[![](/images/wp/2019/08/DSCF2401.jpg)](/images/wp/2019/08/DSCF2401.jpg)
 
 ホタテバター！！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2398.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2398.jpg)
+[![](/images/wp/2019/08/DSCF2398.jpg)](/images/wp/2019/08/DSCF2398.jpg)
 
 海の幸刺し身！！！いや?ほんと天橋立は素晴らしい。神！(肉の写真は撮り忘れました)
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2410.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2410.jpg)
+[![](/images/wp/2019/08/DSCF2410.jpg)](/images/wp/2019/08/DSCF2410.jpg)
 
 近所のおじさんが今日釣った魚を届けてくれたので焼いている様子です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2412.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2412.jpg)
+[![](/images/wp/2019/08/DSCF2412.jpg)](/images/wp/2019/08/DSCF2412.jpg)
 
 何だこの鍋は！？！？
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2414.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2414.jpg)
+[![](/images/wp/2019/08/DSCF2414.jpg)](/images/wp/2019/08/DSCF2414.jpg)
 
 鯛めしだ～！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2411.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2411.jpg)
+[![](/images/wp/2019/08/DSCF2411.jpg)](/images/wp/2019/08/DSCF2411.jpg)
 
 昇天したゆうき3。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2426.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2426.jpg)
+[![](/images/wp/2019/08/DSCF2426.jpg)](/images/wp/2019/08/DSCF2426.jpg)
 
 うまいのぉうまいのぉ。右は大阪でbascomuteというバンドをやっている横田くんです。DRIVE LIKE JEHUのTシャツ持ちすぎてます。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2428.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2428.jpg)
+[![](/images/wp/2019/08/DSCF2428.jpg)](/images/wp/2019/08/DSCF2428.jpg)
 
 更にホルモン焼きそばで胃に追い打ちをかけます。もう食えねぇ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2420.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2420.jpg)
+[![](/images/wp/2019/08/DSCF2420.jpg)](/images/wp/2019/08/DSCF2420.jpg)
 
 ゆうき3父と弟くん。弟くんも商店仕掛けてます。お父さんのMICHEYのTシャツかわいい。
 
 ### さあ！花火だ！！！
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2436.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2436.jpg)
+[![](/images/wp/2019/08/DSCF2436.jpg)](/images/wp/2019/08/DSCF2436.jpg)
 
 コンビニで花火買ってきて花火。今年は僕ちゃんと花火してました。去年は花火中に失踪してました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2432.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2432.jpg)
+[![](/images/wp/2019/08/DSCF2432.jpg)](/images/wp/2019/08/DSCF2432.jpg)
 
 妹ちゃん。これはいい写真。
 
@@ -172,7 +172,7 @@ KP！！！
 
 ### 弁慶寿司 大宮店で回転寿司
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/IMG_9848.jpg)](https://noeye69.com/wp-content/uploads/2019/08/IMG_9848.jpg)
+[![](/images/wp/2019/08/IMG_9848.jpg)](/images/wp/2019/08/IMG_9848.jpg)
 
 地場のスーパーにしがきがやってる回転寿司、弁慶寿司で朝ごはん。開店直後に行ったけど大行列で20分くらい待ちました。これは普通にいい寿司屋。うまいです。ノンアルで3,000円分くらい食べました。
 
@@ -180,21 +180,21 @@ KP！！！
 
 ### 黒岡食品で茶をしばく
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2453.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2453.jpg)
+[![](/images/wp/2019/08/DSCF2453.jpg)](/images/wp/2019/08/DSCF2453.jpg)
 
 地元のコーヒーショップ、黒岡食品です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2458.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2458.jpg)
+[![](/images/wp/2019/08/DSCF2458.jpg)](/images/wp/2019/08/DSCF2458.jpg)
 
 結構色々あります。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2456.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2456.jpg)
+[![](/images/wp/2019/08/DSCF2456.jpg)](/images/wp/2019/08/DSCF2456.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2455.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2455.jpg)
+[![](/images/wp/2019/08/DSCF2455.jpg)](/images/wp/2019/08/DSCF2455.jpg)
 
 店内にはこのようにレコードもおいてあり、ディガー血が騒ぐ二人。
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/DSCF2457.jpg)](https://noeye69.com/wp-content/uploads/2019/08/DSCF2457.jpg)
+[![](/images/wp/2019/08/DSCF2457.jpg)](/images/wp/2019/08/DSCF2457.jpg)
 
 僕はコーヒーフロートをチョイス。普通にうまいです。
 
@@ -202,7 +202,7 @@ KP！！！
 
 ### 帰路へ
 
-[![](https://noeye69.com/wp-content/uploads/2019/08/IMG_9849.jpg)](https://noeye69.com/wp-content/uploads/2019/08/IMG_9849.jpg)
+[![](/images/wp/2019/08/IMG_9849.jpg)](/images/wp/2019/08/IMG_9849.jpg)
 
 南丹PAで京都組と大阪組と別れて、帰路へ。
 

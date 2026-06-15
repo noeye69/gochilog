@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "ハンコ業界の利権のためにデジタル化を拒む日本の印章制度・文化を守る議員連盟の議員って誰よ https://t.co/gt6tFdGXuI @Isseki3 さんから ? 田端信太郎 ＠田端大学塾長である！ (@tabbata) 2019年3"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/F90A1051-3538-4CA3-95F2-AEC5A18662D3.jpg"
+ogImage: "/images/wp/2019/03/F90A1051-3538-4CA3-95F2-AEC5A18662D3.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/throw-away-stamp-869.html -->
@@ -34,19 +34,19 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/F90A1051-3538-4CA3-95F2
 
 **手でサインする手間を省くための印鑑**。これは使いたい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/F90A1051-3538-4CA3-95F2-AEC5A18662D3.jpg)](https://noeye69.com/wp-content/uploads/2019/03/F90A1051-3538-4CA3-95F2-AEC5A18662D3.jpg)
+[![](/images/wp/2019/03/F90A1051-3538-4CA3-95F2-AEC5A18662D3.jpg)](/images/wp/2019/03/F90A1051-3538-4CA3-95F2-AEC5A18662D3.jpg)
 
 僕は玄関にこのシャチハタを置いてるんですが、これすごい便利です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/FBFF4FEB-21E6-457B-9792-FAED1356F2AA.jpg)](https://noeye69.com/wp-content/uploads/2019/03/FBFF4FEB-21E6-457B-9792-FAED1356F2AA.jpg)
+[![](/images/wp/2019/03/FBFF4FEB-21E6-457B-9792-FAED1356F2AA.jpg)](/images/wp/2019/03/FBFF4FEB-21E6-457B-9792-FAED1356F2AA.jpg)
 
 上から見た図。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/C2CACADE-339C-4002-A56B-4E13FB75DA4D.jpg)](https://noeye69.com/wp-content/uploads/2019/03/C2CACADE-339C-4002-A56B-4E13FB75DA4D.jpg)
+[![](/images/wp/2019/03/C2CACADE-339C-4002-A56B-4E13FB75DA4D.jpg)](/images/wp/2019/03/C2CACADE-339C-4002-A56B-4E13FB75DA4D.jpg)
 
 少し押すとこんな感じでくぱっ！と開いて、
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/85E12F65-FED8-4209-991A-D3D9E42A3007.jpg)](https://noeye69.com/wp-content/uploads/2019/03/85E12F65-FED8-4209-991A-D3D9E42A3007.jpg)
+[![](/images/wp/2019/03/85E12F65-FED8-4209-991A-D3D9E42A3007.jpg)](/images/wp/2019/03/85E12F65-FED8-4209-991A-D3D9E42A3007.jpg)
 
 最後まで押すとひょっこりハン。
 
@@ -106,7 +106,7 @@ Amazonだと印字部分なしの本体だけ先に届いて、ネットで名�
 
 多分給与に関係あるからだと思うんですけど、鍵当番した日にタイムカードに**印鑑**押すんですよ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/5038402B-606A-45DF-BD5B-5770CA8C109E.jpg)](https://noeye69.com/wp-content/uploads/2019/03/5038402B-606A-45DF-BD5B-5770CA8C109E.jpg)
+[![](/images/wp/2019/03/5038402B-606A-45DF-BD5B-5770CA8C109E.jpg)](/images/wp/2019/03/5038402B-606A-45DF-BD5B-5770CA8C109E.jpg)
 
 こんな風に。「当」って書いてあるんですけど、印鑑が古すぎて字が潰れてる。ちゃんとした印鑑でも劣化しとるやんけ。
 
@@ -114,7 +114,7 @@ Amazonだと印字部分なしの本体だけ先に届いて、ネットで名�
 
 給与が絡んでるんでみんな平等にしたい。だからその日出社してる人の中で、次誰が当番かすぐわかればいいんですけど、
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/BB08F79D-E821-45B5-947E-415C24259AA0.jpg)](https://noeye69.com/wp-content/uploads/2019/03/BB08F79D-E821-45B5-947E-415C24259AA0.jpg)
+[![](/images/wp/2019/03/BB08F79D-E821-45B5-947E-415C24259AA0.jpg)](/images/wp/2019/03/BB08F79D-E821-45B5-947E-415C24259AA0.jpg)
 
 こうやってタイムカード入れに入れてると「当」印が見えないんですよね。
 
@@ -125,7 +125,7 @@ Amazonだと印字部分なしの本体だけ先に届いて、ネットで名�
 ### スプレッドシートで解決した
 
 見えないのが問題なら、見えるようにすればいいよねということで、何度も出てきているスプレッドシートの登場だ。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4299.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4299.jpg)
+[![](/images/wp/2019/03/IMG_4299.jpg)](/images/wp/2019/03/IMG_4299.jpg)
 全員がアクセスできる表を作りました。隠してる左は名前、右は鍵当番をした日付です。
 
 使い方は超簡単！鍵当番をするタイミングでスマホからこの表にアクセスして、日付を入力するだけ。次の当番の人は、その日出社してる人の中で空欄になってる一番上の人です。で、一周したら右の欄に行きます。以下同様。

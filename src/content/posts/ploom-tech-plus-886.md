@@ -10,7 +10,7 @@ tags:
   - "生活改善"
   - "買って後悔したもの"
 description: "Ploom TECHが気になる 一通りメジャーな電子タバコを試そうと思っていて、今の所、 iQOS…連続吸いができないのとフタの接触が悪くて充電ミスが起こるからイヤ glo…特に不満はないけど強いて言えば普通のタバコ味がまずいのとよく壊れる"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/04/20190417154734ed2.png"
+ogImage: "/images/wp/2019/04/20190417154734ed2.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ploom-tech-plus-886.html -->
@@ -27,19 +27,19 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/04/20190417154734ed2.png"
 「Ploom TECHのみ喫煙OKです」
 と言われたことがありました。
 なんでPloom TECHだけOKなん？と思って気になってたところ、僕がglo買うきっかけになった方のブログでPloom TECH＋が絶賛されてたので、買ってみようと。
-[![](https://noeye69.com/wp-content/uploads/2019/04/20190417154734ed2.png)](https://noeye69.com/wp-content/uploads/2019/04/20190417154734ed2.png)
+[![](/images/wp/2019/04/20190417154734ed2.png)](/images/wp/2019/04/20190417154734ed2.png)
 ダントツでPloom TECH＋がいいらしい。マジかよ。
 
 ### Ploom TECH＋買った
 
 楽天ポイントが貯まってたのと、公式ショップが楽天にあったので、楽天で買いました。
-[![](https://noeye69.com/wp-content/uploads/2019/04/A6739815-A65A-4720-A119-C4C2C5F9BB7F.jpg)](https://noeye69.com/wp-content/uploads/2019/04/A6739815-A65A-4720-A119-C4C2C5F9BB7F.jpg)
+[![](/images/wp/2019/04/A6739815-A65A-4720-A119-C4C2C5F9BB7F.jpg)](/images/wp/2019/04/A6739815-A65A-4720-A119-C4C2C5F9BB7F.jpg)
 ブツです。gloはiPhoneとかが入ってそうな硬い紙のケースなのに、Ploom TECH+はザラザラした安っぽい紙のパッケージ。まあ捨てるから何でもいいんですが。
-[![](https://noeye69.com/wp-content/uploads/2019/04/3B637358-B33F-45BE-851B-57C9B1E73CBE.jpg)](https://noeye69.com/wp-content/uploads/2019/04/3B637358-B33F-45BE-851B-57C9B1E73CBE.jpg)
+[![](/images/wp/2019/04/3B637358-B33F-45BE-851B-57C9B1E73CBE.jpg)](/images/wp/2019/04/3B637358-B33F-45BE-851B-57C9B1E73CBE.jpg)
 外装を取るとこんな感じ。
-[![](https://noeye69.com/wp-content/uploads/2019/04/CAFD54C9-3C95-48A3-9363-FC70FD567AEF.jpg)](https://noeye69.com/wp-content/uploads/2019/04/CAFD54C9-3C95-48A3-9363-FC70FD567AEF.jpg)
+[![](/images/wp/2019/04/CAFD54C9-3C95-48A3-9363-FC70FD567AEF.jpg)](/images/wp/2019/04/CAFD54C9-3C95-48A3-9363-FC70FD567AEF.jpg)
 開けました。
-[![](https://noeye69.com/wp-content/uploads/2019/04/48C316D3-16FC-4C9C-9222-1ED58F8E99CD.jpg)](https://noeye69.com/wp-content/uploads/2019/04/48C316D3-16FC-4C9C-9222-1ED58F8E99CD.jpg)
+[![](/images/wp/2019/04/48C316D3-16FC-4C9C-9222-1ED58F8E99CD.jpg)](/images/wp/2019/04/48C316D3-16FC-4C9C-9222-1ED58F8E99CD.jpg)
 出しました。
 
 - micro USBケーブル
@@ -57,21 +57,21 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/04/20190417154734ed2.png"
 
 ### たばこカプセルが届いた
 
-[![](https://noeye69.com/wp-content/uploads/2019/04/BD024788-3B88-4A98-81A3-0C227B95B512.jpg)](https://noeye69.com/wp-content/uploads/2019/04/BD024788-3B88-4A98-81A3-0C227B95B512.jpg)
+[![](/images/wp/2019/04/BD024788-3B88-4A98-81A3-0C227B95B512.jpg)](/images/wp/2019/04/BD024788-3B88-4A98-81A3-0C227B95B512.jpg)
 Ploom TECH+に使うのは下の4箱です。上の丸い缶は、一緒に付いてきた「かぎタバコ」というものらしく、あとで使ってみます。
-[![](https://noeye69.com/wp-content/uploads/2019/04/F5839532-7F6D-4426-B77F-C62B51752F54.jpg)](https://noeye69.com/wp-content/uploads/2019/04/F5839532-7F6D-4426-B77F-C62B51752F54.jpg)
+[![](/images/wp/2019/04/F5839532-7F6D-4426-B77F-C62B51752F54.jpg)](/images/wp/2019/04/F5839532-7F6D-4426-B77F-C62B51752F54.jpg)
 1個開けてみます。タバコの箱というよりは、コンタクトが入ってる箱に似てる。
-[![](https://noeye69.com/wp-content/uploads/2019/04/BDCE68A8-8854-4804-A0A1-A93097E41584.jpg)](https://noeye69.com/wp-content/uploads/2019/04/BDCE68A8-8854-4804-A0A1-A93097E41584.jpg)
+[![](/images/wp/2019/04/BDCE68A8-8854-4804-A0A1-A93097E41584.jpg)](/images/wp/2019/04/BDCE68A8-8854-4804-A0A1-A93097E41584.jpg)
 上がたばこカプセル(1箱に5本)、下がリキッド的なやつ(1箱に1本)です。
-[![](https://noeye69.com/wp-content/uploads/2019/04/943FA6EB-A31D-4D89-8A8B-A6B6236EE4AB.jpg)](https://noeye69.com/wp-content/uploads/2019/04/943FA6EB-A31D-4D89-8A8B-A6B6236EE4AB.jpg)
+[![](/images/wp/2019/04/943FA6EB-A31D-4D89-8A8B-A6B6236EE4AB.jpg)](/images/wp/2019/04/943FA6EB-A31D-4D89-8A8B-A6B6236EE4AB.jpg)
 リキッドの方の封を開けるとこんな感じ。上下がシリコンキャップで覆われているので、取ります。
-[![](https://noeye69.com/wp-content/uploads/2019/04/DBF9D284-50FA-4868-BFEB-8D8F39365E27.jpg)](https://noeye69.com/wp-content/uploads/2019/04/DBF9D284-50FA-4868-BFEB-8D8F39365E27.jpg)
+[![](/images/wp/2019/04/DBF9D284-50FA-4868-BFEB-8D8F39365E27.jpg)](/images/wp/2019/04/DBF9D284-50FA-4868-BFEB-8D8F39365E27.jpg)
 たばこカプセルを入れる口を外して、本体の電極とリキッドの電極が接触するように入れます。
-[![](https://noeye69.com/wp-content/uploads/2019/04/A189946B-2BF6-4D23-801C-5E2699559C76.jpg)](https://noeye69.com/wp-content/uploads/2019/04/A189946B-2BF6-4D23-801C-5E2699559C76.jpg)
+[![](/images/wp/2019/04/A189946B-2BF6-4D23-801C-5E2699559C76.jpg)](/images/wp/2019/04/A189946B-2BF6-4D23-801C-5E2699559C76.jpg)
 入れて口を付けました。
-[![](https://noeye69.com/wp-content/uploads/2019/04/7AB2423D-3C7D-409A-9A5B-B5D2F4758B98.jpg)](https://noeye69.com/wp-content/uploads/2019/04/7AB2423D-3C7D-409A-9A5B-B5D2F4758B98.jpg)
+[![](/images/wp/2019/04/7AB2423D-3C7D-409A-9A5B-B5D2F4758B98.jpg)](/images/wp/2019/04/7AB2423D-3C7D-409A-9A5B-B5D2F4758B98.jpg)
 最後にたばこカプセルを挿します。
-[![](https://noeye69.com/wp-content/uploads/2019/04/C9AAB173-D90E-4A28-9487-F16D57C951A2.jpg)](https://noeye69.com/wp-content/uploads/2019/04/C9AAB173-D90E-4A28-9487-F16D57C951A2.jpg)
+[![](/images/wp/2019/04/C9AAB173-D90E-4A28-9487-F16D57C951A2.jpg)](/images/wp/2019/04/C9AAB173-D90E-4A28-9487-F16D57C951A2.jpg)
 こんな感じ。見た目はかなりスタイリッシュ。サチモスのヨンスとか吸ってそう。完全にイメージですが。けど、吸うまでの若干のめんどくささはすでにありますね。
 
 ### 吸った感想：微妙

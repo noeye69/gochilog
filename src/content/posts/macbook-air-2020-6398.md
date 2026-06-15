@@ -9,7 +9,7 @@ tags:
   - "PC周辺機器"
   - "業務効率化"
 description: "会社の共用ノートPCをLenovoのchromebook S330にしてからというもの、「2万8千円でも全然動くし、コスパいいな」と思って使っていました。 [sitecard subtitle=関連記事 url=https://noeye6"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/06/macbook-air-space-gray-select-201810.jpg"
+ogImage: "/images/wp/2020/06/macbook-air-space-gray-select-201810.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/macbook-air-2020-6398.html -->
@@ -63,7 +63,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/06/macbook-air-space-gray-
 
 ## まとめ
 
-![](https://noeye69.com/wp-content/uploads/2020/06/macbook-air-space-gray-select-201810.jpg)
+![](/images/wp/2020/06/macbook-air-space-gray-select-201810.jpg)
 結局12万円のMacBook Airのcore i5モデルに。
  
 ここ半年くらいウェブ会議活用して浮いたお金で買ったみたいなものなので実質タダです。

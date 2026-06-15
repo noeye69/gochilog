@@ -8,7 +8,7 @@ draft: false
 tags:
   - "イベントレポート"
 description: "最近お皿にハマっています。岡山県民の代表として、備前焼まつりに行ってきました。 備前焼 is 何 [blogcard url=https://bizenyakija.com/bizenyakiFeature.html] だいたいここに書いて"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/10/dfd7dccefa34aec1bfdf2a8ec5fd3c93-1024x427.jpg"
+ogImage: "/images/wp/2019/10/dfd7dccefa34aec1bfdf2a8ec5fd3c93-1024x427.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/bizenyaki-matsuri-2019-4300.html -->
@@ -17,7 +17,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/10/dfd7dccefa34aec1bfdf2a8
 
 ## 備前焼 is 何
 
-![](https://noeye69.com/wp-content/uploads/2019/10/dfd7dccefa34aec1bfdf2a8ec5fd3c93-1024x427.jpg)
+![](/images/wp/2019/10/dfd7dccefa34aec1bfdf2a8ec5fd3c93-1024x427.jpg)
 だいたいここに書いてあるんですが、要は岡山県備前市発祥のいい感じの焼き物です。
 wikiの引用ですが、
 > 「使い込むほどに味が出る」と言われ、派手さはないが飽きがこないのが特色である。
@@ -41,7 +41,7 @@ wikiの引用ですが、
 >
 > — 黒本晋吾 (@noeye69) [October 20, 2019](https://twitter.com/noeye69/status/1185767250319405056?ref_src=twsrc%5Etfw)
 
-![](https://noeye69.com/wp-content/uploads/2019/10/4dd772b04bc177a970022f867f81b8b1.jpg)
+![](/images/wp/2019/10/4dd772b04bc177a970022f867f81b8b1.jpg)
 めっちゃ雑に書くとこんな感じのフィールドになってます。
 
 - 出店ゾーン…青空市場みたいな感じでテントの下でお皿売ってるイメージ
@@ -51,33 +51,33 @@ wikiの引用ですが、
 
 ### 出店ゾーン
 
-![](https://noeye69.com/wp-content/uploads/2019/10/0CABABE4-3425-453F-B33C-21B063920FC9-2221-000001F19234BA18-1024x576.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/1D0E87B5-E80B-4315-84CD-4A3F962C823E-2221-000001F182C2D54A-1024x576.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/9E569C05-0FF2-492F-B82F-BBBB1DC60BD3-2221-000001F1856D10FF-1024x576.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/69461620-59CA-4A1E-A08F-D84830A7F9E4-2221-000001F1A1455542-1024x576.jpg)
+![](/images/wp/2019/10/0CABABE4-3425-453F-B33C-21B063920FC9-2221-000001F19234BA18-1024x576.jpg)
+![](/images/wp/2019/10/1D0E87B5-E80B-4315-84CD-4A3F962C823E-2221-000001F182C2D54A-1024x576.jpg)
+![](/images/wp/2019/10/9E569C05-0FF2-492F-B82F-BBBB1DC60BD3-2221-000001F1856D10FF-1024x576.jpg)
+![](/images/wp/2019/10/69461620-59CA-4A1E-A08F-D84830A7F9E4-2221-000001F1A1455542-1024x576.jpg)
 こんな感じで秋まつり感ある催し物もおっぱじまりました。
 
 ### 商店街ゾーン
 
-![](https://noeye69.com/wp-content/uploads/2019/10/C995B51B-8777-4FFE-BA35-616CA7D71F7B-2221-000001F1BCA4AFA7-1024x576.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/49E1DFEE-B6E7-4128-8E98-605F50A25590-2221-000001F1C12BD9D7-1024x576.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/E47208B8-A67C-4AC4-9244-40F104F6DFB9-2221-000001F1C33A89B4-1024x576.jpg)
+![](/images/wp/2019/10/C995B51B-8777-4FFE-BA35-616CA7D71F7B-2221-000001F1BCA4AFA7-1024x576.jpg)
+![](/images/wp/2019/10/49E1DFEE-B6E7-4128-8E98-605F50A25590-2221-000001F1C12BD9D7-1024x576.jpg)
+![](/images/wp/2019/10/E47208B8-A67C-4AC4-9244-40F104F6DFB9-2221-000001F1C33A89B4-1024x576.jpg)
 スピーカーwお値段110,000円www
 
 ### 市川透さんという陶芸家さん気になった
 
-![](https://noeye69.com/wp-content/uploads/2019/10/E37F4F5D-3450-4DBB-9104-7EF830DBAC6C-2221-000001F1BF3026AC-1024x576.jpg)
+![](/images/wp/2019/10/E37F4F5D-3450-4DBB-9104-7EF830DBAC6C-2221-000001F1BF3026AC-1024x576.jpg)
 ガラス越しで見えづらくてすみません。結局買わなかったのですが、備前焼とは思えない奇抜なデザインの焼き物を作ってる[市川透](http://www.toru6212.tokyo/#id5)さんという方が気になりました。
 なぜ買わなかったかというと日本酒を飲むための焼き物しか？作ってないらしく、日本酒を飲むようになったら買おうかなと。
 
 ## 買ったもの
 
-![](https://noeye69.com/wp-content/uploads/2019/10/R0000065-1024x683.jpg)
+![](/images/wp/2019/10/R0000065-1024x683.jpg)
 備前焼って思ったほど高くなくて、今回買ったお皿はどれも3,000円前後、真ん中の平皿に関しては1,000円と良心的でした。
-![](https://noeye69.com/wp-content/uploads/2019/10/R0000066-1024x683.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/R0000068-1024x683.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/R0000067-1024x683.jpg)
-![](https://noeye69.com/wp-content/uploads/2019/10/R0000069-1-1024x683.jpg)
+![](/images/wp/2019/10/R0000066-1024x683.jpg)
+![](/images/wp/2019/10/R0000068-1024x683.jpg)
+![](/images/wp/2019/10/R0000067-1024x683.jpg)
+![](/images/wp/2019/10/R0000069-1-1024x683.jpg)
 いい感じ。
 
 ## まとめ

@@ -9,7 +9,7 @@ tags:
   - "おいしいお店"
   - "岡山"
 description: "「う」で思い出したけど、うな重食べたくないですか？食べたいですよね？ということで食べに行ましょう！ ﻿ うおじま 初回は専務のオススメでお客さんとのランチで食べに行ったんですが、衝撃的にうまかったので個人的に再訪しました。 場所は岡山市南区"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/09/R0006693.jpg"
+ogImage: "/images/wp/2019/09/R0006693.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/uojima-unaju-okayama-1992.html -->
@@ -32,10 +32,10 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/09/R0006693.jpg"
 ### うな重
 
 の前にサラダが出てきます。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006693.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006693.jpg)
+[![](/images/wp/2019/09/R0006693.jpg)](/images/wp/2019/09/R0006693.jpg)
 ハマチのサラダです。ドレッシングがサラダにもハマチにもすごい合っててすごい。
 しばらくすると、、、
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006694.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006694.jpg)ラスボスのうな重が出てきます。
+[![](/images/wp/2019/09/R0006694.jpg)](/images/wp/2019/09/R0006694.jpg)ラスボスのうな重が出てきます。
 いや、そんなにうな重食いまくって生きてきたわけではないですが、一口食った瞬間「これは、、、！」となるはずです。外パリパリの中フワフワです。
 うなぎは西日本と東日本で色々と違いがあるらしく、[大五うなぎ工房本店](https://www.unagi-koubou.jp/contents/blog/536.html)さんによると
 > 焼き方についても地域によって違いがあります。

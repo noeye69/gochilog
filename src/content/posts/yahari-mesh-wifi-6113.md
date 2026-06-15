@@ -12,7 +12,7 @@ tags:
   - "業務効率化"
   - "生活改善"
 description: "会社のwi-fi回線にずっと不満を感じていました。 事務所にて、 1階…buffaloの家庭用ルーター 2階…buffaloの中継器 の2つを使っていたのですが、 2階にいるのに1階のルーターの回線を拾う 2階の中継器の回線に切り替えようと"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/04/00100trPORTRAIT_00100_BURST20200417193919359_COVER-1024x768.jpg"
+ogImage: "/images/wp/2020/04/00100trPORTRAIT_00100_BURST20200417193919359_COVER-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/yahari-mesh-wifi-6113.html -->
@@ -57,14 +57,14 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/04/00100trPORTRAIT_00100_B
 
 ## TP-LINKのDECO M4は安かった
 
-![](https://noeye69.com/wp-content/uploads/2020/04/00100trPORTRAIT_00100_BURST20200417193919359_COVER-1024x768.jpg)
+![](/images/wp/2020/04/00100trPORTRAIT_00100_BURST20200417193919359_COVER-1024x768.jpg)
 そんな中、USBタイプのwi-fiの受信機だったり自作PCでお世話になったwi-fiの受信機で買ったことのあった「TP-LINK」という中国のメーカーのメッシュwi-fiと中継器「DECO M4」は安かったです。両方セットで1万円くらい。これなら許容範囲。
  
 ということで、TP-LINKのDECO M4をAmazonで購入。ちなみに2個セットで売っていて、同じものがルーターにも中継器にもなるタイプです。
 
 ## 注意点：最初のルーターの設定はスマホのアプリから
 
-![](https://noeye69.com/wp-content/uploads/2020/04/Screenshot_20200428-101621-485x1024.png)
+![](/images/wp/2020/04/Screenshot_20200428-101621-485x1024.png)
 このTP-LINKのDECO M4、説明書に設定の仕方が全くと言っていいほど記載されていません。「スマホでアプリをダウンロードして～」と書いてあるので、言われた通りにします。
  
 最初の「192.168.1.1」から行うIPアドレスの変更も、なぜかPCからは現状のステータスが見れるだけで、変更ができません。すべて**スマホのアプリ上で行います**。

@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "観音クリエイションさんのアドベントカレンダー で2019年「やってよかったこと」と「買ってよかったもの」にエントリーしました。この記事は前者の2019年やってよかったことの記事です。 やってよかったこと2019年版：職場へのG Suite導"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/11/A283E116-67D9-49D5-BB5A-35A7A9B628D5-1024x768.jpg"
+ogImage: "/images/wp/2019/11/A283E116-67D9-49D5-BB5A-35A7A9B628D5-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/yatteyokattakoto2019-gsuite-4774.html -->
@@ -40,11 +40,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/11/A283E116-67D9-49D5-BB5A
 
 20人弱くらいの規模だと、1つのGoogleカレンダーを共有するとめちゃくちゃ便利です。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/A283E116-67D9-49D5-BB5A-35A7A9B628D5-1024x768.jpg)
+![](/images/wp/2019/11/A283E116-67D9-49D5-BB5A-35A7A9B628D5-1024x768.jpg)
 
 もとは3つの事業場にそれぞれこんな感じのホワイトボードタイプのカレンダーがあって、専務や課長がそれぞれに手書きで書いてたんですが、会社のGoogleカレンダーにPCやスマホから書くだけで
 
-![](https://noeye69.com/wp-content/uploads/2019/11/1574400747277-485x1024.jpeg)
+![](/images/wp/2019/11/1574400747277-485x1024.jpeg)
 
 こんな感じでそれぞれのスマホでカレンダーが見れてスケジュールが確認できます。
 
@@ -65,7 +65,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/11/A283E116-67D9-49D5-BB5A
 
 更に、権限を付与すれば自分が許可したユーザーと共同編集できます。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/1574401858928-485x1024.jpeg)
+![](/images/wp/2019/11/1574401858928-485x1024.jpeg)
 
 例えばこれは「お弁当」シートですが、事務員さんが毎朝お弁当業者に頼んでいる弁当の集計表です。このシートの場合は
 

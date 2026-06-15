@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ブログ"
 description: "通らないなら通らないでもいいかと思ってたけど、通ってみるとめちゃくちゃ嬉しい。 Google Adsenseとは？ 要するにGoogleが表示する広告です。例えば自分が楽天とかAmazonで見てた商品やググったキーワードに関連するものが、ネ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/07/IMG-9471.jpg"
+ogImage: "/images/wp/2019/07/IMG-9471.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-adsense-929.html -->
@@ -27,7 +27,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/IMG-9471.jpg"
 
 で、僕もブログを書いてる端くれとして、Googleに価値があると認められたかったんですが、去年から3回ほど申し込んでてことごとく落ちてました。笑
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/IMG-9471.jpg)](https://noeye69.com/wp-content/uploads/2019/07/IMG-9471.jpg)
+[![](/images/wp/2019/07/IMG-9471.jpg)](/images/wp/2019/07/IMG-9471.jpg)
 
 「何がダメなのか」は教えてもらえません。なので、不定期に「そろそろいいのでは？」と思ったタイミングで申し込んでましたが、結構記事溜まった先月5月に申し込んだときに断られて、「もういいや…」と半ば諦めてました。
 

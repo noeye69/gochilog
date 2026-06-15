@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "一度は組み立てた自作PCですが、自作故に愛が生まれちゃって、「もっとこうしたい…！」っていうのが出てきたので改善です。 マザボを入れ替える理由：LED制御したい RGB LEDでピカピカ光るメモリにしたのですが、制御コントローラーがついてる"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/03/IMG_20200311_223212-1024x768.jpg"
+ogImage: "/images/wp/2020/03/IMG_20200311_223212-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/change-of-motherboard-case-watercooling-6005.html -->
@@ -19,7 +19,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/03/IMG_20200311_223212-102
 
 ## マザボを入れ替える理由：LED制御したい
 
-![](https://noeye69.com/wp-content/uploads/2020/03/IMG_20200311_223212-1024x768.jpg)
+![](/images/wp/2020/03/IMG_20200311_223212-1024x768.jpg)
 
 RGB LEDでピカピカ光るメモリにしたのですが、制御コントローラーがついてるマザボじゃないと光り方を変更できないということがわかりました。なので特に不具合もないけど買い替えました。
 
@@ -41,7 +41,7 @@ CorsairのCarbide 275R、見た目もシンプルだしすごい気に入って�
 
 ということで、もっと掃除しやすくてかっこいいケースに乗り換えです。
 
-![](https://noeye69.com/wp-content/uploads/2020/03/Screenshot_20200324-110802-1024x485.png)
+![](/images/wp/2020/03/Screenshot_20200324-110802-1024x485.png)
 
 最初全く目につかなかった「NZXT」というメーカーの「H510i」というケースにしました。なぜ目につかなかったかと言うと、Amazonで在庫がなかったからです。
 
@@ -51,7 +51,7 @@ CorsairのCarbide 275R、見た目もシンプルだしすごい気に入って�
 
 ## NZXTの簡易水冷がカッコよすぎるので換装
 
-![](https://noeye69.com/wp-content/uploads/2020/03/Screenshot_20200324-110933-1024x485.png)
+![](/images/wp/2020/03/Screenshot_20200324-110933-1024x485.png)
 
 で、「うまい商売やな」と思うのですが上のH510iの箱の絵に**NZXTの簡易水冷機**が印刷されているわけです。パッケージ商法。
 

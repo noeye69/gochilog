@@ -9,7 +9,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "ANKER最高ですね。名前がまずかっこいい。ANKER。 pasonomiのイヤホン無くした 昨年買ったpasonomiのイヤホンを最近失くしたんですよね。もの失くしすぎ。まあまあ高かったんでショックだったんですけど、ランニング勢としてはb"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/201903062021030e4.jpg"
+ogImage: "/images/wp/2019/03/201903062021030e4.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/sound-of-anker-862.html -->
@@ -24,7 +24,7 @@ ANKER最高ですね。名前がまずかっこいい。ANKER。
 
 てことで買いなおしました。Air Pods風イヤホン、ANKERのSoundcore Liberty Air。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/201903062021030e4.jpg)](https://noeye69.com/wp-content/uploads/2019/03/201903062021030e4.jpg)
+[![](/images/wp/2019/03/201903062021030e4.jpg)](/images/wp/2019/03/201903062021030e4.jpg)
 
 ケースです。自立します。
 
@@ -34,7 +34,7 @@ ANKER最高ですね。名前がまずかっこいい。ANKER。
 
 あと操作がダブルタップなので、間違って指が当たって停止したりしないのもいい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/201903062033254e7.jpg)](https://noeye69.com/wp-content/uploads/2019/03/201903062033254e7.jpg)
+[![](/images/wp/2019/03/201903062033254e7.jpg)](/images/wp/2019/03/201903062033254e7.jpg)
 
 そして、ランニング勢として一番気になるのが「走ってて耳からハズれないか」。
 
@@ -44,13 +44,13 @@ ANKER最高ですね。名前がまずかっこいい。ANKER。
 
 ### **ついでにANKERのスピーカーも買った**
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/201903062114081d9.jpg)](https://noeye69.com/wp-content/uploads/2019/03/201903062114081d9.jpg)
+[![](/images/wp/2019/03/201903062114081d9.jpg)](/images/wp/2019/03/201903062114081d9.jpg)
 
 もともとJBLのGOってスピーカーを使ってたんです。毎年恒例のの天橋立BBQとか、レンタカー借りた時とか、台所で料理する時に流してました。
 
 これ防水だったら風呂に入ってる時音楽聴けるよなと思って。これの新しいバージョンは防水がついてるんですよね。最初からつけとけよ！って感じですが、買ったのが2016年なので、まあしょうがないかと。技術の進歩素晴らしい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/20190306201117e99.jpg)](https://noeye69.com/wp-content/uploads/2019/03/20190306201117e99.jpg)
+[![](/images/wp/2019/03/20190306201117e99.jpg)](/images/wp/2019/03/20190306201117e99.jpg)
 
 GOの新しいヤツ買ってもよかったんだけど、音関係もANKERに統一しようと思って買ったのがこちら。これもsoundcoreシリーズなので、同期したときの音が一緒です。いちいち外国人がしゃべらないのでウザくない。
 
@@ -62,7 +62,7 @@ GOの新しいヤツ買ってもよかったんだけど、音関係もANKERに�
 
 ### **まとめ**
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/9E0F33AF-3292-4E28-BC40-5A1176E6D3AB.jpg)](https://noeye69.com/wp-content/uploads/2019/03/9E0F33AF-3292-4E28-BC40-5A1176E6D3AB.jpg)
+[![](/images/wp/2019/03/9E0F33AF-3292-4E28-BC40-5A1176E6D3AB.jpg)](/images/wp/2019/03/9E0F33AF-3292-4E28-BC40-5A1176E6D3AB.jpg)
 
 ということで、音関係をANKERに任せることにしました。頼んだぞ。
 

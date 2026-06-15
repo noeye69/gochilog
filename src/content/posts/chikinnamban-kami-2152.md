@@ -8,7 +8,7 @@ draft: false
 tags:
   - "料理"
 description: "ウチは子供3人いて、3週間くらい妻が海外に行ってたけど、俺の1日の家事時間、掃除、洗濯、食事・子供のお弁当の用意（3分で済む）など全部で1時間ぐらいだったけどｗ。12歳未満の子供の要る女性の家事が平日1日8時間って何やってるの？素朴に疑問。"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/09/R0006759.jpg"
+ogImage: "/images/wp/2019/09/R0006759.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/chikinnamban-kami-2152.html -->
@@ -61,69 +61,69 @@ Twitterって文字数制限あるせいで前後の文脈が無視されて1つ
 
 ### タルタルソース作るぞ
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006759.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006759.jpg)
+[![](/images/wp/2019/09/R0006759.jpg)](/images/wp/2019/09/R0006759.jpg)
 ゆで卵時間かかるので最初に作ります。例によって電子レンジに放り込んどけば勝手に出来上がるやつ。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006760.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006760.jpg)
+[![](/images/wp/2019/09/R0006760.jpg)](/images/wp/2019/09/R0006760.jpg)
 湯で時間は8分で。上半身裸で料理してたので反射を避けたつもりがガッツリハンドルに写ってるという。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006761.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006761.jpg)
+[![](/images/wp/2019/09/R0006761.jpg)](/images/wp/2019/09/R0006761.jpg)
 タルタルに入れる野菜たち。これらをみじん切りにします。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006762.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006762.jpg)「どうやったら効率よくみじん切りができるか」の研究を重ねています。最近やってるのは包丁を最初からガッツリ入れるのではなく、バラバラになる手前のところで止めて、90°回転させてガッツリ包丁を入れる。すると大部分がかなり均等に細かくなっている。それを本気でみじん切りにします。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006764.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006764.jpg)
+[![](/images/wp/2019/09/R0006762.jpg)](/images/wp/2019/09/R0006762.jpg)「どうやったら効率よくみじん切りができるか」の研究を重ねています。最近やってるのは包丁を最初からガッツリ入れるのではなく、バラバラになる手前のところで止めて、90°回転させてガッツリ包丁を入れる。すると大部分がかなり均等に細かくなっている。それを本気でみじん切りにします。
+[![](/images/wp/2019/09/R0006764.jpg)](/images/wp/2019/09/R0006764.jpg)
 うまくみじん切りにできたらそれを水につけておきます。他の2つの野菜が切り終わるまで。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006765.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006765.jpg)
+[![](/images/wp/2019/09/R0006765.jpg)](/images/wp/2019/09/R0006765.jpg)
 ピクルスの瓶のフタ固すぎワロタw握力50kg重の僕でも苦戦しました。固すぎだろ。ピクルスはこんくらいの量。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006766.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006766.jpg)
+[![](/images/wp/2019/09/R0006766.jpg)](/images/wp/2019/09/R0006766.jpg)
 玉ねぎと同じ要領でみじん切りにしました。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006768.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006768.jpg)
+[![](/images/wp/2019/09/R0006768.jpg)](/images/wp/2019/09/R0006768.jpg)
 パセリ。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006769.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006769.jpg)
+[![](/images/wp/2019/09/R0006769.jpg)](/images/wp/2019/09/R0006769.jpg)
 これはただひたすらに切り続けるしかないかな。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006770.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006770.jpg)
+[![](/images/wp/2019/09/R0006770.jpg)](/images/wp/2019/09/R0006770.jpg)
 玉ねぎを水からあげて、キッチンペーパーで絞る。
 **てか今思えばパセリも切ってると結構水分が出るので、水気を切ったほうがいいですね。じゃないとマヨネーズ入れたときに粘度が落ちてシャバシャバになり、結果どんどんマヨネーズを足す羽目になるので大量のタルタルソースが出来上がってしまうので注意。**
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006771.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006771.jpg)
+[![](/images/wp/2019/09/R0006771.jpg)](/images/wp/2019/09/R0006771.jpg)
 みじん切りになった野菜たち。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006772.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006772.jpg)
+[![](/images/wp/2019/09/R0006772.jpg)](/images/wp/2019/09/R0006772.jpg)
 ゆで卵を～
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006773.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006773.jpg)
+[![](/images/wp/2019/09/R0006773.jpg)](/images/wp/2019/09/R0006773.jpg)
 ぶっ壊す！
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006775.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006775.jpg)
+[![](/images/wp/2019/09/R0006775.jpg)](/images/wp/2019/09/R0006775.jpg)
 マヨネーズを入れてかき混ぜます。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006777.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006777.jpg)
+[![](/images/wp/2019/09/R0006777.jpg)](/images/wp/2019/09/R0006777.jpg)
 できた！案の定粘度を気にしてマヨネーズ足しまくってたら多すぎ！まあマヨラーなので無問題。てか最近買ったiwakiの耐熱ボウルいいですね。見栄えが。
 
 ### 南蛮酢作る
 
 揚げたチキンを浸す南蛮酢を作ります。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006778.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006778.jpg)
+[![](/images/wp/2019/09/R0006778.jpg)](/images/wp/2019/09/R0006778.jpg)
 材料はこちら。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006779.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006779.jpg)参考にしたレシピが「酢を最後に入れたほうが酸味が飛ばなくていいですよ」とのことだったので、それを守りつつ火にかけます。醤油と酢100ccずつに対して、味見をしながら「こんなもんかな？」を探ります。
+[![](/images/wp/2019/09/R0006779.jpg)](/images/wp/2019/09/R0006779.jpg)参考にしたレシピが「酢を最後に入れたほうが酸味が飛ばなくていいですよ」とのことだったので、それを守りつつ火にかけます。醤油と酢100ccずつに対して、味見をしながら「こんなもんかな？」を探ります。
 
 ### チキン揚げる
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006780.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006780.jpg)もも肉324gです。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006781.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006781.jpg)こういう肉系を触るときは100均とかで売ってる使い捨て手袋すると手をいちいち洗わなくて楽。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006782.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006782.jpg)
+[![](/images/wp/2019/09/R0006780.jpg)](/images/wp/2019/09/R0006780.jpg)もも肉324gです。
+[![](/images/wp/2019/09/R0006781.jpg)](/images/wp/2019/09/R0006781.jpg)こういう肉系を触るときは100均とかで売ってる使い捨て手袋すると手をいちいち洗わなくて楽。
+[![](/images/wp/2019/09/R0006782.jpg)](/images/wp/2019/09/R0006782.jpg)
 さばきました。皮が付いてるので剥ぎます。後日鶏油としてなんかに使おう。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006783.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006783.jpg)溶き卵と小麦粉を準備。小麦粉が足りなかったので、「成分一緒じゃね？」ということでパン粉も混ぜました。キッチン狭すぎて定員オーバー。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006784.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006784.jpg)セット！
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006785.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006785.jpg)揚がってこーい！油節約のため、フライパンを傾けて揚げます。このフライパン異常に安い上に異常に軽いのでいいです。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006786.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006786.jpg)
+[![](/images/wp/2019/09/R0006783.jpg)](/images/wp/2019/09/R0006783.jpg)溶き卵と小麦粉を準備。小麦粉が足りなかったので、「成分一緒じゃね？」ということでパン粉も混ぜました。キッチン狭すぎて定員オーバー。
+[![](/images/wp/2019/09/R0006784.jpg)](/images/wp/2019/09/R0006784.jpg)セット！
+[![](/images/wp/2019/09/R0006785.jpg)](/images/wp/2019/09/R0006785.jpg)揚がってこーい！油節約のため、フライパンを傾けて揚げます。このフライパン異常に安い上に異常に軽いのでいいです。
+[![](/images/wp/2019/09/R0006786.jpg)](/images/wp/2019/09/R0006786.jpg)
 時間は7、8分くらいでしょうか。揚がったら即
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006787.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006787.jpg)
+[![](/images/wp/2019/09/R0006787.jpg)](/images/wp/2019/09/R0006787.jpg)
 南蛮酢の海にダイブ！
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006788.jpg)サル](https://noeye69.com/wp-content/uploads/2019/09/R0006788.jpg)ベージして
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006789.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006789.jpg)切りました。いい感じ！！！衣もなんか見たことあるビジュアルでうまそう。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006793.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006793.jpg)盛り付けて完成。こないだ買ったいいお皿との相性もグンバツ。
+[![](/images/wp/2019/09/R0006788.jpg)サル](/images/wp/2019/09/R0006788.jpg)ベージして
+[![](/images/wp/2019/09/R0006789.jpg)](/images/wp/2019/09/R0006789.jpg)切りました。いい感じ！！！衣もなんか見たことあるビジュアルでうまそう。
+[![](/images/wp/2019/09/R0006793.jpg)](/images/wp/2019/09/R0006793.jpg)盛り付けて完成。こないだ買ったいいお皿との相性もグンバツ。
 味はヤバすぎまして、一旦絶句して、またしても「**神！！！**」と叫んでしまいました。え、これ作ったの僕？？？やばくね？神を創造してしまった。
 晩ごはんに白いご飯食べない主義なんですが、ぜひ白飯と食いたい。揚げたてだからなのか、衣がパリパリなだけで旨さがこうも違うか。もうスーパーの惣菜コーナーのベチョベチョなチキン南蛮は食えない。いや、あれが逆にうまいときもあるんだけど。
 
 ### 片付け：油の回収
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006790.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006790.jpg)揚げ物をすると油がもったいないので、コーヒーメーカーにキッチンのゴミ取りネット的なやつをかけて濾して回収してます。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006791.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006791.jpg)
+[![](/images/wp/2019/09/R0006790.jpg)](/images/wp/2019/09/R0006790.jpg)揚げ物をすると油がもったいないので、コーヒーメーカーにキッチンのゴミ取りネット的なやつをかけて濾して回収してます。
+[![](/images/wp/2019/09/R0006791.jpg)](/images/wp/2019/09/R0006791.jpg)
 こうやって濾して
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006792.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006792.jpg)
+[![](/images/wp/2019/09/R0006792.jpg)](/images/wp/2019/09/R0006792.jpg)
 回収。若干濁ってるけど、そんな繊細じゃない料理(カレーとか)になら全然使える。
 
 ### まとめ

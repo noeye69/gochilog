@@ -10,7 +10,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "この秋はほしいものがありすぎる。いつもなんですが。 今日はほしいもの4つについて。 Google Pixel 4 iPhone 11が発売されたけど、10月中旬に発売予定のGoogle Pixel 4がほしい。 Pixel 3や廉価版Pix"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/09/02.jpg"
+ogImage: "/images/wp/2019/09/02.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-pixel4-2825.html -->
@@ -112,7 +112,7 @@ Pixel 4と同じタイミングで発表されるかも？
 
 ## glo proが10月3日発売
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/02.jpg)](https://noeye69.com/wp-content/uploads/2019/09/02.jpg)
+[![](/images/wp/2019/09/02.jpg)](/images/wp/2019/09/02.jpg)
 たまたま検索で「glo」と打ったら「glo pro」って出てきて存在を知るという。最近の上位ラインは何でもかんでもproが付くなw
 glo大好きなのでそりゃ買います。これまでのシリーズ2との違いは大きく以下3点。
 
@@ -128,7 +128,7 @@ glo大好きなのでそりゃ買います。これまでのシリーズ2との�
 
 SONYのWH-1000XM3というワイヤレスノイズキャンセリング**ヘッドホン**(長w)が「ノイズキャンセリング効果がヤバい」とめちゃ評判いいですね。
 実際に店舗で試着してみたらびっくりしました。すげえ！店内のガヤガヤが全く聴こえない！でも汗かきなので夏にヘッドホンとかできません。冬でも耳あてとかマフラーとかしないし。
-[![](https://noeye69.com/wp-content/uploads/2019/09/005.jpg)](https://noeye69.com/wp-content/uploads/2019/09/005.jpg)
+[![](/images/wp/2019/09/005.jpg)](/images/wp/2019/09/005.jpg)
 
 高瀬真奈さんと、WF-1000XM3です
 

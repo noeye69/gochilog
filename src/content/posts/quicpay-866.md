@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "これまでずっと、特に理由もなくイオンカードに付いているiDを使ってきました。 iDとedy、めっちゃ聞き間違えられる問題 iDとedy、タイトルの通り めちゃくちゃ聞き間違えられるんですよね。 理由は僕の声が聞き取りづらいのと、似たような名"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/quicpay1.jpg"
+ogImage: "/images/wp/2019/03/quicpay1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/quicpay-866.html -->
@@ -29,7 +29,7 @@ iDとedy、タイトルの通り**めちゃくちゃ聞き間違えられるん�
 
 ### QUICPAYに登録だ！
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/quicpay1.jpg)](https://noeye69.com/wp-content/uploads/2019/03/quicpay1.jpg)
+[![](/images/wp/2019/03/quicpay1.jpg)](/images/wp/2019/03/quicpay1.jpg)
 
 楽天カードを持っていたので、それを使うことにしました。iPhoneの 「設定」で下の方に行って「WalletとApple Pay」をタップして、指示通りに進んで、現物のカードをカメラに映すだけで登録できます。最高。
 
@@ -48,11 +48,11 @@ PayPayのキャンペーンに乗り遅れた結果、アプリでお金払っ�
 
 ### 楽天ペイ使ってみよう
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/rakutenpei1.jpg)](https://noeye69.com/wp-content/uploads/2019/03/rakutenpei1.jpg)
+[![](/images/wp/2019/03/rakutenpei1.jpg)](/images/wp/2019/03/rakutenpei1.jpg)
 
 起動したらこの画面が出ます。「楽天…ペイで」と童貞丸出しな感じでおばちゃんの店員に言ったら、バーコード読むやつでピッてやってくれて終了。超簡単。次からはちゃんと「楽天ペイで！」ってモテ男風に言えそう。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/rakupei.jpg)](https://noeye69.com/wp-content/uploads/2019/03/rakupei.jpg)
+[![](/images/wp/2019/03/rakupei.jpg)](/images/wp/2019/03/rakupei.jpg)
 
 これは一平ちゃんを買ったときのスクショです。こんな感じで確かに1.5倍ポイント付いてますね。
 

@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "以前、USBジャックが壊れたときに無料で交換してもらえてよかった、というのは記事にしました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/01/24/glo-broken/] 今"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/04/547806C3-98BA-4168-AFBF-1720F6543161.jpg"
+ogImage: "/images/wp/2019/04/547806C3-98BA-4168-AFBF-1720F6543161.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/glo-exchange-free-885.html -->

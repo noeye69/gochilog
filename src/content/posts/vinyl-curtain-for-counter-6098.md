@@ -8,7 +8,7 @@ draft: false
 tags:
   - "仕事"
 description: "岡山でもスーパーやコンビニのレジでよく見かけるビニールカーテンを会社にも導入しました。 普段お客さんが来た時にお金や伝票の受け渡しを行っているカウンターがあるんですが、そこが一番外部の方が来るからそこをシャットアウトせねばと。 ビニールカー"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/04/o1080189914742949019-582x1024.jpg"
+ogImage: "/images/wp/2020/04/o1080189914742949019-582x1024.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/vinyl-curtain-for-counter-6098.html -->
@@ -25,7 +25,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/04/o1080189914742949019-58
 
 ### 天井が高い場合
 
-![](https://noeye69.com/wp-content/uploads/2020/04/o1080189914742949019-582x1024.jpg)
+![](/images/wp/2020/04/o1080189914742949019-582x1024.jpg)
 例えば天井が高いホームセンターやスーパーとかは、レジカウンターの両端にバーを立ててこんな感じで設置してるところが多い印象。
  
 特徴としては、
@@ -37,7 +37,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/04/o1080189914742949019-58
 
 ### 天井が低い場合
 
-![](https://noeye69.com/wp-content/uploads/2020/04/20200408at67S_o.jpg)
+![](/images/wp/2020/04/20200408at67S_o.jpg)
 一方で、天井がまあまあ低いコンビニとかは、上からすだれのように垂らしてるところが多い印象。
  
 特徴としては、
@@ -53,14 +53,14 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/04/o1080189914742949019-58
  
 Amazonでそこそこの大きさのビニールカーテンを購入して(購入時点では消毒用アルコールほど値上がりしてなかった)、
  
-![](https://noeye69.com/wp-content/uploads/2020/04/IMG_20200427_180943-1024x768.jpg)
+![](/images/wp/2020/04/IMG_20200427_180943-1024x768.jpg)
 念のため実物でフックの形状を確認。Amazonの商品画像がよくわからなかったんで。
  
  
-![](https://noeye69.com/wp-content/uploads/2020/04/41jVtdUAmsL._SX342_.jpg)
+![](/images/wp/2020/04/41jVtdUAmsL._SX342_.jpg)
 吊るし方は、最初カーテンレール的なのがいいのかなと思ったけど設置がめんどいので真鍮の金具にしました。ホームセンターでこんな感じの天井にねじ止めするタイプの金具を買って(数百円)、
  
-![](https://noeye69.com/wp-content/uploads/2020/04/IMG_20200427_193532-1024x768.jpg)
+![](/images/wp/2020/04/IMG_20200427_193532-1024x768.jpg)
 設置しました。長いので適当にハサミで切って調節しました。いい感じ。
 
 ## まとめ

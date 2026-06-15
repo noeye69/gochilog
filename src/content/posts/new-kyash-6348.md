@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "一昨年、去年とキャッシュレス化を進めていたわけですが、とりわけkyashが 紐づけるクレカのポイント+kyashのポイントの ポイント2重取り ができてお得 普通のVISAカード だからほとんどのお店で使えて便利 ということで楽天やAmaz"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/08/R0006600-1024x683.jpg"
+ogImage: "/images/wp/2019/08/R0006600-1024x683.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/new-kyash-6348.html -->
@@ -22,27 +22,27 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/08/R0006600-1024x683.jpg"
  
 普段使っているカードにkyashをカマすだけでポイントが2重取りできるので、使わない理由がありません。
  
-![](https://noeye69.com/wp-content/uploads/2019/08/R0006600-1024x683.jpg)
+![](/images/wp/2019/08/R0006600-1024x683.jpg)
 キーケースに免許証とLiteを入れて運用していたのですが、
  
 先日**キーケースごと洗濯・乾燥してしまう**という悲しい事件が起きました。
  
-![](https://noeye69.com/wp-content/uploads/2020/06/IMG_20200608_230106-1024x768.jpg)
+![](/images/wp/2020/06/IMG_20200608_230106-1024x768.jpg)
 めっちゃいい感じだった土屋鞄のキーケースに変なシミがたくさん、、、最悪です。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5848-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5848-1024x578.jpg)
 ついでにkyashも熱で歪んで最悪です。めちゃくちゃ便利なドラム式洗濯機がこんな形で仇になるとは、、、。
  
 ひん曲がったままカードを使ってた(読み込みには全く問題なかった)んですが、前々から申し込んでた新しいkyash cardがついに届きました。
 
 ## 新しいkyash cardがやっと届いた。これまでのkyash card Liteとの違いとか
 
-![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6059-1024x578.jpg)
+![](/images/wp/2020/06/DSCF6059-1024x578.jpg)
 新しいkyash cardです。すでに謎の跡ついてますが。
  
 これまでのkyash card Lite(以下Lite)のおもちゃみたいな質感や色とは違って、高級感があります。Liteはいろんなところで「これ、クレジットですか？」と聞かれることがあったけど、今後は聞かれないことを祈りたい。
  
-![](https://noeye69.com/wp-content/uploads/2020/06/5e4dedc947c62013612ceff1_kyashcard-lp-keyvisual-wide-sp-1024x1024.jpg)
+![](/images/wp/2020/06/5e4dedc947c62013612ceff1_kyashcard-lp-keyvisual-wide-sp-1024x1024.jpg)
 ちなみにピンク、シルバー、ネイビー3色展開なのでお好きな色をどうぞ。僕はネイビーにしました。
  
 新しいkyash cardと、これまでのLiteとの違いは以下。メリット大きい順に行きます。
@@ -65,31 +65,31 @@ Liteだと飲み会の会計とかを複数回やってしまうと月によっ�
 
 kyashで初めて知りましたが、[VISAタッチ決済](https://www.visa.co.jp/pay-with-visa/featured-technologies/contactless.html)が使えます。
  
-![](https://noeye69.com/wp-content/uploads/2020/06/d815ab41bbb374d159c306101c9000ef-1024x578.jpg)
+![](/images/wp/2020/06/d815ab41bbb374d159c306101c9000ef-1024x578.jpg)
 この電波マークが「タッチ決済が可能ですよ」のマーク。
  
 何気にカード通すの面倒なのでこれはありがたいけど、[今のところ](https://www.visa.co.jp/pay-with-visa/featured-technologies/contactless.html#5)マクドとローソン(あんま行かない)くらいかなぁ。これからの拡大に期待。
 
 ### 表面からカード番号が消えてミニマルな見た目に
 
-![](https://noeye69.com/wp-content/uploads/2019/08/R0006601-1024x683.jpg)
+![](/images/wp/2019/08/R0006601-1024x683.jpg)
 これまでのLiteはカード番号が表面に記載されていましたが、
  
-![](https://noeye69.com/wp-content/uploads/2020/06/DSCF6059-1024x578.jpg)
+![](/images/wp/2020/06/DSCF6059-1024x578.jpg)
 新しいkyash cardはカード番号が裏面に印刷してあって非常にスタイリッシュな見た目。
  
 よく考えたら表面に、しかも凹凸とかでカード番号を刻印する意味ってあるんでしょうか？新しい方が圧倒的に好きなデザイン。
 
 ### 共通：仮に紛失してもアプリでロックがかけられる
 
-![](https://noeye69.com/wp-content/uploads/2020/06/1591623782450-485x1024.png)
+![](/images/wp/2020/06/1591623782450-485x1024.png)
 これは**新しいkyash cardでもLiteでも同じ**なんですが、紛失した時に電話じゃなくてアプリのタップ1つでロックがかけられるのも便利だなと思います。
  
 [楽天とか24時間体制ではあるにしても電話](https://www.rakuten-card.co.jp/support/robbery/)なのがめんどくさいので、この機能は全クレジットカードに実装していただきたい。
 
 #### 補足：kyashでゲットしたポイントは、kyashアプリに貯まる
 
-![](https://noeye69.com/wp-content/uploads/2020/06/15916237824502-485x1024.png)
+![](/images/wp/2020/06/15916237824502-485x1024.png)
 ちょうど上にアプリの画面が出たので補足しますと、2重取りしたポイントのうち、kyashで得たポイントはいったん右の「ポイント」に入ります。
  
 で、アプリを自分で操作して左の「残高」に移動させることで、次回の会計時に紐づけたクレカより先に残高から使用されます。
@@ -117,7 +117,7 @@ kyashで初めて知りましたが、[VISAタッチ決済](https://www.visa.co.
 
 ## まとめ
 
-![](https://noeye69.com/wp-content/uploads/2020/06/4c85c234076325c638e2c305400f29d6-1024x578.jpg)
+![](/images/wp/2020/06/4c85c234076325c638e2c305400f29d6-1024x578.jpg)
 kyash、僕の場合は使わない理由がないので本当におすすめです。
  
 とりあえず本人確認の不要なLiteを申し込んで、メリットを感じれば本人確認をして新しいkyash cardをゲットすればいいのではないでしょうか。

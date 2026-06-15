@@ -11,7 +11,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "Pixel 4にしてから3週間くらい経ちますが、色々と最高ですね。全く不満がないわけではないけど全然デメリットが気になりません、概ねポジティブな評価です。3週間かけてiPhone のときにやってなかったけど始めたことがいくつかあるのでまとめ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/10/Screenshot_20191031-153358-485x1024.png"
+ogImage: "/images/wp/2019/10/Screenshot_20191031-153358-485x1024.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/3-things-for-pixel-4-4445.html -->
@@ -64,7 +64,7 @@ iPhoneのときは
 ので、メインのホーム画面1ページ目の指が届きにくい上の方には使用頻度の少ないアプリ、中心付近にはよく使うアプリを置いてました。
 しかしAndroidはかゆいところに手が届く設計になってて、「ノバランチャー」というホーム画面を整理するアプリがあります。
 [![Google Play で手に入れよう](https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=ja)
-![](https://noeye69.com/wp-content/uploads/2019/10/Screenshot_20191031-153358-485x1024.png)
+![](/images/wp/2019/10/Screenshot_20191031-153358-485x1024.png)
 こんな感じで縦横におけるアプリの数やサイズが変更できるので、
 
 - たくさん置けるからフォルダに入れる必要がない
@@ -86,7 +86,7 @@ iPhoneのときは
 
 最後はこれですね。いろんなところで言われてますけど今年もiPhoneはライトニングでした。
 ライトニングのせいでケーブルの種類が増えるのがしんどいのでmicro USB/USB type-c/ライトニングの3in1ケーブルを使っていましたが、gloもtype-cになったしデジカメも全部type-cなので「もう全部type-cにしてしまえ！」ということで変換アダプタを買ってすべてtype-cの3in1ケーブルにしました。
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191101111033419_COVER-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191101111033419_COVER-1024x768.jpg)
 暗闇で充電したいときでもどのケーブルを取ってもアタリです。なぜなら3本全てtype-cだからだ！最高。
 …と思ったんですが、ANKERのモバイルバッテリーがmicro USBで充電するタイプなので、micro USBは必要ですね。いらないのはライトニングだけだなと。2個type-cであれば十分です。
 これがライトニング→type-cにするやつ。

@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "先日京都の西院ネガポジでライブした際 に、ライブ中の汗で使用不能になったTシャツを外に干してたらそのまま忘れて帰ってしまいました。 で、宿泊先であるゆうき3ちから絶妙な距離で、タクシー使うのもったいないし電車乗るのも馬鹿らしいなということで"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
+ogImage: "/images/wp/2019/06/20190624090318844.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/pippa-925.html -->
@@ -28,7 +28,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 まずアプリをダウンロードします。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png)](https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png)
+[![](/images/wp/2019/06/20190624090318844.png)](/images/wp/2019/06/20190624090318844.png)
 
 [![Google Play で手に入れよう](https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.obsiot.pippa&hl=ja)
 
@@ -36,13 +36,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 ### 情報を登録
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/20190624085342879.png)](https://noeye69.com/wp-content/uploads/2019/06/20190624085342879.png)
+[![](/images/wp/2019/06/20190624085342879.png)](/images/wp/2019/06/20190624085342879.png)
 
 で、このように情報を登録します。京都以外にも、東京、宮崎、滋賀で使えるみたいです。宮崎！
 
 ### 料金について
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG-9258.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG-9258.png)
+[![](/images/wp/2019/06/IMG-9258.png)](/images/wp/2019/06/IMG-9258.png)
 
 短期の借り方としては
 
@@ -53,11 +53,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 ちなみに1ヶ月以上の長期の借り方だと以下です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG-9261.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG-9261.png)
+[![](/images/wp/2019/06/IMG-9261.png)](/images/wp/2019/06/IMG-9261.png)
 
 年会費1万払えば30分以内だと乗り放題なのすごい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG-9259.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG-9259.png)
+[![](/images/wp/2019/06/IMG-9259.png)](/images/wp/2019/06/IMG-9259.png)
 
 今回は忘れ物を回収するためだけだったので、短時間利用のチャージ方式を選択しました。チャージの最少額が324円なので、1時間半利用できます。
 
@@ -65,7 +65,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 ### チャリが置いてあるポートに向かおう
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9220.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9220.png)
+[![](/images/wp/2019/06/IMG_9220.png)](/images/wp/2019/06/IMG_9220.png)
 
 こんな感じで白線で囲ってあるポートが京都内に100箇所くらい？あるらしいです。
 
@@ -73,11 +73,11 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 ### 開錠しよう
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9244.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9244.png)
+[![](/images/wp/2019/06/IMG_9244.png)](/images/wp/2019/06/IMG_9244.png)
 
 リアタイヤのQRコードをアプリで読み取ると、
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/20190624085341a29.png)](https://noeye69.com/wp-content/uploads/2019/06/20190624085341a29.png)
+[![](/images/wp/2019/06/20190624085341a29.png)](/images/wp/2019/06/20190624085341a29.png)
 
 鍵が開きます。チャリから音声ガイダンスが流れます。スピーカ付いてるんだな。
 
@@ -87,17 +87,17 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 ①ベルが内蔵式
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9223.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9223.png)
+[![](/images/wp/2019/06/IMG_9223.png)](/images/wp/2019/06/IMG_9223.png)
 
 しばらく乗ってるとたまにカウベルを叩いたような「カンカン」という音が鳴ることに気付きました。同行者のゆうき3曰く、「それ、**ハンドル内蔵式**のベルだわ」とのこと。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9224.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9224.png)
+[![](/images/wp/2019/06/IMG_9224.png)](/images/wp/2019/06/IMG_9224.png)
 
 このようにハンドルの内側を握ってひねると、自転車のベルにしては音の低いカンカン音が鳴ります。内側を握りすぎてて鳴ってたんですね。
 
 ②3段変速も内蔵式
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9229.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9229.png)
+[![](/images/wp/2019/06/IMG_9229.png)](/images/wp/2019/06/IMG_9229.png)
 
 反射して見にくいですが、3段変速です。京都、町中でも若干坂になってるとこあるからこれは便利。平らなところは3でちょうどいいです。
 
@@ -107,7 +107,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 僕の自転車はブレーキを握るとタイヤをパッドが挟んで、その摩擦でブレーキをかける構造になっていますが、PiPPAの自転車はどうやらホイールの軸にブレーキをかけるタイプのようです。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9226.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9226.png)
+[![](/images/wp/2019/06/IMG_9226.png)](/images/wp/2019/06/IMG_9226.png)
 
 これ前輪なんですが、ブレーキの黒いワイヤーが軸に繋がってて**内蔵式**です。
 
@@ -121,13 +121,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 ⑤カゴ浅め&ゴツめ
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/2019062408534580f.png)](https://noeye69.com/wp-content/uploads/2019/06/2019062408534580f.png)
+[![](/images/wp/2019/06/2019062408534580f.png)](/images/wp/2019/06/2019062408534580f.png)
 
 カゴはママチャリの半分くらいの高さ、フレームが結構ゴツめです。これもメンテナンスの手間を省くためでしょうか。
 
 ### 汚ねぇTシャツを無事回収
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9222.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9222.png)
+[![](/images/wp/2019/06/IMG_9222.png)](/images/wp/2019/06/IMG_9222.png)
 
 まあまあ乾いてました。
 
@@ -135,7 +135,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/20190624090318844.png"
 
 ---
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/IMG_9240.png)](https://noeye69.com/wp-content/uploads/2019/06/IMG_9240.png)
+[![](/images/wp/2019/06/IMG_9240.png)](/images/wp/2019/06/IMG_9240.png)
 
 帰ってきたら台数増えてました。台数の管理とかどうしてるんだろう。1台1台固有のナンバーが付いてるし、アプリで管理してるのかな。
 

@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "生活改善"
 description: "11月末にアメリカからPixelbook goを輸入しました。半月ほど使ってみての使用感や、合わせて揃えたものなどをまとめました。 Pixelbook goについて、動画にしてみました。 使用用途 仕事とプライベート用を兼ねています。 当初"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_085240-1024x768.jpg"
+ogImage: "/images/wp/2019/12/IMG_20191210_085240-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/first-impression-of-pixelbook-go-4973.html -->
@@ -42,17 +42,17 @@ iTunesのデータはGoogle play musicのクラウドに移しておいたので
 
 ### RAVPowerの急速充電器
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_085240-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_085240-1024x768.jpg)
 
 仕事場と自宅の2拠点で使うので、電源が1個だと取り外しがめんどくさいなと思い買いました。RAVPowerのRP-PC105という急速充電器です。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/Screenshot-2019-12-09-at-13.47.49.png)
+![](/images/wp/2019/12/Screenshot-2019-12-09-at-13.47.49.png)
 
 スマホを充電しているANKERの急速充電器にに繋いだらこんな感じで警告メッセージが出ます。ANKERが…効かない…！
 
 調べたらPCを充電するには最大出力が低いので無理だったみたいです。純正のアダプターが45Wなので、それくらいは必要。Amazonの海で探して出てきたのがRAVPowerのRP-PC105でした。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_085407-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_085407-1024x768.jpg)
 
 USB type-CのUSB PD充電対応で最大61W、普通のUSBの方と両方同時に使った場合はtype-Cの方が45Wになるそうです。普通のUSBの方でスマホも同時に充電できるのが便利だなと。
 
@@ -60,7 +60,7 @@ USB type-CのUSB PD充電対応で最大61W、普通のUSBの方と両方同時�
 
 ### ANKERの両端がUSB type-Cのケーブル
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_085549-scaled-e1575937247347-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_085549-scaled-e1575937247347-1024x768.jpg)
 
 ケーブルももう1本欲しいので安心と信頼のANKERのPowerLine+という両端がUSB type-Cのケーブル。ゴムじゃなくて繊維素材なので劣化しにくそうでいいですね。
 
@@ -68,13 +68,13 @@ USB type-CのUSB PD充電対応で最大61W、普通のUSBの方と両方同時�
 
 ### ANKERのUSBハブ
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_092730-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_092730-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_092707-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_092707-1024x768.jpg)
 
 Pixelbook goは両サイドにUSB type-Cが1つずつとイヤホンジャックが1つしかついていません。SDカードやHDMIケーブルを挿したいので、ANKERのPowerExpandというUSBハブを買いました。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191209_192036-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191209_192036-1-1024x768.jpg)
 
 - SDカード
 - micro SDカード
@@ -87,7 +87,7 @@ Pixelbook goは両サイドにUSB type-Cが1つずつとイヤホンジャック
 
 ### HHKB professional BT
 
-![](https://noeye69.com/wp-content/uploads/2019/10/R0006466-1024x683.jpg)
+![](/images/wp/2019/10/R0006466-1024x683.jpg)
 
 上3つはPixelbook goを使う上であったほうがいいけど、これは完全に自己満。買ったけど紹介するタイミングを見失っていたのでこの機会に供養します。
 
@@ -109,7 +109,7 @@ HHKBの製品は岡山の店舗で置いてあるお店はないので一か八�
 
 ### バード電子のキーボードブリッジ
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191209_191625-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191209_191625-1-1024x768.jpg)
 
 で、キーボード買っただけだと尊師スタイルが実現できません。なぜなら既存のキーボードの上にキーボードを乗せたら足が下の既存のキーボードを押してしまうからです。無効化できればいいんですができないようなのでブリッジ板を乗せるしかありません。
 
@@ -117,19 +117,19 @@ HHKBの製品は岡山の店舗で置いてあるお店はないので一か八�
 
 ### バード電子のキーボードケース
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_094028-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_094028-1-1024x768.jpg)
 
 HHKB高いので持ち歩くのに裸は怖いので、ケースを買いました。これまたバード電子のソフトケースPZ-KBSC-HHK。
 
 キーボードケース、セミハードタイプとか色々ありますが、出し入れがめんどくさそうなのでソフトケースにしました。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_094043-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_094043-1-1024x768.jpg)
 
 professional BT用に作られているので、ギリギリのサイズです。
 
 ### SATECHIのbluetoothマウス
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_095529-scaled-e1575939397488-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_095529-scaled-e1575939397488-1024x768.jpg)
 
 トラックパッドより絶対マウスのほうが使い勝手いいと思うんですがどうなんでしょう。satechiのアルミニウムM1です。
 
@@ -137,33 +137,33 @@ macbook用に作られたらしいですが、もちろんbluetoothさえ繋が�
 
 ### エレコムのノートPCケース
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_104004-1-scaled-e1575942198652-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_104004-1-scaled-e1575942198652-1024x768.jpg)
 
 Pixelbook go本体を入れるケースです。13インチ用だと色々あるので悩みましたが、エレコムのBM-F02XBKはデザインもゴチャついてないし、1,732円と安くちょうどよかったです。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_104041-1-scaled-e1575942211717-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_104041-1-scaled-e1575942211717-1024x768.jpg)
 
 PCを入れるスペース以外に小さめのポケットがついているんですが、地味にこのポケットが便利で、バード電子のキーボードブリッジがちょうど入ります。
 
 ## 会社での使用
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191209163535875_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191209163535875_COVER-1024x768.jpg)
 
 会社では尊師スタイルです。後ろのPCは伝票を印刷する用。それ以外の作業をこのPixelbook goでやります。マグカップはヨシダヨシオさんのやつ。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191209_163631-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191209_163631-1024x768.jpg)
 
 Pixelbook goはキーボードの横にスピーカーがついてるんですが、キーボードブリッジを乗せるとスピーカーが左右ともに半分ずつほど被ってしまいます。まあ会社では特にスピーカー使わないので問題ありませんが。
 
 ## 自宅での使用
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191209_193111-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191209_193111-1-1024x768.jpg)
 
 今のところDELLの4kディスプレイにANKERのハブを噛ましてHDMIで接続しています。机のスペース的な問題と、別にデュアルディスプレイじゃなくていいので、1画面のみでの利用。閉じた状態でディスプレイの下に収納しています。左右のどちらからもUSB type-Cに繋げれるのは便利です。
 
 ### 4kディスプレイの能力をフル活用できてない
 
-![](https://noeye69.com/wp-content/uploads/2019/12/Screenshot-2019-12-09-at-22.39.07-1024x576.png)
+![](/images/wp/2019/12/Screenshot-2019-12-09-at-22.39.07-1024x576.png)
 
 で、実は4kディスプレイに写してるのに4kモードで写していません。
 
@@ -183,7 +183,7 @@ HDMIケーブルにもバージョンがあるらしく、
 
 ### 音の再生はANKERのsoundcoreかSONYのWF-1000XM3
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191209_192528-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191209_192528-1-1024x768.jpg)
 
 時間帯や状況によって使い分けていますが、音の再生は
 
@@ -198,10 +198,10 @@ HDMIケーブルにもバージョンがあるらしく、
 
 最後に、Pixel 4とPixelbook goの2ショットグラビアを載せて終わりにします。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4735-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4735-1024x578.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4736-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4736-1024x578.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4744-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4744-1024x578.jpg)
 
 以上です。

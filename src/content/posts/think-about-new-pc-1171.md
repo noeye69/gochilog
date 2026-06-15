@@ -11,7 +11,7 @@ tags:
   - "ブログ"
   - "生活改善"
 description: "macbookが調子悪い かれこれ5年ほどmacbook proを使っています。正直proである必要が全くないんですが、使い勝手や見た目はかなり好みです。5年経った今でもいいなと思う。 しかし、最近調子が悪いので買い替えたいなと思っていろい"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/05/huawei-matebook-13-1.jpg"
+ogImage: "/images/wp/2019/05/huawei-matebook-13-1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/think-about-new-pc-1171.html -->
@@ -30,7 +30,7 @@ Googleを駆使してるとsafari使いにくいんだよ。
 
 ガジェマガの方はmatebook X proというモデル使っているのですが、去年のモデルなんですよね。で、さらに調べたらmatebook 13というのが今年出たと。
 
-[![](https://noeye69.com/wp-content/uploads/2019/05/huawei-matebook-13-1.jpg)](https://noeye69.com/wp-content/uploads/2019/05/huawei-matebook-13-1.jpg)
+[![](/images/wp/2019/05/huawei-matebook-13-1.jpg)](/images/wp/2019/05/huawei-matebook-13-1.jpg)
 
 **見た目はmacbook、中身はHUAWEI。**
 

@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "X-T4めっちゃいい！とか言って動画まで作ったのに、全然活用できていません。 いや動画は撮ったんですけど、ナレーション方式でやってみよう！と思ったものの、マジで色々納得いかなくて絶望しました。ナレーションってめちゃくちゃ難しい。 いきなり話"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/05/ryzen73700X2-1024x711.jpg"
+ogImage: "/images/wp/2020/05/ryzen73700X2-1024x711.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ryzen-pc-1-6236.html -->
@@ -33,7 +33,7 @@ X-T4めっちゃいい！とか言って動画まで作ったのに、全然活�
 
 ### 1. CPUはRyzen
 
-![](https://noeye69.com/wp-content/uploads/2020/05/ryzen73700X2-1024x711.jpg)
+![](/images/wp/2020/05/ryzen73700X2-1024x711.jpg)
 CPUはRyzenにしてみます。
  
 CPUはintelのcore iシリーズかAMDのRyzenかの2択なのですが、Ryzenの良さは「**core iシリーズより安いのに高性能**」らしいです。
@@ -46,7 +46,7 @@ CPUはintelのcore iシリーズかAMDのRyzenかの2択なのですが、Ryzen�
 
 ### 2. GPUはRadeon
 
-![](https://noeye69.com/wp-content/uploads/2020/05/RadeonRX5700XT-1024x949.jpg)
+![](/images/wp/2020/05/RadeonRX5700XT-1024x949.jpg)
 GPUは映像系をつかさどる部分ですが、これも1台目のGeforceとは方向性を変えてRadeonにしてみます。
  
 RadeonはCPUのRyzenと同じAMD社が作っているんですが、これはメーカー揃えたいという意図です。
@@ -55,12 +55,12 @@ GPU、謎にトヨタのC-HRみたいな流線型のデザインが多い中、M
 
 ### 3. 小型化
 
-![](https://noeye69.com/wp-content/uploads/2020/03/DSCF5547-1024x578.jpg)
+![](/images/wp/2020/03/DSCF5547-1024x578.jpg)
 1台目、ケース買い直して満足は行ったんですが、ミドルタワー型なんでまあまあデカいんですよね。
  
 なので今回のテーマは小型化。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/NZXTH1.jpg)
+![](/images/wp/2020/05/NZXTH1.jpg)
 選んだケースは1台目と同じNZXTのH1というmini ITX用のケースです。2020年2月か3月に発売したばかりの新製品。
  
 これかなり小さくて、容積的には**1台目のNZXT H510の1/3くらい**です。それで同じくらいの性能のが組めるとしたら面白そう。
@@ -105,10 +105,10 @@ SSD(データ用)…[crucial 1TB](https://www.amazon.co.jp/dp/B077PSMJZS?tag=noe
 
 ### キーボード
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4947-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4947-1024x578.jpg)
 今は毎日HHKB HYBRID type-Sを持ち歩いてるんですが、いかんせんめんどくさいので据え置きしようと思って、あれこれ探しました。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/heperX-1024x419.jpg)
+![](/images/wp/2020/05/heperX-1024x419.jpg)
 結果、HyperXのAlloy FPS RGBというゲーミングキーボードが浮上。会社PCなのにあえてのゲーミング。
  
 僕自身がゲーム非対応ですが、
@@ -127,7 +127,7 @@ BTキーボードに慣れてしまった今となっては有線なのが気に
 
 ### マウス
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191231_230607-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191231_230607-1024x768.jpg)
 マウスもlogicoolのMX MASTER3を持ち歩いてるんですが、これも据え置きしたい。
  
  
@@ -137,7 +137,7 @@ logicoolのマウスのいいところは横についてる戻る/進むボタ�
  
 特に27インチくらいのモニター使うといちいち左上まで戻るのめんどいですからね。chromeの拡張機能でジェスチャー追加しても反応しないことあるし。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/G304.jpeg)
+![](/images/wp/2020/05/G304.jpeg)
 MX MASTER3は高いので、単3電池式で比較的安めのG304に。
  
 MXMASTER3はほぼ完璧なのですが、充電式なのでバッテリーが無くなったときに充電しながら使えないことはないんだけど、実質有線みたいになっちゃうから。
@@ -145,13 +145,13 @@ MXMASTER3はほぼ完璧なのですが、充電式なのでバッテリーが�
 
 ### モニター
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191209_193111-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191209_193111-1-1024x768.jpg)
 
 昔のマンション
 
 「経験値積むために違うメーカーのを買う」と言いましたがモニターだけはDELL一択。なぜなら**無輝点保証**があるからです。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/U2720QM-1024x825.jpg)
+![](/images/wp/2020/05/U2720QM-1024x825.jpg)
 以前買ったU2718QMの新型、U2720QMが発売されてたのでそちらをチョイス。Amazonに在庫なくてすぐには来ませんが。
  
 何やらモニターからUSB-Cで充電できるようになったっぽいのでその進化には期待。

@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "エアコン代節約のためにリビングでサーキュレーターを回している リビングが14畳くらいなのに対してエアコンが6～8畳用で、暑いからといってガンガンエアコンかけると電気代がとんでもないことになることを昨年体験しました。 なので、エアコンの温度は"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg"
+ogImage: "/images/wp/2019/07/R0006024.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/circulator-for-summer-934.html -->
@@ -22,7 +22,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg"
 
 なので、エアコンの温度は控えめにして、リビングではサーキュレーターを使っています。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg)
+[![](/images/wp/2019/07/R0006024.jpg)](/images/wp/2019/07/R0006024.jpg)
 
 アイリスオーヤマの8畳用のサーキュレーターです。14畳用もあるのですが8畳用より風が弱いらしく、Amazonで評判悪いです。
 
@@ -45,7 +45,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg"
 
 うちの場合はそれがキッチンで、夏場に料理するときやキッチンでドランクする時など、暑くてしょうがない。昨年までは扇風機を使ってましたが、扇風機デカい割に風が弱いので、サーキュレーターに置き換えました。
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006020.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006020.jpg)
+[![](/images/wp/2019/07/R0006020.jpg)](/images/wp/2019/07/R0006020.jpg)
 
 分身しました(買いました)。アイリスオーヤマのサーキュレーター2台使いです。リビング固定で置く方は色的に黒が合うので黒、多目的用途の方は白にしました。
 
@@ -57,7 +57,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg"
 
 **①キッチンでドランクする時**
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006021.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006021.jpg)
+[![](/images/wp/2019/07/R0006021.jpg)](/images/wp/2019/07/R0006021.jpg)
 
 **風の強さ：中**
 
@@ -67,7 +67,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg"
 
 **②料理しててマジで暑い時**
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006026.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006026.jpg)
+[![](/images/wp/2019/07/R0006026.jpg)](/images/wp/2019/07/R0006026.jpg)
 
 **風の強さ：強**
 
@@ -77,7 +77,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg"
 
 **③リビングでもっと快適に過ごしたい時**
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006023.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006023.jpg)
+[![](/images/wp/2019/07/R0006023.jpg)](/images/wp/2019/07/R0006023.jpg)
 
 **風の強さ：中**
 
@@ -89,7 +89,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/07/R0006024.jpg"
 
 **④筋トレする時**
 
-[![](https://noeye69.com/wp-content/uploads/2019/07/R0006027.jpg)](https://noeye69.com/wp-content/uploads/2019/07/R0006027.jpg)
+[![](/images/wp/2019/07/R0006027.jpg)](/images/wp/2019/07/R0006027.jpg)
 
 **風の強さ：強**
 

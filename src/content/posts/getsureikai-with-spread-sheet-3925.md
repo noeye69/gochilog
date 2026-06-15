@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "ずっとあればいいなと思ってたもののひとつに「月例会」があります。 うちの会社は 20人程度の従業員 みんなでオフィシャルに集まるのは朝礼のみ 朝礼では部長の指示があるくらい 部長も現場に出てる 現場は大きく3箇所、まあまあ離れてる なので、"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/09/PChyoujisupureddo.png"
+ogImage: "/images/wp/2019/09/PChyoujisupureddo.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/getsureikai-with-spread-sheet-3925.html -->
@@ -38,17 +38,17 @@ Androidの人は最初からスマホに入ってるし、iPhoneの人はAppス�
 
 ### スプレッドシートをモバイルフレンドリーに
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/PChyoujisupureddo.png)](https://noeye69.com/wp-content/uploads/2019/09/PChyoujisupureddo.png)
+[![](/images/wp/2019/09/PChyoujisupureddo.png)](/images/wp/2019/09/PChyoujisupureddo.png)
 これはPCで見たときの議事録ですが、PCだと見にくいです。サンプル用に名前や内容は適当に打ってます(スプレッドシートはPCじゃないと編集しにくいんですよね)。
 しかしこれをスマホで見ると
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0465.png)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0465.png)
+[![](/images/wp/2019/09/IMG_0465.png)](/images/wp/2019/09/IMG_0465.png)
 こうなります。スマホの画面にピッタリ収まるように作りました。
 この議事録は書紀の人に月例会の最中にスマホで書いてもらいます。「紙にメモして後日PCで議事録を作成する」みたいな時間を省きます。
 一つ一つ項目を見ていきます。
 
 ### 出欠はチェックで
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0466-1.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0466-1.jpg)
+[![](/images/wp/2019/09/IMG_0466-1.jpg)](/images/wp/2019/09/IMG_0466-1.jpg)
 このシートは共用の会社ドメインのGmailアカウントでみんながアクセスできるので、出席者にはマスをタップしてもらってチェックで出欠を書いてもらいます。
 スプレッドシートだとハンコやサインはいりません。
 厳密に言うと個人の会社ドメインのGmailのアカウントがあればなりすましもできないのでいいのですが、今はまだ共用アカウントで運用しています。
@@ -56,7 +56,7 @@ Androidの人は最初からスマホに入ってるし、iPhoneの人はAppス�
 
 ### テーマは事前記入で共有
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0455.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0455.jpg)
+[![](/images/wp/2019/09/IMG_0455.jpg)](/images/wp/2019/09/IMG_0455.jpg)
 
 - 必要な時間(月例会の時間は30分なのでそれに収まるように)
 - 内容
@@ -72,12 +72,12 @@ Androidの人は最初からスマホに入ってるし、iPhoneの人はAppス�
 
 ### 書紀がメモ欄にメモ
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0456.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0456.jpg)
+[![](/images/wp/2019/09/IMG_0456.jpg)](/images/wp/2019/09/IMG_0456.jpg)
 その下は書紀の人のメモ欄になっています。
-[![](https://noeye69.com/wp-content/uploads/2019/09/F9CF0AC4-DBF4-4AE3-A8F4-412CDE9A7CB6-2161-0000013681BF4BC5.jpg)](https://noeye69.com/wp-content/uploads/2019/09/F9CF0AC4-DBF4-4AE3-A8F4-412CDE9A7CB6-2161-0000013681BF4BC5.jpg)
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0464-1.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0464-1.jpg)
+[![](/images/wp/2019/09/F9CF0AC4-DBF4-4AE3-A8F4-412CDE9A7CB6-2161-0000013681BF4BC5.jpg)](/images/wp/2019/09/F9CF0AC4-DBF4-4AE3-A8F4-412CDE9A7CB6-2161-0000013681BF4BC5.jpg)
+[![](/images/wp/2019/09/IMG_0464-1.jpg)](/images/wp/2019/09/IMG_0464-1.jpg)
 
-[↑](https://noeye69.com/wp-content/uploads/2019/09/F9CF0AC4-DBF4-4AE3-A8F4-412CDE9A7CB6-2161-0000013681BF4BC5.jpg)書紀の人
+[↑](/images/wp/2019/09/F9CF0AC4-DBF4-4AE3-A8F4-412CDE9A7CB6-2161-0000013681BF4BC5.jpg)書紀の人
 
 書紀の人は24歳の一番若い子、藤田さんです。
 ちなみにこれは月例会の様子ではなく、こないだ社員旅行に行ったときの写真です(本人に掲載許可もらいました)。
@@ -85,14 +85,14 @@ Androidの人は最初からスマホに入ってるし、iPhoneの人はAppス�
 
 ### 書紀がメモを元にまとめる
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0457.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0457.jpg)
+[![](/images/wp/2019/09/IMG_0457.jpg)](/images/wp/2019/09/IMG_0457.jpg)
 書紀の藤田さんがメモ欄を元にその場でまとめます。次回の月例会日程なども書いたり。
 
 ### 画像も貼れる
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0458.png)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0458.png)
+[![](/images/wp/2019/09/IMG_0458.png)](/images/wp/2019/09/IMG_0458.png)
 ホワイトボードに書いた図などの画像も貼れます。右上の"+"をタップして
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0459.png)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0459.png)
+[![](/images/wp/2019/09/IMG_0459.png)](/images/wp/2019/09/IMG_0459.png)
 こんな感じで貼れます。
 
 ### 最後に保護して保存

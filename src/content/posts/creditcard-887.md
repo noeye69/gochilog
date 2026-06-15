@@ -9,7 +9,7 @@ tags:
   - "ゆるく語る"
   - "生活改善"
 description: "大体の買い物の支払いを電子マネーで行うようになってから、ATMに行く頻度は月1あるかないかくらいになりました。 イオンカードのメリットがあまりない 人によってクレジットカードの枚数はいろいろだと思うのですが、僕は3枚使ってました。 イオンカ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/04/IMG-4888.jpg"
+ogImage: "/images/wp/2019/04/IMG-4888.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/creditcard-887.html -->
@@ -50,7 +50,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/04/IMG-4888.jpg"
 
 まずはスマホに入れてるイオンカードを消します。さらば、iD！
 
-[![](https://noeye69.com/wp-content/uploads/2019/04/IMG-4888.jpg)](https://noeye69.com/wp-content/uploads/2019/04/IMG-4888.jpg)
+[![](/images/wp/2019/04/IMG-4888.jpg)](/images/wp/2019/04/IMG-4888.jpg)
 
 「設定」の「WalletとApple Pay」でイオンカードを消します。簡単です。
 
@@ -58,7 +58,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/04/IMG-4888.jpg"
 
 赤裸々な明細です。
 
-[![](https://noeye69.com/wp-content/uploads/2019/04/IMG_4889.jpg)](https://noeye69.com/wp-content/uploads/2019/04/IMG_4889.jpg)
+[![](/images/wp/2019/04/IMG_4889.jpg)](/images/wp/2019/04/IMG_4889.jpg)
 
 - ジャパンタクシー
 - モバイルSuica

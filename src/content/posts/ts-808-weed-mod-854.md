@@ -8,7 +8,7 @@ draft: false
 tags:
   - "音響機材"
 description: "昔はエフェクター(おもにオーバードライブ)を買いまくってはレビューしていた時期もありましたがすっかり落ち着いてしまった。オーバードライブを買うのは3年ぶり、レビューです。 去年レンタルで使ったTS-808 WEED mod.がよかった ここ"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/1731_suda_masaki.jpg"
+ogImage: "/images/wp/2019/03/1731_suda_masaki.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ts-808-weed-mod-854.html -->
@@ -21,9 +21,9 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/1731_suda_masaki.jpg"
 しかし、去年のブルーリーチングを呼んだ企画の時に、エフェクターを丸ごと忘れたんですね。んで、どうしようかーってなったときに246でレンタルしたんです。
 **そしたらもうこれがめちゃくちゃよくて！**
 soul foodはいわゆるケンタウルス系ペダルで、JCM800と組み合わせるとそれはそれは芳醇で贅沢なロックサウンドが鳴るんですが、TS-808はそれとは少し方向性が違う。似て非なる音。若さが違うというか。
-[![](https://noeye69.com/wp-content/uploads/2019/03/1731_suda_masaki.jpg)](https://noeye69.com/wp-content/uploads/2019/03/1731_suda_masaki.jpg)
+[![](/images/wp/2019/03/1731_suda_masaki.jpg)](/images/wp/2019/03/1731_suda_masaki.jpg)
 soul foodが20代の菅田将暉なら、
-[![](https://noeye69.com/wp-content/uploads/2019/03/2019022111353310f.jpg)](https://noeye69.com/wp-content/uploads/2019/03/2019022111353310f.jpg)
+[![](/images/wp/2019/03/2019022111353310f.jpg)](/images/wp/2019/03/2019022111353310f.jpg)
 TS-808は40代の堺雅人か。
 これまで使ったことあるIbanezは、TS-9が値段の割にいい仕事するなーと思ってたんですが、WEED mod.というのもあってTS-808はさらによかったんですよね。
 こんないいものを1,000円でレンタルさせてくれてありがとう、246！
@@ -38,12 +38,12 @@ TS-808は40代の堺雅人か。
 >
 > — 黒本晋吾 (@noeye69) [2019年3月30日](https://twitter.com/noeye69/status/1111909588725456896?ref_src=twsrc%5Etfw)
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/201903311627108a0.jpeg)](https://noeye69.com/wp-content/uploads/2019/03/201903311627108a0.jpeg)
+[![](/images/wp/2019/03/201903311627108a0.jpeg)](/images/wp/2019/03/201903311627108a0.jpeg)
 外観はこんな感じ。TS-9より色は薄く、エメラルドグリーン色で、キャラメルスイッチなのがまたかわいい。キャラメルスイッチが踏みにくいとか言われてますが、基本踏みっぱなしなので問題ないです。
-[![](https://noeye69.com/wp-content/uploads/2019/03/20190331162709ff5.jpeg)](https://noeye69.com/wp-content/uploads/2019/03/20190331162709ff5.jpeg)
+[![](/images/wp/2019/03/20190331162709ff5.jpeg)](/images/wp/2019/03/20190331162709ff5.jpeg)
 電源はRATとかと同じで細いタイプのやつ。使いにくいからこれも普通のやつにしてくれよと思いましたが、仕方ありません。電池の方が楽だから電池で使います。
 去年の6月にペダルトレインを忘れて以来、たいして使いもしない空間系までペダルトレインで持ち歩くのめんどくさくなったので、最近は歪み1個を持ち歩くだけです。ミニマル。
-[![](https://noeye69.com/wp-content/uploads/2019/03/201903311635060d3.jpeg)](https://noeye69.com/wp-content/uploads/2019/03/201903311635060d3.jpeg)
+[![](/images/wp/2019/03/201903311635060d3.jpeg)](/images/wp/2019/03/201903311635060d3.jpeg)
 若干ピントが合ってませんが、通常版との違いはこのスイッチ。中音域をブーストするかどうかですが、以前レンタルで使ったときはオフにしましたが、やっぱりオフが好みです。
 音に関しては、自宅のYAMAHAのアンプで試しただけですが、上に書いたように菅田将暉と堺雅人の違いを感じますね。soul foodはキラキラしてますが、TS-808は・・・まあ堺雅人。渋くていい感じ。
 来月の大阪でのライブがデビュー戦だ。

@@ -15,7 +15,7 @@ tags:
   - "料理"
   - "生活改善"
 description: "2019年版はこちら。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/12/12/katteyokatta-2019-2/] 観音クリエイション さんという方のブログをよく見ている"
-ogImage: "https://noeye69.com/wp-content/uploads/2018/12/qb_minami.jpg"
+ogImage: "/images/wp/2018/12/qb_minami.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/katteyokatta-2018-833.html -->
@@ -28,7 +28,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/12/qb_minami.jpg"
 
 ### **QBハウス**
 
-![](https://noeye69.com/wp-content/uploads/2018/12/qb_minami.jpg)
+![](/images/wp/2018/12/qb_minami.jpg)
 一発目からモノではなくサービスです。いわゆる1,000円カット。
 
 僕は割とM字ハゲで剛毛なのに、月イチでいつも行ってる美容院が4,000円くらいするんですよね。で、切って3週間くらいしたらセットしづらくなってくる。でも、このタイミングで美容院に行くほどでもない。そんな時に、QBハウスに行くようにしました。
@@ -41,7 +41,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2018/12/qb_minami.jpg"
 
 ### **LINEモバイル**
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/d1594-1288-659150-0.jpg)](https://noeye69.com/wp-content/uploads/2018/12/d1594-1288-659150-0.jpg)
+[![](/images/wp/2018/12/d1594-1288-659150-0.jpg)](/images/wp/2018/12/d1594-1288-659150-0.jpg)
 
 2つ目もサービスです。本田翼のダンスかわいいですよね。このCMもあんま金かかってなさそうのにいいCMだと思います。
 
@@ -57,31 +57,31 @@ LINEモバイルにしたのは、SNSカウントフリーなのと、ID検索�
 
 ### 土屋鞄製造所の小さい財布
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/2fd1fff6-394e-4892-840f-809cb0d45394.jpg)](https://noeye69.com/wp-content/uploads/2018/12/2fd1fff6-394e-4892-840f-809cb0d45394.jpg)
+[![](/images/wp/2018/12/2fd1fff6-394e-4892-840f-809cb0d45394.jpg)](/images/wp/2018/12/2fd1fff6-394e-4892-840f-809cb0d45394.jpg)
 
 デカい財布使ってると、収納スペースあるからってカード小銭ガンガン入れてレシートとかでぐちゃぐちゃになって最終的に財布が痛みますよねということで、「最初から小さい財布を使うのはどうだろう」と思い、そういう財布を買いました。結果、大成功。お札の向きまで揃えるようになりました。大事に使います。
 
 ### BRIEFING風ビジネスバッグ
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/c4135fa5-d6b4-4ed9-83bf-5473aeaa38e4.jpg)](https://noeye69.com/wp-content/uploads/2018/12/c4135fa5-d6b4-4ed9-83bf-5473aeaa38e4.jpg)
+[![](/images/wp/2018/12/c4135fa5-d6b4-4ed9-83bf-5473aeaa38e4.jpg)](/images/wp/2018/12/c4135fa5-d6b4-4ed9-83bf-5473aeaa38e4.jpg)
 
 財布と来ればカバンということで。BRIEFING高いんじゃ！という方にお勧めです。
 
 ### ダナーのポストマンシューズ
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204192454c38.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204192454c38.jpeg)
+[![](/images/wp/2018/12/20181204192454c38.jpeg)](/images/wp/2018/12/20181204192454c38.jpeg)
 
 男なら誰しも、背伸びしたくなる日があると思う。僕は背が小さいので、毎日背がでかくなりたいと思っている。なら、でかくなればいいんじゃね？ということで、背がでかくなれる靴を買いました。ポストマンシューズ。
 
 候補としてはレッドウィングかダナーかで迷って、コスパと光沢でダナーにしました。ガラスレザーの安っぽくなくてイヤらしくないツヤ感。
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204192419f76.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204192419f76.jpeg)
+[![](/images/wp/2018/12/20181204192419f76.jpeg)](/images/wp/2018/12/20181204192419f76.jpeg)
 
 3.5cmくらい、背が高くなれます。僕はもっと背が高くなりたい時があるので、そんな時は**2cmくらいのソール入れてます。**ソールの高さは、足の痛さに比例します。ちなみにサイズ感の話ですが、VANS OLDSKOOLが27cmの僕が、ポストマンシューズ26cmでも結構余裕あります。ソール入れてちょうどいいくらい。
 
 ### RICOH GR2
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/fadde355-f2a6-47a0-bddd-2efdb6af25b6.jpg)](https://noeye69.com/wp-content/uploads/2018/12/fadde355-f2a6-47a0-bddd-2efdb6af25b6.jpg)
+[![](/images/wp/2018/12/fadde355-f2a6-47a0-bddd-2efdb6af25b6.jpg)](/images/wp/2018/12/fadde355-f2a6-47a0-bddd-2efdb6af25b6.jpg)
 
 昔は「写真とかいらんだろ！思い出に残せ！」と思っていたんですが、お酒で頭がヤラれて思い出に残らなくなってきたので、カメラを買いました。…というのは半分冗談で、iPhoneで撮るよりもいい感じに「これを見てくれ！」的な写真が撮れるので、買ってよかったなと思います。
 
@@ -101,17 +101,17 @@ SONYのRX100シリーズと迷ったんですが、「ハマらなかったら�
 
 ということで、純喫茶などで豆を買って、ブレンダーで粉砕して、HARIOのポットで湯を沸かして、CHEMEXでコーヒー入れてます。
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204195539d5c.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204195539d5c.jpeg)
+[![](/images/wp/2018/12/20181204195539d5c.jpeg)](/images/wp/2018/12/20181204195539d5c.jpeg)
 
 モテそう。でもきっと紅茶が好きな女の子もいるだろうなと思ったので、**そっちも買いました。**
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204195538426.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204195538426.jpeg)
+[![](/images/wp/2018/12/20181204195538426.jpeg)](/images/wp/2018/12/20181204195538426.jpeg)
 
 死角なし。コーヒーも紅茶もおいしいですよね。
 
 ### **サウンドバー**
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/a0208742_17200305.jpg)](https://noeye69.com/wp-content/uploads/2018/12/a0208742_17200305.jpg)
+[![](/images/wp/2018/12/a0208742_17200305.jpg)](/images/wp/2018/12/a0208742_17200305.jpg)
 
 音楽何で聴くか問題があると思うのですが、
 
@@ -123,11 +123,11 @@ SONYのRX100シリーズと迷ったんですが、「ハマらなかったら�
 
 ### 空気清浄機とリステリン
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/201812042017101e9.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/201812042017101e9.jpeg)
+[![](/images/wp/2018/12/201812042017101e9.jpeg)](/images/wp/2018/12/201812042017101e9.jpeg)
 
 アレルギー持ちだし、湿度管理もできるし、部屋の空気っていい方がいいよねということで、空気清浄機を買いました。いいです。ていうか見た目がかっこいい。会社にも何台か空気清浄機あるんですが、この形が一番かっこいい気がする。
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/IMG_2929.jpg)](https://noeye69.com/wp-content/uploads/2018/12/IMG_2929.jpg)
+[![](/images/wp/2018/12/IMG_2929.jpg)](/images/wp/2018/12/IMG_2929.jpg)
 
 会社のやつ。なんかこう、ぼてっとしてますよね。
 
@@ -137,13 +137,13 @@ SONYのRX100シリーズと迷ったんですが、「ハマらなかったら�
 
 ### 洗顔パスタとバルクオムの泡立てネット
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204202534aad.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204202534aad.jpeg)
+[![](/images/wp/2018/12/20181204202534aad.jpeg)](/images/wp/2018/12/20181204202534aad.jpeg)
 
 アラサーも後半戦でいろいろ気を使わないとまずいと思い、とりあえず顔は泡で優しく洗っているのですが、この泡立てネットが「洗顔料のCMか！」と言わんばかりに、すごい泡立ちます。洗顔料1cmくらい出してこんくらい泡立ちます。ちなみに両手が濡れるので写真撮るのめっちゃ大変でした。
 
 ### 炭酸パック
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204202921a37.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204202921a37.jpeg)
+[![](/images/wp/2018/12/20181204202921a37.jpeg)](/images/wp/2018/12/20181204202921a37.jpeg)
 
 今年から始めました。週2回。韓国のやつで安いです。1回100円くらい。しかし効果は抜群で、化粧水+乳液の比にならないくらいモッチリします。
 
@@ -163,47 +163,47 @@ SONYのRX100シリーズと迷ったんですが、「ハマらなかったら�
 
 ### **100均のS字フック**
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/201812042031037f9.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/201812042031037f9.jpeg)
+[![](/images/wp/2018/12/201812042031037f9.jpeg)](/images/wp/2018/12/201812042031037f9.jpeg)
 
 100均で売ってるやつですが、個数的には20個くらい使ってるかも。特にキッチン周りにおいておけば何でもかんでも吊るせて便利。吊るしておけばなんかオシャレに見えるし。
 
 ### スパイスラック
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/IMG_2939.jpg)](https://noeye69.com/wp-content/uploads/2018/12/IMG_2939.jpg)
+[![](/images/wp/2018/12/IMG_2939.jpg)](/images/wp/2018/12/IMG_2939.jpg)
 
 上の写真の右の方にあるやつ。ご覧の通り、スペースがあまりないキッチンなので、立体的に収納しないと置き場がない。カウンターっぽい作りになってるんですが、その幅(奥行)にぴったりはまるサイズでした。黒なのがいい。ちなみに、醤油とオリーブオイルはiwakiのボトルに入れてます。垂れません。塩などの粉末状のものはふりふりボトルに入れて珪藻土の乾燥材を入れてます。スパイスは100均の瓶。
 
 ### ひっつき虫
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204203416131.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204203416131.jpeg)
+[![](/images/wp/2018/12/20181204203416131.jpeg)](/images/wp/2018/12/20181204203416131.jpeg)
 
 これは好きなブランドの事務所なんですが、引っ越した当初、「こんな感じの部屋にしたいなー」と思ってまして、写真を枠に入れて壁に飾りたかったんです。この事務所にもいくつかあるように。
 
 でも賃貸なんで、壁に穴をあけるわけにもいかないしどうしたもんかと思ってたら、こういうのがあるんですね。
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204204723cc6.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204204723cc6.jpeg)
+[![](/images/wp/2018/12/20181204204723cc6.jpeg)](/images/wp/2018/12/20181204204723cc6.jpeg)
 
 これはねりけし的なノリで扱えるヤツで、
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204205110f68.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204205110f68.jpeg)
+[![](/images/wp/2018/12/20181204205110f68.jpeg)](/images/wp/2018/12/20181204205110f68.jpeg)
 
 指でちぎって丸めて飾りたいものにくっつけて
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204205440086.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204205440086.jpeg)
+[![](/images/wp/2018/12/20181204205440086.jpeg)](/images/wp/2018/12/20181204205440086.jpeg)
 
 壁に押し付ければくっつきます。額縁も100均だし、壁に穴も開かないので賃貸向きだなと。ただこのひっつき虫、耐荷重がまあまあ低く、たまに壁からポロっと落ちることがあります。その場合は増量してやればOK。それでもつかない場合は諦めましょう。
 
 ### インダストリアルなアイロン道具一式
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204212116c9c.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204212116c9c.jpeg)
+[![](/images/wp/2018/12/20181204212116c9c.jpeg)](/images/wp/2018/12/20181204212116c9c.jpeg)
 
 どうせ部屋に置くならかっこいい見た目のが欲しいなということで買いました。ただ温まるだけのシンプルなヤツ。どうですか？このアメリカのクリーニング屋とかに置いてありそうなインダストリアルな見た目。僕が買ったとき3,000円だったのになんか今値上がりしてますね。
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204211252fdb.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204211252fdb.jpeg)
+[![](/images/wp/2018/12/20181204211252fdb.jpeg)](/images/wp/2018/12/20181204211252fdb.jpeg)
 
 霧吹きも部屋に置くならかっこいいのがいいということで、100均のやつから買い換えました。これもアメリカのクリーニング屋とかに置いてありそうな見た目。ゴージャスに「ブシュワッ！」っと出ます。観葉植物に水をやるおじさんになる時にも使ってます。
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204210203d20.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204210203d20.jpeg)
+[![](/images/wp/2018/12/20181204210203d20.jpeg)](/images/wp/2018/12/20181204210203d20.jpeg)
 
 よく考えたらアイロン台も山崎実業でした。6冠ですね。足がないタイプはちょっとした隙間にしまえるのでいいと思います。
 
@@ -215,7 +215,7 @@ SONYのRX100シリーズと迷ったんですが、「ハマらなかったら�
 
 ### キッチンドリンクするための黒い脚立
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/201812042058361ee.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/201812042058361ee.jpeg)
+[![](/images/wp/2018/12/201812042058361ee.jpeg)](/images/wp/2018/12/201812042058361ee.jpeg)
 
 何気にこれが一番買ってよかったものかもしれない。なぜならおそらく使用時間が最も長いから。
 
@@ -223,7 +223,7 @@ SONYのRX100シリーズと迷ったんですが、「ハマらなかったら�
 
 ### 燻製鍋
 
-[![](https://noeye69.com/wp-content/uploads/2018/12/20181204221009710.jpeg)](https://noeye69.com/wp-content/uploads/2018/12/20181204221009710.jpeg)
+[![](/images/wp/2018/12/20181204221009710.jpeg)](/images/wp/2018/12/20181204221009710.jpeg)
 
 燻製にハマりました。燻製が美味しいのは知ってたんですが、観音クリエイションさんのブログでハードルが下がり、購入に至りました。
 

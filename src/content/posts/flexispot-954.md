@@ -10,14 +10,14 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "痛え… 腰が痛え…！？ ということで、職場に電動昇降デスク FLEXISPOTを導入しました。 腰が痛い 先月お盆前にぎっくり腰で死にました。原因はおそらく長時間の車の運転です。座りっぱなしが良くないんだと思う。 [sitecard sub"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/09/sakuragiitee.png"
+ogImage: "/images/wp/2019/09/sakuragiitee.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/flexispot-954.html -->
 
 痛え…
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/sakuragiitee.png)](https://noeye69.com/wp-content/uploads/2019/09/sakuragiitee.png)
+[![](/images/wp/2019/09/sakuragiitee.png)](/images/wp/2019/09/sakuragiitee.png)
 
 腰が痛え…！？
 
@@ -57,9 +57,9 @@ FLEXISPOTは
 
 ## 組み立て
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0134.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0134.jpg)
+[![](/images/wp/2019/09/IMG_0134.jpg)](/images/wp/2019/09/IMG_0134.jpg)
 モノが届きました。デカいし重いです。右が天板、左が天板以外の電動部分です。
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0135.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0135.jpg)
+[![](/images/wp/2019/09/IMG_0135.jpg)](/images/wp/2019/09/IMG_0135.jpg)
 天板以外を出して組み立てます。マッジッで重い。女性だと一人で組み立てるのは大変かもしれません。
 あと、天板と電動部分は10数カ所ネジで固定するのですが、インパクトドライバーがあれば楽です。手だと握力が失われるでしょう。
 > 腰痛に抗う [pic.twitter.com/fwC2ercuOV](https://t.co/fwC2ercuOV)
@@ -70,17 +70,17 @@ FLEXISPOTは
 
 ## コード類の見栄えが悪すぎる
 
-[![](https://noeye69.com/wp-content/uploads/2019/09/IMG_0147.jpg)](https://noeye69.com/wp-content/uploads/2019/09/IMG_0147.jpg)FLEXISPOT、高くしたときにコードが引っ張られて机に置いてるものが落ちないように長めに設定しておく必要があります。
+[![](/images/wp/2019/09/IMG_0147.jpg)](/images/wp/2019/09/IMG_0147.jpg)FLEXISPOT、高くしたときにコードが引っ張られて机に置いてるものが落ちないように長めに設定しておく必要があります。
 なんですが、僕の席はお客さんが来たときに対面する向きになっていて、これはヤバいだろうと。見栄えが悪すぎる。前の机は足元に目隠しがしてあったのでわからなかったけど、コード類ウザ過ぎる。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006797.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006797.jpg)
+[![](/images/wp/2019/09/R0006797.jpg)](/images/wp/2019/09/R0006797.jpg)
 ということで目隠しします。BUFFALOのケーブル収納ボックスBSTB01LBK Lサイズです。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006796.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006796.jpg)
+[![](/images/wp/2019/09/R0006796.jpg)](/images/wp/2019/09/R0006796.jpg)
 開けると半端ねえ。ちなみにLサイズだと6個口のタップがちょうど入リます。2サイズ展開で、Sサイズは4個口のタップが入ります。家で両方使ってます。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006795.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006795.jpg)
+[![](/images/wp/2019/09/R0006795.jpg)](/images/wp/2019/09/R0006795.jpg)
 ケーブル収納ボックス、ゴチャっとしたのがスッキリ見えるし、ほこりガードできるので火災のリスクも減らせます。ほこりかぶっても上をサッと拭けばいいだけ。
 ちょっと残念なのは場所を取ること。まあ見た目のためだ、しょうがない。場所問題を解決するには机の下に固定するとかがいいんでしょうが、今の所そこまでしなくてもいいかなと。
 場所を取る紙を減らす「ペーパーレス化」を進めていて、紙を見るたびに「この紙どうやったらなくせるんだろう」と考えています。
-[![](https://noeye69.com/wp-content/uploads/2019/09/R0006794.jpg)](https://noeye69.com/wp-content/uploads/2019/09/R0006794.jpg)
+[![](/images/wp/2019/09/R0006794.jpg)](/images/wp/2019/09/R0006794.jpg)
 席についた感じはこう。とか言って、まだまだ紙あるんですけどね。
 でも社長、専務、事務員さんの机にはこの数十倍の紙があります。どんどん減らしていきたい。
 

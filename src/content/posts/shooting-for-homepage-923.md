@@ -8,7 +8,7 @@ draft: false
 tags:
   - "仕事"
 description: "恥ずかしながら、会社のホームページがありません。なので、以前紹介した渡くんと製作中です。 土台はできてて、あとは写真が必要だったので、大学のサークルの後輩の尾崎さんが新聞記者ということでお願いして撮ってもらいました。 僕が撮っても良かったん"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/06/E9i5uYEVPoNRQCH1560732018.jpg"
+ogImage: "/images/wp/2019/06/E9i5uYEVPoNRQCH1560732018.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/shooting-for-homepage-923.html -->
@@ -23,25 +23,25 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/06/E9i5uYEVPoNRQCH15607320
 
 どれを載せるかは選定中なのですが、いくつか載せます。圧縮してますが。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/E9i5uYEVPoNRQCH1560732018.jpg)](https://noeye69.com/wp-content/uploads/2019/06/E9i5uYEVPoNRQCH1560732018.jpg)
+[![](/images/wp/2019/06/E9i5uYEVPoNRQCH1560732018.jpg)](/images/wp/2019/06/E9i5uYEVPoNRQCH1560732018.jpg)
 
 父親です。カメラに写ってないところで僕がレフ板を持っています。
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/xfsOAzBd5dMBedU1560731372.jpg)](https://noeye69.com/wp-content/uploads/2019/06/xfsOAzBd5dMBedU1560731372.jpg)
+[![](/images/wp/2019/06/xfsOAzBd5dMBedU1560731372.jpg)](/images/wp/2019/06/xfsOAzBd5dMBedU1560731372.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/sCbwM94enDEiALc1560731353.jpg)](https://noeye69.com/wp-content/uploads/2019/06/sCbwM94enDEiALc1560731353.jpg)
+[![](/images/wp/2019/06/sCbwM94enDEiALc1560731353.jpg)](/images/wp/2019/06/sCbwM94enDEiALc1560731353.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/NRlNg3DKcAHuW0o1560731281.jpg)](https://noeye69.com/wp-content/uploads/2019/06/NRlNg3DKcAHuW0o1560731281.jpg)
+[![](/images/wp/2019/06/NRlNg3DKcAHuW0o1560731281.jpg)](/images/wp/2019/06/NRlNg3DKcAHuW0o1560731281.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/JrIePpol7QoBdif1560731515.jpg)](https://noeye69.com/wp-content/uploads/2019/06/JrIePpol7QoBdif1560731515.jpg)
+[![](/images/wp/2019/06/JrIePpol7QoBdif1560731515.jpg)](/images/wp/2019/06/JrIePpol7QoBdif1560731515.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/eYQ4hhrl9P0BnGI1560731363.jpg)](https://noeye69.com/wp-content/uploads/2019/06/eYQ4hhrl9P0BnGI1560731363.jpg)
+[![](/images/wp/2019/06/eYQ4hhrl9P0BnGI1560731363.jpg)](/images/wp/2019/06/eYQ4hhrl9P0BnGI1560731363.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/8eDm0qCxPKB5sjU1560731325.jpg)](https://noeye69.com/wp-content/uploads/2019/06/8eDm0qCxPKB5sjU1560731325.jpg)
+[![](/images/wp/2019/06/8eDm0qCxPKB5sjU1560731325.jpg)](/images/wp/2019/06/8eDm0qCxPKB5sjU1560731325.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/6FMzrsyadVAf98Z1560731382.jpg)](https://noeye69.com/wp-content/uploads/2019/06/6FMzrsyadVAf98Z1560731382.jpg)
+[![](/images/wp/2019/06/6FMzrsyadVAf98Z1560731382.jpg)](/images/wp/2019/06/6FMzrsyadVAf98Z1560731382.jpg)
 
-[![](https://noeye69.com/wp-content/uploads/2019/06/ag28ACiuLC3nItg1560731391.jpg)](https://noeye69.com/wp-content/uploads/2019/06/ag28ACiuLC3nItg1560731391.jpg)
+[![](/images/wp/2019/06/ag28ACiuLC3nItg1560731391.jpg)](/images/wp/2019/06/ag28ACiuLC3nItg1560731391.jpg)
 
 インタビュー記事でよくある「ろくろを回しているように見える」ポーズ。笑
 

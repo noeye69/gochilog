@@ -10,7 +10,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "やっと理想の音響環境に辿り着きました。PCデスクです。 これまでANKERのsoundcore motion+というスピーカーを使っていましたが、特にしゃべってる系のYoutube見てるときに声が割れて聞こえるのがずっと気になっていました。"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/05/20200315235043-1024x585.jpg"
+ogImage: "/images/wp/2020/05/20200315235043-1024x585.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/talbotone-6309.html -->
@@ -23,7 +23,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/05/20200315235043-1024x585
  
 そしたら、よく読んでる[talbloさん](https://www.talblo.com/archive/category/talbot%20one)が、ずっと検証されていたスピーカーキットを[マクアケ](https://www.makuake.com/project/talbotone/)で販売されるということで、「これは買うしかない！」ということで、販売開始した瞬間に買いました。実際**1番乗り**だったらしい。笑
  
-![](https://noeye69.com/wp-content/uploads/2020/05/20200315235043-1024x585.jpg)
+![](/images/wp/2020/05/20200315235043-1024x585.jpg)
 これです。かわいいですよね。
 
 ## 自作スピーカーキット「talbot one」を組み立てた！
@@ -40,14 +40,14 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/05/20200315235043-1024x585
  
 いろいろ探してたらNorth Flat JapanというメーカーのFX-AUDIOというラインが真空管アンプを販売していました。真空管好きの僕が飛びつかないわけがありません。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/61ZcJdoUl1L._AC_SL1280_.jpg)
+![](/images/wp/2020/05/61ZcJdoUl1L._AC_SL1280_.jpg)
 TUBE-04Jというモデルです。
  
 真空管アンプは、プリアンプ+別でメインアンプが必要なモデルもあるんですが、これは一体型。
  
 しかも小さくてちょうどいい。値段も7,500円ほどと手が出やすい。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/3d4f29d5-s.jpg)
+![](/images/wp/2020/05/3d4f29d5-s.jpg)
 ほんとはこのTUBE-P01Jという今年の春に発売されたモデルがよかったんですが、大人気のため入手できず、、、見た目カッコよすぎだろ、、、
  
 これは手に入りそうになかったんで、TUBE-04Jで妥協しました。でも全然これでいいです。
@@ -58,7 +58,7 @@ TUBE-04Jというモデルです。
 
 ## まとめ：talbot one+真空管アンプ最高です
 
-![](https://noeye69.com/wp-content/uploads/2020/05/4c85c234076325c638e2c305400f29d6-1024x578.jpg)
+![](/images/wp/2020/05/4c85c234076325c638e2c305400f29d6-1024x578.jpg)
 ということで、素晴らしい音響環境を手に入れました。
  
 やっぱりリアルのスピーカーはいいですね。長く居る場所の音響は不満がない方がよい。

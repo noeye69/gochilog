@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "Googleカレンダーすごい。 コンサルやってる友人のアドバイスにより、職場にGoogleカレンダーを導入しました。 ホワイトボードのカレンダー、お前はダメだ 今までは、こういういかにも古臭いホワイトボードのカレンダーが本社含め3つの事業場"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/02/65f28e04-86df-4328-b0b5-afef2900f0d0.jpg"
+ogImage: "/images/wp/2019/02/65f28e04-86df-4328-b0b5-afef2900f0d0.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-calendar-860.html -->
@@ -20,7 +20,7 @@ Googleカレンダーすごい。
 
 ### **ホワイトボードのカレンダー、お前はダメだ**
 
-[![](https://noeye69.com/wp-content/uploads/2019/02/65f28e04-86df-4328-b0b5-afef2900f0d0.jpg)](https://noeye69.com/wp-content/uploads/2019/02/65f28e04-86df-4328-b0b5-afef2900f0d0.jpg)
+[![](/images/wp/2019/02/65f28e04-86df-4328-b0b5-afef2900f0d0.jpg)](/images/wp/2019/02/65f28e04-86df-4328-b0b5-afef2900f0d0.jpg)
 
 今までは、こういういかにも古臭いホワイトボードのカレンダーが本社含め3つの事業場それぞれにあったのですが、
 
@@ -40,7 +40,7 @@ Googleカレンダーすごい。
 
 導入の過程で1つだけググっても分からないことが起きたので、共有します。
 
-[![](https://noeye69.com/wp-content/uploads/2019/02/policy.jpg)](https://noeye69.com/wp-content/uploads/2019/02/policy.jpg)
+[![](/images/wp/2019/02/policy.jpg)](/images/wp/2019/02/policy.jpg)
 
 Googleカレンダーにログインするタイミングで、ある従業員さんのiPhoneで以下のようなエラー表示が出てログインできませんでした。
 

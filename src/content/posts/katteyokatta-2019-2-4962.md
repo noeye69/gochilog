@@ -13,7 +13,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "今年もいろんなものを買いました。昔は主に服にお金を使っていましたが、最近は断然服の割合が減って、生活する上で便利なものにお金を使うようになりました。 昨年も参加した 観音クリエイションさんのアドベントカレンダー に今年も応募したので、それに"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/youtube-premium-in-jp-1024x576.jpg"
+ogImage: "/images/wp/2019/12/youtube-premium-in-jp-1024x576.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/katteyokatta-2019-2-4962.html -->
@@ -24,7 +24,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/youtube-premium-in-jp-1
 
 ## YouTube Premium
 
-![](https://noeye69.com/wp-content/uploads/2019/12/youtube-premium-in-jp-1024x576.jpg)
+![](/images/wp/2019/12/youtube-premium-in-jp-1024x576.jpg)
 
 今年も1発目はモノではなくサービスです。月額制のサブスクリプション。
 
@@ -41,7 +41,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/youtube-premium-in-jp-1
 
 ## G Suite
 
-![](https://noeye69.com/wp-content/uploads/2019/11/images-2.jpeg)
+![](/images/wp/2019/11/images-2.jpeg)
 
 2発目もモノではなくサービスです。Googleが提供する法人向けサービスのG Suite。
 
@@ -67,7 +67,7 @@ G Suiteを利用することで社内で削減できたものは、
 
 ## Pixel 4
 
-![](https://noeye69.com/wp-content/uploads/2019/09/pixel4-w1280-1024x512.jpg)
+![](/images/wp/2019/09/pixel4-w1280-1024x512.jpg)
 
 7年くらい使ってたiPhoneから乗り換えました。脱Apple。Googleの方が面白いことやってるってのが大きいです。
 
@@ -81,17 +81,17 @@ Androidの中でもPixel 4にする一番のメリットは、
 
 点です。ハードウェアとしてのカメラが素晴らしい訳ではないです。写真を撮った後の加工をしてくれるソフトウェアが素晴らしいです。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191109120906708_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191109120906708_COVER-1-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191120125149476_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191120125149476_COVER-1-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191123210717899_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191123210717899_COVER-1-1024x768.jpg)
 
 スマホでこんだけ撮れれば十分です。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191027145703479_COVER-1-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191027145703479_COVER-1-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_9646-1-768x1024.jpg)
+![](/images/wp/2019/11/IMG_9646-1-768x1024.jpg)
 
 上がPixel 4、下がiPhone Xのポートレートモードです。iPhone Xだと「後ろに下がってください」と指示されたりストローの先がぼやけたりしますが、Pixel 4だと解決。
 
@@ -101,7 +101,7 @@ Androidの中でもPixel 4にする一番のメリットは、
 
 ## Pixelbook go
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4744-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4744-1024x578.jpg)
 
 US Amazon経由で輸入しました。スマホもPCもGoogle製。気持ちがいい。
 
@@ -115,7 +115,7 @@ Google play musicにない音楽は引き続き取り込む必要があります
 
 今後ガジェット類をいじる人生が50年続くとすれば、いつまでも物理的なファイルを持って歩くのはいつか疲弊すると思うんですよね。量が多くなりすぎて。なのでクラウドに上げるのが身軽でいい。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4733-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4733-1024x578.jpg)
 
 とにかくPixelbook goはこのGマークのために買ったと言っても過言ではありません。カッコイイ。
 
@@ -123,7 +123,7 @@ Pixelbook goについて、動画にしてみました。下のLenovoのChromebo
 
 ## LenovoのChromebook
 
-![](https://noeye69.com/wp-content/uploads/2019/10/DSCF4415-1024x578.jpg)
+![](/images/wp/2019/10/DSCF4415-1024x578.jpg)
 
 chromebookってほんとに使えるのか？と思って、Pixelbook goを買う前に使ってみました。結果、大正解。2台買いました。
 
@@ -133,7 +133,7 @@ chromebookってほんとに使えるのか？と思って、Pixelbook goを買�
 
 ## 4kディスプレイとガススプリング式モニターアーム
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191209_193111-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191209_193111-1-1024x768.jpg)
 
 Googleシリーズ終わり。自宅で4kディスプレイをモニターアームで固定しています。モニターアームは足がない分省スペース化できるし、ガススプリング式で高さ変えれるし何よりカッコイイ。
 
@@ -141,13 +141,13 @@ Googleシリーズ終わり。自宅で4kディスプレイをモニターアー
 
 ## HHKB professional BT
 
-![](https://noeye69.com/wp-content/uploads/2019/10/R0006466-1024x683.jpg)
+![](/images/wp/2019/10/R0006466-1024x683.jpg)
 
 文章打つのが好きなので、そこに投資しようと思って買いました。HHKB professional BTです。
 
 夏頃に買ったんですが、Amazonの商品ページを見てて「2016年発売か〜そろそろ新作でそうだな」を思ったら、出ましたね。笑
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4744-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4744-1024x578.jpg)
 
 もともとはmacbookに乗せる尊師スタイルがやりたかったのですが、買い替えたのでPixelbook goで尊師スタイルにしています。
 
@@ -159,7 +159,7 @@ HHKB、いろいろ種類ありますが持ち歩くのでbluetooth接続のprof
 
 ## **Ankerのbluetoothスピーカー**
 
-![](https://noeye69.com/wp-content/uploads/2019/03/20190306201117e99-1024x769.jpg)
+![](/images/wp/2019/03/20190306201117e99-1024x769.jpg)
 
 bluetoothスピーカー、Ankerのsoundcore 2です。
 
@@ -173,7 +173,7 @@ pasonomiのワイヤレスイヤホンを片耳紛失したからsoundcore Liber
 
 ## SONYのノイズキャンセリングイヤホン
 
-![](https://noeye69.com/wp-content/uploads/2019/10/R0006910-1024x683.jpg)
+![](/images/wp/2019/10/R0006910-1024x683.jpg)
 
 「ノイズキャンセリング機能ってこんなに快適なのか…」と驚愕しました。ノイズキャンセリングを体感したことない方は、とりあえず今すぐ電気屋さんに行って体感していただきたい。
 
@@ -193,7 +193,7 @@ soundcore Liberty Neoは日常用途、SONYのWF-1000XM3は旅行や出張など
 
 ## 電動昇降デスク FLEXISPOT
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191211110105023_COVER-1-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191211110105023_COVER-1-1024x768.jpg)
 
 2年に1回くらいの頻度でぎっくり腰になります。体が硬すぎるのも問題なんでしょうが、原因を考えてみると長時間の運転のあととかになる傾向があるので、おそらく座るのが良くない。なら立とうということで、職場のデスクを電動昇降デスク FLEXISPOTにしました。
 
@@ -205,7 +205,7 @@ soundcore Liberty Neoは日常用途、SONYのWF-1000XM3は旅行や出張など
 
 ## バルバーニのいい椅子
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191211235829178_COVER-1-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191211235829178_COVER-1-1024x768.jpg)
 
 これも腰痛対策。自宅にいい椅子を導入しました。
 
@@ -221,7 +221,7 @@ soundcore Liberty Neoは日常用途、SONYのWF-1000XM3は旅行や出張など
 
 ## ブラーバジェット
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191113_204431-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191113_204431-1024x768.jpg)
 
 これまで
 
@@ -235,7 +235,7 @@ soundcore Liberty Neoは日常用途、SONYのWF-1000XM3は旅行や出張など
 
 ## カードが入る土屋鞄のソフトカバーキーケース
 
-![](https://noeye69.com/wp-content/uploads/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4-1024x683.jpg)
+![](/images/wp/2019/04/49A9C4F6-1063-49A6-AE30-008F39F78BA4-1024x683.jpg)
 
 土屋鞄のトーンオイルヌメ ソフトカバーキーケースです。
 
@@ -263,15 +263,15 @@ soundcore Liberty Neoは日常用途、SONYのWF-1000XM3は旅行や出張など
 
 ## **Panasonic ナノケア ヘアドライヤー**
 
-![](https://noeye69.com/wp-content/uploads/2019/07/R0006246-1024x683.jpg)
+![](/images/wp/2019/07/R0006246-1024x683.jpg)
 
 Panasonicのドライヤーです。まだ記事にしてませんが、実家がこれの小型バージョンのイオニティシリーズを使っていて、乾くスピードがめちゃくちゃ速いのに感動したので、フラッグシップ機であるナノケア EH-NA9A-CNを購入しました。
 
-![](https://noeye69.com/wp-content/uploads/2019/07/R0006247-1024x683.jpg)
+![](/images/wp/2019/07/R0006247-1024x683.jpg)
 
 いろいろモードがありますが、HOTにして
 
-![](https://noeye69.com/wp-content/uploads/2019/07/R0006249-1024x683.jpg)
+![](/images/wp/2019/07/R0006249-1024x683.jpg)
 
 TURBOで乾かしてます。顔に化粧水つけてSKINモードで馴染ませる、みたいな使い方もあるそうですが、スチーマーがあるのでやってません。
 
@@ -287,7 +287,7 @@ Panasonicのナノケアシリーズの製品力すごい。本当にナノを�
 
 ## Panasonic ナノケア スチーマー
 
-![](https://noeye69.com/wp-content/uploads/2019/07/R0006034-1024x683.jpg)
+![](/images/wp/2019/07/R0006034-1024x683.jpg)
 
 半分**ギャグ**ですけど、半分**マジ**です。Panasonicのナノケア搭載のスチーマー、EH-SA69-Pです。
 
@@ -297,7 +297,7 @@ Panasonicのナノケアシリーズの製品力すごい。本当にナノを�
 
 ## glo pro
 
-![](https://noeye69.com/wp-content/uploads/2019/10/R0006919-1024x683.jpg)
+![](/images/wp/2019/10/R0006919-1024x683.jpg)
 
 肌とかいろいろ気にする割に、タバコは吸ってます。
 
@@ -312,7 +312,7 @@ Panasonicのナノケアシリーズの製品力すごい。本当にナノを�
 
 ## FUJIFILM X-T30
 
-![](https://noeye69.com/wp-content/uploads/2019/07/R0004615-1024x683.jpg)
+![](/images/wp/2019/07/R0004615-1024x683.jpg)
 
 ついに一眼レフに手を出してしまいました。Pixel 4の画質も素晴らしいんだけど、これはガチのカメラ。
 
@@ -330,17 +330,17 @@ Panasonicのナノケアシリーズの製品力すごい。本当にナノを�
 
 でもまず見た目が最高に気に入ってます。車はカクカクしたのが好きで、漠然と次はJEEPに乗りたいなと思ってるんですが、これカメラ版のJEEPじゃないでしょうか？
 
-![](https://noeye69.com/wp-content/uploads/2019/07/jeepwrangler.jpg)
+![](/images/wp/2019/07/jeepwrangler.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/07/20190712175844ec5-1024x683.jpg)
+![](/images/wp/2019/07/20190712175844ec5-1024x683.jpg)
 
 似てる。
 
-![](https://noeye69.com/wp-content/uploads/2019/07/A628D21E-563D-478E-A404-8A2359472615-8509-0000066FA403E095-1024x683.jpg)
+![](/images/wp/2019/07/A628D21E-563D-478E-A404-8A2359472615-8509-0000066FA403E095-1024x683.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/07/DSCF0908-1024x683.jpg)
+![](/images/wp/2019/07/DSCF0908-1024x683.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/07/29517BB8-08A0-439E-8386-A400CD0FF879-9459-000006DBA1CA4D85-1024x683.jpg)
+![](/images/wp/2019/07/29517BB8-08A0-439E-8386-A400CD0FF879-9459-000006DBA1CA4D85-1024x683.jpg)
 
 撮ってみるとこんな感じ。エモい写真が撮れます。
 
@@ -377,33 +377,33 @@ Panasonicのナノケアシリーズの製品力すごい。本当にナノを�
 
 ### Ankerの急速充電器
 
-![](https://noeye69.com/wp-content/uploads/2019/07/R0006214-1024x683.jpg)
+![](/images/wp/2019/07/R0006214-1024x683.jpg)
 
 まずはこれ。PC以外はこれで充電します。複数個あればいろんなところで充電できるし、旅行用カバンに入れておけば旅行に行くときに持って行き忘れることがないです。
 
 ### RAVPowerの急速充電器
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_085240-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_085240-1024x768.jpg)
 
 僕はPixelbook goは会社と家の両方で使っているので、充電器も2個欲しい。Ankerの急速充電器だとパワーが足りなくて充電できないので、Pixelbook goやLenovoのchromebookはこれで充電。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_085407-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_085407-1024x768.jpg)
 
 上のUSB type-Cになっている方がPC用で単体で61W、下の普通のUSBケーブルにも挿して両方で充電する場合は上が45W、下が16Wの計61Wで充電できます。PCとスマホを同時に充電することもできて便利。
 
 ### AnkerのUSB-type Cケーブル
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191210_085549-scaled-e1575937247347-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191210_085549-scaled-e1575937247347-1024x768.jpg)
 
 安心と信頼のAnkerです。PC用は短くてもいいんですが、スマホやglo proは長いほうが充電しながら使えて便利。1.8ｍのものを使用しています。
 
 ### ライトニング→USB type-C変換アダプタ
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191212_000648-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191212_000648-1-1024x768.jpg)
 
 今まで使ってたライトニングケーブルがもったいないので、変換アダプタを買いました。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191212_000938-1-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191212_000938-1-1024x768.jpg)
 
 ライトニング/micro USB/USB type-Cが同時に使える3in1のケーブルを使っていましたが、ライトニングの方に変換アダプタをつけてUSB type-Cが2つ同時に充電できるようにしました。micro USBはAnkerのモバイルバッテリーを充電するのに使うので、こっちは生かしてます。
 

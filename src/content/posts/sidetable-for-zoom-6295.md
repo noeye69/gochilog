@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "zoom、最近ますます使う機会が増えました。zoom飲みとか。 便利なんですが、ずっと 背景 が気になってました。 トイレに行って帰ってくるとき 飲み物をつぎに行って帰ってくるとき お子さんがいる家庭だとお子さんの乱入など なんか生活感が出"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/05/DSCF5981-1024x578.jpg"
+ogImage: "/images/wp/2020/05/DSCF5981-1024x578.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/sidetable-for-zoom-6295.html -->
@@ -31,27 +31,27 @@ zoom、最近ますます使う機会が増えました。zoom飲みとか。
 
 ## zoomの背景を固定したいのでサイドテーブルを導入した
 
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5981-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5981-1024x578.jpg)
 楽天で買いました。3,000円のサイドテーブルです。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5983-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5983-1024x578.jpg)
 天面は大好きウォルナット。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5984-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5984-1024x578.jpg)
 キャスター付きなんで、移動も楽です。Amazonにも2,200円でほぼ同じ製品があるのですがそちらは**キャスターなし**なので、楽天で買ったという経緯があります。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5987-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5987-1024x578.jpg)
 もちろんサイドテーブルなので、ソファの横に置いてスラムダンクの完全版も読めます。
  
 最近YoutubeでNBAの動画を見るのにハマってて、ザイオン・ウィリアムソンという選手のファンになりました。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5985-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5985-1024x578.jpg)
 で、肝心のzoomをやるときのスタイルはこう。13インチのpixelbook goを置くとこんな感じです。飲み物も置ける。PC側に倒したら終わりますが。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5986-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5986-1024x578.jpg)
 今までだったらノートPCの向こう側が背景だったわけですが、サイドテーブルを使うと背景はデスク側に固定されます。ソファの上や床を片づける必要がないのもいい。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/Screenshot-2020-05-24-at-21.16.19-1024x576.png)
+![](/images/wp/2020/05/Screenshot-2020-05-24-at-21.16.19-1024x576.png)
 実際zoomを開いてスクショしてみました。組んだPCとかディスプレイをチラ見せできるのもいい。笑
 
 ## まとめ：サイドテーブルは一石二鳥

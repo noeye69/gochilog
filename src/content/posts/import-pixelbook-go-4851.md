@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "生活改善"
 description: "いつまで経ってもGoogleの新しいChromebookである「Pixelbook go」の取り扱いが日本で始まらないので、アメリカから輸入しました。結論から言いますと最高に買ってよかったです。最終的に「こんな体験をありがとう」という気持ち"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/12-macbook-2.jpg"
+ogImage: "/images/wp/2019/12/12-macbook-2.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/import-pixelbook-go-4851.html -->
@@ -56,7 +56,7 @@ Pixelbook goについて動画にしてみました。
 
 ### Apple macbookシリーズ
 
-![](https://noeye69.com/wp-content/uploads/2019/12/12-macbook-2.jpg)
+![](/images/wp/2019/12/12-macbook-2.jpg)
 
 **高い。**
 
@@ -73,7 +73,7 @@ iOSを買わないとなると、OSは
 
 ### Huawei matebookシリーズ
 
-![](https://noeye69.com/wp-content/uploads/2019/12/51wdi3we9KL.jpg)
+![](/images/wp/2019/12/51wdi3we9KL.jpg)
 
 Huaweiのmatebookシリーズ、macbookっぽい見た目でいいなと思ってたんですが、HuaweiがGoogleに嫌われたのでナシ。
 
@@ -81,7 +81,7 @@ Huaweiのmatebookシリーズ、macbookっぽい見た目でいいなと思っ�
 
 ### Microsoft Surface laptopシリーズ
 
-![](https://noeye69.com/wp-content/uploads/2019/12/7170XAu1RdL._SL1500_-1024x683.jpg)
+![](/images/wp/2019/12/7170XAu1RdL._SL1500_-1024x683.jpg)
 
 Windowsの開発元であるMicrosoftのSurface laptopシリーズもいいなと思ったんだけど、店頭で触ったけどなんかあんまり気に入らないなと。当時触ったのはlaptop2ってやつなんですが、何だよこのキーボードを囲う布みたいな素材は、と。
 
@@ -105,13 +105,13 @@ CPUが謎ですがｗ、Chromeブラウザを使ってGoogleアプリ使った�
 
 Made by GoogleというGoogle新製品発売イベントにて、今僕が愛用しているスマホ「Pixel 4」の発表と同時に、Google純正のChromebook「Pixelbook go」の発売が発表されました。
 
-![](https://noeye69.com/wp-content/uploads/2019/10/DSCF4415-1024x578.jpg)
+![](/images/wp/2019/10/DSCF4415-1024x578.jpg)
 
 これはLenovoのChromebookの背面ロゴですが、Chromebookであることを示すために「chrome」と書いてあります。
 
 しかしこれがPixelbook goだと
 
-![](https://noeye69.com/wp-content/uploads/2019/12/pixelbook-go-hero-pre-order-1024x683.jpg)
+![](/images/wp/2019/12/pixelbook-go-hero-pre-order-1024x683.jpg)
 
 「G」のみです。Chromebookであることは当然なので、Googleの頭文字である「G」だけでいいと。カッコイイ。買います。
 
@@ -137,7 +137,7 @@ Made by GoogleというGoogle新製品発売イベントにて、今僕が愛用
 
 この方めっちゃ丁寧に解説してくださっているので、英語がわからなくても全然買えると思います。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/Screenshot_20191202-212954-e1575290310979-1024x168.png)
+![](/images/wp/2019/12/Screenshot_20191202-212954-e1575290310979-1024x168.png)
 
 地方ですが、発送からは約1週間で受け取れました。**ガラケー時代のi-modeメールお問い合わせ並に**毎日追跡を見てましたね。受け取れてよかったです。
 
@@ -153,21 +153,21 @@ Made by GoogleというGoogle新製品発売イベントにて、今僕が愛用
 
 やっと開梱。ここまで長かった、、、と本人が思ってます。長くなったのでここからはダイジェスト版で、使用感に関しては次回。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4656-1-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4656-1-1024x578.jpg)
 
 FRAGILE！
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4658-1-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4658-1-1024x578.jpg)
 
 開けました。
 
 ### 設置してみた
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4730-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4730-1024x578.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4732-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4732-1024x578.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/DSCF4733-1024x578.jpg)
+![](/images/wp/2019/12/DSCF4733-1024x578.jpg)
 
 Gの文字が最高にイカしてる。
 

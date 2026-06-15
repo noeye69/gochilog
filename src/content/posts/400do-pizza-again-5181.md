@@ -10,7 +10,7 @@ tags:
   - "ブログ"
   - "岡山"
 description: "今日またこの400℃ pizza伺ったんですが、この記事読んで頂けてて感動した、、、ブログ書いててよかった pic.twitter.com/SEXrKerLUY — 黒本晋吾 (@noeye69) December 24, 2019 1tw"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191224190601812_COVER-1024x768.jpg"
+ogImage: "/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224190601812_COVER-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/400do-pizza-again-5181.html -->
@@ -29,27 +29,27 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_B
 
 ## 当然美味し過ぎた
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191224190601812_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224190601812_COVER-1024x768.jpg)
 
 破産寸前ビール「こち」で乾杯。750mlで3,400円もしますが、まあクリスマスイブなので破産してもよいでしょう！
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100lrPORTRAIT_00100_BURST20191224190707423_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191224190707423_COVER-1024x768.jpg)
 
 前回注文後結構待ったピザですが、ピザの注文が立て込んでいなければ出てくるのめっちゃ早いです。ちなみにこれはFNTというやつで、僕はブルーチーズがやっぱ好きだなと思いました。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191224191731222_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224191731222_COVER-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191224191938432_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224191938432_COVER-1024x768.jpg)
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191224192132595_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224192132595_COVER-1024x768.jpg)
 
 前菜三種。最高です。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191224193421872_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224193421872_COVER-1024x768.jpg)
 
 岡山産ピーチポークのベーコン。ピーチポーク、個人輸入できないんでしょうか？うますぎる。右上のバジルのソース、美味しすぎるのでおかわりしました。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191224195118746_COVER-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224195118746_COVER-1024x768.jpg)
 
 もうちょっと食べれたので、みんな大好きマルゲリータ。個人的にはFNTが一番おいしいな。
 

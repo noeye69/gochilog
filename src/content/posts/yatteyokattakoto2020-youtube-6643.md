@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "6月頃からメインをYoutubeに移行してブログは放置しっぱなしでしたが、今年もやってまいりました 観音クリエイションさんのアドベントカレンダー「今年やってよかったこと」 。 昨年も参加させていただいた「やってよかったこと」ですが、2020"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/12/mask313458A7427_TP_V-1024x682.jpg"
+ogImage: "/images/wp/2020/12/mask313458A7427_TP_V-1024x682.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/yatteyokattakoto2020-youtube-6643.html -->
@@ -25,7 +25,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/12/mask313458A7427_TP_V-10
 
 ## 始めた動機
 
-![](https://noeye69.com/wp-content/uploads/2020/12/mask313458A7427_TP_V-1024x682.jpg)
+![](/images/wp/2020/12/mask313458A7427_TP_V-1024x682.jpg)
 もともと一番の趣味がバンド活動だったのですが、コロナのせいで3月ごろから活動しようにもできない感じになってきたので、「暇つぶしにやってみるか」って感じで始めました。
  
 半年以上たった今でも、人がぐちゃぐちゃになる系のライブはもうしばらくできなさそうですしね。
@@ -34,19 +34,19 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/12/mask313458A7427_TP_V-10
 
 ## 方向性
 
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF6104-1024x578.jpg)
+![](/images/wp/2020/12/DSCF6104-1024x578.jpg)
 方向性はブログの延長で、「買ってよかったモノを紹介する」って感じです。
  
 特に僕は**顔が濃い坊主な上に根暗**というか陰キャ成分かなり高めなのですが、最近のYoutube見てると意外とハイテンションであることが必ずしも必要ではないっぽかったので、僕でもできるかなと。
 
 ## むずかしさ
 
-![](https://noeye69.com/wp-content/uploads/2020/12/dogatschoolDSC_86020141_TP_V-1024x683.jpg)
+![](/images/wp/2020/12/dogatschoolDSC_86020141_TP_V-1024x683.jpg)
 まーーーーーむずいです。そこが面白かったりもするんですが。
 
 ### Youtubeのアルゴリズムがむずい
 
-![](https://noeye69.com/wp-content/uploads/2020/12/PKmining_9_TP_V-1024x605.jpg)
+![](/images/wp/2020/12/PKmining_9_TP_V-1024x605.jpg)
 ただ動画をアップロードすればいいという訳ではなく、Googleが気に入ってくれるような動画、つまり「広告が見てもらえるような動画」でないとダメっぽい。
  
 「Googleの広告が見てもらえる動画」とは単純に登録者数や再生回数の多さだけではなく、
@@ -64,7 +64,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/12/mask313458A7427_TP_V-10
 
 ### スタイルが固まらなくてむずい
 
-![](https://noeye69.com/wp-content/uploads/2020/12/dogatschoolDSC_86650173_TP_V-1024x683.jpg)
+![](/images/wp/2020/12/dogatschoolDSC_86650173_TP_V-1024x683.jpg)
 
 ※僕ではありません
 
@@ -73,7 +73,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/12/mask313458A7427_TP_V-10
 とりあえず字幕多めでしんどかった時期。字幕の感じは**ギズモード**を意識していたような気がします。笑
 サムネはフォトショが使いづら過ぎたので結局写真のみ、よく言えば潔い、悪く言えば手抜き感満載。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/4c85c234076325c638e2c305400f29d6-1024x578.jpg)
+![](/images/wp/2020/05/4c85c234076325c638e2c305400f29d6-1024x578.jpg)
 talbot oneという自作スピーカーキットを作る一部始終を撮った動画がなぜか僕の動画史上一番再生されてて(現時点で2万再生)、今でも再生数が伸びてます。
  
 これは完全に**謎**で、なんか登録者数が少ない時期だと動画投稿後3か月くらいは伸びるかどうかはよくわからない気がする。
@@ -105,7 +105,7 @@ iPad Air 4やPixel 5など、旬のモノに頼った感はあるけど。
 
 ### そもそも動画がむずい
 
-![](https://noeye69.com/wp-content/uploads/2020/12/dogatschoolDSC_83570003_TP_V-1024x683.jpg)
+![](/images/wp/2020/12/dogatschoolDSC_83570003_TP_V-1024x683.jpg)
 
 ※髪があるので僕ではありません
 
@@ -138,7 +138,7 @@ iPad Air 4やPixel 5など、旬のモノに頼った感はあるけど。
 
 ### 編集ソフト ダビンチリゾルブ
 
-![](https://noeye69.com/wp-content/uploads/2020/11/DSCF7099-1024x578.jpg)
+![](/images/wp/2020/11/DSCF7099-1024x578.jpg)
 まずは編集ソフト。もともとWindows×プレミアプロで動画編集を始めたんですが、4kで撮るようになって、編集してるとめちゃくちゃ動作がカクつくので乗り換えました。
  
 上述しましたがパソコンのスペックの問題ではなく、「編集ソフトでここまで違うのか！」って感じで全然違います。**サックサク**です。
@@ -149,20 +149,20 @@ iPad Air 4やPixel 5など、旬のモノに頼った感はあるけど。
 
 ### ミラーレス一眼カメラ FUJIFILM X-T4
 
-![](https://noeye69.com/wp-content/uploads/2020/11/PXL_20201128_134453085.PORTRAIT-1024x576.jpg)
+![](/images/wp/2020/11/PXL_20201128_134453085.PORTRAIT-1024x576.jpg)
 次はカメラ。もともとブログの写真用にX-T30というX-T2ケタシリーズを使っていたのですが、X-T30は**バリアングルモニターじゃない**んですよね。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/20.jpg)
+![](/images/wp/2020/12/20.jpg)
 バリアングルってのは、自撮りしてるときにこんな感じで自分がモニターで確認できるタイプ。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7325-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7325-1024x578.jpg)
 僕の撮影スタイルだとそれはかなり致命的だったので「どうしたもんか」と思ってたところ、春に**バリアングル**のX-T4が発売されました速攻買いました。
  
 今だとSONYのα7sⅢとかが流行りな気がしますが、あれはカメラだけで**40万**と高いですしね笑。
  
 何よりFUJIFILMシリーズの武骨な見た目が好きです。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/csm_film_simulation_chart_1ba11c5149-1024x771.png)
+![](/images/wp/2020/12/csm_film_simulation_chart_1ba11c5149-1024x771.png)
 フィルムシュミレーションも充実していて、撮って出しの映像でいい感じの色味が出せます。僕はクラシッククロームが好き。
  
 性能も必要十分で、今は4k30フレームで撮影していますが30分普通に撮れます(ちなみに60フレームだと30分撮る前に熱停止してしまいます…)。
@@ -171,32 +171,32 @@ iPad Air 4やPixel 5など、旬のモノに頼った感はあるけど。
 
 ### manfrotteの三脚 MK055XPRO3-3W
 
-![](https://noeye69.com/wp-content/uploads/2020/12/PXL_20201218_124927523.PORTRAIT-1024x576.jpg)
+![](/images/wp/2020/12/PXL_20201218_124927523.PORTRAIT-1024x576.jpg)
 三脚も必要なんですね～ということで買いました。金がかかるなぁYoutubeは！
  
 他のものを使ってないのでわかりませんが、それなりに重たいので少々のことではブレません。運動会にも持っていけると思います。僕は専ら室内でしか使ってませんが。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/PXL_20201218_125222318.PORTRAIT-1024x576.jpg)
+![](/images/wp/2020/12/PXL_20201218_125222318.PORTRAIT-1024x576.jpg)
 高さも変えれるし、90度折り曲げることもできるので俯瞰撮影もできます。
  
 …できるんですが、アームの組み換え作業がめんどうなので、俯瞰撮影用に以下のスライディングアームを買いました。
 
 ### SLIK スライディングアームⅡ
 
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7328-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7328-1024x578.jpg)
 SLIKのスライディングアームです。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/PXL_20201218_130937007.PORTRAIT-1024x576.jpg)
+![](/images/wp/2020/12/PXL_20201218_130937007.PORTRAIT-1024x576.jpg)
 manfrotteの雲台234RCを取り付けて、俯瞰撮影するときはサッと三脚に取り付けて即俯瞰撮影ができるようにしました。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7329-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7329-1024x578.jpg)
 manfrotteの雲台234RCもいくつか持ってるとすごく便利で、なんでも三脚に取り付けられます。
  
 俯瞰撮影以外にも「三脚1台だと角度を変えるのが厳しいな」という場面で活躍してくれるので、スライディングアームは1本あると重宝します。
 
 ### RODEのワイヤレスマイクとピンマイク
 
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7330-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7330-1024x578.jpg)
 カメラにマイクついてるのにマイクもいるのかよ…って感じですよね。RODEのワイヤレスマイクwireless goとピンマイクSmartLav+です。
  
 カメラ付属のマイク使ってたらレンズのオートフォーカスの**モーターの駆動音まで収録してしまう**ので、その対策に購入。
@@ -211,31 +211,31 @@ manfrotteの雲台234RCもいくつか持ってるとすごく便利で、なん
 
 ### ショットガンマイク Sennheiser MKE600
 
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7331-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7331-1024x578.jpg)
 自撮りするときはコレですね。コンデンサーマイクなのでマイクの近くだとめちゃくちゃ高音質で撮れます。ノイズも編集時にノイズリダクションかけないでいいほど。一応かけてますが。
  
 注意点としては指向性があるので、マイクの正面だとしっかり録れますが、後ろだと音量が小さくなります。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/PXL_20201218_134440477.PORTRAIT-1024x576.jpg)
+![](/images/wp/2020/12/PXL_20201218_134440477.PORTRAIT-1024x576.jpg)
 専用のXLR-3.5mm変換ジャックを使えばカメラの3.5mmジャックに挿すこともできるし、
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7332-1-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7332-1-1024x578.jpg)
 XLR-XLRケーブルでオーディオインターフェースに接続することもできます。
  
 最近は高音質で撮りたいので以下のオーディオインターフェースを使っています。
 
 ### オーディオインターフェース RODE AI-1
 
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7333-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7333-1024x578.jpg)
 オーディオインターフェース色々ありますが、見た目でこれにしました。なんですかこの**Mac mini**みたいな見た目…。かっこよすぎです。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7337-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7337-1024x578.jpg)
 非常にシンプルな作りで、入力も1つです。表はヘッドホン端子、
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7336-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7336-1024x578.jpg)
 裏はUSB-Cとスピーカーoutのみ。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7338-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7338-1024x578.jpg)
 ファンタム電源はゲインつまみをカチッと押し込むとオンになります。~~この製品、日本だとレビューが少なく、このファンタム電源オンオフ機能は海外のYoutuberの動画で知りました。~~
 説明書に書いてました。
  
@@ -243,26 +243,26 @@ XLR-XLRケーブルでオーディオインターフェースに接続するこ�
 
 ### 楽天で買った撮影照明セット
 
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7339-578x1024.jpg)
+![](/images/wp/2020/12/DSCF7339-578x1024.jpg)
 いろんな方のYoutube撮影機材を調べたところ皆さん高価な照明を使われていますが、僕は楽天で購入したこれを使っています。電球合わせても1万円以下。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7340-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7340-1024x578.jpg)
 E26のLED電球を5灯差し込むことができて結構明るくなるので、夜でもこの照明のおかげで明るく撮影できます。撮影環境は明るいに越したことはないですね。
  
 欠点をあげるとすれば足の造りが若干安っぽいのですが、まあ室内で撮影する分には問題ないと思います。ただでさえお金かかってるのに、照明にカッコよさはいらん！
 
 ### PROGRADE DIGITALのSDカードとSDカードリーダー
 
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7344-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7344-1024x578.jpg)
 動画を撮ったらSDカードをSDカードリーダーに挿して取り込むわけですが、PROGRADE DIGITALのこれめっちゃ速く取り込めます。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7343-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7343-1024x578.jpg)
 
 左がUHS-1、右がUHS-2。UHS-2の方が金属部分が多いです。
 
 これまで特にSDカードの規格に無頓着でしたが、UHS-2という規格があるんですね。体感で倍くらい速くなります。速いのは正義。
  
-![](https://noeye69.com/wp-content/uploads/2020/12/DSCF7342-1024x578.jpg)
+![](/images/wp/2020/12/DSCF7342-1024x578.jpg)
 あとこのSDカードリーダーはスロットが2口ついてて、撮り足した動画を取り込む際などに今刺さってるやつをいちいち抜き差ししなくていいので楽。
  
 何気にPCからSDカード抜き差しするのってめんどくさいので。

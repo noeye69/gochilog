@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "本"
 description: "京都行く前に大阪寄ろうかな https://t.co/kIqWFq4y9R ? 黒本晋吾 (@noeye69) 2019年4月28日 こないだの大阪でのライブのために関西に行く朝に、THE TEAMの著者である麻野耕司さんが書店巡業をされる"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/05/R0003053.jpg"
+ogImage: "/images/wp/2019/05/R0003053.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/the-team-asanokoji-904.html -->
@@ -72,7 +72,7 @@ Twitter見ててもまだ梅田に到着されてないようだったので、�
 
 と声かけし、簡単に自己開示。笑　今思えば、そこが最短のトイレだったか不安ですが…現地人じゃないし。
 
-[![](https://noeye69.com/wp-content/uploads/2019/05/R0003053.jpg)](https://noeye69.com/wp-content/uploads/2019/05/R0003053.jpg)
+[![](/images/wp/2019/05/R0003053.jpg)](/images/wp/2019/05/R0003053.jpg)
 
 で、kindle版しか持ってなかったのでフィジカルの本を買い、サインしていただきました。ステッカーもいただけたし、さらに名刺交換までしていただきました。
 

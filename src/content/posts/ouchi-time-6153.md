@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "もともとインドア派なので自粛もそんなに苦ではないんですが、「おうち時間」を研究しております。 普段とちょっと違う、っていうのが楽しい。 家のベランダでBBQしよう まずは家BBQです。BBQ、どうしても家の中でやってしまうとニオイや油が付く"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/05/00000PORTRAIT_00000_BURST20200425123245761-1024x768.jpg"
+ogImage: "/images/wp/2020/05/00000PORTRAIT_00000_BURST20200425123245761-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ouchi-time-6153.html -->
@@ -25,13 +25,13 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/05/00000PORTRAIT_00000_BUR
 
 ### イワタニのカセットコンロと焼肉プレート
 
-![](https://noeye69.com/wp-content/uploads/2020/05/00000PORTRAIT_00000_BURST20200425123245761-1024x768.jpg)
+![](/images/wp/2020/05/00000PORTRAIT_00000_BURST20200425123245761-1024x768.jpg)
 ある休日のランチです。真ん中にあるのはイワタニの鉄板とカセットコンロで、
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5839-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5839-1024x578.jpg)
 このような見た目をしています。カセットコンロは温度センサーが付いてないので、こういう鉄板とか燻製鍋とか、空焚き検知されないのでこういう時は便利。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5841-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5841-1024x578.jpg)
 鉄板の下の受け皿の溝には水を入れておいて、肉の油をキャッチしてもらいます。焼肉屋も同じような構造になっていますよね。
  
 この鉄板、大小の2サイズ展開で、僕は「大は小を兼ねる」という思想のもと、外径33cmの大を買いました。3,4人ぐらいならちょうどいいんではないでしょうか。買った当時の値段で1,600円くらいと安価。
@@ -41,28 +41,28 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/05/00000PORTRAIT_00000_BUR
 
 もともとは宅飲みを大人数でやるために買ったテーブルとチェアですが、両方とも軽いし、すぐ組み立てられるので持ち出せて便利です。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5785-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5785-1024x578.jpg)
 テーブルはこれ。高さ70cm。誕生日席まで使えば、6人掛けできる広さです。まあ4人用でしょうか。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5786-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5786-1024x578.jpg)
 「Coleman」のロゴのために買ったようなもんです。シンプルな木目調で、いかにもBBQがはかどりそう。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5787-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5787-1024x578.jpg)
 足を1段階外して、
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5788-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5788-1024x578.jpg)
 ローテブルとしても使えます。この時高さ40cm。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5784-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5784-1024x578.jpg)
 チェアはコイツです。地味にカーキ色も気に入っています。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5782-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5782-1024x578.jpg)
 これ、3段階で角度が変えることができて、一番背もたれを上げた状態がこれ。テーブルに座って飯を食うにはこの角度がいいです。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5783-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5783-1024x578.jpg)
 一番倒すとこの角度になります。この角度だと飯を食うのは難しいんですが、バカンス気分が味わえる。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/publicdomainq-0040692her.jpg)
+![](/images/wp/2020/05/publicdomainq-0040692her.jpg)
 これですこの角度！最高です。
  
 コールマンなんで値段はまあまあするんですが、「コールマンを買っとけば大丈夫かな」みたいな安心感はあります。
@@ -71,7 +71,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/05/00000PORTRAIT_00000_BUR
 
 無事BBQが終わったら、**カフェオレ**が飲みたくなります。作りましょう。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5842-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5842-1024x578.jpg)
 相変わらず、このグラインダーで雑に豆を挽いています。
  
 豆は色々試したんですが、せっかく喫茶店とかのいい豆を買っても高いし、意外とすぐなくなるので
@@ -81,29 +81,29 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/05/00000PORTRAIT_00000_BUR
 
 を検討した結果、三本コーヒーの1袋500g、500円ちょい/袋のを買ってたんですが、このご時世なので家でコーヒー飲みたい方が増加した？結果品切れだったので、
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5843-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5843-1024x578.jpg)
 次は加藤珈琲店のこれを飲みます。同じく一袋500g、600円/袋です。コーヒー好きですけど、苦ければ何でもいいです。
  
 喫茶店のが200gで1,000円ぐらいすることを考えると破格。
  
-![](https://noeye69.com/wp-content/uploads/2019/05/0C6865E5-BB46-4CE8-AF54-DC1E8A4EA4C3-1024x683.jpg)
+![](/images/wp/2019/05/0C6865E5-BB46-4CE8-AF54-DC1E8A4EA4C3-1024x683.jpg)
 で、前まではこんな感じで手で入れてたんですが、めんどくさすぎるので自動化しました。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5844-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5844-1024x578.jpg)
 HARIOのコーヒーメーカーです。コーヒーメーカー最強。お湯を自分で注がなくていいので楽すぎる。MAX700ml作れるので、カフェオレにする前提だと僕の場合1日くらいは持ちます。
  
 
 ## カフェオレをベランダのテラス席で飲もう
 
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5778-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5778-1024x578.jpg)
 さっきまでBBQをやっていたテーブルが、カフェオレとPixelbook goを置けばカフェのテラス席になりました。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5790-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5790-1024x578.jpg)
 ANKERのsoundcore2を置けばBGMも完璧です。
  
 隣人や通行人の目が気になる場合は、
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5780-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5780-1024x578.jpg)
 SONYのノイキャンイヤホン、WF-1000MX3に切り替えれば無問題。
  
 この日は幕末志士が活動終了するということで、過去の実況動画をずっと見てました。爆笑必至なので、外で見るには不向きですが。

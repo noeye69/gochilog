@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "冒頭でも言っていますが、Twitterで「黒本さんの記事見てPixelbook go超絶欲しくなりました」と言っていただいたので、なら動画にもしてみようということで撮ってみました。 [sitecard subtitle=関連記事 url=h"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4957-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4957-1024x578.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/pixelbook-go-review-on-youtube-6032.html -->
@@ -27,7 +27,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4957-1024x578.jpg"
 
 ### Pixelbook go×尊師スタイル
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4957-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4957-1024x578.jpg)
 macbookでは割とメジャーなHHKBをキーボード上に置く「尊師スタイル」ですが、Pixelbook goでやってる人いないんじゃないでしょうか？笑
  
 
@@ -60,7 +60,7 @@ chromebookを試すために買った激安chromebook、Lenovo S330とも比較�
 
 ## まとめ
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4966-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4966-1024x578.jpg)
 喋りたいことを喋りまくって20分超えの長尺になってしまいましたが、最高に気に入ってます。
  
 以上です。

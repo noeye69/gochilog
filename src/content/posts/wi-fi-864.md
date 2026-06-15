@@ -12,7 +12,7 @@ tags:
   - "業務効率化"
   - "生活改善"
 description: "先日Googleカレンダーを導入したという記事を書きましたが、その関係でPCを移動させて、実家で使わなくなった大型テレビにカレンダーを映し出す、ということをやりました。 [sitecard subtitle=関連記事 url=https:/"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/tplink1.jpg"
+ogImage: "/images/wp/2019/03/tplink1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/wi-fi-864.html -->
@@ -33,18 +33,18 @@ PCの配置換えで直面した問題その1がLANの大元が1か所にしか�
 
 ### Wi-Fi子機というものがあった
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/tplink1.jpg)](https://noeye69.com/wp-content/uploads/2019/03/tplink1.jpg)TP-LinkのTL-WN725NというWi-Fi子機です。子機ってなんなん？子機の概念が変わりそう。電話の子機とは意味合いが違うくね？要はWi-Fiの受信機です。
-[![](https://noeye69.com/wp-content/uploads/2019/03/tplink2.jpg)](https://noeye69.com/wp-content/uploads/2019/03/tplink2.jpg)
+[![](/images/wp/2019/03/tplink1.jpg)](/images/wp/2019/03/tplink1.jpg)TP-LinkのTL-WN725NというWi-Fi子機です。子機ってなんなん？子機の概念が変わりそう。電話の子機とは意味合いが違うくね？要はWi-Fiの受信機です。
+[![](/images/wp/2019/03/tplink2.jpg)](/images/wp/2019/03/tplink2.jpg)
 
 中身はこのような。マウスとかのbluetoothの受信機のWi-Fi版と言ったところか。いくらだと思います？
 
 600円なんですよ。すごい。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/tplink3.jpg)](https://noeye69.com/wp-content/uploads/2019/03/tplink3.jpg)
+[![](/images/wp/2019/03/tplink3.jpg)](/images/wp/2019/03/tplink3.jpg)
 
 ちっさいです。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/sashita.jpg)](https://noeye69.com/wp-content/uploads/2019/03/sashita.jpg)
+[![](/images/wp/2019/03/sashita.jpg)](/images/wp/2019/03/sashita.jpg)
 
 USBのポートが錆びていますが気にしないでください。右が本製品です。左はbluetoothマウスの受信機。bluetoothマウスも便利ですよね。
 
@@ -52,7 +52,7 @@ USBのポートが錆びていますが気にしないでください。右が�
 
 ### まとめ
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/heya.jpg)](https://noeye69.com/wp-content/uploads/2019/03/heya.jpg)
+[![](/images/wp/2019/03/heya.jpg)](/images/wp/2019/03/heya.jpg)
 こんな状況の人におすすめです。
 
 - LANの大元が一箇所にしかない

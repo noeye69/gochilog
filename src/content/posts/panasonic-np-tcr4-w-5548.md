@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "しばらく引っ越しに伴って買ったものシリーズが続いてます。まだまだ行くぞ！ ずっと食洗機ほしいなと思っていました。料理したあとの片付けがめんどくさいからです。 大学生の頃、大衆食堂ベローチェでバイトしていたときにコーヒーの砂糖やケーキやサンド"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4881-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4881-1024x578.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/panasonic-np-tcr4-w-5548.html -->
@@ -24,7 +24,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4881-1024x578.jpg"
 
 ## Panasonicの食洗機NP-TCR4-Wを導入した
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4881-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4881-1024x578.jpg)
 
 引っ越した平屋一戸建ては築40年くらいの古い家なのですが、何故かキッチンの左側に40年前には存在しなかったPanasonicの食洗機NP-TCR4-Wが置けるピッタリのスペースがありました。
 
@@ -51,7 +51,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4881-1024x578.jpg"
 
 ## 設置は若干めんどくさい
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4886-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4886-1024x578.jpg)
 
 もともとある蛇口に分水栓という食洗機の方へ分岐させる栓を取り付けなければなりません。
 
@@ -61,25 +61,25 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4881-1024x578.jpg"
 
 ## 操作は超かんたん
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4882-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4882-1024x578.jpg)
 
 取り付けさえ終わればあとは楽園が待っています。食器と洗剤を入れて電源「入」を押して「スタート」さえ押せば、あとは待ってればきれいな食器が出てきます。
 
 ### 食器類編
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4883-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4883-1024x578.jpg)
 
 2〜3人分の食器を入れたらこんな感じ。基本汚れた面を下に向けてたらキレイに洗えます。
 
 ### 調理器具編
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4884-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4884-1024x578.jpg)
 
 今回の食洗機の導入に伴って、[観音クリエイションさんも買っていた](https://kannnonn.com/archives/25771)取っ手が取れる〜♪ティファール♪のインジニオ・ネオを導入したので、油でベトベトのフライパンやお鍋、その他調理に使った器具もほっとくだけで洗えます。最高。
 
 ## 【注意1】洗剤は食洗機専用洗剤を使わないとダメ
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4885-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4885-1024x578.jpg)
 
 洗剤は食洗機専用の洗剤を使わなければなりません。
 
@@ -105,7 +105,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/01/DSCF4881-1024x578.jpg"
 
 ## まとめ：食洗機は最高
 
-![](https://noeye69.com/wp-content/uploads/2020/01/DSCF4881-1024x578.jpg)
+![](/images/wp/2020/01/DSCF4881-1024x578.jpg)
 
 もう手洗いしたくないですね。調理器具もガンガン使えるし、食器もガンガン使えるの最高。
 

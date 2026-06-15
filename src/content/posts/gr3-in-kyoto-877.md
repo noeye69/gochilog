@@ -11,7 +11,7 @@ tags:
   - "旅行"
   - "音楽"
 description: "GR3で四条フォトウォーク 日曜がライブだったので土曜から京都行ってました。GR3片手にパシャパシャ撮りながら歩いてみた。 地下鉄降りて地上に上がったところ。夜のハイコントラスト白黒かっこいいな。 四条通り。 練習まで時間があったので、お酒"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/R0002130.jpg"
+ogImage: "/images/wp/2019/03/R0002130.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/gr3-in-kyoto-877.html -->
@@ -19,26 +19,26 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/R0002130.jpg"
 ### GR3で四条フォトウォーク
 
 日曜がライブだったので土曜から京都行ってました。GR3片手にパシャパシャ撮りながら歩いてみた。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002130.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002130.jpg)
+[![](/images/wp/2019/03/R0002130.jpg)](/images/wp/2019/03/R0002130.jpg)
 地下鉄降りて地上に上がったところ。夜のハイコントラスト白黒かっこいいな。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002134.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002134.jpg)
+[![](/images/wp/2019/03/R0002134.jpg)](/images/wp/2019/03/R0002134.jpg)
 四条通り。
 練習まで時間があったので、お酒片手にぶらぶらしてみた。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002168.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002168.jpg)
+[![](/images/wp/2019/03/R0002168.jpg)](/images/wp/2019/03/R0002168.jpg)
 錦市場。かっけぇ。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002163.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002163.jpg)
+[![](/images/wp/2019/03/R0002163.jpg)](/images/wp/2019/03/R0002163.jpg)
 普通に撮ってもいい感じ。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002152.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002152.jpg)
+[![](/images/wp/2019/03/R0002152.jpg)](/images/wp/2019/03/R0002152.jpg)
 かまぼこ屋さん。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002207.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002207.jpg)
+[![](/images/wp/2019/03/R0002207.jpg)](/images/wp/2019/03/R0002207.jpg)
 新京極。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002199.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002199.jpg)
+[![](/images/wp/2019/03/R0002199.jpg)](/images/wp/2019/03/R0002199.jpg)
 路地に入る人。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002188.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002188.jpg)
+[![](/images/wp/2019/03/R0002188.jpg)](/images/wp/2019/03/R0002188.jpg)
 オシャレな建物。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002186.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002186.jpg)
+[![](/images/wp/2019/03/R0002186.jpg)](/images/wp/2019/03/R0002186.jpg)
 アクセサリー屋さん。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002185.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002185.jpg)
+[![](/images/wp/2019/03/R0002185.jpg)](/images/wp/2019/03/R0002185.jpg)
 バル的な。
 適当に歩きながら撮るだけでもめちゃくちゃ楽しい。
 んでから、練習してゆうき3ちでダラダラ。
@@ -50,8 +50,8 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/R0002130.jpg"
 
 ### WEEKEND FAN！
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002232.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002232.jpg)
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002236.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002236.jpg)
+[![](/images/wp/2019/03/R0002232.jpg)](/images/wp/2019/03/R0002232.jpg)
+[![](/images/wp/2019/03/R0002236.jpg)](/images/wp/2019/03/R0002236.jpg)
 シャッタースピードを遅くする技を覚えたので、余裕です。画面も見ずに適当にシャッターボタン押しまくるだけ。
 このギターの組み合わせかっこいいなぁ。音もよかったです。
 
@@ -63,17 +63,17 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/R0002130.jpg"
 
 ### FIGHT CLUB
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002251.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002251.jpg)
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002264.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002264.jpg)
+[![](/images/wp/2019/03/R0002251.jpg)](/images/wp/2019/03/R0002251.jpg)
+[![](/images/wp/2019/03/R0002264.jpg)](/images/wp/2019/03/R0002264.jpg)
 おもろかっこよかった！笑
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002293.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002293.jpg)
+[![](/images/wp/2019/03/R0002293.jpg)](/images/wp/2019/03/R0002293.jpg)
 背筋すごい。笑
 
 ### TV school
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002326.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002326.jpg)
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002350.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002350.jpg)
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002426.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002426.jpg)
+[![](/images/wp/2019/03/R0002326.jpg)](/images/wp/2019/03/R0002326.jpg)
+[![](/images/wp/2019/03/R0002350.jpg)](/images/wp/2019/03/R0002350.jpg)
+[![](/images/wp/2019/03/R0002426.jpg)](/images/wp/2019/03/R0002426.jpg)
 この日のMVP、TV schoolです。ツボ！
 ライブ始まるまでお互いよそよそしい感じなんだけど、「いい！」って思った後の僕の絡み方よ。ライブ前のツンケンな態度はどこに行ったんだと毎回思う。
 > 初めてGR3で動画撮ったんだけどヌルヌルすぎるだろw
@@ -85,14 +85,14 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/R0002130.jpg"
 
 ### THE INVISIBLE TEARDROPS
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002480.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002480.jpg) [![](https://noeye69.com/wp-content/uploads/2019/03/R0002487.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002487.jpg)
+[![](/images/wp/2019/03/R0002480.jpg)](/images/wp/2019/03/R0002480.jpg) [![](/images/wp/2019/03/R0002487.jpg)](/images/wp/2019/03/R0002487.jpg)
 トリのTHE INVISIBLE TEARDROPS。申し訳ないですが、酔いすぎててサッパリ覚えていません。
 
 ### 打ち上げ
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002493.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002493.jpg)
+[![](/images/wp/2019/03/R0002493.jpg)](/images/wp/2019/03/R0002493.jpg)
 サッと帰る予定でしたが、あまりにも楽しかったので下の打ち上げに参加しました。
-[![](https://noeye69.com/wp-content/uploads/2019/03/R0002500.jpg)](https://noeye69.com/wp-content/uploads/2019/03/R0002500.jpg)
+[![](/images/wp/2019/03/R0002500.jpg)](/images/wp/2019/03/R0002500.jpg)
 チャンプさん誘ってくれてありがとうございました！みんな顔が死にかけています。
 > 記憶がなくなりました [pic.twitter.com/KIWLkbxtom](https://t.co/KIWLkbxtom)
 >

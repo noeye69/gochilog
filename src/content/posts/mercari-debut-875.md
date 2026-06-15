@@ -10,7 +10,7 @@ tags:
   - "カメラ"
   - "生活改善"
 description: "完全に今更ながらメルカリ、クソ便利ですね。笑 使ってみたらめちゃ便利だった mixiが下火になってからも、楽器関係などはmixiで売った方が高く売れると思っていたのですが、mixiは何より買いたいって人が現れてからの手間がめちゃくちゃめんど"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/IMG_4086.jpg"
+ogImage: "/images/wp/2019/03/IMG_4086.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/mercari-debut-875.html -->
@@ -41,53 +41,53 @@ mixiが下火になってからも、楽器関係などはmixiで売った方が
 今回はブログで培った画像編集力が活きました。ブログでもなんでも、せっかく写真アップするなら綺麗な方がいいですよね。
 僕が参考にしてる(というかパクってるw)画像編集が上手いと思う方のブログ記事を載せておきます。
 この編集はVSCOって有料アプリ使ってるんですけど、iPhoneの編集だけでも十分な加工ができます。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4086.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4086.jpg)
+[![](/images/wp/2019/03/IMG_4086.jpg)](/images/wp/2019/03/IMG_4086.jpg)
 この画像を例に加工します。**snow並みに**。すっぴんもいいのは**美女だけ**だ。加工しましょう。※これを売ったわけではありません。
 エフェクターをiPhoneで撮っただけの写真です。大前提として、フローリングでもなんでもいいんで、**明るいところで、尚且つ背景に余計なものが写らない**ところで撮ったほうがいいと思います。
 iPhoneだとデフォルトで暗く写るんですよね。なので、明るくして微調整します。
 
 #### 露出
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4510.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4510.jpg)
+[![](/images/wp/2019/03/IMG_4510.jpg)](/images/wp/2019/03/IMG_4510.jpg)
 とりあえずここをタップします。
 露出をあげて画像を明るくします。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4501.png)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4501.png)
+[![](/images/wp/2019/03/IMG_4501.png)](/images/wp/2019/03/IMG_4501.png)
 これだけでかなり見栄えがよくなりました。めんどくさかったら最早これだけでもいいのでは。
 
 #### コントラスト
 
 コントラストをあげます。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4502.png)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4502.png)
+[![](/images/wp/2019/03/IMG_4502.png)](/images/wp/2019/03/IMG_4502.png)
 画像がなんとなく男らしくなりました。いい感じ。
 
 #### 彩度
 
 彩度もあげます。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4503.png)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4503.png)
+[![](/images/wp/2019/03/IMG_4503.png)](/images/wp/2019/03/IMG_4503.png)
 あんま変わらんか。笑
 
 #### シャドウ
 
 次にシャドウもあげます。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4504.png)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4504.png)
+[![](/images/wp/2019/03/IMG_4504.png)](/images/wp/2019/03/IMG_4504.png)
 影が薄くなりました。
 
 #### 5. ハイライト
 
 最後に、ハイライトもあげます。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4505.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4505.jpg)
+[![](/images/wp/2019/03/IMG_4505.jpg)](/images/wp/2019/03/IMG_4505.jpg)
 ちょっと明るくなったけど、これも微調整か。笑
 
 ### ビフォア・アフター
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4086.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4086.jpg)
+[![](/images/wp/2019/03/IMG_4086.jpg)](/images/wp/2019/03/IMG_4086.jpg)
 ビフォア。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4505.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4505.jpg)
+[![](/images/wp/2019/03/IMG_4505.jpg)](/images/wp/2019/03/IMG_4505.jpg)
 アフター。
 これだったら、アフターの方を買いませんか？なんとなく。
 「お、写真綺麗だな。気持ちいい取引してくれそう(対応よさそう)」
 って思ってもらえそうな。
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4507.png)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4507.png)
+[![](/images/wp/2019/03/IMG_4507.png)](/images/wp/2019/03/IMG_4507.png)
 実際売ったものの画像はこちら。前の記事で書いた、広角レンズがGR3非対応ということで「いらねー」ってなったので売りました。
 
 ### まとめ

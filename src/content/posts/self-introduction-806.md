@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "書いてる人 名前：黒本晋吾、バンド界隈ではごっちと呼ばれてます。 Twitter： noeye69 Instagram： noeye69 Excuse To Travelというバンドでギターボーカルをやっています。 活動場所は主に京都。 ※"
-ogImage: "https://noeye69.com/wp-content/uploads/2018/08/IMG_7511.jpeg"
+ogImage: "/images/wp/2018/08/IMG_7511.jpeg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/self-introduction-806.html -->

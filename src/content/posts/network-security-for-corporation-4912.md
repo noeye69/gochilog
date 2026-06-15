@@ -10,7 +10,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "会社の仕事関係のファイルって、PC本体に保存していないでしょうか？さらに、PCのパスワードって「会社名+123」とかだったりしないでしょうか？ 盗難や災害等によるPCの破損、パスワード突破などが怖いなと思ってたので、対策しました。 会社PC"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191105151936415_COVER-1-1024x768.jpg"
+ogImage: "/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191105151936415_COVER-1-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/network-security-for-corporation-4912.html -->
@@ -58,7 +58,7 @@ GoogleドライブはOfficeと互換性があるのでファイルをそのま�
 
 #### Googleドライブに入れたファイルはスマホで見る
 
-![](https://noeye69.com/wp-content/uploads/2019/12/00100trPORTRAIT_00100_BURST20191105151936415_COVER-1-1024x768.jpg)
+![](/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191105151936415_COVER-1-1024x768.jpg)
 
 これはセキュリティー対策とはあまり関係がありませんが、会社アカウントのGoogleドライブに入れれば、PCがなくてもスマホからファイルが見れるのが便利です。
 
@@ -76,7 +76,7 @@ GoogleドライブはOfficeと互換性があるのでファイルをそのま�
 
 #### 事務所で普段使うPCはchromebookに
 
-![](https://noeye69.com/wp-content/uploads/2019/10/DSCF4415-1024x578.jpg)
+![](/images/wp/2019/10/DSCF4415-1024x578.jpg)
 
 計量票を作成するプリンターなどはWindows仕様になっているのでそれは据え置きしておいて、普段使うPCはchromebookにしました。理由は
 
@@ -87,7 +87,7 @@ GoogleドライブはOfficeと互換性があるのでファイルをそのま�
 
 #### 1. chromebookはGoogleアカウントのパスワードでログイン
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191205_115206-2-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191205_115206-2-1024x768.jpg)
 
 chromebookはログインするときに会社のGoogleアカウントのパスワードでログインします。
 
@@ -99,11 +99,11 @@ chromebookはログインするときに会社のGoogleアカウントのパス�
 
 #### 2. chromebookは安い
 
-![](https://noeye69.com/wp-content/uploads/2019/12/D9B7D1C5-F7D6-4343-9B55-8A5B50C0F341-1024x768.jpg)
+![](/images/wp/2019/12/D9B7D1C5-F7D6-4343-9B55-8A5B50C0F341-1024x768.jpg)
 
 Windows PCっていろんな機能が入ってるので高いです。例えばこれは以前余ってたWindowsのデスクトップPCを使って、従業員がスマホを出さなくてもいいように会社のGoogleカレンダーを大きくTVに写している様子ですが、この度このPCの更新時期が迫っていました。同じタイプのPCに替える場合、**13万円**もかかると。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191025_095247-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191025_095247-1024x768.jpg)
 
 カレンダー表示するだけだったら**2.8万円のchromebook**がAmazonにあったので、それで必要十分でしょう。
 
@@ -139,7 +139,7 @@ Windows PCっていろんな機能が入ってるので高いです。例えば�
 
 #### 問題①解決：普段使うのは1つのパスワード
 
-![](https://noeye69.com/wp-content/uploads/2019/12/1password-4.png)
+![](/images/wp/2019/12/1password-4.png)
 
 1passwordは文字通り1つのパスワードであらゆるパスワードを一括管理できるアプリなのですが、要は金庫があって、その中に
 
@@ -189,11 +189,11 @@ chromebookは起動するたびにパスワードを求めてくるので、ラ�
 
 スマートロック、便利なんですが、G Suiteの会社アカウントだとスマートロックでログインできないんですよね…。これはかなり調べましたが、ロック状態の解除はスマートロックで解除できても、起動後のログインができない仕組みになってます。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/Screenshot-2019-12-06-at-14.07.12-1.png)
+![](/images/wp/2019/12/Screenshot-2019-12-06-at-14.07.12-1.png)
 
 逆に個人のアカウントだと普通にスマートロックでログインできるので、会社と個人のアカウントの切り替えはブラウザで対応するのが今のところ一番いいのではないかと思います。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/1password-6.png)
+![](/images/wp/2019/12/1password-6.png)
 
 どういうことかと言うと、個人アカウントでログインしているので
 
@@ -207,7 +207,7 @@ chromebookは起動するたびにパスワードを求めてくるので、ラ�
 
 すれば、個人と会社アカウントがうまく切り替えれると思います。
 
-![](https://noeye69.com/wp-content/uploads/2019/12/IMG_20191205_115206-2-1024x768.jpg)
+![](/images/wp/2019/12/IMG_20191205_115206-2-1024x768.jpg)
 
 一方で、例えば起動した最初の画面のここに個人と会社アカウントを設定してしまうと、
 

@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "去年「iDがEdyと聞き間違えられてウザすぎる。QUIC Payなら聞き間違えられないしポイント付くからQUIC Pay一択」という記事を書きましたが、1年経って最近全然QUIC Pay使ってないな~と思ったんで記事にしてみます。 [sit"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/download.png"
+ogImage: "/images/wp/2019/03/download.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/electronic-money-2020-6220.html -->
@@ -28,7 +28,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/download.png"
 
 ### メルペイ
 
-![](https://noeye69.com/wp-content/uploads/2019/03/download.png)
+![](/images/wp/2019/03/download.png)
 ご存じメルカリで売った商品の代金が支払いで使える**メルペイ**です。
  
 最近は「ちょっとでも気に入らなかったらメルカリで売却して、もっといいものを買う」ということをしていて、結構ここにポイントとしてお金が貯まります。なのでそれをコンビニでの決済などに使っていこうという。
@@ -39,14 +39,14 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/download.png"
 
 ### 楽天ペイ
 
-![](https://noeye69.com/wp-content/uploads/2020/05/rakutenpei.png)
+![](/images/wp/2020/05/rakutenpei.png)
 楽天での買い物はもちろん、コロナ以前だと飲み会とかのデカい支払いは楽天カードでしていたり、後述するクレジットカード「Kyash」のチャージを楽天カードにしていたりと、結構なポイントが毎月入るんでそれを使う手段としての楽天ペイ。
  
 最近だと最寄りのコンビニであるファミマで使えるようになったり、一定周期で食わないと気が済まないマクドの朝マックで使えるのはいいですね。
 
 ### LINEペイ
 
-![](https://noeye69.com/wp-content/uploads/2020/05/LINEpei-1024x536.png)
+![](/images/wp/2020/05/LINEpei-1024x536.png)
 LINEペイは**個人間の送金ができる**のがいいですね。
  
 最近だと愛知に在住のとある友人にとあるデザインをお願いしたんですが、ギャラの支払いをLINEペイでやったり、同棲中の彼女とのお金のやり取りはLINEペイでやってます。
@@ -59,7 +59,7 @@ LINEペイは**個人間の送金ができる**のがいいですね。
 
 スーパーとかだとまだ電子マネー使いにくいので、そこで使うのが**クレジットカードとして使えるKyash**です。前に書いたKyash、ポイント還元率下がったけどいまだに健在です。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/DSCF5848-1024x578.jpg)
+![](/images/wp/2020/05/DSCF5848-1024x578.jpg)
 最近ドラム式洗濯機に間違って入れちゃってこんな感じで歪んでしまったけど、問題なくカードリーダー通ります。笑
  
 コイツをキーケースに入れてるので、財布を持たずして買い物ができるのです。
@@ -68,7 +68,7 @@ Kyashのメリットとしては、チャージに使ってる楽天カードで
  
 詳しいことはよく読んでるリアブさんのブログで詳しく紹介されてるので、見て頂ければと。
  
-![](https://noeye69.com/wp-content/uploads/2020/05/kyashcard-lp-keyvisual-wide-sp-1024x1024.jpg)
+![](/images/wp/2020/05/kyashcard-lp-keyvisual-wide-sp-1024x1024.jpg)
 ちなみに、リアブさんの記事で紹介されている新しいKyashのカードの発行に何度も申し込んでいるんですが、本人確認のための画像審査が謎に厳しくて、免許証の裏面が汚すぎるせいで全然申請が通りません。笑
  
 今はパスポート使って申請してます。はよ！
@@ -92,7 +92,7 @@ Kyashのメリットとしては、チャージに使ってる楽天カードで
  
 実際現金使うのって個人でやられているラーメン屋さんとかですね。
  
-![](https://noeye69.com/wp-content/uploads/2020/03/IMG_20200229_120135-1024x768.jpg)
+![](/images/wp/2020/03/IMG_20200229_120135-1024x768.jpg)
 ていうか**きずなくらい**です。
  
 以上です。また変わったら報告します。

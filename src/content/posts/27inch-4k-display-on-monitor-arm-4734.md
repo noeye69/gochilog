@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "使用5か月後のレビューを動画でやってみました。 先日、会社の会議室にディスプレイを取り付けたと報告しました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/11/15/displa"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/11/IMG_20191119_173823-1024x768.jpg"
+ogImage: "/images/wp/2019/11/IMG_20191121_192705-1024x768.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/27inch-4k-display-on-monitor-arm-4734.html -->
@@ -48,7 +48,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/11/IMG_20191119_173823-102
 
 があって、会社の会議室に導入したのは高さ固定タイプでした。しかし自宅の机は狭く、高さ可変タイプがよかったので後者をポチりました。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191119_173823-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191119_173823-1024x768.jpg)
 
 届きました。HUANUOって中国製の安いやつ。HUA○○って中国でなんか縁起のいい言葉なんでしょうか。HUAWEI。
 
@@ -58,21 +58,21 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/11/IMG_20191119_173823-102
 
 とあったので、多分HUAが"for"で、WEIが"中国"なのでしょう。ウェイパーっていうし。適当に言ってます。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191119173913283_COVER-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191119173913283_COVER-1024x768.jpg)
 
 話が逸れましたがモニターアームです。HDMIケーブルまでついてて親切だなありがとうと思ったけど、「ちょっと日本が話せる中国人が書きました」みたいな説明書がわかりづらすぎる！いろいろパーツやネジがあるんだけど、多分半分以上使いません。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191119_195409-1-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191119_195409-1-1024x768.jpg)
 
 見えづらいですが机の横に付けてみました。
 
 横だとスチーマーや飲み物を置きたいので若干邪魔です。ちなみにディスプレイは会社で導入したBenQ27インチのディスプレイを借りてきました。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191119_200408-1-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191119_200408-1-1024x768.jpg)
 
 モニターアームはやっぱり後ろがいいなと思ったので、後ろに配置することにします。カメラの防湿庫をどかしてデュアルディスプレイに。動画編集とかしないから別にデュアルディスプレイじゃなくていいんですけどね。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191119_220923-1-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191119_220923-1-1024x768.jpg)
 
 部屋のスペース問題があって、カメラの防湿庫はやっぱここがいいので戻しました。
 
@@ -92,19 +92,19 @@ iMacが27インチであることと机の大きさを考慮すると27インチ
 
 ## Dellの27インチ4kディスプレイの設置
 
-![](https://noeye69.com/wp-content/uploads/2019/11/00100trPORTRAIT_00100_BURST20191121185203300_COVER-1024x768.jpg)
+![](/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191121185203300_COVER-1024x768.jpg)
 
 デカいです。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191121_190349-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191121_190349-1024x768.jpg)
 
 取り付けようと思ってモニターアームの金具をディスプレイに付けました。しかし、この部分が妙に凹んでいるのでアームにつけようとしたときにスライドさせてジョイントできません。詰んだ…アームの買い直しか？と思ったけど
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191121_191303-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191121_191303-1024x768.jpg)
 
 金具をアームに付けた状態でネジ締めすれば無事取り付けできました。よかったです。
 
-![](https://noeye69.com/wp-content/uploads/2019/11/IMG_20191121_192705-1024x768.jpg)
+![](/images/wp/2019/11/IMG_20191121_192705-1024x768.jpg)
 
 めでたい。心配していたドット抜けもなくてよかったです。試しに繋いでるのはLenovoのchromebookです。仮想pixelbook go。
 

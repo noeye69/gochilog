@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "あけましておめでとうございます。 正月に高校時代の友人がうちに遊びに来まして、「PC作ってや。ディスプレイとかもないからデスク環境丸ごと任せるわ」という 神 な依頼を受けたので、一緒に構成を考えました。 タダでPC作れるとかほんと神。 今パ"
-ogImage: "https://noeye69.com/wp-content/uploads/2021/01/CGAGFVL1137_TP_V-1024x682.jpg"
+ogImage: "/images/wp/2021/01/CGAGFVL1137_TP_V-1024x682.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/kawabata-pc-6925.html -->
@@ -27,7 +27,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2021/01/CGAGFVL1137_TP_V-1024x6
 
 ### スペック
 
-![](https://noeye69.com/wp-content/uploads/2021/01/CGAGFVL1137_TP_V-1024x682.jpg)
+![](/images/wp/2021/01/CGAGFVL1137_TP_V-1024x682.jpg)
 友人は現状、「ゲームするとか動画編集するとかの予定はなく、普通にネットサーフィンするくらい」とのこと。
  
 でも子ども(男の子)もいるし、「パパ、FORTNITEやりたい！」ってなったときに最低限できれば「パパのPC、スゲー！」って思ってもらえるかなと。
@@ -36,15 +36,15 @@ ogImage: "https://noeye69.com/wp-content/uploads/2021/01/CGAGFVL1137_TP_V-1024x6
  
 ちなみに友人は**お医者さん**なので、多少高くついても問題ないハズ。笑
  
-![](https://noeye69.com/wp-content/uploads/2020/12/zoom-1-1024x651.png)
+![](/images/wp/2020/12/zoom-1-1024x651.png)
 あとはzoomするにしてもある程度の性能が必要なことは体験済みなので、そこ含め**ミドルスペックPC**で行こうと思います。
 
 ### 外観
 
-![](https://noeye69.com/wp-content/uploads/2020/03/DSCF5547-1024x578.jpg)
+![](/images/wp/2020/03/DSCF5547-1024x578.jpg)
 昨年PCを2台作ったのですが、見た目って重要だなと思いました。自分の好みや家の家具とかとのマッチング度合い、ホンマ大事。
  
-![](https://noeye69.com/wp-content/uploads/2021/01/8f84c3eddab9cf0efae81fee724be6df.jpg)
+![](/images/wp/2021/01/8f84c3eddab9cf0efae81fee724be6df.jpg)
 話し合った結果、友人の家はナチュラル系とのことなので、僕の家にある「**黒系ビカビカPC**」じゃない方がよさそうです。
 
 ## 買ったもの：PC編
@@ -67,7 +67,7 @@ OS抜きで総額116,392円になりました。ケースにこだわるとど�
 
 ### ケース：Fractal Design ERA ITX
 
-![](https://noeye69.com/wp-content/uploads/2021/01/Era_ITX_Production_Creative-Room_Creative_Room_v6.0005-1024x724.jpg)
+![](/images/wp/2021/01/Era_ITX_Production_Creative-Room_Creative_Room_v6.0005-1024x724.jpg)
 
 公式HPより引用
 
@@ -84,7 +84,7 @@ Fractal Designはスウェーデンのメーカーで、僕が気に入って使
 
 ### CPU：Ryzen5 3600
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7433-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7433-1024x577.jpg)
 
 - CPU、選択肢としてintelとAMDの2社がある
 - せっかく自作PC作るならintelのCPU内蔵グラフィックス使わずに別でGPUを使った方がいい
@@ -99,7 +99,7 @@ CPUクーラーはとりあえず付属の純正クーラーでいいかなと�
 
 ### GPU：ASUS Radeon RX570
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7434-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7434-1024x577.jpg)
 CPUにグラフィックス機能が内蔵されていないAMDのCPUを使うので、GPUが必要です。
  
 とりあえず直近はネットができればいいとのことですが、念のためASUSのRadeon RX570にしました。Amazonに在庫がなかったので岡山のPC工房で調達。
@@ -110,7 +110,7 @@ CPUにグラフィックス機能が内蔵されていないAMDのCPUを使う�
 
 ### メモリ：Kingston HYPER X DDR4 2666MHz 8GB×2
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7435-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7435-1024x577.jpg)
 とりあえず16GBあれば困らないだろうと思って、Kingston HYPER XのDDR4 2666MHzの8GB×2にしました。
  
 Kingstonはデザインがシュッとしてて好きですね。見えませんが。
@@ -119,7 +119,7 @@ AMDのCPUとの相性も自分のPCで実証済み。
 
 ### システム用ストレージ：crucial m.2 SSD 500GB
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7437-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7437-1024x577.jpg)
 cドライブのシステム用のストレージは
 
 - 起動とか早い方がいい
@@ -129,17 +129,17 @@ cドライブのシステム用のストレージは
 
 ### ストレージ：crucial SSD 1TB
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7443-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7443-1024x577.jpg)
 こちらもcrucialで揃えました。容量はとりあえず1TBで。
 
 ### マザーボード：Asrock B450 Fatal1ty Gaming-ITX
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7439-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7439-1024x577.jpg)
 AsrockのB450 Fatal1ty Gaming-ITXにしました。
  
 今回のケースは中が見えないし、特に光るタイプが欲しいわけではなかったのでシンプルなモノでよかったのと、あとは価格ですね。mini-ITXにしては1.1万円と比較的安価です。
  
-![](https://noeye69.com/wp-content/uploads/2021/01/61QUk2Or2JL._AC_SL1200_-1024x270.jpg)
+![](/images/wp/2021/01/61QUk2Or2JL._AC_SL1200_-1024x270.jpg)
 
 Amazonより引用
 
@@ -149,7 +149,7 @@ mini-ITXはbluetoothとwi-fiがデフォルトで付属してるのがいいで�
 
 ### 電源：Fractal Design 650w 80PLUS GOLD SFX電源
 
-![](https://noeye69.com/wp-content/uploads/2021/01/81mXWPp0-dL._AC_SL1500_-1024x722.jpg)
+![](/images/wp/2021/01/81mXWPp0-dL._AC_SL1500_-1024x722.jpg)
 
 Amazonより引用
 
@@ -163,7 +163,7 @@ Amazonより引用
 
 ### 4k 27インチモニター：Dell U2721QS
 
-![](https://noeye69.com/wp-content/uploads/2021/01/913C2oS3EwL._AC_SL1500_-1024x859.jpg)
+![](/images/wp/2021/01/913C2oS3EwL._AC_SL1500_-1024x859.jpg)
 
 Amazonより引用
 
@@ -183,12 +183,12 @@ Amazonより引用
 
 ### モニターアーム：エルゴトロン LXデスクマウント
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7444-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7444-1024x577.jpg)
 モニターアーム、一度使うともうやめれません。モニター下があいてるの最高。
  
 いろいろ選択肢はあると思うのですが、やっぱり僕が使ったことある範囲で行くとちょっと高いけどエルゴトロンがいいかなと。
  
-![](https://noeye69.com/wp-content/uploads/2021/01/71nDy8Z1f5L._AC_SL1500_-999x1024.jpg)
+![](/images/wp/2021/01/71nDy8Z1f5L._AC_SL1500_-999x1024.jpg)
 
 Amazonより引用
 
@@ -200,12 +200,12 @@ Amazonより引用
 
 上述したDellのU2721QS、安いのにスピーカーまで内蔵してるんですが、あまり期待していません。
  
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7440-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7440-1024x577.jpg)
 せっかくならスピーカーから音を出したい！さらに、昨年スピーカーを自作した僕の経験からスピーカーは左右分離型の方が音がいい、ということでcreative pebble V2を選びました。
  
 なんといっても値段が安い。1,980円！
  
-![](https://noeye69.com/wp-content/uploads/2021/01/51PeNECAJaL._AC_SL1000_.jpg)
+![](/images/wp/2021/01/51PeNECAJaL._AC_SL1000_.jpg)
 
 Amazonより引用
 
@@ -215,7 +215,7 @@ Amazonより引用
 
 ### キーボード：logicool K835(赤軸)
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7442-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7442-1024x577.jpg)
 僕みたいなデスク環境オタクはHHKBを買って「ウェイ！」したいんですが、あいにく友人はそういう部類の人間ではないので、とりあえず普通よりちょっといいモノでいいかなと。
  
 そこで昨年末に発売されたlogicoolのK835です。
@@ -236,7 +236,7 @@ Amazonより引用
  
 有線キーボード、万が一PCがトラブったときも使えるのがいいですよね。bluetoothキーボードだとBIOSに入れなかったりするんで。
  
-![](https://noeye69.com/wp-content/uploads/2021/01/71i2pHO7kwL._AC_SL1500_-1024x754.jpg)
+![](/images/wp/2021/01/71i2pHO7kwL._AC_SL1500_-1024x754.jpg)
 
 Amazonより引用
 
@@ -244,7 +244,7 @@ Amazonより引用
 
 ### マウス：logicool MX ANYWHERE 3
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7445-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7445-1024x577.jpg)
 マウスもlogicool。これも昨年末発売された新型マウスですね。
  
 logicoolのマウスは3つほど使ったことがあり、僕の中で信頼性抜群です。
@@ -263,10 +263,10 @@ MX ANYWHERE 3は、
 
 ### AC電源ケーブル：AINEX ACP-15S-BK
 
-![](https://noeye69.com/wp-content/uploads/2021/01/DSCF7446-1024x577.jpg)
+![](/images/wp/2021/01/DSCF7446-1024x577.jpg)
 これかなり細かいんですが、PCやモニターに付属のAC電源ケーブルってめっちゃ太くて硬くて取り回し悪くないですか？
 
-![](https://noeye69.com/wp-content/uploads/2021/01/81UCCBgbkCL._AC_SL1500_-1024x902.jpg)
+![](/images/wp/2021/01/81UCCBgbkCL._AC_SL1500_-1024x902.jpg)
 
 Amazonより引用
 

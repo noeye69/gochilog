@@ -9,7 +9,7 @@ tags:
   - "ゆるく語る"
   - "仕事"
 description: "Googleに。 最近Googleを褒めちぎってますが、ここまでくると怖いなと思わざるを得ない。今日はそんなお話です。 GPSロガーの設置の検討を迫られた 事の発端は、とある企業さんとの打ち合わせで「当然、不法投棄などしてないと思っています"
-ogImage: "https://noeye69.com/wp-content/uploads/2019/03/IMG-4269.jpg"
+ogImage: "/images/wp/2019/03/IMG-4269.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-stalking-868.html -->
@@ -32,33 +32,33 @@ ogImage: "https://noeye69.com/wp-content/uploads/2019/03/IMG-4269.jpg"
 
 さあ！やましいことがある方はドキドキしているんじゃないでしょうか！？でも、ログを消すこともできるし、ログを制限することもできるっぽいので、知っておいて損はないかと思います。笑
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4269.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4269.jpg)
+[![](/images/wp/2019/03/IMG-4269.jpg)](/images/wp/2019/03/IMG-4269.jpg)
 
 Googleマップを起動して、赤丸で囲ったところをタップ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG_4268.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG_4268.jpg)
+[![](/images/wp/2019/03/IMG_4268.jpg)](/images/wp/2019/03/IMG_4268.jpg)
 
 右上の「設定」をタップ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4264.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4264.jpg)
+[![](/images/wp/2019/03/IMG-4264.jpg)](/images/wp/2019/03/IMG-4264.jpg)
 
 「個人的なコンテンツ」をタップ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-7865.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-7865.jpg)
+[![](/images/wp/2019/03/IMG-7865.jpg)](/images/wp/2019/03/IMG-7865.jpg)
 
 「ロケーション履歴がオン」をタップ。
 
 ここで、履歴を消したい場合は赤丸の下の削除をタップ。また、「こんなにログとられたくねーよ！」って場合は、赤丸の上の「位置情報サービスがオン」をタップして進んでもらって、「許可しない」または「このAppを使用中のみ許可」にすればいいと思います。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4266.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4266.jpg)
+[![](/images/wp/2019/03/IMG-4266.jpg)](/images/wp/2019/03/IMG-4266.jpg)
 
 「ロケーション履歴を管理する」をタップ。
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-42732.jpg)](https://noeye69.com/wp-content/uploads/2019/03/IMG-42732.jpg)
+[![](/images/wp/2019/03/IMG-42732.jpg)](/images/wp/2019/03/IMG-42732.jpg)
 
 ここで右上の「今日」をタップする。さあ、来るぞ！
 
-[![](https://noeye69.com/wp-content/uploads/2019/03/IMG-4272.png)](https://noeye69.com/wp-content/uploads/2019/03/IMG-4272.png)
+[![](/images/wp/2019/03/IMG-4272.png)](/images/wp/2019/03/IMG-4272.png)
 
 ババーン！日付を指定すればその日付の履歴も見れます。ヤバくないですか？いつこんなのオンにしたかわからないのに、いつのまにかログ取られてるという。怖すぎ。
 

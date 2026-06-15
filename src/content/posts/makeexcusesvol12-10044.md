@@ -8,7 +8,7 @@ draft: false
 tags:
   - "イベントレポート"
 description: "いやー、終わりました自主企画。11/8(土)に難波ベアーズにいたすべてのみなさまに感謝。 年1のイベントなので、せっかくなので振り返っておこうと。 発端 去年の9月に、シラハマくんのイベント@京都サブマリンに出演して以降、「よっしゃ、もう一"
-ogImage: "https://noeye69.com/wp-content/uploads/2025/11/dropbox.jpg"
+ogImage: "/images/wp/2025/11/dropbox.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/makeexcusesvol12-10044.html -->
@@ -34,7 +34,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2025/11/dropbox.jpg"
 
 レコーディングすると決めたものの、我々の曲作りはセッションをベースに展開を練り練りしていくというスタイルのため、練習に入らないと(入りまくらないと)曲が作れないんですよね。今の1,2ヶ月に1回の練習ではまともに曲作りができません。
  
-![](https://noeye69.com/wp-content/uploads/2025/11/dropbox.jpg)
+![](/images/wp/2025/11/dropbox.jpg)
 どうしたもんかと頭を悩ませた結果、dropboxに古(いにしえ、8～10年くらい前)のセッションの種がめっちゃいっぱいあることに気づきました。これを練ればいいのではないか。
  
 ということで数曲ピックアップして、まとまりそうなやつから手を付けることにしました。
@@ -43,7 +43,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2025/11/dropbox.jpg"
 
 ## 練習どうする
 
-![](https://noeye69.com/wp-content/uploads/2025/11/torinosu.jpeg)
+![](/images/wp/2025/11/torinosu.jpeg)
 曲作りにも影響するバンドで集まっての練習ですが、ライブまでに入った練習は
 
 - 2024年12月
@@ -56,7 +56,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2025/11/dropbox.jpg"
  
 あと去年のライブで痛感したのは声、というか喉の衰え。この練習頻度だとライブで声が出ないんすね。最低でも週1で声出ししてないと。そこは個人練習で補うことにしました。
  
-![](https://noeye69.com/wp-content/uploads/2025/11/whitesoundstudio.png)
+![](/images/wp/2025/11/whitesoundstudio.png)
 ちょうど家から車で5分くらいのところに、委託販売品とかで物が山積みになってるディープなスタジオがありまして、そこを6月くらいからは必ず週1で通うようにしました。
  
 部屋も2部屋しかない？小さめのスタジオで利用者もそこまで多くないので、当日30分前に連絡しても入れることが多くてかなり助かりました。子供がちょっと早く寝たから今から1時間だけ！とか、子供を実家に預けて1時間だけ！みたいな。
@@ -73,7 +73,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2025/11/dropbox.jpg"
 
 ## 告知どうする
 
-![](https://noeye69.com/wp-content/uploads/2025/11/0c109a5fe261663501c0b7ac8c0dfa15-724x1024.jpg)
+![](/images/wp/2025/11/0c109a5fe261663501c0b7ac8c0dfa15-724x1024.jpg)
 いわゆる配るフライヤー以外にやった宣伝活動としては、動画でティーザーを作ったのは我々の中では新しい試みでした。
  
 たまたま僕がそこそこいいカメラとマイクを持ってたのと、多少の動画編集スキルをコロナ中に身に着けたのもあって、せっかくだから活用しようと。
@@ -97,10 +97,10 @@ ogImage: "https://noeye69.com/wp-content/uploads/2025/11/dropbox.jpg"
  
 練習兼リハみたいな感じでやらせてもらって、続々と各バンドが到着し始めてイベント感が高まってくる。
  
-![](https://noeye69.com/wp-content/uploads/2025/11/20251108_160847-1024x577.jpg)
+![](/images/wp/2025/11/20251108_160847-1024x577.jpg)
 ハルタさんから借りたJCM900、久々に使ったんですがAチャンネルでゲイン3時過ぎくらいでブースターのBOSSのSD-1常時オン。
  
-![](https://noeye69.com/wp-content/uploads/2025/11/20251108_145835-1024x577.jpg)
+![](/images/wp/2025/11/20251108_145835-1024x577.jpg)
 ブースター用オーバードライブは去年買ったstudio daydreamのKCM-ODとかもありますが、ライブは見た目で逆張りしたくてこの日はSD-1にしてみました笑
  
 あとこの日は自分らの出番終わるまでお酒飲まない縛りをやってみました。お酒を飲まずにライブするのなんて大学生ぶりじゃないかと思うんですが、如何せんこの日のために積み上げてきたものが多すぎて、お酒で後悔したくないということで笑

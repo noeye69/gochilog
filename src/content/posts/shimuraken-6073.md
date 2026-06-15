@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "志村けんが亡くなって、特番をぼーっと見ていて思ったことがあるので書き記します。 大学の頃の僕はただ取り留めもなくダラダラと文章を書くのが好きだったので、そういうブログも書きたいなと思っていました。 今でこそブログ書いたり動画編集して、「〇〇"
-ogImage: "https://noeye69.com/wp-content/uploads/2020/04/ZW-yVjcl_400x400.jpg"
+ogImage: "/images/wp/2020/04/ZW-yVjcl_400x400.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/shimuraken-6073.html -->
@@ -23,7 +23,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/04/ZW-yVjcl_400x400.jpg"
 
 ## いかりや長介が僕の祖父に似てるなと思った
 
-![](https://noeye69.com/wp-content/uploads/2020/04/ZW-yVjcl_400x400.jpg)
+![](/images/wp/2020/04/ZW-yVjcl_400x400.jpg)
 
 いかりや長介
 
@@ -39,7 +39,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/04/ZW-yVjcl_400x400.jpg"
 
 ## 志村けんは僕の父親に似てるなと思った
 
-![](https://noeye69.com/wp-content/uploads/2020/04/img_2371688c05e11c3aee58646019c51a961028587-682x1024.jpg)
+![](/images/wp/2020/04/img_2371688c05e11c3aee58646019c51a961028587-682x1024.jpg)
 
 志村けん
 
@@ -63,7 +63,7 @@ ogImage: "https://noeye69.com/wp-content/uploads/2020/04/ZW-yVjcl_400x400.jpg"
  
  
  
-![](https://noeye69.com/wp-content/uploads/2020/04/e2b117e38a0098efa64ca3d8efc1a476.jpg)
+![](/images/wp/2020/04/e2b117e38a0098efa64ca3d8efc1a476.jpg)
 
 千鳥 大吾
 
