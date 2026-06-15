@@ -8,7 +8,7 @@ draft: false
 tags:
   - "イベントレポート"
 description: "いやー、終わりました自主企画。11/8(土)に難波ベアーズにいたすべてのみなさまに感謝。 年1のイベントなので、せっかくなので振り返っておこうと。 発端 去年の9月に、シラハマくんのイベント@京都サブマリンに出演して以降、「よっしゃ、もう一"
-ogImage: "/images/wp/2025/11/dropbox.jpg"
+ogImage: "/images/wp/2025/11/20251108_145835-1024x577.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/makeexcusesvol12-10044.html -->
