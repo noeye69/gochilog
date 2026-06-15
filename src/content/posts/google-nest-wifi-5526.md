@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "前に住んでいたマンションの自宅のネット環境は、マンションの無料の回線をwi-fiで飛ばしていたのですが、無料の回線は遅すぎたので月100GB、3,000円の格安SIM「Chat WiFi」をモバイルルーターに入れて使っていました。 [sit"
-ogImage: "/images/wp/2020/01/DSCF4866-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4866.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-nest-wifi-5526.html -->

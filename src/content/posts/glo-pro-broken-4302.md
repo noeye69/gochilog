@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "買ってから2週間ちょいでglo proがもう壊れました。スイッチの不良です。 僕のデスク環境について動画にしてみました。この中で少しだけglo proについて触れています。 早速glo proが壊れたから交換してもらった gloシリーズ2の"
-ogImage: "/images/wp/2019/10/R0007075-1024x683.jpg"
+ogImage: "/images/wp/2019/10/R0007075.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/glo-pro-broken-4302.html -->

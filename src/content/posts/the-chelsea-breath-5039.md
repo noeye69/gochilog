@@ -8,7 +8,7 @@ draft: false
 tags:
   - "いいホテル"
 description: "2019年11月に泊まった高松のホテル、記事にするのをなんやかんやで後回しにしてたところ忘却してましたが、リアル実生活で「あのホテルってどこ？」と聞かれたので今更ですが記します。 このホテル、酒好きにはたまらん設計になってます。 高松のホテ"
-ogImage: "/images/wp/2019/12/IMG_20191130_170618-1024x768.jpg"
+ogImage: "/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191130171002052_COVER-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/the-chelsea-breath-5039.html -->

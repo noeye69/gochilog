@@ -10,7 +10,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "やっと理想の音響環境に辿り着きました。PCデスクです。 これまでANKERのsoundcore motion+というスピーカーを使っていましたが、特にしゃべってる系のYoutube見てるときに声が割れて聞こえるのがずっと気になっていました。"
-ogImage: "/images/wp/2020/05/20200315235043-1024x585.jpg"
+ogImage: "/images/wp/2020/05/4c85c234076325c638e2c305400f29d6-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/talbotone-6309.html -->

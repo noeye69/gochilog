@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "メインで使うデータのクラウド化が終わったので、監査とか監査とか監査とか打ち合わせでPC使ったら便利だし話が早いんじゃないのかと思ったので、会議室にディスプレイを導入してみました。 会議室にディスプレイ導入した プロジェクターでもいいかなとも"
-ogImage: "/images/wp/2019/11/IMG_20191114_205622-1024x768.jpg"
+ogImage: "/images/wp/2019/11/IMG_20191114_201028-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/display-at-meeting-room-4601.html -->

@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "増税、イヤですね。どうにもならないので対策をしました。kyashの導入です。 kyashの導入で増税に抗う まずkyashとは、クレジットカードで入金するタイプのプリペイドカードです。僕を例にすると、例えば今までコンビニで買い物するときは "
-ogImage: "/images/wp/2019/08/201908251525365eb.png"
+ogImage: "/images/wp/2019/08/R0006601.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/anti-tax-by-kyash-952.html -->

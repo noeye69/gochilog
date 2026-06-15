@@ -8,7 +8,7 @@ draft: false
 tags:
   - "旅行"
 description: "今年で海パーン！も7回目だそうです。海パーンはかつてのPerfumeの沖縄ライブのサブタイトルで、「同じだろ」ということでパクってます。 僕のやっているExcuse To Travel(以下エクトラ)というバンドのドラムのゆうき3(ゆうきさ"
-ogImage: "/images/wp/2019/08/IMG_9838.jpg"
+ogImage: "/images/wp/2019/08/DSCF2401.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/umi-paaan-2019-946.html -->

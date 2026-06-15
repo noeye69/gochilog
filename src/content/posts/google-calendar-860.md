@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "Googleカレンダーすごい。 コンサルやってる友人のアドバイスにより、職場にGoogleカレンダーを導入しました。 ホワイトボードのカレンダー、お前はダメだ 今までは、こういういかにも古臭いホワイトボードのカレンダーが本社含め3つの事業場"
-ogImage: "/images/wp/2019/02/65f28e04-86df-4328-b0b5-afef2900f0d0.jpg"
+ogImage: "/images/wp/2019/02/gcal8.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-calendar-860.html -->

@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ブログ"
 description: "通らないなら通らないでもいいかと思ってたけど、通ってみるとめちゃくちゃ嬉しい。 Google Adsenseとは？ 要するにGoogleが表示する広告です。例えば自分が楽天とかAmazonで見てた商品やググったキーワードに関連するものが、ネ"
-ogImage: "/images/wp/2019/07/IMG-9471.jpg"
+ogImage: "/images/wp/2019/07/eyecatch_googleadsense_1.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-adsense-929.html -->

@@ -8,7 +8,7 @@ draft: false
 tags:
   - "仕事"
 description: "恥ずかしながら、会社のホームページがありません。なので、以前紹介した渡くんと製作中です。 土台はできてて、あとは写真が必要だったので、大学のサークルの後輩の尾崎さんが新聞記者ということでお願いして撮ってもらいました。 僕が撮っても良かったん"
-ogImage: "/images/wp/2019/06/E9i5uYEVPoNRQCH1560732018.jpg"
+ogImage: "/images/wp/2019/06/xfsOAzBd5dMBedU1560731372.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/shooting-for-homepage-923.html -->

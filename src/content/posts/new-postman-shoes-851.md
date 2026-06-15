@@ -9,7 +9,7 @@ tags:
   - "ファッション"
   - "生活改善"
 description: "靴の話です。 バンドの時はVANS、それ以外の時はちょっとだけ背が高くなれる、という理由でポストマンシューズを愛用しています。 [sitecard subtitle=関連記事 url=https://noeye69.com/2018/12/"
-ogImage: "/images/wp/2019/02/91D1538C-D976-4B77-8CAC-9CCB75228E53.jpg"
+ogImage: "/images/wp/2019/02/73D17E01-203E-4F5A-990A-E5B22A45E12C.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/new-postman-shoes-851.html -->

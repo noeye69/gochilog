@@ -10,7 +10,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "会社の仕事関係のファイルって、PC本体に保存していないでしょうか？さらに、PCのパスワードって「会社名+123」とかだったりしないでしょうか？ 盗難や災害等によるPCの破損、パスワード突破などが怖いなと思ってたので、対策しました。 会社PC"
-ogImage: "/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191105151936415_COVER-1-1024x768.jpg"
+ogImage: "/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191105151936415_COVER-1-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/network-security-for-corporation-4912.html -->

@@ -10,7 +10,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "僕は見て見ぬふりをしていた。LINEモバイルが遅すぎることを。 今年の春に仙台に遊びに行ったときに、LINEモバイルがまーじで使い物にならないなーと思いました。昼間の時間帯以外でもYouTubeはおろか、ウェブページすら開けなくてマジで使え"
-ogImage: "/images/wp/2019/12/Screenshot_20191224-093847-1024x486.png"
+ogImage: "/images/wp/2019/12/IMG_20191224_110015-scaled-e1577152959403.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/linemobile-to-ymobile-5157.html -->

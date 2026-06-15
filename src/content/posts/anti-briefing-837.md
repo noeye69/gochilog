@@ -9,7 +9,7 @@ tags:
   - "ファッション"
   - "仕事"
 description: "メリークリスマス。 買ってよかったもの 2018年版 でこれを紹介するのを忘れていました。 BRIEFINGが高すぎる 4月くらいに、社会人になる前から使ってたバッグがいい加減ボロボロになってきたので、なんかいい感じのないかなーと探してまし"
-ogImage: "/images/wp/2018/12/12516f11-74d1-4337-9b46-e1044c590b0c.jpg"
+ogImage: "/images/wp/2018/12/c4135fa5-d6b4-4ed9-83bf-5473aeaa38e4-1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/anti-briefing-837.html -->

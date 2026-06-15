@@ -8,7 +8,7 @@ draft: false
 tags:
   - "料理"
 description: "ウチは子供3人いて、3週間くらい妻が海外に行ってたけど、俺の1日の家事時間、掃除、洗濯、食事・子供のお弁当の用意（3分で済む）など全部で1時間ぐらいだったけどｗ。12歳未満の子供の要る女性の家事が平日1日8時間って何やってるの？素朴に疑問。"
-ogImage: "/images/wp/2019/09/R0006759.jpg"
+ogImage: "/images/wp/2019/09/R0006793.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/chikinnamban-kami-2152.html -->

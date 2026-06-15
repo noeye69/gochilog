@@ -9,7 +9,7 @@ tags:
   - "ファッション"
   - "生活改善"
 description: "これまで、好きな服屋で買ったデカめのトートバッグを使っていました。なぜならそのブランドが好きだからです。 でも、最近街中でクラッチバッグくらいの大きさのバッグを首から下げてる若者をよく見るようになりました。クラッチバッグは手に持つから手が塞"
-ogImage: "/images/wp/2019/05/R0006323.jpg"
+ogImage: "/images/wp/2019/05/R0006321.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/sacoche-905.html -->

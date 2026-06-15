@@ -10,7 +10,7 @@ tags:
   - "生活改善"
   - "買って後悔したもの"
 description: "Ploom TECHが気になる 一通りメジャーな電子タバコを試そうと思っていて、今の所、 iQOS…連続吸いができないのとフタの接触が悪くて充電ミスが起こるからイヤ glo…特に不満はないけど強いて言えば普通のタバコ味がまずいのとよく壊れる"
-ogImage: "/images/wp/2019/04/20190417154734ed2.png"
+ogImage: "/images/wp/2019/04/C9AAB173-D90E-4A28-9487-F16D57C951A2.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ploom-tech-plus-886.html -->

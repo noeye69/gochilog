@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "これまでずっと、特に理由もなくイオンカードに付いているiDを使ってきました。 iDとedy、めっちゃ聞き間違えられる問題 iDとedy、タイトルの通り めちゃくちゃ聞き間違えられるんですよね。 理由は僕の声が聞き取りづらいのと、似たような名"
-ogImage: "/images/wp/2019/03/quicpay1.jpg"
+ogImage: "/images/wp/2019/03/rakupei.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/quicpay-866.html -->

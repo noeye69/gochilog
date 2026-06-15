@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "おっさんになりたくない とずっと思っています。「もうおっさんだろ」というツッコミは無視しますね。笑 「おっさん」にはいろいろな意味が含まれていますが、この記事で言う「おっさん」とは、「 変化に対応できない人 」という意味です。 フリック入力"
-ogImage: "/images/wp/2019/04/IMG-5037.png"
+ogImage: "/images/wp/2019/04/IMG-5035.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/flick-895.html -->

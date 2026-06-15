@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "紙ヲ排除セヨ ここ最近は会社で物理的な紙を排除する取り組みをしています。業界に蔓延る謎のFAX文化を撤廃したり。 スポットで使うFAXは便利だなと思うこともごく稀にあるんですが、ルーティンのやり取りはメールにPDFを貼り付けんかい！と思う。"
-ogImage: "/images/wp/2019/04/5DEE8633-15E4-4542-BA64-944317CDCE05.jpg"
+ogImage: "/images/wp/2019/04/FCF05511-1A3C-4831-8BA1-9BBE8C2E751A.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/deskmat-899.html -->

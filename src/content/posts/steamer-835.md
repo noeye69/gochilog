@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "タバコ吸ってるクセに肌を気にするおっさんの僕です。こんばんわ。 もともと乾燥肌で、特に冬の今時期なんかは風呂上がってしばらくしたら口の周りが真っ白になるんですよね、粉吹き芋みたいに。おデコは光るのに。 化粧水や乳液もいいんですけど、よく見て"
-ogImage: "/images/wp/2018/12/R0006196.jpg"
+ogImage: "/images/wp/2018/12/R0006207.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/steamer-835.html -->

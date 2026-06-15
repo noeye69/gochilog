@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "挑発的なタイトルになりましたが、悪意は全くありません。某書籍のタイトルのパクリです。 Googleすごい これに尽きるんですけど、ほんとGoogle社はすごい。恩恵受けまくり。 マイクロソフト社のOfficeがすごいのは十分わかってるんです"
-ogImage: "/images/wp/2019/03/sigotokourituka.jpg"
+ogImage: "/images/wp/2019/03/20190310095612b1a.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/wasting-time-by-office-865.html -->

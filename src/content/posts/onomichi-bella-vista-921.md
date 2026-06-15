@@ -9,7 +9,7 @@ tags:
   - "いいホテル"
   - "旅行"
 description: "僕は自信がない。岡山県民として。 なぜなら、高校以降県外に出ていて、車の免許を取って移動の自由が利く時代を岡山県外で過ごしたから。中四国地方をあまり知らないという劣等感があります(少しだけ)。 ということで、旅行する機会があれば中四国に旅行"
-ogImage: "/images/wp/2019/06/8EBCC665-DE7E-408B-AB3D-034975C7A9C6-9459-000006DA752DEDF32.jpg"
+ogImage: "/images/wp/2019/06/638F8E78-4F53-4162-9D83-5D89453E7997-9459-000006DAD33B8CDB.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/onomichi-bella-vista-921.html -->

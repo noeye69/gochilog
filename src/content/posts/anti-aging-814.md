@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "吾輩はアラサーである。しかも後半戦だ。認めたくはないが、老けつつある。 年齢に抗うためにやっていることをまとめてみる。 サプリを飲む ネイチャーメイドのスーパーフィッシュオイルとマルチビタミンを摂取しています。前者は血糖値や中性脂肪の数値を"
-ogImage: "/images/wp/2018/10/20160304112656.jpg"
+ogImage: "/images/wp/2018/10/shutterstock_230614915-689x488.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/anti-aging-814.html -->

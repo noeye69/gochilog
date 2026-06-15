@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "今までは実家の洗濯機の買い替えに伴って玉突きで出てきた2003年製の旧National製のドラム洗濯機の初期型を使っていましたが、引っ越しに伴って「流石にもう買い換えよう」ということで日立のビッグドラムBD-SX110CLを買いました。 2"
-ogImage: "/images/wp/2020/01/IMG_20191230_123150-1-1024x768.jpg"
+ogImage: "/images/wp/2020/01/IMG_20191230_123150-1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/drum-mizumore-5290.html -->

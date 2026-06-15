@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "この短期間にglo何個買ってんだ…。 gloは普通とminiというサイズの違いでバッテリー持ちが全然違う 年末に買ったリッチブラックのgloは新年会の3次会で紛失し、さらに4次会で行った焼肉屋の領収書も紛失し、途方にくれました。 「あの色、"
-ogImage: "/images/wp/2019/01/R0006014.jpg"
+ogImage: "/images/wp/2019/01/IMG_3481.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/glo-broken-844.html -->

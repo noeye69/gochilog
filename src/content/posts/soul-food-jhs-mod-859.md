@@ -8,7 +8,7 @@ draft: false
 tags:
   - "音響機材"
 description: "これをポチろうかポチるまいか悩んでいます pic.twitter.com/z4tJwfFPDs ? 黒本晋吾 (@noeye69) 2019年2月20日 結局ポチりました。Ibanez TS-808 WEED mod.。オーバードライブです"
-ogImage: "/images/wp/2019/02/26A28DEB-1DCC-4EFB-B5A0-257EE034F377.jpg"
+ogImage: "/images/wp/2019/02/F218008B-4F1D-438E-9B08-C715DCFDA717.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/soul-food-jhs-mod-859.html -->

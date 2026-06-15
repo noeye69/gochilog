@@ -10,7 +10,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "この秋はほしいものがありすぎる。いつもなんですが。 今日はほしいもの4つについて。 Google Pixel 4 iPhone 11が発売されたけど、10月中旬に発売予定のGoogle Pixel 4がほしい。 Pixel 3や廉価版Pix"
-ogImage: "/images/wp/2019/09/02.jpg"
+ogImage: "/images/wp/2019/09/pixel4-w1280.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-pixel4-2825.html -->

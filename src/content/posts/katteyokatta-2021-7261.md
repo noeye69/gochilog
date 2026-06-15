@@ -10,7 +10,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "観音クリエイションさんのアドベントカレンダー に(勝手に)参加させていただくのも今年で4回目です。 見るのも書くのも毎年の楽しみです、企画ありがとうございます。 昨年からメインの活動(？)をYoutubeに移行したためブログは放置気味でした"
-ogImage: "/images/wp/2021/12/U4021QW-1024x576.jpg"
+ogImage: "/images/wp/2021/12/33fb179d5a9adeb0dcd46ad136a74959.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/katteyokatta-2021-7261.html -->

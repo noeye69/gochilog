@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "生活改善"
 description: "いつまで経ってもGoogleの新しいChromebookである「Pixelbook go」の取り扱いが日本で始まらないので、アメリカから輸入しました。結論から言いますと最高に買ってよかったです。最終的に「こんな体験をありがとう」という気持ち"
-ogImage: "/images/wp/2019/12/12-macbook-2.jpg"
+ogImage: "/images/wp/2019/12/DSCF4733-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/import-pixelbook-go-4851.html -->

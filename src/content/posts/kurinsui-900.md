@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "水はクリンスイに任せろ 成人の場合体の60%は水分なので、水って大事ですよね。 ペットボトルの水はゴミが邪魔 ピッチャーに浄化作用のあるものを入れるのもめんどくさい でも水道のカルキ臭い水は飲みたくない ので、一人暮らしを始めてソッコー買っ"
-ogImage: "/images/wp/2019/04/IMG_5108.jpg"
+ogImage: "/images/wp/2019/04/8AECA2A6-7355-4626-8E21-7EECE90F9A45.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/kurinsui-900.html -->

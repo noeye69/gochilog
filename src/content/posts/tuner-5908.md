@@ -8,7 +8,7 @@ draft: false
 tags:
   - "音響機材"
 description: "久々に楽器系。 4年ほど使っているギターのチューナーが壊れかけているので新調しました。tc electronicのpolytune clipです。お気に入りなので色違いで全く同じものを買いました。 ギターのチューナーを新調した 左がこれまで"
-ogImage: "/images/wp/2020/02/DSCF5056-1024x578.jpg"
+ogImage: "/images/wp/2020/02/DSCF5052-1-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/tuner-5908.html -->

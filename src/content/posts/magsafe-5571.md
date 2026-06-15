@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "最近のノートPCはUSB type-Cポートしか付いてないモデルも多いですよね。なので充電はtype-C、ハブもtype-Cを使っています。 USB type-Cポート自体が壊れたら後々めんどくさそうだなと思い、色々探していたら昔のmacで"
-ogImage: "/images/wp/2020/01/DSCF4924-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4907.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/magsafe-5571.html -->

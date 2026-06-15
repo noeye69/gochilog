@@ -10,7 +10,7 @@ tags:
   - "仕事"
   - "生活改善"
 description: "タイトルのとおりです。諦めて、名刺入れと小銭入れを新調しました。かねてから財布を使っていた土屋鞄製造所のものです。 土屋鞄製造所がいい感じ 土屋鞄製造所というブランドの革製品が好きです。 最初は「長財布邪魔だな、小さい財布がほしいな、でもア"
-ogImage: "/images/wp/2019/05/IMG-8193.jpg"
+ogImage: "/images/wp/2019/05/IMG-8179.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/meishiire-kozeniire-916.html -->

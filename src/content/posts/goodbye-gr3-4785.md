@@ -12,7 +12,7 @@ tags:
   - "生活改善"
   - "買って後悔したもの"
 description: "1ヶ月くらい悩んだ結果、2019年春に購入したGR3を売ることにしました。 GR3を売却した GR3のいいところはたくさんあるのでできれば所有していたいのですが、先月からとある理由で明らかに使用頻度が下がりそうだったのでもっと使ってもらえそ"
-ogImage: "/images/wp/2019/11/R0003030-1024x683.jpg"
+ogImage: "/images/wp/2019/11/00100trPORTRAIT_00100_BURST20191115223558882_COVER-1-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/goodbye-gr3-4785.html -->

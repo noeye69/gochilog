@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "さて、入居しました。 こんな感じの物件です。 何を買う 大学の時の一人暮らしの部屋って、親が勝手に買ったものが多くて統一感にかけるというか、センスが違うというか。 そういうのがあって、なんか統一感出したかったんですよね。 僕の中では未だに「"
-ogImage: "/images/wp/2018/08/a0208742_09482603.jpeg"
+ogImage: "/images/wp/2018/08/a0208742_10152647.jpeg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/nyuukyo-808.html -->

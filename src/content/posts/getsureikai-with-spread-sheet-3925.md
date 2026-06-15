@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "ずっとあればいいなと思ってたもののひとつに「月例会」があります。 うちの会社は 20人程度の従業員 みんなでオフィシャルに集まるのは朝礼のみ 朝礼では部長の指示があるくらい 部長も現場に出てる 現場は大きく3箇所、まあまあ離れてる なので、"
-ogImage: "/images/wp/2019/09/PChyoujisupureddo.png"
+ogImage: "/images/wp/2019/09/business-3370832.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/getsureikai-with-spread-sheet-3925.html -->

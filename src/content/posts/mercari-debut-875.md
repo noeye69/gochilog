@@ -10,7 +10,7 @@ tags:
   - "カメラ"
   - "生活改善"
 description: "完全に今更ながらメルカリ、クソ便利ですね。笑 使ってみたらめちゃ便利だった mixiが下火になってからも、楽器関係などはmixiで売った方が高く売れると思っていたのですが、mixiは何より買いたいって人が現れてからの手間がめちゃくちゃめんど"
-ogImage: "/images/wp/2019/03/IMG_4086.jpg"
+ogImage: "/images/wp/2019/03/download.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/mercari-debut-875.html -->

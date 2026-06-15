@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "音楽は今までコンポで鳴らすもんだと思ってたんですが、最近はすごいですね。 サウンドバー購入までの経緯 音楽の聴き方 音楽の聴き方には諸説ありますが、僕は外ではもっぱらiPhoneで聴きます。 家の中では、寮や実家にいた頃はPCに外部から繋い"
-ogImage: "/images/wp/2018/08/a0208742_17240602.jpg"
+ogImage: "/images/wp/2018/12/a0208742_17200305.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/soundbar-809.html -->

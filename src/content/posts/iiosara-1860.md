@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "WORDPRESSに引っ越して最初の記事はお皿についてです。引っ越しってネット上でも大変ですね…。 料理記事書いてたらお皿欲しくなった 去年から料理記事不定期に書いてるんですが、一人暮らしを始めた当初にニトリで買ったお皿にずっと盛り付けてま"
-ogImage: "/images/wp/2019/09/5722FA22-18B7-40A9-8B8D-729E47BB27D1.jpg"
+ogImage: "/images/wp/2019/09/R0006695.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/iiosara-1860.html -->

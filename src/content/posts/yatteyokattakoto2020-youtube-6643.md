@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "6月頃からメインをYoutubeに移行してブログは放置しっぱなしでしたが、今年もやってまいりました 観音クリエイションさんのアドベントカレンダー「今年やってよかったこと」 。 昨年も参加させていただいた「やってよかったこと」ですが、2020"
-ogImage: "/images/wp/2020/12/mask313458A7427_TP_V-1024x682.jpg"
+ogImage: "/images/wp/2020/12/yt_1200.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/yatteyokattakoto2020-youtube-6643.html -->

@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "最近こんな感じで、ご飯食べるテーブルの上でブログ用の写真を撮ることが多いのですが、実はこのアングルで撮ってるのには訳がありまして、写ってない右側には熱いものを置いた時にできてしまった白い跡がついてます。 [blogcard url=http"
-ogImage: "/images/wp/2019/07/R0005962.jpg"
+ogImage: "/images/wp/2019/07/IMG_9608.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/shiroiato-931.html -->

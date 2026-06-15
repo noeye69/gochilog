@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "久しぶりにモノ紹介記事です。 Pixelbook goと比較した動画です。 仕事で従業員が使うPCがない 仕事でGoogleカレンダーやスプレッドシートをフル活用しています。現在、 今まで紙の状態だったものをスプレッドシートに移管したり 「"
-ogImage: "/images/wp/2019/10/DSCF4414-1024x578.jpg"
+ogImage: "/images/wp/2019/10/DSCF4415.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/lenovo-chromebook-s330-4211.html -->

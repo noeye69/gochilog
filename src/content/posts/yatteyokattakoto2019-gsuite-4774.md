@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "観音クリエイションさんのアドベントカレンダー で2019年「やってよかったこと」と「買ってよかったもの」にエントリーしました。この記事は前者の2019年やってよかったことの記事です。 やってよかったこと2019年版：職場へのG Suite導"
-ogImage: "/images/wp/2019/11/A283E116-67D9-49D5-BB5A-35A7A9B628D5-1024x768.jpg"
+ogImage: "/images/wp/2019/11/images-2.jpeg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/yatteyokattakoto2019-gsuite-4774.html -->

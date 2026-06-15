@@ -12,7 +12,7 @@ tags:
   - "業務効率化"
   - "生活改善"
 description: "先日Googleカレンダーを導入したという記事を書きましたが、その関係でPCを移動させて、実家で使わなくなった大型テレビにカレンダーを映し出す、ということをやりました。 [sitecard subtitle=関連記事 url=https:/"
-ogImage: "/images/wp/2019/03/tplink1.jpg"
+ogImage: "/images/wp/2019/03/tplink2.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/wi-fi-864.html -->

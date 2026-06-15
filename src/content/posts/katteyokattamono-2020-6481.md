@@ -15,7 +15,7 @@ tags:
   - "生活改善"
   - "買って後悔したもの"
 description: "今年で3回目の参加になる 観音クリエイションさんのアドベントカレンダー「今年買ってよかったもの」 。 今年はYoutubeを始めてブログの投稿本数こそ減りましたが、僕が外に向けて発信するようになったのは観音クリエイションさんの影響がかなり大"
-ogImage: "/images/wp/2020/03/DSCF5547-1024x578.jpg"
+ogImage: "/images/wp/2020/11/DSCF7090-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/katteyokattamono-2020-6481.html -->

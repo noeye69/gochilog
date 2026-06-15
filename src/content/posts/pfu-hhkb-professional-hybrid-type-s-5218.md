@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "2019年の夏頃にPFU HHKB professional BTを購入したのですが、発売が2016年だったのには気付いていました。 そろそろ新作出るんじゃねーの？ と。そしたらその4ヶ月後の2019年12月に出ました。 発売されたモデルは"
-ogImage: "/images/wp/2020/01/DSCF4947-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4947-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/pfu-hhkb-professional-hybrid-type-s-5218.html -->

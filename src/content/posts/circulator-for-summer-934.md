@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "エアコン代節約のためにリビングでサーキュレーターを回している リビングが14畳くらいなのに対してエアコンが6～8畳用で、暑いからといってガンガンエアコンかけると電気代がとんでもないことになることを昨年体験しました。 なので、エアコンの温度は"
-ogImage: "/images/wp/2019/07/R0006024.jpg"
+ogImage: "/images/wp/2019/07/R0006020.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/circulator-for-summer-934.html -->

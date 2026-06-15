@@ -9,7 +9,7 @@ tags:
   - "カメラ"
   - "ガジェット"
 description: "昨日の月報で一眼レフカメラX-T30を買ったことを告白しました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/06/01/geppou-201905/] カメラって本体以外にも必"
-ogImage: "/images/wp/2019/06/leather-camera-strap-classic-leica-barton1972-.jpg"
+ogImage: "/images/wp/2019/06/R0004719.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/x-t30-accessory-918.html -->

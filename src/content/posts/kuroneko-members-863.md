@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "今更かよって感じですが、便利なので紹介します。 クロネコメンバーズ 世は通販時代。ヤマトの人とか大変だろうなと思う次第。 みなさんはAmazonなどからの荷物は何で受け取っているでしょうか？僕はコンビニ受け取りで最寄りのファミマを倉庫として"
-ogImage: "/images/wp/2019/03/22336119-c2a8-4a60-9024-5ae086538316.jpg"
+ogImage: "/images/wp/2019/03/kuroneko.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/kuroneko-members-863.html -->

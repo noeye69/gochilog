@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "ゆうちょ銀行を使い始めたのは確か京都で浪人してたときだったと思いますが、15年ほど使ってきたゆうちょ銀行の使用を辞めることにしました。 郵便局が嫌いすぎる ある日、とあるキャッシュバックを受け取りに郵便局に行った際に、シャチハタが必要な箇所"
-ogImage: "/images/wp/2020/06/f81fd2e4c52864042852c112ce927ae2.png"
+ogImage: "/images/wp/2020/06/10man458a9684_TP_V.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/datsu-yuucho-6424.html -->

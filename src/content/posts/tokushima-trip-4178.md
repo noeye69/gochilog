@@ -10,7 +10,7 @@ tags:
   - "四国"
   - "旅行"
 description: "前回の尾道旅行と同じく、宿泊したホテルと別でまとめました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/10/07/moana-coast/] うなぎ処岡 うなぎにハマっています"
-ogImage: "/images/wp/2019/10/F594BA7B-E4EA-4A0F-A4F4-F81E0BFA48CA-751-0000007B0DE71CF1.jpg"
+ogImage: "/images/wp/2019/10/IMG_0469.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/tokushima-trip-4178.html -->

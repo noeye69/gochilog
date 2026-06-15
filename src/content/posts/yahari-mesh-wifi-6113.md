@@ -12,7 +12,7 @@ tags:
   - "業務効率化"
   - "生活改善"
 description: "会社のwi-fi回線にずっと不満を感じていました。 事務所にて、 1階…buffaloの家庭用ルーター 2階…buffaloの中継器 の2つを使っていたのですが、 2階にいるのに1階のルーターの回線を拾う 2階の中継器の回線に切り替えようと"
-ogImage: "/images/wp/2020/04/00100trPORTRAIT_00100_BURST20200417193919359_COVER-1024x768.jpg"
+ogImage: "/images/wp/2020/04/00100trPORTRAIT_00100_BURST20200417193919359_COVER-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/yahari-mesh-wifi-6113.html -->

@@ -9,7 +9,7 @@ tags:
   - "カメラ"
   - "ガジェット"
 description: "発売日前に急に気になって調べてたら気付いたら買ってました、GR3。GR2は下取りに出して。 GRシリーズが持ついぶし銀の魅力はなんなんでしょうね…。 発売日に届くように予約したのに、登録した住所の番地がなぜか記載漏れで入ってなかったせいで手"
-ogImage: "/images/wp/2019/03/9FEBF295-A582-4505-B982-FFD6328CC45D.jpg"
+ogImage: "/images/wp/2019/03/A999357D-3090-429A-8F94-9C9D3D943AF7.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/first-impression-of-gr3-874.html -->

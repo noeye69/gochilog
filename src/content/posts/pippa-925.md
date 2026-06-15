@@ -9,7 +9,7 @@ tags:
   - "アプリ"
   - "生活改善"
 description: "先日京都の西院ネガポジでライブした際 に、ライブ中の汗で使用不能になったTシャツを外に干してたらそのまま忘れて帰ってしまいました。 で、宿泊先であるゆうき3ちから絶妙な距離で、タクシー使うのもったいないし電車乗るのも馬鹿らしいなということで"
-ogImage: "/images/wp/2019/06/20190624090318844.png"
+ogImage: "/images/wp/2019/06/IMG_9240.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/pippa-925.html -->

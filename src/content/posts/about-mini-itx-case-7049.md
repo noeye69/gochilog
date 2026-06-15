@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "久しぶりの更新です。 2020年度はYoutubeに注力してきましたが、4月でやっとチャンネル登録者1000人達成できました。1年1ヶ月でやっと1000人。疲れました。笑 Youtubeではある1つのテーマについて1本の動画にすることが多く"
-ogImage: "/images/wp/2021/06/KENTA039_jidoricamera_TP_V-1024x682.jpg"
+ogImage: "/images/wp/2020/12/dogatschoolDSC_86020141_TP_V.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/about-mini-itx-case-7049.html -->

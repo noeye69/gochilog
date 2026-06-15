@@ -8,7 +8,7 @@ draft: false
 tags:
   - "音響機材"
 description: "昔はエフェクター(おもにオーバードライブ)を買いまくってはレビューしていた時期もありましたがすっかり落ち着いてしまった。オーバードライブを買うのは3年ぶり、レビューです。 去年レンタルで使ったTS-808 WEED mod.がよかった ここ"
-ogImage: "/images/wp/2019/03/1731_suda_masaki.jpg"
+ogImage: "/images/wp/2019/03/2019022111353310f.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ts-808-weed-mod-854.html -->

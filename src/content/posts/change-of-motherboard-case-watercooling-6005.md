@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "一度は組み立てた自作PCですが、自作故に愛が生まれちゃって、「もっとこうしたい…！」っていうのが出てきたので改善です。 マザボを入れ替える理由：LED制御したい RGB LEDでピカピカ光るメモリにしたのですが、制御コントローラーがついてる"
-ogImage: "/images/wp/2020/03/IMG_20200311_223212-1024x768.jpg"
+ogImage: "/images/wp/2020/03/Screenshot_20200324-110933.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/change-of-motherboard-case-watercooling-6005.html -->

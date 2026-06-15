@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "あけましておめでとうございます。 正月に高校時代の友人がうちに遊びに来まして、「PC作ってや。ディスプレイとかもないからデスク環境丸ごと任せるわ」という 神 な依頼を受けたので、一緒に構成を考えました。 タダでPC作れるとかほんと神。 今パ"
-ogImage: "/images/wp/2021/01/CGAGFVL1137_TP_V-1024x682.jpg"
+ogImage: "/images/wp/2021/01/PKSMIMGL4903_TP_V.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/kawabata-pc-6925.html -->

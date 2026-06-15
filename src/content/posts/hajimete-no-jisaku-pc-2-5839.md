@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "前回の続き、ヨシダヨシオさんに影響されて自作PCを作りたくなってパーツを買いました、の続きです。 [sitecard subtitle=関連記事 url=https://noeye69.com/2020/02/06/hajimete-no-"
-ogImage: "/images/wp/2020/02/IMG_20200210_194416-1-1024x768.jpg"
+ogImage: "/images/wp/2020/02/DSCF5084-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/hajimete-no-jisaku-pc-2-5839.html -->

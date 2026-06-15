@@ -9,7 +9,7 @@ tags:
   - "カメラ"
   - "ガジェット"
 description: "価格の割にワクワクする買い物だったぞ！ ケース GR3を入れるケースです。かわいいポーチ。HAKUBAのやつです。 サイズはSとMの2つあったんですが、Sでちょうどよかったです。 カラビナはもうちょいデカいやつの方が使い勝手良さそうなので要"
-ogImage: "/images/wp/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D.jpg"
+ogImage: "/images/wp/2019/03/0B7D3F0B-7167-4917-8C10-855CAFBC721D-1.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/accessory-of-gr3-876.html -->

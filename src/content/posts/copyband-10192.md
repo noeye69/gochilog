@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "私、音楽はすべて現Youtube Music、旧Google Play Music時代に入れてクラウド化しているのですが、久々にバンドのリストを見ていたら懐かしくなってしまったため、今までコピーしてライブしたことのあるバンドをリストアップし"
-ogImage: "/images/wp/2026/05/IMG_1262.jpg"
+ogImage: "/images/wp/2026/05/IMG_1261.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/copyband-10192.html -->

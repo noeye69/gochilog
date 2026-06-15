@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "去年「iDがEdyと聞き間違えられてウザすぎる。QUIC Payなら聞き間違えられないしポイント付くからQUIC Pay一択」という記事を書きましたが、1年経って最近全然QUIC Pay使ってないな~と思ったんで記事にしてみます。 [sit"
-ogImage: "/images/wp/2019/03/download.png"
+ogImage: "/images/wp/2020/05/DSCF5848-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/electronic-money-2020-6220.html -->

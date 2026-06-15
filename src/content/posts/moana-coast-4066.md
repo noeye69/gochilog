@@ -9,7 +9,7 @@ tags:
   - "いいホテル"
   - "旅行"
 description: "土日だと高くて躊躇する宿に 事前予約で 平日に 少し安く宿泊するのが好きです。このブログだと2回目ですかね。前回は尾道のベラビスタでした。 [sitecard subtitle=関連記事 url=https://noeye69.com/20"
-ogImage: "/images/wp/2019/10/9766AC42-ACC2-44F1-8F18-6E869550641B-751-0000007BE263F5CC.jpg"
+ogImage: "/images/wp/2019/10/CA4951D6-55AB-4898-8AC8-89204243DAB9-751-0000007BEA98104F.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/moana-coast-4066.html -->

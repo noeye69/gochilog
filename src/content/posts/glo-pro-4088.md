@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "glo、大好きです。電子タバコとしてだけではなく、ユーザー目線で作られた素晴らしい製品だと思っています。そんなgloから新作「glo pro」が発売されました。 たまたまglo proの発売の情報を知った 先日たまたまGoogle Chro"
-ogImage: "/images/wp/2019/10/IMG_0654-1.jpg"
+ogImage: "/images/wp/2019/10/R0006919.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/glo-pro-4088.html -->

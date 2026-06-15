@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "zoom、最近ますます使う機会が増えました。zoom飲みとか。 便利なんですが、ずっと 背景 が気になってました。 トイレに行って帰ってくるとき 飲み物をつぎに行って帰ってくるとき お子さんがいる家庭だとお子さんの乱入など なんか生活感が出"
-ogImage: "/images/wp/2020/05/DSCF5981-1024x578.jpg"
+ogImage: "/images/wp/2020/05/DSCF5987-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/sidetable-for-zoom-6295.html -->

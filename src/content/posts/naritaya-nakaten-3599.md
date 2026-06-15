@@ -9,7 +9,7 @@ tags:
   - "おいしいお店"
   - "岡山"
 description: "先日たなよに誘われて、成田屋に行きました。成田屋は岡山県に何店舗かあるローカルチェーンの居酒屋です。 たなよ強いから酒豪伝説必須。 たなよ「のぼる(TV school)とイオンでだべってます早く来てください」 とのことだったので、てっきり田"
-ogImage: "/images/wp/2019/09/IMG_0190.jpg"
+ogImage: "/images/wp/2019/09/IMG_0428.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/naritaya-nakaten-3599.html -->

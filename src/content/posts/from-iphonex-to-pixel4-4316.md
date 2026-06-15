@@ -11,7 +11,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "乗り換えました。やったぜー！ってカメラの使い心地とか夜空の写真とか上げたらいいのかもしれませんが、そもそも今回の機種変はいろいろ課題がありました。 [sitecard subtitle=関連記事 url=https://noeye69.co"
-ogImage: "/images/wp/2019/10/IMG_0888-748x1024.png"
+ogImage: "/images/wp/2019/10/2019_1024_00134000.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/from-iphonex-to-pixel4-4316.html -->

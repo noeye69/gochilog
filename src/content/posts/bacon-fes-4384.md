@@ -11,7 +11,7 @@ tags:
   - "料理"
   - "生活改善"
 description: "備前焼まつりでゲットしたお皿を使って、ベーコンまつりを開催しました。 今日のお料理 炙りベーコンのカルボナーラ 炙りベーコンのポテサラ サラダ です。 材料 炙りベーコンのカルボナーラ 予め作っておいたベーコン バター 牛乳 生クリーム 粉"
-ogImage: "/images/wp/2019/10/IMG_20191027_184449-1024x768.jpg"
+ogImage: "/images/wp/2019/10/IMG_20191027_184449.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/bacon-fes-4384.html -->

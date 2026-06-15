@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "X-T4めっちゃいい！とか言って動画まで作ったのに、全然活用できていません。 いや動画は撮ったんですけど、ナレーション方式でやってみよう！と思ったものの、マジで色々納得いかなくて絶望しました。ナレーションってめちゃくちゃ難しい。 いきなり話"
-ogImage: "/images/wp/2020/05/ryzen73700X2-1024x711.jpg"
+ogImage: "/images/wp/2020/05/ryzen73700X.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ryzen-pc-1-6236.html -->

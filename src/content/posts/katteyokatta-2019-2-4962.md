@@ -13,7 +13,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "今年もいろんなものを買いました。昔は主に服にお金を使っていましたが、最近は断然服の割合が減って、生活する上で便利なものにお金を使うようになりました。 昨年も参加した 観音クリエイションさんのアドベントカレンダー に今年も応募したので、それに"
-ogImage: "/images/wp/2019/12/youtube-premium-in-jp-1024x576.jpg"
+ogImage: "/images/wp/2019/12/IMG_20191212_003850.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/katteyokatta-2019-2-4962.html -->

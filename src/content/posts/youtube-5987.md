@@ -11,7 +11,7 @@ tags:
   - "ブログ"
   - "生活改善"
 description: "久しぶりの更新です。 YouTubeデビューしてみた してみました。先月PCを自作したのは、 YouTubeのため なんですよね。 動画でも述べてますが、ブログの文章と写真だと内容によっては伝えにくいなーってのを感じていたので、動画もやって"
-ogImage: "/images/wp/2020/03/DSCF5547-1024x578.jpg"
+ogImage: "/images/wp/2020/03/DSCF5547-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/youtube-5987.html -->

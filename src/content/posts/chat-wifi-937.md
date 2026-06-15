@@ -10,7 +10,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "自宅のwi-fiがクソです。なぜなら今のマンションに決める時、「ネット無料！」に飛びついて住み始めたからです(他にもいいところあるけど)。なので住み始めて2年でやっと対策をしました。 「ネット無料！」物件の回線速度はめちゃ遅いことがある ま"
-ogImage: "/images/wp/2019/07/IMG_9786.png"
+ogImage: "/images/wp/2019/07/R0006373.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/chat-wifi-937.html -->

@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "みなさんの職場の勤怠管理ってどうやって行っているんでしょうか？ これってそもそもの職種によりけりだと思うのですが、僕の場合は 前の会社…コアタイムと呼ばれる「絶対いなきゃいけない時間帯」があって、それ以外は名目上はいてもいなくてもいい。勤怠"
-ogImage: "/images/wp/2019/03/BB08F79D-E821-45B5-947E-415C24259AA0-768x1024.jpg"
+ogImage: "/images/wp/2019/12/Screenshot_20191217-003031-e1576539050937.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/jobcan-4910.html -->

@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "掃除ってほんとめんどくさいですよね。パッと見キレイだったらええんよ。汚ならしい毛とかが散見されなければ。結論としては、マキタのコードレス掃除機＋ルンバの組合せが最高。 導入の経緯 普通の掃除機 マキタ マキタ+ルンバ という順番で導入しまし"
-ogImage: "/images/wp/2018/08/464-3061.jpg"
+ogImage: "/images/wp/2018/08/53879B0D-AF31-40ED-B29A-E3D5E8AD52D9.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/makita-and-roomba-890.html -->

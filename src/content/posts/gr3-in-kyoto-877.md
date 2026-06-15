@@ -11,7 +11,7 @@ tags:
   - "旅行"
   - "音楽"
 description: "GR3で四条フォトウォーク 日曜がライブだったので土曜から京都行ってました。GR3片手にパシャパシャ撮りながら歩いてみた。 地下鉄降りて地上に上がったところ。夜のハイコントラスト白黒かっこいいな。 四条通り。 練習まで時間があったので、お酒"
-ogImage: "/images/wp/2019/03/R0002130.jpg"
+ogImage: "/images/wp/2019/03/R0002426.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/gr3-in-kyoto-877.html -->

@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "痛え… 腰が痛え…！？ ということで、職場に電動昇降デスク FLEXISPOTを導入しました。 腰が痛い 先月お盆前にぎっくり腰で死にました。原因はおそらく長時間の車の運転です。座りっぱなしが良くないんだと思う。 [sitecard sub"
-ogImage: "/images/wp/2019/09/sakuragiitee.png"
+ogImage: "/images/wp/2019/09/IMG_0134.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/flexispot-954.html -->

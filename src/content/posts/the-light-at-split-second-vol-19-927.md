@@ -9,7 +9,7 @@ tags:
   - "イベントレポート"
   - "音楽"
 description: "やっとイベントレポート。僕が所属するExcuse To Travelのゆうき3メンバーといっしゃんの2人がやってるwith one accordというディストロの10周年イベント。兼、四国のTURNCOATと北九州のDENOMIのレコ発です"
-ogImage: "/images/wp/2019/06/IMG-8317-1.jpg"
+ogImage: "/images/wp/2019/06/DSCF1198.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/the-light-at-split-second-vol-19-927.html -->

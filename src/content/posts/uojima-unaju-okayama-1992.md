@@ -9,7 +9,7 @@ tags:
   - "おいしいお店"
   - "岡山"
 description: "「う」で思い出したけど、うな重食べたくないですか？食べたいですよね？ということで食べに行ましょう！ ﻿ うおじま 初回は専務のオススメでお客さんとのランチで食べに行ったんですが、衝撃的にうまかったので個人的に再訪しました。 場所は岡山市南区"
-ogImage: "/images/wp/2019/09/R0006693.jpg"
+ogImage: "/images/wp/2019/09/R0006694.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/uojima-unaju-okayama-1992.html -->

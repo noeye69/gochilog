@@ -11,7 +11,7 @@ tags:
   - "スマホ"
   - "生活改善"
 description: "Pixel 4にしてから3週間くらい経ちますが、色々と最高ですね。全く不満がないわけではないけど全然デメリットが気になりません、概ねポジティブな評価です。3週間かけてiPhone のときにやってなかったけど始めたことがいくつかあるのでまとめ"
-ogImage: "/images/wp/2019/10/Screenshot_20191031-153358-485x1024.png"
+ogImage: "/images/wp/2019/11/IMG_20191106_124610.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/3-things-for-pixel-4-4445.html -->

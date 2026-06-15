@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "もともとインドア派なので自粛もそんなに苦ではないんですが、「おうち時間」を研究しております。 普段とちょっと違う、っていうのが楽しい。 家のベランダでBBQしよう まずは家BBQです。BBQ、どうしても家の中でやってしまうとニオイや油が付く"
-ogImage: "/images/wp/2020/05/00000PORTRAIT_00000_BURST20200425123245761-1024x768.jpg"
+ogImage: "/images/wp/2020/05/DSCF5778-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/ouchi-time-6153.html -->

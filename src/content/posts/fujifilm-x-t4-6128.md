@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "来ましたよ、X-T4。 FUJIFILM X-T4買った。X-T30との比較も 去年ブログ用にX-T30を購入しました。 何がいいってFUJIFILMのカメラは見た目がいいですよね。完全に個人の趣向になりますが、カクカクしたデザインが好きな"
-ogImage: "/images/wp/2020/05/00100trPORTRAIT_00100_BURST20200502230355864_COVER-1024x768.jpg"
+ogImage: "/images/wp/2020/05/00100trPORTRAIT_00100_BURST20200430194052228_COVER-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/fujifilm-x-t4-6128.html -->

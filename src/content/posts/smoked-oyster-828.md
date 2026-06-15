@@ -8,7 +8,7 @@ draft: false
 tags:
   - "料理"
 description: "至高。 作って写真撮ってたのに完全に忘れてました。燻製牡蠣で作るアヒージョ！さあ、19ぜ！ スーパーで買った牡蠣です。すでにうまそう。濡れ濡れですね。なので乾燥させます。水分が多いと燻製した時に酸っぱくなるらしい。 こうやって放置してても全"
-ogImage: "/images/wp/2018/11/94cb47d9-77fa-4b8c-98a8-df1747153fe7.jpg"
+ogImage: "/images/wp/2018/11/37605187-0e8c-4cb2-b6a0-e0c86ae22cba.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/smoked-oyster-828.html -->

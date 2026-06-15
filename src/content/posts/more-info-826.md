@@ -8,6 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "おらん。 先日の自主企画の記事へのアクセスがまあまあ多くて、それにつれられて昔の自己紹介の記事もアクセスが伸びており、自意識過剰な僕は「あ、なんか興味持たれてる」と思い、ちょっと詳しく 自己紹介を書いてみようかなと。 てかGoogleアナリ"
+ogImage: "/images/wp/2018/08/IMG_7511.jpeg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/more-info-826.html -->

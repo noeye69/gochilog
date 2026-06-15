@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "しばらく引っ越しに伴って買ったものシリーズが続いてます。まだまだ行くぞ！ ずっと食洗機ほしいなと思っていました。料理したあとの片付けがめんどくさいからです。 大学生の頃、大衆食堂ベローチェでバイトしていたときにコーヒーの砂糖やケーキやサンド"
-ogImage: "/images/wp/2020/01/DSCF4881-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4881.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/panasonic-np-tcr4-w-5548.html -->

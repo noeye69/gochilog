@@ -12,7 +12,7 @@ tags:
   - "旅行"
   - "生活改善"
 description: "旅行に行くときガジェット類の充電が不安になるので、モバイルバッテリーを使っています。 それに付随してUSBだったり、コンセントだったりを持ち歩く必要があるので、これまではこれらを100均のソフトケースに入れて、まとめて持ち運んでいました。 "
-ogImage: "/images/wp/2019/03/205C37EF-20AE-497E-A905-2FFC7046F127.jpg"
+ogImage: "/images/wp/2019/03/B5A0BCCC-305C-4CF1-BD1D-7A614BC5457F.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/batteries-for-trip-879.html -->

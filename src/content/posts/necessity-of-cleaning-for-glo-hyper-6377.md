@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ガジェット"
 description: "4月にgloの新製品「glo hyper」を買いまして、「スティックが太くなって、味もガツンと来るし最高！」と思って吸っていました。 しかし、使ってるうちに「スティックを挿すときに抵抗を感じるようになったな」と思って掃除してみたら、これまで"
-ogImage: "/images/wp/2020/06/DSCF6106-1024x578.jpg"
+ogImage: "/images/wp/2020/06/DSCF6112-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/necessity-of-cleaning-for-glo-hyper-6377.html -->

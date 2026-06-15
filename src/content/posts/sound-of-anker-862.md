@@ -9,7 +9,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "ANKER最高ですね。名前がまずかっこいい。ANKER。 pasonomiのイヤホン無くした 昨年買ったpasonomiのイヤホンを最近失くしたんですよね。もの失くしすぎ。まあまあ高かったんでショックだったんですけど、ランニング勢としてはb"
-ogImage: "/images/wp/2019/03/201903062021030e4.jpg"
+ogImage: "/images/wp/2019/03/9E0F33AF-3292-4E28-BC40-5A1176E6D3AB.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/sound-of-anker-862.html -->

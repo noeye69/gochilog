@@ -91,11 +91,13 @@ const ogImage = ogImageUrl
   ? new URL(ogImageUrl, Astro.url.origin).href
   : undefined;
 const heroImage =
-  typeof ogImageUrl === "string"
-    ? ogImageUrl.replace(
-        "https://noeye69.com/wp-content/uploads/",
-        "/images/wp/"
-      )
+  typeof initOgImage === "string"
+    ? initOgImage.startsWith("/images/")
+      ? initOgImage
+      : initOgImage.replace(
+          "https://noeye69.com/wp-content/uploads/",
+          "/images/wp/"
+        )
     : undefined;
 ---
 

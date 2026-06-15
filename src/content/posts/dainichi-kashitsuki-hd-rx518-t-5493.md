@@ -9,7 +9,7 @@ tags:
   - "家電"
   - "生活改善"
 description: "今年も例に漏れずインフルエンザが流行ってますね。僕は結構筋肉質なのに予防注射をしてもインフルエンザになってしまう体質なんですよね。対策が必要です。 もともと使ってた加湿器は10年くらい前の型でカルキが詰まって壊れてしまったし、引っ越して部屋"
-ogImage: "/images/wp/2020/01/DSCF4851-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4851.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/dainichi-kashitsuki-hd-rx518-t-5493.html -->

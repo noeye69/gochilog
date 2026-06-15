@@ -9,7 +9,7 @@ tags:
   - "ゆるく語る"
   - "生活改善"
 description: "大体の買い物の支払いを電子マネーで行うようになってから、ATMに行く頻度は月1あるかないかくらいになりました。 イオンカードのメリットがあまりない 人によってクレジットカードの枚数はいろいろだと思うのですが、僕は3枚使ってました。 イオンカ"
-ogImage: "/images/wp/2019/04/IMG-4888.jpg"
+ogImage: "/images/wp/2019/04/IMG_4889.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/creditcard-887.html -->

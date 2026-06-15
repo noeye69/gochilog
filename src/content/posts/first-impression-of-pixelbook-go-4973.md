@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "生活改善"
 description: "11月末にアメリカからPixelbook goを輸入しました。半月ほど使ってみての使用感や、合わせて揃えたものなどをまとめました。 Pixelbook goについて、動画にしてみました。 使用用途 仕事とプライベート用を兼ねています。 当初"
-ogImage: "/images/wp/2019/12/IMG_20191210_085240-1024x768.jpg"
+ogImage: "/images/wp/2019/12/DSCF4744-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/first-impression-of-pixelbook-go-4973.html -->

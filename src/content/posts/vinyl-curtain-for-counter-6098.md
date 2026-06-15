@@ -8,7 +8,7 @@ draft: false
 tags:
   - "仕事"
 description: "岡山でもスーパーやコンビニのレジでよく見かけるビニールカーテンを会社にも導入しました。 普段お客さんが来た時にお金や伝票の受け渡しを行っているカウンターがあるんですが、そこが一番外部の方が来るからそこをシャットアウトせねばと。 ビニールカー"
-ogImage: "/images/wp/2020/04/o1080189914742949019-582x1024.jpg"
+ogImage: "/images/wp/2020/04/IMG_20200427_193532-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/vinyl-curtain-for-counter-6098.html -->

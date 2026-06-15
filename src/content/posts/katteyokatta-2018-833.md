@@ -15,7 +15,7 @@ tags:
   - "料理"
   - "生活改善"
 description: "2019年版はこちら。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/12/12/katteyokatta-2019-2/] 観音クリエイション さんという方のブログをよく見ている"
-ogImage: "/images/wp/2018/12/qb_minami.jpg"
+ogImage: "/images/wp/2018/12/657aac12-20bb-4585-b2b4-1f139517c192.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/katteyokatta-2018-833.html -->

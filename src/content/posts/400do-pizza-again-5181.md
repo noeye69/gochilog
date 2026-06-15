@@ -10,7 +10,7 @@ tags:
   - "ブログ"
   - "岡山"
 description: "今日またこの400℃ pizza伺ったんですが、この記事読んで頂けてて感動した、、、ブログ書いててよかった pic.twitter.com/SEXrKerLUY — 黒本晋吾 (@noeye69) December 24, 2019 1tw"
-ogImage: "/images/wp/2019/12/00100trPORTRAIT_00100_BURST20191224190601812_COVER-1024x768.jpg"
+ogImage: "/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191224190707423_COVER-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/400do-pizza-again-5181.html -->

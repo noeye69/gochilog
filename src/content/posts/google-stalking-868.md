@@ -9,7 +9,7 @@ tags:
   - "ゆるく語る"
   - "仕事"
 description: "Googleに。 最近Googleを褒めちぎってますが、ここまでくると怖いなと思わざるを得ない。今日はそんなお話です。 GPSロガーの設置の検討を迫られた 事の発端は、とある企業さんとの打ち合わせで「当然、不法投棄などしてないと思っています"
-ogImage: "/images/wp/2019/03/IMG-4269.jpg"
+ogImage: "/images/wp/2019/03/IMG-4272.png"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-stalking-868.html -->

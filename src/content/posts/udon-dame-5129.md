@@ -10,7 +10,7 @@ tags:
   - "生活改善"
   - "買って後悔したもの"
 description: "年始にAnkerのsoundcore Liberty Airを購入して、「以前使ってたpasonomiのbluetoothイヤホンより音良くなってウェイ！」みたいな記事を書きました。 [sitecard subtitle=関連記事 url="
-ogImage: "/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191217233300323_COVER-1-1024x768.jpg"
+ogImage: "/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191217233300323_COVER-1-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/udon-dame-5129.html -->

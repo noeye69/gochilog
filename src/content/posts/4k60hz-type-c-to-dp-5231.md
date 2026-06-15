@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "4kディスプレイを導入して、「よっしゃ4kを堪能するぞ！」と思っていたら、思ったよりマウスがカクカクしてぴえん😂、という経験はないでしょうか？ 実際に僕も昨年末にDellの4kディスプレイU2718QMを購入して、アメリカからpixelbo"
-ogImage: "/images/wp/2020/01/DSCF4788-1024x578.jpg"
+ogImage: "/images/wp/2020/01/DSCF4793.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/4k60hz-type-c-to-dp-5231.html -->

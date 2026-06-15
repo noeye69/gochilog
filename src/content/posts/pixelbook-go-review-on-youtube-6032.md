@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "冒頭でも言っていますが、Twitterで「黒本さんの記事見てPixelbook go超絶欲しくなりました」と言っていただいたので、なら動画にもしてみようということで撮ってみました。 [sitecard subtitle=関連記事 url=h"
-ogImage: "/images/wp/2020/01/DSCF4957-1024x578.jpg"
+ogImage: "/images/wp/2020/04/4c85c234076325c638e2c305400f29d6-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/pixelbook-go-review-on-youtube-6032.html -->

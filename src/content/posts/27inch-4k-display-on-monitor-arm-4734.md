@@ -10,7 +10,7 @@ tags:
   - "ガジェット"
   - "生活改善"
 description: "使用5か月後のレビューを動画でやってみました。 先日、会社の会議室にディスプレイを取り付けたと報告しました。 [sitecard subtitle=関連記事 url=https://noeye69.com/2019/11/15/displa"
-ogImage: "/images/wp/2019/11/IMG_20191121_192705-1024x768.jpg"
+ogImage: "/images/wp/2019/11/IMG_20191121_192705-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/27inch-4k-display-on-monitor-arm-4734.html -->

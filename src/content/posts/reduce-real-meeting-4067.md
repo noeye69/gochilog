@@ -11,7 +11,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "ここで言う「リアル会議」とは、「直接会う会議」のことです。リアル会議の対義語は「直接会うことなく画面を見ながら行う」バーチャル会議とします。 社内のリアル会議ならまだしも、社外の人とリアル会議するのは色々と骨が折れます。 なぜなら会社が違う"
-ogImage: "/images/wp/2019/10/39051b29fdfa10712ac767fc565ed5ac.jpg"
+ogImage: "/images/wp/2019/10/0_ce3e498.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/reduce-real-meeting-4067.html -->

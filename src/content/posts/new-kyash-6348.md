@@ -8,7 +8,7 @@ draft: false
 tags:
   - "生活改善"
 description: "一昨年、去年とキャッシュレス化を進めていたわけですが、とりわけkyashが 紐づけるクレカのポイント+kyashのポイントの ポイント2重取り ができてお得 普通のVISAカード だからほとんどのお店で使えて便利 ということで楽天やAmaz"
-ogImage: "/images/wp/2019/08/R0006600-1024x683.jpg"
+ogImage: "/images/wp/2020/06/4c85c234076325c638e2c305400f29d6-scaled.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/new-kyash-6348.html -->

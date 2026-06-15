@@ -8,7 +8,7 @@ draft: false
 tags:
   - "ゆるく語る"
 description: "食べログでレビュー書いたところでなんのメリットもありませんが、Googleならローカルガイドサミット参加の可能性もありますしね https://t.co/itk7gqKsjD ? 黒本晋吾 (@noeye69) 2019年5月15日 ドヤ顔"
-ogImage: "/images/wp/2019/05/IMG-5760.png"
+ogImage: "/images/wp/2019/05/ro-karugaido.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/google-local-guide-911.html -->

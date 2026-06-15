@@ -9,7 +9,7 @@ tags:
   - "仕事"
   - "業務効率化"
 description: "ハンコ業界の利権のためにデジタル化を拒む日本の印章制度・文化を守る議員連盟の議員って誰よ https://t.co/gt6tFdGXuI @Isseki3 さんから ? 田端信太郎 ＠田端大学塾長である！ (@tabbata) 2019年3"
-ogImage: "/images/wp/2019/03/F90A1051-3538-4CA3-95F2-AEC5A18662D3.jpg"
+ogImage: "/images/wp/2019/03/C2CACADE-339C-4002-A56B-4E13FB75DA4D.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/throw-away-stamp-869.html -->

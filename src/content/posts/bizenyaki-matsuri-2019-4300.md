@@ -8,7 +8,7 @@ draft: false
 tags:
   - "イベントレポート"
 description: "最近お皿にハマっています。岡山県民の代表として、備前焼まつりに行ってきました。 備前焼 is 何 [blogcard url=https://bizenyakija.com/bizenyakiFeature.html] だいたいここに書いて"
-ogImage: "/images/wp/2019/10/dfd7dccefa34aec1bfdf2a8ec5fd3c93-1024x427.jpg"
+ogImage: "/images/wp/2019/10/E47208B8-A67C-4AC4-9244-40F104F6DFB9-2221-000001F1C33A89B4.jpg"
 ---
 
 <!-- Migrated from WordPress: https://noeye69.com/bizenyaki-matsuri-2019-4300.html -->
