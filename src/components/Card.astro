@@ -10,10 +10,19 @@ type Props = {
 
 const { variant: Heading = "h2", id, data, filePath } = Astro.props;
 
-const { title, description, ...props } = data;
+const { title, description, ogImage, ...props } = data;
 ---
 
 <li class="my-6">
+  {ogImage && (
+    <a href={getPostUrl(id, filePath, Astro.currentLocale)}>
+      <img
+        src={ogImage}
+        alt={title}
+        class="mb-3 aspect-video w-full rounded border border-border object-cover"
+      />
+    </a>
+  )}
   <a
     href={getPostUrl(id, filePath, Astro.currentLocale)}
     class:list={[

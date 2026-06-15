@@ -26,9 +26,9 @@ const t = useTranslations(locale);
 <Layout title={`${t.pages.postsTitle} | ${config.site.title}`}>
   <Header />
 
-  <Breadcrumb />
+  {/* <Breadcrumb /> */}
 
-  <Main pageTitle={t.pages.postsTitle} pageDesc={t.pages.postsDesc}>
+  <Main pageTitle="" class="pt-0">
     <ul>
       {page.data.map(data => <Card {...data} />)}
     </ul>
