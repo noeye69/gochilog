@@ -111,13 +111,15 @@ GPS打刻を採用した最も大きい理由がこれです。
 
 これ、ほんとやめていただきたいんですが、たまーに通信障害が起こって打刻できないことがあるみたいです。うちではまだ「打刻できないんですけど！」という苦情はないですが。
 
-> ジョブカン死んでて退勤できない顔
->
-> — まにまに (@mani\_ma) [May 22, 2019](https://twitter.com/mani_ma/status/1131140558586404864?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/mani_ma/status/1131140558586404864"></a>
+</blockquote>
 
-> ジョブカンが落ちてて退勤できない時の顔をしている
->
-> — ろみひー (@elsewhere2424) [May 22, 2019](https://twitter.com/elsewhere2424/status/1131141739270402048?ref_src=twsrc%5Etfw)
+
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/elsewhere2424/status/1131141739270402048"></a>
+</blockquote>
+
 
 今のところは打刻できない場合は、事務所に顔を出してるわけだし事務員に申し出ればいいと思ってます。もともとの目的はスマホで打刻するためではなく、日々の事務作業を減らすためだし。データが書き換わるわけでもないし。
 

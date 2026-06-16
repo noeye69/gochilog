@@ -13,9 +13,10 @@ ogImage: "/images/wp/2019/02/F218008B-4F1D-438E-9B08-C715DCFDA717.jpg"
 
 <!-- Migrated from WordPress: https://noeye69.com/soul-food-jhs-mod-859.html -->
 
-> これをポチろうかポチるまいか悩んでいます [pic.twitter.com/z4tJwfFPDs](https://t.co/z4tJwfFPDs)
->
-> ? 黒本晋吾 (@noeye69) [2019年2月20日](https://twitter.com/noeye69/status/1098058049200152576?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1098058049200152576"></a>
+</blockquote>
+
 
 結局ポチりました。Ibanez TS-808 WEED mod.。オーバードライブです。
 

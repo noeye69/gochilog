@@ -42,9 +42,10 @@ ogImage: "/images/wp/2019/03/R0002426.jpg"
 バル的な。
 適当に歩きながら撮るだけでもめちゃくちゃ楽しい。
 んでから、練習してゆうき3ちでダラダラ。
-> ゆうき3ちでいいおばさんが集まって泣きまくってるドラマ見てる [pic.twitter.com/D0NTA7kfpR](https://t.co/D0NTA7kfpR)
->
-> — 黒本晋吾 (@noeye69) [2019年3月23日](https://twitter.com/noeye69/status/1109483400518356992?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1109483400518356992"></a>
+</blockquote>
+
 
 翌日は昼から個人練習して、ちょろっと飲みに行ってライブ開始だ！チャンプさん企画！
 
@@ -76,10 +77,10 @@ ogImage: "/images/wp/2019/03/R0002426.jpg"
 [![](/images/wp/2019/03/R0002426.jpg)](/images/wp/2019/03/R0002426.jpg)
 この日のMVP、TV schoolです。ツボ！
 ライブ始まるまでお互いよそよそしい感じなんだけど、「いい！」って思った後の僕の絡み方よ。ライブ前のツンケンな態度はどこに行ったんだと毎回思う。
-> 初めてGR3で動画撮ったんだけどヌルヌルすぎるだろw
->
-> TV schoolかっこよかったなぁ[#GR3](https://twitter.com/hashtag/GR3?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/eUuvdMjemW](https://t.co/eUuvdMjemW)
-> — 黒本晋吾 (@noeye69) [2019年3月24日](https://twitter.com/noeye69/status/1109843672378400768?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1109843672378400768"></a>
+</blockquote>
+
 
 初めてGR3で動画撮影してみましたが、高画質過ぎてワロタ。音もいいし。実はミニ三脚も持ってるので、今度から自分らのライブでも活用してみよう。
 
@@ -94,9 +95,10 @@ ogImage: "/images/wp/2019/03/R0002426.jpg"
 サッと帰る予定でしたが、あまりにも楽しかったので下の打ち上げに参加しました。
 [![](/images/wp/2019/03/R0002500.jpg)](/images/wp/2019/03/R0002500.jpg)
 チャンプさん誘ってくれてありがとうございました！みんな顔が死にかけています。
-> 記憶がなくなりました [pic.twitter.com/KIWLkbxtom](https://t.co/KIWLkbxtom)
->
-> — 黒本晋吾 (@noeye69) [2019年3月24日](https://twitter.com/noeye69/status/1109840260832215040?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1109840260832215040"></a>
+</blockquote>
+
 
 マジでよく帰れたなというレベルで何も覚えてなくて、気付いたら家にいました。ヨコタくんはどこに行ったんだ？
 とにかく楽しかった！そしてGR3楽しい！

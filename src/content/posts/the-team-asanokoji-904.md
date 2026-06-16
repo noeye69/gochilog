@@ -14,9 +14,10 @@ ogImage: "/images/wp/2019/05/IMG_5178.jpg"
 
 <!-- Migrated from WordPress: https://noeye69.com/the-team-asanokoji-904.html -->
 
-> 京都行く前に大阪寄ろうかな <https://t.co/kIqWFq4y9R>
->
-> ? 黒本晋吾 (@noeye69) [2019年4月28日](https://twitter.com/noeye69/status/1122297912631803904?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1122297912631803904"></a>
+</blockquote>
+
 
 こないだの大阪でのライブのために関西に行く朝に、THE TEAMの著者である麻野耕司さんが書店巡業をされるということを知り、「会ってみたいな」と思いました。
 
@@ -28,37 +29,42 @@ ogImage: "/images/wp/2019/05/IMG_5178.jpg"
 
 ということで、急いできずなに汁なしを食べに行って、新幹線に飛び乗りました。
 
-> 野菜をチェイサーに食う方法を編み出した。この終わりの汁を持ち帰ってご飯を沈めたい。何はともあれGW最高の滑り出しだ [pic.twitter.com/IwoyWBwBGp](https://t.co/IwoyWBwBGp)
->
-> ? 黒本晋吾 (@noeye69) [2019年4月28日](https://twitter.com/noeye69/status/1122340876158742529?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1122340876158742529"></a>
+</blockquote>
 
-> ひとまず大阪へ [pic.twitter.com/x3f3dAwPqG](https://t.co/x3f3dAwPqG)
->
-> ? 黒本晋吾 (@noeye69) [2019年4月28日](https://twitter.com/noeye69/status/1122379844791128065?ref_src=twsrc%5Etfw)
+
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1122379844791128065"></a>
+</blockquote>
+
 
 **大阪到着**
 
 ---
 
-> 梅田 [pic.twitter.com/yEwKXXVqCU](https://t.co/yEwKXXVqCU)
->
-> ? 黒本晋吾 (@noeye69) [2019年4月28日](https://twitter.com/noeye69/status/1122402367066927105?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1122402367066927105"></a>
+</blockquote>
+
 
 16時くらいに梅田に到着しました。
 
 しかし、トップの麻野さんのツイートを見て、書店に番号振ってるけどどういう順番で廻るのか、いつから廻り始めるのか、全くもって謎だったのでとりあえずグランフロントの紀伊國屋へ。
 
-> グランフロントの紀伊国屋来た [#THETEAM書店めぐり](https://twitter.com/hashtag/THETEAM%E6%9B%B8%E5%BA%97%E3%82%81%E3%81%90%E3%82%8A?src=hash&ref_src=twsrc%5Etfw) [#宇垣美里](https://twitter.com/hashtag/%E5%AE%87%E5%9E%A3%E7%BE%8E%E9%87%8C?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/keSAgAkpRz](https://t.co/keSAgAkpRz)
->
-> ? 黒本晋吾 (@noeye69) [2019年4月28日](https://twitter.com/noeye69/status/1122396554831126529?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1122396554831126529"></a>
+</blockquote>
+
 
 宇垣美里は全く関係ないですが。笑
 
 Twitter見ててもまだ梅田に到着されてないようだったので、とりあえず喫茶店でブログ書きながら待ってました。横で女子3人が芸能人誰が可愛いと思うか議論をキャッキャ繰り広げててあまり集中できませんでしたが。
 
-> 今うまいこと毎日更新のゾーンに入れてるので、どこでも書くぞ [pic.twitter.com/5scSGSK4il](https://t.co/5scSGSK4il)
->
-> ? 黒本晋吾 (@noeye69) [2019年4月28日](https://twitter.com/noeye69/status/1122403748003758081?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1122403748003758081"></a>
+</blockquote>
+
 
 しばらくして、どうやら番号順に巡ってないことに気付きました。京都でのバンド練習もあるし、「決め打ちで待ち伏せや！」と思って阪急梅田の紀伊國屋へ移動。
 

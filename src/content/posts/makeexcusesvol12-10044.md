@@ -81,15 +81,13 @@ ogImage: "/images/wp/2025/11/20251108_145835-scaled.jpg"
 練習で入ったスタジオで、新曲Threeをちょい出しする感じで、30秒～1分程度の動画を2本作成してみました。
  
 自分で編集すれば外注費0円なので、やらないよりはやったほうがいいのかなと。1本目に関してはえらい跳ねてXで2万インプくらいついたので、調子に乗って2本目を出したところ、Xではあまり伸びず笑
-> 僕がバンドをする最も大きなモチベーションである自主企画を11/8(土)に難波ベアーズで開催します！Excuse To Travel自主企画"Make Excuses vol.12"！
->
-> そして勢いでティーザーを作りました！見てくださいそして来てくださいー！<https://t.co/nykYWQcaiJ>
-> — 黒本晋吾 (@noeye69\_) [June 26, 2025](https://twitter.com/noeye69_/status/1938204102946918763?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69_/status/1938204102946918763"></a>
+</blockquote>
 
-> 11/8(土)のエクトラ企画 at 難波ベアーズのティーザー第二弾！新曲"Three"の一部をスタジオとこれまでのライブ映像を混ぜて作ってみました。ライブをより楽しんでもらえますように！
->
-> 引き続き取り置きもお待ちしております！DMやリプでも◎<https://t.co/KLISuPbv60>
-> — 黒本晋吾 (@noeye69\_) [October 27, 2025](https://twitter.com/noeye69_/status/1982779319349883339?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69_/status/1982779319349883339"></a>
+</blockquote>
 
 ## リハまで
 
@@ -132,19 +130,19 @@ ogImage: "/images/wp/2025/11/20251108_145835-scaled.jpg"
 それにしてもここまで3バンド色が違いすぎますが、これだよ、これがやりたかったんだよ。
  
 ということで我々。よくぞ飲まずに耐えました。MCでも言いましたが、このために1年2ヶ月準備してきたのです。飲むわけにはいかないのです。
-> 6年ぶりのエクトラ… <https://t.co/GBOrsUA2DI> [pic.twitter.com/OeAiBvatFJ](https://t.co/OeAiBvatFJ)
->
-> — ﾔﾏﾓﾄ ﾔｽﾀｶ🍵smallmallhall (@ystk\_199S) [November 8, 2025](https://twitter.com/ystk_199S/status/1987297235659534503?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/ystk_199S/status/1987297235659534503"></a>
+</blockquote>
 
-> Excuse To Travel、シブさマシマシで最高だった！ [pic.twitter.com/ygSzOk8Y2E](https://t.co/ygSzOk8Y2E)
->
-> — 長坂 亮平 (@ryohei0817) [November 8, 2025](https://twitter.com/ryohei0817/status/1987282324342645246?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/ryohei0817/status/1987282324342645246"></a>
+</blockquote>
 
-> Excuse To Travelステージとフロアの熱が高まり過ぎてマグマみたいなライブやった、 [pic.twitter.com/BohZKYzvnE](https://t.co/BohZKYzvnE)
->
-> — 駄目ヅマリ (@damezumari) [November 9, 2025](https://twitter.com/damezumari/status/1987424241692901487?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/damezumari/status/1987424241692901487"></a>
+</blockquote>
+</blockquote>
 
- 
 ステージから見ててもビビるくらい盛り上がってて笑ってしまいましたが、ありがたし。
 
 ## 終わって

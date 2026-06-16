@@ -15,9 +15,10 @@ ogImage: "/images/wp/2019/12/00100lrPORTRAIT_00100_BURST20191224190707423_COVER-
 
 <!-- Migrated from WordPress: https://noeye69.com/400do-pizza-again-5181.html -->
 
-> 今日またこの400℃ pizza伺ったんですが、この記事読んで頂けてて感動した、、、ブログ書いててよかった [pic.twitter.com/SEXrKerLUY](https://t.co/SEXrKerLUY)
->
-> — 黒本晋吾 (@noeye69) [December 24, 2019](https://twitter.com/noeye69/status/1209436181517066241?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1209436181517066241"></a>
+</blockquote>
+
 
 1tweetで済ませるにはもったいないので記事にします。
 

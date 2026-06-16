@@ -15,9 +15,10 @@ ogImage: "/images/wp/2019/05/B3452919-5744-4DD9-B949-C823FD2BEFE1.jpg"
 <!-- Migrated from WordPress: https://noeye69.com/my-new-bicycle-907.html -->
 
 先日チャリをゲットしました。彼女からタダで。
-> チャリゲット！！！ [pic.twitter.com/eFTKrDt7Oh](https://t.co/eFTKrDt7Oh)
->
-> ? 黒本晋吾 (@noeye69) [2019年4月13日](https://twitter.com/noeye69/status/1116894206234992640?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1116894206234992640"></a>
+</blockquote>
+
 
 10年以上乗っていたGIANTのマウンテンバイクのサスペンションが錆びて動かなくなってしまって、「またイチからチャリ選ぶのめんどいな～」と思ってたところ、彼女が「買ったけど飽きて乗ってないし、いらない」と言われたので、「いる！」と挙手しました。
 

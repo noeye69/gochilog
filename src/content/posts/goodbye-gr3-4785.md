@@ -114,9 +114,10 @@ GR3のハイコントラスト白黒の優先順位はそんなに高くあり�
 
 Pixel 4はスマホなので、ズームができます。MAXで８倍ズーム。画質的に使えるのは６倍くらいまででしょうか。
 
-> divaすぎる[#iri](https://twitter.com/hashtag/iri?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/P1qDkntnN0](https://t.co/P1qDkntnN0)
->
-> — 黒本晋吾 (@noeye69) [November 17, 2019](https://twitter.com/noeye69/status/1196047691236593675?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1196047691236593675"></a>
+</blockquote>
+
 
 これは動画ですが全然きれいだと思います。少なくとも以前所有していたiPhone Xよりかは。
 

@@ -77,17 +77,19 @@ kyashには
 
 バーチャルカードの登録が終わったら、リアルカードを申し込みます。そうすると忘れた頃にポストに投函されています。僕の場合は8/5に申し込んでちょうど2週間で届きました。
 
-> kyashのリアルカードが届いた。楽天カードでチャージして実質3%のポイントをゲット [pic.twitter.com/MVVqoQXiGx](https://t.co/MVVqoQXiGx)
->
-> ? 黒本晋吾 (@noeye69) [August 19, 2019](https://twitter.com/noeye69/status/1163432150919593984?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1163432150919593984"></a>
+</blockquote>
+
 
 リアルカードはカードに「VISA」のマークがある通り、VISAカードが使えるお店で普通に使えます。結構見た目がおもちゃっぽいし、名前のところに「KYASH MEMBER」って本人の名前が書いてないから「VISAですか？」ってたまに確認されるけど、VISAです。今の所地元のスーパーでもコンビニでも普通に使えています。
 
 バーチャルカードでもそうですが、結構驚いたのは使ってすぐ通知が来ること。
 
-> 連動はや? [pic.twitter.com/yA2Ft1bdOk](https://t.co/yA2Ft1bdOk)
->
-> ? 黒本晋吾 (@noeye69) [August 20, 2019](https://twitter.com/noeye69/status/1163655292199899136?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1163655292199899136"></a>
+</blockquote>
+
 
 リアルカード通して1秒位で通知が来ます。安心。
 

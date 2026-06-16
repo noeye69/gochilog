@@ -14,9 +14,10 @@ ogImage: "/images/wp/2019/03/C2CACADE-339C-4002-A56B-4E13FB75DA4D.jpg"
 
 <!-- Migrated from WordPress: https://noeye69.com/throw-away-stamp-869.html -->
 
-> ハンコ業界の利権のためにデジタル化を拒む日本の印章制度・文化を守る議員連盟の議員って誰よ <https://t.co/gt6tFdGXuI> [@Isseki3](https://twitter.com/Isseki3?ref_src=twsrc%5Etfw)さんから
->
-> ? 田端信太郎 ＠田端大学塾長である！ (@tabbata) [2019年3月12日](https://twitter.com/tabbata/status/1105320636186935296?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/tabbata/status/1105320636186935296"></a>
+</blockquote>
+
 
 アンチ印鑑代表(？)の田端さん。
 
@@ -24,9 +25,10 @@ ogImage: "/images/wp/2019/03/C2CACADE-339C-4002-A56B-4E13FB75DA4D.jpg"
 
 ### 使いたい印鑑
 
-> 今佐川から荷物を受け取ったんだけど、サインがスマホ画面でできるようになってた
->
-> ? 黒本晋吾 (@noeye69) [2019年3月7日](https://twitter.com/noeye69/status/1103605107554316290?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1103605107554316290"></a>
+</blockquote>
+
 
 佐川のコレ、**正直めんどくさいなと思いました。**
 

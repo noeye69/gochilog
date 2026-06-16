@@ -201,9 +201,10 @@ CPUクーラーのファンから出てる線は、マザーボードの「CPU�
 
 ヨシダさんの作った5万円代自作PCが1,491cbなので、倍くらいの性能なのでしょうか？まあ単純に倍くらいのお金かけましたからね。
 
-> New 16' MacBook Pro cinebench results [@MKBHD](https://twitter.com/MKBHD?ref_src=twsrc%5Etfw) [pic.twitter.com/xmOpY5H44r](https://t.co/xmOpY5H44r)
->
-> — Seth Rosenthal (@rosenthaldiesel) [November 22, 2019](https://twitter.com/rosenthaldiesel/status/1197974730273411072?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/rosenthaldiesel/status/1197974730273411072"></a>
+</blockquote>
+
 
 twitterで調べたところ、**新型macbook pro 16インチ core i9の3,436cbよりは少し低いくらい。**まあまあすごいのでは。
 

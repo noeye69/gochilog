@@ -37,9 +37,10 @@ wikiの引用ですが、
 
 ## 行った
 
-> 備前焼まつり来た [pic.twitter.com/179aShFKsj](https://t.co/179aShFKsj)
->
-> — 黒本晋吾 (@noeye69) [October 20, 2019](https://twitter.com/noeye69/status/1185767250319405056?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1185767250319405056"></a>
+</blockquote>
+
 
 ![](/images/wp/2019/10/4dd772b04bc177a970022f867f81b8b1.jpg)
 めっちゃ雑に書くとこんな感じのフィールドになってます。

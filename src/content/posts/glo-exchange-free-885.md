@@ -46,9 +46,10 @@ ogImage: "/images/wp/2019/04/547806C3-98BA-4168-AFBF-1720F6543161.jpg"
 
 ### **新品ゲット**
 
-> 復活！ [pic.twitter.com/RjYtiNYUIK](https://t.co/RjYtiNYUIK)
->
-> ? 黒本晋吾 (@noeye69) [2019年4月10日](https://twitter.com/noeye69/status/1115927003343937536?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1115927003343937536"></a>
+</blockquote>
+
 
 ということで、新品になって戻ってきました。発送も早くて、電話した次の日に受け取れました。すごい。
 

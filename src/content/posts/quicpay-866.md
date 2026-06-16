@@ -22,10 +22,10 @@ iDとedy、タイトルの通り**めちゃくちゃ聞き間違えられるん�
 
 こっちとしては現金を財布から出す手間を省きたいから電子マネー使ってるのに、こないだ2回連続で間違えられて逆に手間がかかってるのマジで意味わからん！！！となったので、QUICPAY使うことにしました。
 
-> それがめんどくさいからクイックペイにした
-> という友人がいる
->
-> ? だいもんじしゅん (@oxo360) [2019年3月8日](https://twitter.com/oxo360/status/1103900757294641157?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/oxo360/status/1103900757294641157"></a>
+</blockquote>
+
 
 ### QUICPAYに登録だ！
 

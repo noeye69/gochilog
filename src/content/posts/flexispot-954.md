@@ -62,9 +62,10 @@ FLEXISPOTは
 [![](/images/wp/2019/09/IMG_0135.jpg)](/images/wp/2019/09/IMG_0135.jpg)
 天板以外を出して組み立てます。マッジッで重い。女性だと一人で組み立てるのは大変かもしれません。
 あと、天板と電動部分は10数カ所ネジで固定するのですが、インパクトドライバーがあれば楽です。手だと握力が失われるでしょう。
-> 腰痛に抗う [pic.twitter.com/fwC2ercuOV](https://t.co/fwC2ercuOV)
->
-> — 黒本晋吾 (@noeye69) [September 5, 2019](https://twitter.com/noeye69/status/1169569338740760576?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1169569338740760576"></a>
+</blockquote>
+
 
 ダラダラやって1時間弱で完成。
 

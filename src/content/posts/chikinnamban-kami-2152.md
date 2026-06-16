@@ -13,9 +13,10 @@ ogImage: "/images/wp/2019/09/R0006793.jpg"
 
 <!-- Migrated from WordPress: https://noeye69.com/chikinnamban-kami-2152.html -->
 
-> ウチは子供3人いて、3週間くらい妻が海外に行ってたけど、俺の1日の家事時間、掃除、洗濯、食事・子供のお弁当の用意（3分で済む）など全部で1時間ぐらいだったけどｗ。12歳未満の子供の要る女性の家事が平日1日8時間って何やってるの？素朴に疑問。キャラ弁でも作ってるの？<https://t.co/YR7hLdPjBJ> <https://t.co/driJqC6CLu>
->
-> — 田端信太郎 ＠田端大学塾長である！ (@tabbata) [September 13, 2019](https://twitter.com/tabbata/status/1172640070722940931?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/tabbata/status/1172640070722940931"></a>
+</blockquote>
+
 
 ZOZO田端さんが人として好きなんですけど、上の発言でまた炎上してましたね。笑
 Twitterって文字数制限あるせいで前後の文脈が無視されて1つのツイートだけが目立ってしまう傾向にあると思うんですが、これは
@@ -23,9 +24,10 @@ Twitterって文字数制限あるせいで前後の文脈が無視されて1つ
 - 大変大変って言う前に時短できるところはしていこう、もっと手間省けるはず
 
 という文脈でのツイートでした。
-> 連休につき珍しく料理しておる。コンロ三口を同時稼働。気分はDJやで。 [pic.twitter.com/UTnBOAObzH](http://t.co/UTnBOAObzH)
->
-> — 田端信太郎 ＠田端大学塾長である！ (@tabbata) [May 5, 2015](https://twitter.com/tabbata/status/595526659140268032?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/tabbata/status/595526659140268032"></a>
+</blockquote>
+
 
 これめっちゃワロたw時短にはサトウのごはんレンチンがオススメ！とか言ってるのに、しっかりHARIOの土鍋でご飯炊いとるw田端さん自身も料理はお好きなようで。
 僕もレトルトのカレーを食べる日もあれば「よし、今日は料理しよう」という日もありまして、今回は後者、料理しようの日です。チキン南蛮いくぞ！

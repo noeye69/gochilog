@@ -34,9 +34,10 @@ TS-808は40代の堺雅人か。
 
 ### TS-808 WEED mod.が来た
 
-> きた [pic.twitter.com/xOkrO4Cl18](https://t.co/xOkrO4Cl18)
->
-> — 黒本晋吾 (@noeye69) [2019年3月30日](https://twitter.com/noeye69/status/1111909588725456896?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1111909588725456896"></a>
+</blockquote>
+
 
 [![](/images/wp/2019/03/201903311627108a0.jpeg)](/images/wp/2019/03/201903311627108a0.jpeg)
 外観はこんな感じ。TS-9より色は薄く、エメラルドグリーン色で、キャラメルスイッチなのがまたかわいい。キャラメルスイッチが踏みにくいとか言われてますが、基本踏みっぱなしなので問題ないです。

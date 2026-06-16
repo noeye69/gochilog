@@ -32,9 +32,10 @@ ogImage: "/images/wp/2019/06/DSCF1198.jpg"
 
 「350mlの良さげなビールひと缶お願いします」で買ってきてもらったビール。うまい。なんかやたら缶凹んでるな。
 
-> 革命涼しい [pic.twitter.com/Fm3Tp8SQMg](https://t.co/Fm3Tp8SQMg)
->
-> ? 黒本晋吾 (@noeye69) [2019年6月22日](https://twitter.com/noeye69/status/1142321366915379200?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1142321366915379200"></a>
+</blockquote>
+
 
 6月の時点ですでにバテているので、モバイル扇風機を持っていきました。どこに置こうかなと思ってたら、返しのスピーカーの上に置くと角度が最適でした。返しのスピーカーは顔に音が来るような角度が付いてるからちょうどいいに決まってる。
 
@@ -82,9 +83,10 @@ TV schoolは曲がめちゃくちゃいいので好きです。ギター2人の�
 
 [![](/images/wp/2019/06/DSCF1198.jpg)](/images/wp/2019/06/DSCF1198.jpg)
 
-> TURNCOATキョウヘイさんの背中がエモすぎる [pic.twitter.com/qZwZGvhhaw](https://t.co/qZwZGvhhaw)
->
-> ? 黒本晋吾 (@noeye69) [2019年6月23日](https://twitter.com/noeye69/status/1142599770537545730?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1142599770537545730"></a>
+</blockquote>
+
 
 背筋の感じなんでしょうか？キョウヘイさんの背中が、この日撮った背中で一番かっこよかったです。画になる背中。
 

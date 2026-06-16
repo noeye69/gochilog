@@ -55,9 +55,10 @@ Pixel 4の購入特典でGoogleストアで使える15,000円くらいのポイ�
  
  
 ヨシダヨシオさんの呼びかけのコロナ解析にもこのPCで参加しています。
-> これはいい。やろ <https://t.co/7uX00bwIDT>
->
-> — 黒本晋吾 (@noeye69) [March 28, 2020](https://twitter.com/noeye69/status/1243844374657556480?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1243844374657556480"></a>
+</blockquote>
+
 
 ## 楽天で買った激安台
 

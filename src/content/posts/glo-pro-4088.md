@@ -18,9 +18,10 @@ glo、大好きです。電子タバコとしてだけではなく、ユーザ�
 ## たまたまglo proの発売の情報を知った
 
 先日たまたまGoogle Chromeで「glo」と打ったら「glo pro」と予測変換されてその存在を知ったのですが、10/3(木)に新型のglo、「glo pro」が発売されると知りました。
-> glo pro...最近は何でもかんでもpro付けるんだな<https://t.co/z9SUVBvWM1>
->
-> — 黒本晋吾 (@noeye69) [September 10, 2019](https://twitter.com/noeye69/status/1171567051271372800?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1171567051271372800"></a>
+</blockquote>
+
 
 で、発売日が近づくに連れてどんどん昂ぶってくるわけですね。「どこで買えばいち早く手に入れられるのか」と。
 
@@ -38,9 +39,10 @@ glo公式HPを見る限り、「主要都市以外の人は公式HPから買う�
 gloの最高なところのひとつに、「**発送が早い**」という点があります。
 今まで何度も保証期間内に故障して無料で交換してもらっていて、「壊れた...」となって交換手続きしたほぼ翌日に新品が届いてたので、「吸いたいけど吸えない期間長いな...」みたいなストレスがないんですよね。
 注文した翌日の今日届きました。
-> glo名人[#glopro](https://twitter.com/hashtag/glopro?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/q4ulnHn7De](https://t.co/q4ulnHn7De)
->
-> — 黒本晋吾 (@noeye69) [October 4, 2019](https://twitter.com/noeye69/status/1180066340524060672?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1180066340524060672"></a>
+</blockquote>
+
 
 最高。
 ちなみに妹に頼んだ時点では黒がいいかなと思ってましたが、黒×ゴールドのラインがイヤらしいなと思ったのでシャンパンカラーを注文しました。

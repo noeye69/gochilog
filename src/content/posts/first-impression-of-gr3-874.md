@@ -26,9 +26,10 @@ GRシリーズが持ついぶし銀の魅力はなんなんでしょうね…。
 
 たまたま今日午後休を取ってて、夕方に営業所で受け取ることができました。
 
-> 来たがな！ [pic.twitter.com/hugIT7LHdQ](https://t.co/hugIT7LHdQ)
->
-> ? 黒本晋吾 (@noeye69) [2019年3月20日](https://twitter.com/noeye69/status/1108239963345182720?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1108239963345182720"></a>
+</blockquote>
+
 
 刃物がなかったから、車の中で家の鍵使って開梱した直後のツイートです。
 
@@ -62,10 +63,10 @@ GRシリーズが持ついぶし銀の魅力はなんなんでしょうね…。
 
 ### 起動時の音がPerfumeっぽい
 
-> かっちょよおおお！！！
->
-> 今日たまたま午後休でよかったw(にんまり[#GR3](https://twitter.com/hashtag/GR3?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WsytJ6f0sE](https://t.co/WsytJ6f0sE)
-> ? 黒本晋吾 (@noeye69) [2019年3月20日](https://twitter.com/noeye69/status/1108276157609201664?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1108276157609201664"></a>
+</blockquote>
+
 
 これ、Perfumeのコンピューターシティ故障ver. とかで鳴りそうな音では？？？最高。
 

@@ -13,9 +13,10 @@ ogImage: "/images/wp/2019/05/ro-karugaido.jpg"
 
 <!-- Migrated from WordPress: https://noeye69.com/google-local-guide-911.html -->
 
-> 食べログでレビュー書いたところでなんのメリットもありませんが、Googleならローカルガイドサミット参加の可能性もありますしね <https://t.co/itk7gqKsjD>
->
-> ? 黒本晋吾 (@noeye69) [2019年5月15日](https://twitter.com/noeye69/status/1128461103455821824?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1128461103455821824"></a>
+</blockquote>
+
 
 ドヤ顔でローカルガイドについて語っていますが、初めは僕も人に教えてもらって知りました。
 

@@ -46,9 +46,10 @@ gloはmicroUSBで充電するんですが、今週頭に買って間もないmin
 壊れたgloを送り返す袋が同梱されていました。これに壊れたgloと保証書を入れて送り返す仕組みです。
 で、結局リッチブラックをAmazonで再度購入。これをメインにして、交換してもらったminiはサブで。もう失くさんぞ…。
 
-> 2台目が早速壊れたので、3台目です笑 [pic.twitter.com/OGjB6t0DVs](https://t.co/OGjB6t0DVs)
->
-> ? 黒本晋吾 (@noeye69) [2019年1月22日](https://twitter.com/noeye69/status/1087726048278654978?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/noeye69/status/1087726048278654978"></a>
+</blockquote>
+
 
 ### まとめ
 
