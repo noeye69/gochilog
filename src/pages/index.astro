@@ -6,22 +6,12 @@ import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import { getSortedPosts } from "@/utils/getSortedPosts";
 import config from "@/config";
-import Pagination from "@/components/Pagination.astro";
 
 const { posts: postsConfig } = config;
 
 const posts = await getCollection("posts");
 const sortedPosts = getSortedPosts(posts);
 const recentPosts = sortedPosts.filter(({ data }) => !data.draft);
-const page = {
-  url: {
-    current: "/",
-    prev: undefined,
-    next: "/posts/2/",
-  },
-  currentPage: 1,
-  lastPage: Math.ceil(recentPosts.length / postsConfig.perIndex),
-};
 ---
 
 <Layout>
